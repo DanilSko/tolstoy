@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>* ПРЕДИСЛОВИЕ К «THE ANATOMY OF MISERY» ДЖОНА КЕНВОРТИ </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name>
+      Евгений Можаев, Мария Картышева, Даниил Скоринкин
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>
+     Проект
+     <title>Толстой.Digital </title>
+     разрабатывается сотрудниками и студентами
+     <orgName>
+      Высшей школы экономики
+     </orgName>
+     в сотрудничестве с
+     <orgName>
+      Государственным музеем Л.Н. Толстого
+     </orgName>
+     . 
+	 Источник текстов –
+     <bibl>
+      90-томное собрание сочинений Л.Н.Толстого
+     </bibl>
+     . Разметка основана на стандарте
+     <ref target="http://www.tei-c.org">TEI (Text Encoding Initiative) </ref>
+     .
+    </p>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">* ПРЕДИСЛОВИЕ К «THE ANATOMY OF MISERY» ДЖОНА КЕНВОРТИ </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 34
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="1956" />
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       34
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml" />
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1900">1900</date>
+    <placeName>
+     Россия
+    </placeName>
+   </creation>
+   <textClass>
+    <catRef target="#публицистика" type="sphere" />
+    <catRef target="#публицистика.статья" type="type" />
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <head>
+   <title>* ПРЕДИСЛОВИЕ К «THE ANATOMY OF MISERY» ДЖОНА КЕНВОРТИ </title>
+  </head>
+  <body>
+   <div>
+    <div rend="section">
+     <head rend="title_level2 center">* ПРЕДИСЛОВИЕ К «THE ANATOMY OF MISERY» ДЖОНА КЕНВОРТИ </head>
+     <p>«Excusez la longueur de cette lettre. Je n’ai pas eu le temps de la faire plus courte», <ref style="type:note" target="../Text/notes.xhtml#n1" xml:id="backn1">
+       [1]
+      </ref>
+      писал Мэстр своему королю.
+     </p>
+     <p>
+      Ничто не требует столь продолжительного труда, как краткость изложения значительного содержания, будет ли то дипломатическое письмо, художественное или ученое сочинение. А между тем в ученом мире, а вследствие того и в обществе установилось мнение, что только толстые томы могут быть авторитетными сочинениями. Обратное этого мнения представляет предлагаемая книжечка, дающая читателю не только более содержания, чем многие и многие томы сочинений, написанных на ту же тему, но и делающая то, чего не делают многотомные политико-экономические сочинения, — излагающая ясно и просто сущность экономических вопросов. Человек, который без предвзятых мыслей и с искренним желанием получить ответы на волнующие в наше время людей вопросы прочтет эту книгу, не только получит эти ответы и ясное понятие о том, что большей части людей кажется запутанным, но почерпнет еще и нравственное руководство и поощрение к добру.
+     </p>
+     <p>
+      Мы все желаем лучшего, чем существующий порядок жизни. Для того, чтобы наступил этот порядок, нам надо самим быть лучше. Это единственное средство, и другого нет.
+     </p>
+     <p>
+      Вот эту-то простую, но всегда забываемую нами истину с полной ясностью и убедительностью доказывает эта книга.
+     </p>
+     <p rend="right">
+      Л. Толстой.
+     </p>
+     <p>
+      1 июн. Яс. П.
+     </p>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

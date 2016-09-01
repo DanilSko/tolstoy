@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     СИДДАРТА, ПРОЗВАННЫЙ БУДДОЙ
+    </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name>
+      Евгений Можаев, Мария Картышева, Даниил Скоринкин
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">
+       СИДДАРТА, ПРОЗВАННЫЙ БУДДОЙ
+      </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 25
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="1936"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       25
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+   <publicationStmt>
+    <p>
+     Проект
+     <title>Толстой.Digital </title>
+     разрабатывается сотрудниками и студентами
+     <orgName>
+      Высшей школы экономики
+     </orgName>
+     в сотрудничестве с
+     <orgName>
+      Государственным музеем Л.Н. Толстого
+     </orgName>
+     . 
+	 Источник текстов –
+     <bibl>
+      90-томное собрание сочинений Л.Н.Толстого
+     </bibl>
+     . Разметка основана на стандарте
+     <ref target="http://www.tei-c.org">TEI (Text Encoding Initiative) </ref>
+     .
+    </p>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1886">
+     1886
+    </date>
+    <rs type=""/>
+   </creation>
+   <textClass>
+    <catRef target="#публицистика" type="sphere"/>
+    <catRef target="#публицистика.статья" type="type"/>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <div rend="section" xml:id="ref65">
+   <head rend="title_level2 center">
+    [ВАРИАНТЫ К СТАТЬЕ «СИДДАРТА, ПРОЗВАННЫЙ БУДДОЙ».]
+   </head>
+   <div rend="section">
+    <head rend="title_level3 left">
+     * № 1.
+    </head>
+    <p rend="left">Царь Судогдана по обычаю <choice><reg>их</reg><orig>ихъ</orig></choice> <choice><reg>имел</reg><orig>имѣлъ</orig></choice> много <choice><reg>жен</reg><orig>женъ</orig></choice> и одну главную жену <choice><reg>из</reg><orig>изъ</orig></choice> своего же рода <choice><reg>Шакиев</reg><orig>Шакіевъ</orig></choice> — красавицу <choice><reg>Маию</reg><orig>Маію</orig></choice>. <choice><reg>От</reg><orig>Отъ</orig></choice> <choice><reg>неё</reg><orig>нея</orig></choice> то и родился ему <choice><reg>наследник</reg><orig>наслѣдникъ</orig></choice> Сидарта. Теперь, <choice><reg>после</reg><orig>послѣ</orig></choice> того <choice><reg>как</reg><orig>какъ</orig></choice> Сидарта <choice><reg>стал</reg><orig>сталъ</orig></choice> <choice><reg>святым</reg><orig>святымъ</orig></choice>, много <choice><reg>рассказывают</reg><orig>разсказываютъ</orig></choice> <choice><reg>чудес</reg><orig>чудесъ</orig></choice> про <choice><reg>зачатие</reg><orig>зачатіе</orig></choice> и <choice><reg>рождение</reg><orig>рожденіе</orig></choice> <choice><reg>этого</reg><orig>этаго</orig></choice> сына; <choice><reg>рассказывают</reg><orig>разсказываютъ</orig></choice>, <choice><reg>как</reg><orig>какъ</orig></choice> сами боги на <choice><reg>небесах</reg><orig>небесахъ</orig></choice> узнали о <choice><reg>зачатии</reg><orig>зачатіи</orig></choice> его и радовались ему, <choice><reg>как</reg><orig>какъ</orig></choice> царица <choice><reg>Маие</reg><orig>Маія</orig></choice> <choice><reg>видела</reg><orig>видѣла</orig></choice> <choice><reg>сон</reg><orig>сонъ</orig></choice>, что <choice><reg>звезда</reg><orig>звѣзда</orig></choice> упала <choice><reg>с</reg><orig>съ</orig></choice> неба и вошла ей <choice><reg>в</reg><orig>въ</orig></choice> правый <choice><reg>бок</reg><orig>бокъ</orig></choice>, и зачала <choice><reg>от</reg><orig>отъ</orig></choice> <choice><reg>этого</reg><orig>этаго</orig></choice>, <choice><reg>как</reg><orig>какъ</orig></choice> на <choice><reg>небесах</reg><orig>небесахъ</orig></choice> <choice><reg>пели</reg><orig>пѣли</orig></choice> невидимые духи хвалу ребенку, <choice><reg>как</reg><orig>какъ</orig></choice> задрожала земля и море взволновалось. <choice><reg>Рассказывают</reg><orig>Разсказываютъ</orig></choice> <choice><reg>потом</reg><orig>потомъ</orig></choice>, что когда пришли роды, то мать ушла одна <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>сад</reg><orig>садъ</orig></choice> и родила <choice><reg>под</reg><orig>подъ</orig></choice> <choice><reg>деревом</reg><orig>деревомъ</orig></choice>, и дерево нагнулось <choice><reg>к</reg><orig>къ</orig></choice> ней, и <choice><reg>как</reg><orig>какъ</orig></choice> родился <choice><reg>ребенком</reg><orig>ребенкомъ</orig></choice> чудной красоты, и духи <choice><reg>приехали</reg><orig>пріѣхали</orig></choice> за <choice><reg>ним</reg><orig>нимъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>колеснице</reg><orig>колесницѣ</orig></choice> и повезли его домой. <choice><reg>Потом</reg><orig>Потомъ</orig></choice> <choice><reg>рассказывают</reg><orig>разсказываютъ</orig></choice>, <choice><reg>как</reg><orig>какъ</orig></choice> царь Судогдана <choice><reg>собрал</reg><orig>собралъ</orig></choice> <choice><reg>волхвов</reg><orig>волхвовъ</orig></choice>, и они нашли <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>ребенке</reg><orig>ребенкѣ</orig></choice> необычайные 32 знака и предсказали, что <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>будет</reg><orig>будетъ</orig></choice> <choice><reg>великим</reg><orig>великимъ</orig></choice> <choice><reg>человеком</reg><orig>человѣкомъ</orig></choice>: либо <choice><reg>великим</reg><orig>великимъ</orig></choice> <choice><reg>завоевателем</reg><orig>завоевателемъ</orig></choice> и <choice><reg>покорит</reg><orig>покоритъ</orig></choice> весь <choice><reg>свет</reg><orig>свѣтъ</orig></choice>, либо <choice><reg>великим</reg><orig>великимъ</orig></choice> <choice><reg>святым</reg><orig>святымъ</orig></choice> и <choice><reg>спасет</reg><orig>спасетъ</orig></choice> <choice><reg>всех</reg><orig>всѣхъ</orig></choice> людей. <choice><reg>Потом</reg><orig>Потомъ</orig></choice> <choice><reg>как</reg><orig>какъ</orig></choice> <choice><reg>пришел</reg><orig>пришелъ</orig></choice> святой <choice><reg>старец</reg><orig>старецъ</orig></choice> Азита (Beal). <choice><reg>Рассказывают</reg><orig>Разсказываютъ</orig></choice>, что <choice><reg>этого</reg><orig>этаго</orig></choice> ребенка <choice><reg>нашел</reg><orig>нашелъ</orig></choice> Азита, поклонился ему и <choice><reg>предсказал</reg><orig>предсказалъ</orig></choice>, что <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>будет</reg><orig>будетъ</orig></choice> <choice><reg>спасителем</reg><orig>спасителемъ</orig></choice>. </p>
+   </div>
+   <div rend="section">
+    <head rend="title_level3 left">
+     * № 2.
+    </head>
+    <p rend="left">&lt;Встала <choice><reg>Маие</reg><orig>Маія</orig></choice>, вышла <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>сад</reg><orig>садъ</orig></choice> и <choice><reg>слышит</reg><orig>слышитъ</orig></choice>: и <choice><reg>ветер</reg><orig>вѣтеръ</orig></choice>, и листья, и вода — все <choice><reg>говорит</reg><orig>говоритъ</orig></choice> одно: <choice><reg>пришел</reg><orig>пришелъ</orig></choice> святой (<choice><reg>везде</reg><orig>вездѣ</orig></choice>, <choice><reg>где</reg><orig>гдѣ</orig></choice> будда — святой), <choice><reg>пришел</reg><orig>пришелъ</orig></choice>. </p>
+    <p rend="left">Пришло время и почувствовала царица муки. Пришли <choice><reg>к</reg><orig>къ</orig></choice> ней женщины ходить зa ней, но царица ушла <choice><reg>из</reg><orig>изъ</orig></choice> дворца и не <choice><reg>велела</reg><orig>велѣла</orig></choice> за собой ходить и вышла <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>сад</reg><orig>садъ</orig></choice>. <choice><reg>В</reg><orig>Въ</orig></choice> саду она зашла <choice><reg>в</reg><orig>въ</orig></choice> глушь <choice><reg>под</reg><orig>подъ</orig></choice> высокое дерево у берега ручья и легла <hi rend="span"><choice><reg>там</reg><orig>тамъ</orig></choice>. </hi>
+     <hi rend="span">
+      659
+     </hi>
+    </p>
+    <p rend="left">
+     <hi rend="span">
+      660
+     </hi>
+     <hi rend="span">
+      И
+     </hi><choice><reg>там</reg><orig>тамъ</orig></choice> родился у ней <choice><reg>сын</reg><orig>сынъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>крутым</reg><orig>крутымъ</orig></choice> <choice><reg>лбом</reg><orig>лбомъ</orig></choice>. Когда пришли женщины, <choice><reg>они</reg><orig>онѣ</orig></choice> увидали, что <choice><reg>лежит</reg><orig>лежитъ</orig></choice> <choice><reg>под</reg><orig>подъ</orig></choice> <choice><reg>деревом</reg><orig>деревомъ</orig></choice> царица и <choice><reg>подле</reg><orig>подлѣ</orig></choice> прекрасный <choice><reg>ребенок</reg><orig>ребенокъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> крутым <choice><reg>лбом</reg><orig>лбомъ</orig></choice> и закрытыми глазами. Женщины подумали, что <choice><reg>ребенок</reg><orig>ребенокъ</orig></choice> мертвый, потому что <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>молчал</reg><orig>молчалъ</orig></choice> и не шевелился; но когда <choice><reg>они</reg><orig>онѣ</orig></choice> подошли <choice><reg>к</reg><orig>къ</orig></choice> нему, <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>открыл</reg><orig>открылъ</orig></choice> <choice><reg>большие</reg><orig>большіе</orig></choice> глаза, <choice><reg>взглянул</reg><orig>взглянулъ</orig></choice> на небо и улыбнулся. Тогда женщины снесли сына и мать во <choice><reg>дворец</reg><orig>дворецъ</orig></choice> и объявили царю.&gt; </p>
+    <lb/>
+   </div>
+  </div>
+ </text>
+</TEI>

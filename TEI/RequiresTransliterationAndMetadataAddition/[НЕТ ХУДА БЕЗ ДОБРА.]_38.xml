@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     [НЕТ ХУДА БЕЗ ДОБРА.]
+    </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name>
+      Евгений Можаев, Мария Картышева, Даниил Скоринкин
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>
+     Проект
+     <title>Толстой.Digital </title>
+     разрабатывается сотрудниками и студентами
+     <orgName>
+      Высшей школы экономики
+     </orgName>
+     в сотрудничестве с
+     <orgName>
+      Государственным музеем Л.Н. Толстого
+     </orgName>
+     . 
+	 Источник текстов –
+     <bibl>
+      90-томное собрание сочинений Л.Н.Толстого
+     </bibl>
+     . Разметка основана на стандарте
+     <ref target="http://www.tei-c.org">TEI (Text Encoding Initiative) </ref>
+     .
+    </p>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">
+       [НЕТ ХУДА БЕЗ ДОБРА.]
+      </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 38
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="NODATE"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       38
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="NODATE">
+    </date>
+    <placeName>
+     Россия
+    </placeName>
+   </creation>
+   <textClass>
+    <catRef target="#NONE" type="sphere"/>
+    <catRef target="#NONENONE" type="type"/>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <head>
+   <title>
+    [НЕТ ХУДА БЕЗ ДОБРА.]
+   </title>
+  </head>
+  <body>
+   <div>
+    <div rend="section">
+     <head rend="center">
+      [НЕТ ХУДА БЕЗ ДОБРА.]
+     </head>
+     <p>
+      Нет худа без добра. Так есть и сторона добрая в тех ужасных преступлениях всех законов, божеских и человеческих, в тех убийствах, которые не переставая и все учащаясь совершаются под названием смертных казней людьми, именуемыми правительством. Добрая сторона в том, что перед каждым человеком прямо и бесповоротно поставлен вопрос: во что он верит: в Бога или хотя совесть человеческую или в государство и во все то, что будет предписано во имя его? Ужасно сказать, большинство того, что называется высшими сословиями, признает обязательным подчинение закона Бога, требований совести «закону» государства и его требованиям. Как ни усиленно и, страшно сказать, успешно идет развращение так называемых низших сословий, на них одна надежда. Нельзя верить, чтобы русский простой, безграмотный, необразованный, т. е. неиспорченный народ променял Бога на государство, Евангелие на свод законов и статьи:
+      <hi rend="em">
+       Не убий
+      </hi>
+      и
+      <hi rend="em">
+       Люби врагов
+      </hi>
+      , на статьи 1, 129, или еще какие таких то отделов. Пора народу опомниться, и народ опоминается.
+     </p>
+     <p rend="right">
+      Лев Толстой.
+     </p>
+     <p rend="petit">
+      Ясная Поляна.
+     </p>
+     <p rend="petit">
+      6 Февраля 1909 г.
+     </p>
+     <p rend="center">
+      ————
+     </p>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

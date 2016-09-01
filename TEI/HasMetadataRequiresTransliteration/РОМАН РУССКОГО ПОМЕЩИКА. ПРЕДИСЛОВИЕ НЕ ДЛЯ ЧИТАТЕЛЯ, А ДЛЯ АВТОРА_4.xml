@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     РОМАН РУССКОГО ПОМЕЩИКА"". ПРЕДИСЛОВИЕ НЕ ДЛЯ ЧИТАТЕЛЯ, А ДЛЯ АВТОРА
+    </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name>
+      Евгений Можаев, Мария Картышева, Даниил Скоринкин
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">
+       РОМАН РУССКОГО ПОМЕЩИКА"". ПРЕДИСЛОВИЕ НЕ ДЛЯ ЧИТАТЕЛЯ, А ДЛЯ АВТОРА
+      </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 4
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       4
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+   <publicationStmt>
+    <p>
+     Проект
+     <title>Толстой.Digital </title>
+     разрабатывается сотрудниками и студентами
+     <orgName>
+      Высшей школы экономики
+     </orgName>
+     в сотрудничестве с
+     <orgName>
+      Государственным музеем Л.Н. Толстого
+     </orgName>
+     . 
+	 Источник текстов –
+     <bibl>
+      90-томное собрание сочинений Л.Н.Толстого
+     </bibl>
+     . Разметка основана на стандарте
+     <ref target="http://www.tei-c.org">TEI (Text Encoding Initiative) </ref>
+     .
+    </p>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1854">
+     1854
+    </date>
+    <rs type="Россия">
+     Россия
+    </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.роман" type="type"/>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <div rend="section" xml:id="h000013002">
+   <head rend="right">
+    <hi rend="em">
+     <hi rend="span" style="text-decoration:underline;">
+      «РОМАН РУССКОГО ПОМЕЩИКА».
+     </hi>
+    </hi>
+   </head>
+  </div>
+  <div rend="section" xml:id="h000013002002">
+   <head rend="center">II. <lb/>
+    ПРЕДИСЛОВІЕ НЕ ДЛЯ ЧИТАТЕЛЯ, А ДЛЯ АВТОРА.
+   </head>
+   <p rend="left">Главное основное чувство, которое <choice><reg>будет</reg><orig>будетъ</orig></choice> руководить меня во <choice><reg>всем</reg><orig>всемъ</orig></choice> <choice><reg>этом</reg><orig>этомъ</orig></choice> романе, — любовь <choice><reg>к</reg><orig>къ</orig></choice> деревенской помещичьей жизни. — Сцены <choice><reg>столичные</reg><orig>столичныя</orig></choice>, <choice><reg>губернские</reg><orig>губернскія</orig></choice> и <choice><reg>кавказские</reg><orig>кавказскія</orig></choice> <choice><reg>все</reg><orig>всѣ</orig></choice> должны быть проникнуты <choice><reg>этим</reg><orig>этимъ</orig></choice> <choice><reg>чувством</reg><orig>чувствомъ</orig></choice> — тоской по этой жизни. Но прелесть деревенской жизни, которую я хочу описать, <choice><reg>состоит</reg><orig>состоитъ</orig></choice> не <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>спокойствии</reg><orig>спокойствіи</orig></choice>, не <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>идилических</reg><orig>идилическихъ</orig></choice> <choice><reg>красотах</reg><orig>красотахъ</orig></choice>, но <choice><reg>в</reg><orig>въ</orig></choice> прямой <choice><reg>цели</reg><orig>цѣли</orig></choice>, которую она <choice><reg>представляет</reg><orig>представляетъ</orig></choice>, — посвятить жизнь свою <hi rend="em">
+     добру
+    </hi>
+    , — и въ простоте,
+    <hi rend="em">
+     ясности
+    </hi>
+    ея.
+   </p>
+   <p rend="left">Главная мысль <choice><reg>сочинения</reg><orig>сочиненія</orig></choice>: <choice><reg>счастье</reg><orig>счастіе</orig></choice> есть <choice><reg>добродетель</reg><orig>добродѣтель</orig></choice>. </p>
+   <p rend="left">Юность <choice><reg>чувствует</reg><orig>чувствуетъ</orig></choice> это <choice><reg>бессознательно</reg><orig>безсознательно</orig></choice>, но <choice><reg>различные</reg><orig>различныя</orig></choice> страсти <choice><reg>останавливают</reg><orig>останавливаютъ</orig></choice> ее <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>стремлении</reg><orig>стремленіи</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> этой <choice><reg>цели</reg><orig>цѣли</orig></choice>. И только <choice><reg>опыт</reg><orig>опытъ</orig></choice>, ошибки и <choice><reg>несчастья</reg><orig>несчастія</orig></choice> <choice><reg>заставляют</reg><orig>заставляютъ</orig></choice>, <choice><reg>постигнув</reg><orig>постигнувъ</orig></choice> <choice><reg>цель</reg><orig>цѣль</orig></choice> эту сознательно, единственно стремиться <choice><reg>к</reg><orig>къ</orig></choice> ней и быть счастливу, презирая зло и спокойно перенося его. На <choice><reg>этом</reg><orig>этомъ</orig></choice> <choice><reg>основании</reg><orig>основаніи</orig></choice> и <choice><reg>роман</reg><orig>романъ</orig></choice> <choice><reg>должен</reg><orig>долженъ</orig></choice> <choice><reg>делиться</reg><orig>дѣлиться</orig></choice> на 3 части. — Благородное, но неопытное <choice><reg>увлечение</reg><orig>увлеченіе</orig></choice> юности, ошибки и <choice><reg>увлечение</reg><orig>увлеченіе</orig></choice> страстями. <choice><reg>Исправление</reg><orig>Исправленіе</orig></choice> и счастье. Побочный мысли: <choice><reg>главные</reg><orig>главныя</orig></choice> пружины человеческой <choice><reg>деятельности</reg><orig>дѣятельности</orig></choice> 1) <choice><reg>добрые</reg><orig>добрыя</orig></choice>: а) добродетель, б) дружба, с) любовь <choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>искусствам</reg><orig>искуствамъ</orig></choice>; 2) <choice><reg>злые</reg><orig>злыя</orig></choice>: а) <choice><reg>тщеславие</reg><orig>тщеславіе</orig></choice>, б) корысть, с) страсти: а') женщины, б') карты, с') вино. </p>
+   <p rend="left">(Отрицательная мысль: любовь, <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>романах</reg><orig>романахъ</orig></choice> составляющая главную пружину жизни, <choice><reg>в</reg><orig>въ</orig></choice> действительности — <choice><reg>последняя</reg><orig>послѣдняя</orig></choice>). </p>
+   <p rend="left">П[обочная] м[ысль]: <choice><reg>как</reg><orig>какъ</orig></choice> трудно — делать добро и <choice><reg>как</reg><orig>какъ</orig></choice> его нужно делать. </p>
+   <p rend="left">
+    Главныя лица.
+   </p>
+   <p rend="left">1) Герой. <choice><reg>Человек</reg><orig>Человекъ</orig></choice> добрый, благородный и восприимчивый, <choice><reg>увлекающийся</reg><orig>увлекающійся</orig></choice> <choice><reg>всем</reg><orig>всемъ</orig></choice> и до того пылкой, что даже <choice><reg>добрые</reg><orig>добрыя</orig></choice> начала <choice><reg>приносят</reg><orig>приносятъ</orig></choice> <choice><reg>вред</reg><orig>вредъ</orig></choice> ему. </p>
+   <p rend="left">
+    2) Представит[ельница] добродетели и дружбы (ея прошедшее) старая дева, тетка его невесты (представительницы любви ко всему изящному и первая любовь его).
+   </p>
+   <p rend="left">
+    3) Его
+    <hi rend="span">
+     невеста.
+    </hi>
+    <hi rend="span">
+     363
+    </hi>
+   </p>
+   <p rend="left">
+    <hi rend="span">
+     364
+    </hi>
+    <hi rend="span">
+     4)
+    </hi>Представитель <choice><reg>тщеславия</reg><orig>тщеславія</orig></choice> <choice><reg>помещик</reg><orig>помѣщикъ</orig></choice> <hi rend="em">
+     (неразобр.).
+    </hi>
+    <ref style="type:note" target="index.xhtml#n100" xml:id="backn100">
+     [100]
+    </ref>
+   </p>
+   <p rend="left">5) Представитель любви <choice><reg>к</reg><orig>къ</orig></choice> изящ[ному] и дружбы, <choice><reg>тщеславия</reg><orig>тщеславія</orig></choice> Костинь[ка]. </p>
+   <p rend="left">6) Предст[авитель] корысти <choice><reg>помещик</reg><orig>помѣщикъ</orig></choice> <choice><reg>Тартюф</reg><orig>Тартюфъ</orig></choice> <ref style="type:note" target="index.xhtml#n101" xml:id="backn101">
+     [101]
+    </ref>(<choice><reg>Воейков</reg><orig>Воейковъ</orig></choice>). </p>
+   <p rend="left">7) Пред[ставитель] корысти молодой <choice><reg>чиновник</reg><orig>чиновникъ</orig></choice>, <choice><reg>хочет</reg><orig>хочетъ</orig></choice> жениться на его <choice><reg>невесте</reg><orig>невѣстѣ</orig></choice>. </p>
+   <p rend="left">8) Представ[итель] страстей <choice><reg>деревенский</reg><orig>деревенскій</orig></choice> (<choice><reg>Воейков</reg><orig>Воейковъ</orig></choice>). </p>
+   <p rend="left">9) Представ[итель] стра[стей] горо[дской] <choice><reg>Озеров</reg><orig>Озеровъ</orig></choice>. </p>
+   <p rend="left">10) Представ[ительницы] <choice><reg>тщеславия</reg><orig>тщеславія</orig></choice> его тетушка городская и <choice><reg>её</reg><orig>ея</orig></choice> сестра. </p>
+   <p rend="left"><choice><reg>Обедня</reg><orig>Обѣдня</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>тройцын</reg><orig>тройцынъ</orig></choice> день. Знакомство <choice><reg>с</reg><orig>съ</orig></choice> <ref style="type:note" target="index.xhtml#n102" xml:id="backn102">
+     [102]
+    </ref>
+    Воейков[ымъ].
+   </p>
+   <p rend="left"><choice><reg>Описание</reg><orig>Описаніе</orig></choice> к[нязя], <choice><reg>обход</reg><orig>обходъ</orig></choice> деревни. <choice><reg>Приезд</reg><orig>Пріѣздъ</orig></choice> <ref style="type:note" target="index.xhtml#n103" xml:id="backn103">
+     [103]
+    </ref>
+    К.
+   </p>
+   <p rend="left">
+    Знакомство съ Предвод[ителемъ]. Тяжба.
+   </p>
+   <p rend="left">Тетка его <choice><reg>невесты</reg><orig>невѣсты</orig></choice> не <choice><reg>понимает</reg><orig>понимаетъ</orig></choice> немного <choice><reg>насмешливого</reg><orig>насмѣшливаго</orig></choice>, хотя и <choice><reg>добродушного</reg><orig>добродушнаго</orig></choice>, взгляда молодежи на чувства и боится за любовь своей племянницы. — </p>
+   <p rend="left">Полагая <choice><reg>найти</reg><orig>найдти</orig></choice> мудрость <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>советах</reg><orig>совѣтахъ</orig></choice> <choice><reg>стариков-мужиков</reg><orig>стариковъ-мужиковъ</orig></choice>, <choice><reg>он</reg><orig>онъ</orig></choice> ошибается. Мудрость <choice><reg>их</reg><orig>ихъ</orig></choice> <choice><reg>может</reg><orig>можетъ</orig></choice> быть ощутительна только <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>постоянном</reg><orig>постоянномъ</orig></choice> <choice><reg>сожитии</reg><orig>сожитіи</orig></choice>, <choice><reg>так</reg><orig>такъ</orig></choice> <choice><reg>как</reg><orig>какъ</orig></choice> она <choice><reg>состоит</reg><orig>состоитъ</orig></choice> единственно <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>хладнокровии</reg><orig>хладнокровіи</orig></choice>, <choice><reg>бесстрастии</reg><orig>безстрастіи</orig></choice>. </p>
+   <p rend="left">
+    <hi rend="span">
+     364
+    </hi>
+    <hi rend="span">
+     365
+    </hi>
+   </p>
+   <p rend="left" xml:id="i4">
+   </p>
+   <div rend="image">
+    <figure>
+     <graphic alt="" url="./img/b00005973.png"/>
+    </figure>
+   </div>
+   <lb/>
+   <p rend="center">
+    Первая страница рукописи «предисловия не для читателя, а для автора».
+   </p>
+   <p rend="right">
+    <hi rend="em">
+     Размер подлинника.
+    </hi>
+   </p>
+  </div>
+ </text>
+</TEI>
