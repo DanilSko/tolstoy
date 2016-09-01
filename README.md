@@ -1,2 +1,3 @@
 # tolstoy
-All of Leo Tolstoy encoded in TEI
+
+Это репозиторий для Tolstoy Digital. Здесь мы собираем наш корпус в TEI. Все TEI документы лежат в папке TEI.
