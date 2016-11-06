@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Лето в деревне</title>
+    <author> Толстой Л.Н. </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name> Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова </name>
+    </respStmt>
+    <respStmt>
+     <name> Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов </name>
+     <resp> Идея, постановка задач, руководство </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>Школа лингвистики НИУ ВШЭ</orgName></publisher>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+ лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author> Толстой Л.Н. </author>
+      <title level="a">Лето в деревне</title>
+     </analytic>
+     <monogr>
+      <title level="m"> Полное собрание сочинений. Серия первая "Произведения". Том 5 </title>
+      <imprint>
+       <pubPlace> Москва </pubPlace>
+       <publisher> Государственное издательство "Художественная литература" </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s"> Л.Н. Толстой. Полное собрание сочинений </title>
+      <biblScope unit="vol">5</biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1858">
+     1858 </date>
+    <rs type="Россия"> Россия </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.отрывок" type="type"/>
+   </textClass>
+   <preparedness>not finished</preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType>old</orthographyType>
+   <versionNumber/>
+   <isFinished>not finished</isFinished>
+   <isEdited>not edited</isEdited>
+   <p> Проект <title>Толстой.Digital </title> разрабатывается сотрудниками и студентами <orgName>
+     Высшей школы экономики </orgName> в сотрудничестве с <orgName> Государственным музеем Л.Н.
+     Толстого </orgName> . Источник текстов – <bibl> 90-томное собрание сочинений Л.Н.Толстого
+    </bibl> . Разметка основана на стандарте <ref target="http://www.tei-c.org">TEI (Text Encoding
+ Initiative) </ref>. </p>
+  </xenoData>
+ </teiHeader>
+ <text> <div class="section" id="ref27">
+<h3 class="title_level3 center">** IV. <br/><choice><reg>ЛЕТО</reg><orig>ЛѢТО</orig></choice> <choice><reg>В</reg><orig>ВЪ</orig></choice> <choice><reg>ДЕРЕВНЕ</reg><orig>ДЕРЕВНѢ</orig></choice>.<a href="#n262" id="backn262" type="note">[262]</a></h3>
+<div class="section">
+<h4 class="title_level4 center">Глава I.</h4>
+<p class="left">Много <choice><reg>все</reg><orig>всѣ</orig></choice> говорили о <choice><reg>будущем</reg><orig>будущемъ</orig></choice> <choice><reg>освобождении</reg><orig>освобожденiи</orig></choice> <choice><reg>крестьян</reg><orig>крестьянъ</orig></choice>, и я <choice><reg>говорил</reg><orig>говорилъ</orig></choice> не меньше <choice><reg>других</reg><orig>другихъ</orig></choice>. Понятно, что <choice><reg>этот</reg><orig>этотъ</orig></choice> <choice><reg>вопрос</reg><orig>вопросъ</orig></choice> <choice><reg>занимает</reg><orig>занимаетъ</orig></choice> <choice><reg>всех</reg><orig>всѣхъ</orig></choice>, <choice><reg>в</reg><orig>въ</orig></choice> особенности же <choice><reg>нас</reg><orig>насъ</orig></choice>, <choice><reg>маленьких</reg><orig>маленькихъ</orig></choice> <choice><reg>помещиков</reg><orig>помѣщиковъ</orig></choice>, <choice><reg>живавших</reg><orig>живавшихъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>деревне</reg><orig>деревнѣ</orig></choice>, родившихся <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>деревне</reg><orig>деревнѣ</orig></choice> и <choice><reg>любящих</reg><orig>любящихъ</orig></choice> свой <choice><reg>уголок</reg><orig>уголокъ</orig></choice>, <choice><reg>как</reg><orig>какъ</orig></choice> свою маленькую родину. <choice><reg>Без</reg><orig>Безъ</orig></choice> своей Ясной Поляны я трудно могу <choice><reg>себе</reg><orig>себѣ</orig></choice> представить <choice><reg>Россию</reg><orig>Россiю</orig></choice> и мое <choice><reg>отношение</reg><orig>отношенiе</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> ней. <choice><reg>Без</reg><orig>Безъ</orig></choice> Ясной Поляны, я <choice><reg>может</reg><orig>можетъ</orig></choice> быть <choice><reg>яснее</reg><orig>яснѣе</orig></choice> увижу <choice><reg>общие</reg><orig>общiе</orig></choice> законы, необходимые для моего отечества, но я не буду до <choice><reg>пристрастия</reg><orig>пристрастiя</orig></choice> любить его.
+
+</p>
+<p class="left">Хорошо ли, дурно ли, но я не знаю <choice><reg>другого</reg><orig>другаго</orig></choice> чувства родины и не понимаю и не уважаю <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>другом</reg><orig>другомъ</orig></choice> чувства родины не <choice><reg>вводящего</reg><orig>вводящаго</orig></choice><a href="#n263" id="backn263" type="note">[263]</a> его <choice><reg>в</reg><orig>въ</orig></choice> любовь и несправедливость. — <choice><reg>Вследствии</reg><orig>Вслѣдствiи</orig></choice> <choice><reg>этого</reg><orig>этаго</orig></choice> чувства, <choice><reg>кроме</reg><orig>кромѣ</orig></choice> <choice><reg>разговоров</reg><orig>разговоровъ</orig></choice> <choice><reg>об</reg><orig>объ</orig></choice> <choice><reg>освобождении</reg><orig>освобожденiи</orig></choice>, я еще <choice><reg>с</reg><orig>съ</orig></choice> 3-го года <choice><reg>задумал</reg><orig>задумалъ</orig></choice> <choice><reg>освобождение</reg><orig>освобожденiе</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> своей Ясной <choice><reg>Поляне</reg><orig>Полянѣ</orig></choice>, и теперь, когда случилось <choice><reg>так</reg><orig>такъ</orig></choice> счастливо, что <choice><reg>основания</reg><orig>основанiя</orig></choice> <choice><reg>освобождения</reg><orig>освобожденiя</orig></choice>, <choice><reg>изложенные</reg><orig>изложенныя</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>Рескрипте</reg><orig>Рескриптѣ</orig></choice> сходились совершенно <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>теми</reg><orig>тѣми</orig></choice>, <choice><reg>которые</reg><orig>которыя</orig></choice> я <choice><reg>сам</reg><orig>самъ</orig></choice> <choice><reg>положил</reg><orig>положилъ</orig></choice> <choice><reg>себе</reg><orig>себѣ</orig></choice>, я <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>новым</reg><orig>новымъ</orig></choice> <choice><reg>рвением</reg><orig>рвенiемъ</orig></choice> принялся за это <choice><reg>дело</reg><orig>дѣло</orig></choice>. —
+
+</p>
+<p class="left">Я <choice><reg>уж</reg><orig>ужъ</orig></choice> <choice><reg>лет</reg><orig>лѣтъ</orig></choice> 12 урывками занимался <choice><reg>хозяйством</reg><orig>хозяйствомъ</orig></choice>, <choice><reg>живал</reg><orig>живалъ</orig></choice> <choice><reg>летом</reg><orig>лѣтомъ</orig></choice>, <choice><reg>толковал</reg><orig>толковалъ</orig></choice> на <choice><reg>сходках</reg><orig>сходкахъ</orig></choice>, но до <choice><reg>нынешней</reg><orig>нынѣшней</orig></choice> весны никогда <choice><reg>сам</reg><orig>самъ</orig></choice> не <choice><reg>был</reg><orig>былъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>непосредственных</reg><orig>непосредственныхъ</orig></choice> <choice><reg>отношениях</reg><orig>отношенiяхъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> крестьянами. Всегда между мной и ими была контора, начальство, и я <choice><reg>чувствовал</reg><orig>чувствовалъ</orig></choice> себя <choice><reg>более</reg><orig>болѣе</orig></choice> или <choice><reg>менее</reg><orig>менѣе</orig></choice> <choice><reg>бесполезным</reg><orig>безполезнымъ</orig></choice> и <choice><reg>лишним</reg><orig>лишнимъ</orig></choice> <choice><reg>членом</reg><orig>членомъ</orig></choice>. <choice><reg>С</reg><orig>Съ</orig></choice> <choice><reg>нынешней</reg><orig>нынѣшней</orig></choice> же весны, <choice><reg>приехав</reg><orig>прiѣхавъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> деревню, я <choice><reg>убедился</reg><orig>убѣдился</orig></choice> что для <choice><reg>новых</reg><orig>новыхъ</orig></choice> <choice><reg>отношений</reg><orig>отношенiй</orig></choice>, установившихся между мной и крестьянами, у меня <choice><reg>нет</reg><orig>нѣтъ</orig></choice> <choice><reg>посредников</reg><orig>посредниковъ</orig></choice>, и я невольно <choice><reg>стал</reg><orig>сталъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> ними <choice><reg>лицом</reg><orig>лицомъ</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> лицу. —
+
+</p>
+<p class="left">Все, что я <choice><reg>видел</reg><orig>видѣлъ</orig></choice> и <choice><reg>узнал</reg><orig>узналъ</orig></choice> в <choice><reg>продолжении</reg><orig>продолженiи</orig></choice> <choice><reg>нынешнего</reg><orig>нынѣшняго</orig></choice> <span class="opdelimiter"><choice><reg>лета</reg><orig>лѣта</orig></choice>,</span><span class="opnumber">262</span> <span class="npnumber">263</span><span class="npdelimiter">казалось</span> <choice><reg>мне</reg><orig>мнѣ</orig></choice> совершенно <choice><reg>новым</reg><orig>новымъ</orig></choice>, несмотря на то, что, я повторяю — я уже не <choice><reg>новичек</reg><orig>новичекъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>хозяйстве</reg><orig>хозяйствѣ</orig></choice> и <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>продолжении</reg><orig>продолженiи</orig></choice> 12 <choice><reg>лет</reg><orig>лѣтъ</orig></choice><a href="#n264" id="backn264" type="note">[264]</a> управленія имѣніемъ года проводилъ въ деревнѣ и старался сколько могъ и умѣлъ узнавать крестьянина. — Эти то наблюденія я здѣсь и намѣренъ сообщить публикѣ, почти въ томъ порядкѣ, въ которомъ онѣ мнѣ представлялись. —
+
+</p>
+<p class="left">
+<a href="#n265" id="backn265" type="note">[265]</a> <choice><reg>Именье</reg><orig>Имѣнье</orig></choice> мое <choice><reg>нынешней</reg><orig>нынѣшней</orig></choice> весной находилось <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>следующем</reg><orig>слѣдующемъ</orig></choice> <choice><reg>положении</reg><orig>положенiи</orig></choice>. <choice><reg>В</reg><orig>Въ</orig></choice> <choice><reg>одном</reg><orig>одномъ</orig></choice> <choice><reg>именьи</reg><orig>имѣньи</orig></choice> 62 тягла, <choice><reg>бывшия</reg><orig>бывшiя</orig></choice> прежде <choice><reg>барщинския</reg><orig>барщинскiя</orig></choice>, были на <choice><reg>оброке</reg><orig>оброкѣ</orig></choice>, 26 р. сер. <choice><reg>с</reg><orig>съ</orig></choice> тягла при <choice><reg>пользовании</reg><orig>пользованiи</orig></choice> 4<sup>3</sup>/<sub>4</sub> <choice><reg>десятин</reg><orig>десятинъ</orig></choice> пахоти, <sup>1</sup>/<sub>2</sub> десятины усадьбы и десятины луга. <choice><reg>Сверх</reg><orig>Сверхъ</orig></choice> того тягло должно было <choice><reg>мне</reg><orig>мнѣ</orig></choice> выработать 20 <choice><reg>бабьих</reg><orig>бабьихъ</orig></choice> дней <choice><reg>в</reg><orig>въ</orig></choice> рабочую пору и 5 <choice><reg>подвод</reg><orig>подводъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> Тулу за 17 <choice><reg>верст</reg><orig>верстъ</orig></choice>; 3<a href="#n266" id="backn266" type="note">[266]</a> тягла оставались на <choice><reg>барщине</reg><orig>барщинѣ</orig></choice>.
+
+</p>
+<p class="left"><choice><reg>В</reg><orig>Въ</orig></choice> <choice><reg>другом</reg><orig>другомъ</orig></choice> <choice><reg>маленьком</reg><orig>маленькомъ</orig></choice> <choice><reg>именьи</reg><orig>имѣньи</orig></choice> <choice><reg>все</reg><orig>всѣ</orig></choice> 10 <choice><reg>тягол</reg><orig>тяголъ</orig></choice> были на <choice><reg>оброке</reg><orig>оброкѣ</orig></choice> за 36 р. сер. <choice><reg>с</reg><orig>съ</orig></choice> тягла при <choice><reg>пользовании</reg><orig>пользованiи</orig></choice> 10<a href="#n267" id="backn267" type="note">[267]</a> <choice><reg>десятин</reg><orig>десятинъ</orig></choice> пахоти, <sup>1</sup>/<sub>4</sub> десятины усадьбы и десятины луга. — Барщинская земля предполагалась обрабатываться вольными рабочими. Сараи для <choice><reg>помещения</reg><orig>помѣщенiя</orig></choice> <choice><reg>орудий</reg><orig>орудiй</orig></choice>, <choice><reg>орудия</reg><orig>орудiя</orig></choice>, лошади уже были готовы. <choice><reg>Именьем</reg><orig>Имѣньемъ</orig></choice> <choice><reg>управлял</reg><orig>управлялъ</orig></choice> <choice><reg>бурмистр</reg><orig>бурмистръ</orig></choice>, <choice><reg>бывший</reg><orig>бывшiй</orig></choice> мой вольноотпущенный <choice><reg>крестьянин</reg><orig>крестьянинъ</orig></choice>. —
+
+</p>
+<p class="centerline">
+
+_________
+
+</p>
+<p class="left">3-го <choice><reg>Апреля</reg><orig>Апрѣля</orig></choice> я <choice><reg>приехал</reg><orig>прiѣхалъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> свою милую Ясную... Хоть и не <choice><reg>молод</reg><orig>молодъ</orig></choice>, но все еще не могу отвыкнуть <choice><reg>от</reg><orig>отъ</orig></choice> <choice><reg>преждевременных</reg><orig>преждевременныхъ</orig></choice> <choice><reg>мечтаний</reg><orig>мечтанiй</orig></choice>, особенно при <choice><reg>переезде</reg><orig>переѣздѣ</orig></choice> на новое <choice><reg>место</reg><orig>мѣсто</orig></choice>. — «Ну, теперь начинается настоящее! <choice><reg>Деятельность</reg><orig>Дѣятельность</orig></choice>, акуратность, стойкость, ласковое [?] <choice><reg>изучение</reg><orig>изученiе</orig></choice>. — <choice><reg>Сад</reg><orig>Садъ</orig></choice>, книги, фортепьяно, все прочь, — соха, борона, записная книга, и <choice><reg>деятельность</reg><orig>дѣятельность</orig></choice>, <choice><reg>деятельность</reg><orig>дѣятельность</orig></choice>, <choice><reg>деятельность</reg><orig>дѣятельность</orig></choice>!»
+
+</p>
+<p class="left">Первое лицо <choice><reg>встретившее</reg><orig>встрѣтившее</orig></choice> меня, <choice><reg>как</reg><orig>какъ</orig></choice> и всегда, была нянюшка, только что <choice><reg>видевшая</reg><orig>видѣвшая</orig></choice> меня во <choice><reg>сне</reg><orig>снѣ</orig></choice> и половину <choice><reg>действительно</reg><orig>дѣйствительно</orig></choice>, половину притворно не могущая опомниться <choice><reg>от</reg><orig>отъ</orig></choice> радости; хотя мое <choice><reg>присутствие</reg><orig>присутствiе</orig></choice> <choice><reg>кроме</reg><orig>кромѣ</orig></choice> <choice><reg>неудовольствия</reg><orig>неудовольствiя</orig></choice> ничего ей не могло доставить.
+
+</p>
+<p class="left">— Ну что, Агафья Михайловна, <choice><reg>как</reg><orig>какъ</orig></choice> наши <choice><reg>делишки</reg><orig>дѣлишки</orig></choice>?
+
+</p>
+<p class="left">— Да <choice><reg>ведь</reg><orig>вѣдь</orig></choice> вы не любите, батюшка, когда я про свой <choice><reg>бок</reg><orig>бокъ</orig></choice> говорю. —
+
+</p>
+<p class="left">— А <choice><reg>болит</reg><orig>болитъ</orig></choice>?
+
+</p>
+<p class="left">— <choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>! не <choice><reg>болит</reg><orig>болитъ</orig></choice>! — <choice><reg>ответила</reg><orig>отвѣтила</orig></choice> она сердито.
+
+</p>
+<p class="left">— А чай есть?
+
+</p>
+<p class="left">— Откуда жь ему быть, вашего не беру. — Прикажете чаю или покушать? <choice><reg>Максим</reg><orig>Максимъ</orig></choice> Иванычь все <span class="opdelimiter"><choice><reg>нездоров</reg><orig>нездоровъ</orig></choice>.</span><span class="opnumber">263</span>
+</p>
+<p class="left">
+<span class="npnumber">264</span><span class="npdelimiter">—</span> Ну, а хозяйство <choice><reg>как</reg><orig>какъ</orig></choice>?
+
+</p>
+<p class="left">— Да <choice><reg>Василий</reg><orig>Василiй</orig></choice> старается, кажется, все <choice><reg>хлопочет</reg><orig>хлопочетъ</orig></choice>. Только <choice><reg>забывчив</reg><orig>забывчивъ</orig></choice>: намеднись приказывала <choice><reg>белого</reg><orig>бѣлаго</orig></choice> <choice><reg>хлеба</reg><orig>хлѣба</orig></choice> купить, — говорю: <choice><reg>Граф</reg><orig>Графъ</orig></choice> <choice><reg>приедет</reg><orig>прiѣдетъ</orig></choice>, — <choice><reg>забыл</reg><orig>забылъ</orig></choice>.
+
+</p>
+<p class="left">— Ну, а работники есть?
+
+</p>
+<p class="left">— Есть, кажется, да все жалуются — солдаты, противный <choice><reg>народ</reg><orig>народъ</orig></choice> такой — не слушаются, <choice><reg>говорят</reg><orig>говорятъ</orig></choice>, а <choice><reg>он</reg><orig>онъ</orig></choice> старается. Да <choice><reg>ведь</reg><orig>вѣдь</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>вольным</reg><orig>вольнымъ</orig></choice> <choice><reg>народом</reg><orig>народомъ</orig></choice> <choice><reg>где</reg><orig>гдѣ</orig></choice> сладить. — Она вздохнула. — Намедни лошадь что то...
+
+</p>
+<p class="left">Она остановилась. Я <choice><reg>видел</reg><orig>видѣлъ</orig></choice>, что она меня <choice><reg>пригатавливает</reg><orig>пригатавливаетъ</orig></choice>.
+
+</p>
+<p class="left">— Ну, это все ничего; а мужики, что? —
+
+</p>
+<p class="left">— Да что, батюшка, мужички Богу за <choice><reg>вас</reg><orig>васъ</orig></choice> <choice><reg>молят</reg><orig>молятъ</orig></choice>; <choice><reg>им</reg><orig>имъ</orig></choice> ли не жизнь. Намедни у <choice><reg>Алексеевой</reg><orig>Алексѣевой</orig></choice> матери была; <choice><reg>так</reg><orig>такъ</orig></choice> и она <choice><reg>говорит</reg><orig>говоритъ</orig></choice>: <choice><reg>Андел</reg><orig>Анделъ</orig></choice> небесный. —
+
+</p>
+<p class="left">— Ну, понесла!
+
+</p>
+<p class="left">Я притворился, что <choice><reg>мне</reg><orig>мнѣ</orig></choice> это было <choice><reg>неприятно</reg><orig>непрiятно</orig></choice>; а <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>комнате</reg><orig>комнатѣ</orig></choice> что то <choice><reg>уж</reg><orig>ужъ</orig></choice> стало <choice><reg>веселей</reg><orig>веселѣй</orig></choice>. —
+
+</p>
+<p class="left">— Кто <choice><reg>там</reg><orig>тамъ</orig></choice>? — <choice><reg>окликнул</reg><orig>окликнулъ</orig></choice> я толстые сапоги, <choice><reg>всходившие</reg><orig>всходившiе</orig></choice> по <choice><reg>лестнице</reg><orig>лѣстницѣ</orig></choice>.
+
+</p>
+<p class="left">— <choice><reg>Василий</reg><orig>Василiй</orig></choice>.
+
+</p>
+<p class="left"><choice><reg>Бурмистр</reg><orig>Бурмистръ</orig></choice>, <choice><reg>человек</reg><orig>человѣкъ</orig></choice> <choice><reg>лет</reg><orig>лѣтъ</orig></choice> 27, высокой <choice><reg>ростом</reg><orig>ростомъ</orig></choice>, уже <choice><reg>забирающий</reg><orig>забирающiй</orig></choice> начальническую полноту, курчавый и красивый, <choice><reg>ежели бы</reg><orig>ежели-бы</orig></choice> не узкое <choice><reg>расстояние</reg><orig>разстоянiе</orig></choice> <choice><reg>глаз</reg><orig>глазъ</orig></choice> и <choice><reg>вечное</reg><orig>вѣчное</orig></choice> <choice><reg>беспокойство</reg><orig>безпокойство</orig></choice> <choice><reg>их</reg><orig>ихъ</orig></choice>. — <choice><reg>Василий</reg><orig>Василiй</orig></choice> <choice><reg>один</reg><orig>одинъ</orig></choice> и <choice><reg>старший</reg><orig>старшiй</orig></choice> <choice><reg>из</reg><orig>изъ</orig></choice> 7 сыновей <choice><reg>самого</reg><orig>самаго</orig></choice> <choice><reg>зажиточного</reg><orig>зажиточнаго</orig></choice> мужика Ермила.<a href="#n268" id="backn268" type="note">[268]</a> Его <choice><reg>идеал</reg><orig>идеалъ</orig></choice> — толстый <choice><reg>прикащик</reg><orig>прикащикъ</orig></choice>, который <choice><reg>был</reg><orig>былъ</orig></choice> при <choice><reg>отце</reg><orig>отцѣ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>этом</reg><orig>этомъ</orig></choice> <choice><reg>именьи</reg><orig>имѣньи</orig></choice>, его <choice><reg>страх</reg><orig>страхъ</orig></choice> — быть <choice><reg>похожим</reg><orig>похожимъ</orig></choice> на мужика лапотника. <choice><reg>Купец</reg><orig>Купецъ</orig></choice> <choice><reg>Черемушкин</reg><orig>Черемушкинъ</orig></choice> <choice><reg>говорит</reg><orig>говоритъ</orig></choice>, что <choice><reg>Василий</reg><orig>Василiй</orig></choice> <choice><reg>настоящий</reg><orig>настоящiй</orig></choice> <choice><reg>бурмистр</reg><orig>бурмистръ</orig></choice>, <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>Туле</reg><orig>Тулѣ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> купцами <choice><reg>Графский</reg><orig>Графскiй</orig></choice> <choice><reg>интерес</reg><orig>интересъ</orig></choice> <choice><reg>соблюдает</reg><orig>соблюдаетъ</orig></choice> и свою <choice><reg>амбицию</reg><orig>амбицiю</orig></choice> <choice><reg>соблюдает</reg><orig>соблюдаетъ</orig></choice>. А[гафья] М[ихайловна] <choice><reg>говорит</reg><orig>говоритъ</orig></choice>, что <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>уж</reg><orig>ужъ</orig></choice> запутался <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>словах</reg><orig>словахъ</orig></choice>; то <choice><reg>говорит</reg><orig>говоритъ</orig></choice>: <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>мановении</reg><orig>мановенiи</orig></choice> ока, а то: кады — <choice><reg>скажет</reg><orig>скажетъ</orig></choice>. — <choice><reg>Василий</reg><orig>Василiй</orig></choice> <choice><reg>полагает</reg><orig>полагаетъ</orig></choice>, что <choice><reg>искусство</reg><orig>искуство</orig></choice> <choice><reg>управления</reg><orig>управленiя</orig></choice> <choice><reg>разделяется</reg><orig>раздѣляется</orig></choice> на два <choice><reg>отдела</reg><orig>отдѣла</orig></choice>: 1-й и главный — <choice><reg>составляет</reg><orig>составляетъ</orig></choice> <choice><reg>искусство</reg><orig>искуство</orig></choice> <choice><reg>встретить</reg><orig>встрѣтить</orig></choice> барина, проводить его, доложить, не обезпокоить, скрыть <choice><reg>неприятность</reg><orig>непрiятность</orig></choice> и т. д., и 2-й <choice><reg>отдел</reg><orig>отдѣлъ</orig></choice>, <choice><reg>заключающий</reg><orig>заключающiй</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>себе</reg><orig>себѣ</orig></choice> <choice><reg>искусство</reg><orig>искуство</orig></choice> оборотиться <choice><reg>так</reg><orig>такъ</orig></choice>, чтобы все казалось по <choice><reg>желанию</reg><orig>желанiю</orig></choice> барина.
+
+</p>
+<p class="left"><choice><reg>Вследствие</reg><orig>Вслѣдствiе</orig></choice> <choice><reg>этого</reg><orig>этаго</orig></choice> <choice><reg>убеждения</reg><orig>убѣжденiя</orig></choice>, <choice><reg>Василий</reg><orig>Василiй</orig></choice> всегда страстно <choice><reg>встречает</reg><orig>встрѣчаетъ</orig></choice> меня; запыхавшись, <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>дрожащим</reg><orig>дрожащимъ</orig></choice> <choice><reg>голосом</reg><orig>голосомъ</orig></choice> и даже кажется <choice><reg>с</reg><orig>съ</orig></choice> слезами на <choice><reg>глазах</reg><orig>глазахъ</orig></choice>, <choice><reg>он</reg><orig>онъ</orig></choice> бросается <choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>ручке</reg><orig>ручкѣ</orig></choice>. Это <choice><reg>мне</reg><orig>мнѣ</orig></choice> <choice><reg>неприятно</reg><orig>непрiятно</orig></choice>, <choice><reg>тем</reg><orig>тѣмъ</orig></choice> <choice><reg>более</reg><orig>болѣе</orig></choice>, что <choice><reg>так</reg><orig>такъ</orig></choice> <choice><reg>нейдет</reg><orig>нейдетъ</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> его<a href="#n269" id="backn269" type="note">[269]</a> мужицкой <choice><reg>фигуре</reg><orig>фигурѣ</orig></choice>. <choice><reg>Как</reg><orig>Какъ</orig></choice> и обыкновенно, мы потолкались <choice><reg>друг</reg><orig>другъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>другом</reg><orig>другомъ</orig></choice>, <choice><reg>плечом</reg><orig>плечомъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> голову и головой <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>подбородок</reg><orig>подбородокъ</orig></choice>, и <choice><reg>как</reg><orig>какъ</orig></choice> всегда ему не удалось <choice><reg>поцеловать</reg><orig>поцѣловать</orig></choice>, <choice><reg>мне</reg><orig>мнѣ</orig></choice> не удалось оттолкнуть его. Когда мы поуспокоились, я <choice><reg>стал</reg><orig>сталъ</orig></choice> <span class="opdelimiter">спрашивать,</span><span class="opnumber">264</span> <span class="npnumber">265</span><span class="npdelimiter"><choice><reg>он</reg><orig>онъ</orig></choice></span> <choice><reg>стал</reg><orig>сталъ</orig></choice> успокаивать. Все было хорошо, навозу <choice><reg>зимнего</reg><orig>зимняго</orig></choice> вывезено 30 <choice><reg>десят[ин]</reg><orig>десят[инъ]</orig></choice>, лошади сыты, 2 только истратились, крестьяне <choice><reg>оброк</reg><orig>оброкъ</orig></choice> заплатили <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>срок</reg><orig>срокъ</orig></choice>.
+
+</p>
+<p class="left">— Ничего <choice><reg>особенного</reg><orig>особеннаго</orig></choice> <choice><reg>нет</reg><orig>нѣтъ</orig></choice>?
+
+</p>
+<p class="left">— <choice><reg>Ничего-с</reg><orig>Ничего-съ</orig></choice>, слава Богу. Только нужно <choice><reg>вам</reg><orig>вамъ</orig></choice> доложить, — <choice><reg>сказал</reg><orig>сказалъ</orig></choice> <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>помолчав</reg><orig>помолчавъ</orig></choice>, — что молотьбой не <choice><reg>мог</reg><orig>могъ</orig></choice> окончить, по одной ндравственности (ндравственность <choice><reg>значит</reg><orig>значитъ</orig></choice> упрямство) <choice><reg>баб</reg><orig>бабъ</orig></choice>. Не <choice><reg>выходят</reg><orig>выходятъ</orig></choice> по вольно, a <choice><reg>летних</reg><orig>лѣтнихъ</orig></choice> дней и не <choice><reg>смей</reg><orig>смѣй</orig></choice> брать.
+
+</p>
+<p class="left">— По <choice><reg>чем</reg><orig>чемъ</orig></choice> <choice><reg>ходят</reg><orig>ходятъ</orig></choice>?
+
+</p>
+<p class="left">— По гривеннику. <choice><reg>Разве</reg><orig>Развѣ</orig></choice> мало? <choice><reg>Где</reg><orig>Гдѣ</orig></choice> ей больше взять. И станешь говорить, не повинуются. Дни <choice><reg>большие</reg><orig>большiе</orig></choice> <choice><reg>говорят</reg><orig>говорятъ</orig></choice>.
+
+</p>
+<p class="left">— <choice><reg>Так</reg><orig>Такъ</orig></choice> прибавить 40 <choice><reg>к[опеек]</reg><orig>к[опѣекъ]</orig></choice>.
+
+</p>
+<p class="left">— Не <choice><reg>прикажите ли</reg><orig>прикажите-ли</orig></choice> <choice><reg>так</reg><orig>такъ</orig></choice> посылать, за барщину? Лучше <choice><reg>ходят</reg><orig>ходятъ</orig></choice>. А <choice><reg>рассчеты</reg><orig>разсчеты</orig></choice> пустые.
+
+</p>
+<p class="left">— <choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, да <choice><reg>вот</reg><orig>вотъ</orig></choice> я посмотрю; сходку вели собрать нынче.
+
+</p>
+<p class="left">— Завтра не прикажете ли? — нынче не соберешь. —
+
+</p>
+<p class="centerline">
+
+————
+
+</p>
+<p class="left">
+<span class="opnumber">265</span> <span class="npnumber">266</span>
+</p>
+</div>
+</div> </text>
+</TEI>

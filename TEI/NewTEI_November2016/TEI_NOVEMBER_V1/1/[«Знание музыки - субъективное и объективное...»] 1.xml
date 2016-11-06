@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>[«Знание музыки - субъективное и объективное...»]</title>
+    <author> Толстой Л.Н. </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name> Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова </name>
+    </respStmt>
+    <respStmt>
+     <name> Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов </name>
+     <resp> Идея, постановка задач, руководство </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>Школа лингвистики НИУ ВШЭ</orgName></publisher>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+ лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author> Толстой Л.Н. </author>
+      <title level="a">[«Знание музыки - субъективное и объективное...»]</title>
+     </analytic>
+     <monogr>
+      <title level="m"> Полное собрание сочинений. Серия первая "Произведения". Том 1 </title>
+      <imprint>
+       <pubPlace> Москва </pubPlace>
+       <publisher> Государственное издательство "Художественная литература" </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s"> Л.Н. Толстой. Полное собрание сочинений </title>
+      <biblScope unit="vol">1</biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1850">
+     1850 </date>
+    <rs type="Россия"> Россия </rs>
+   </creation>
+   <textClass>
+    <catRef target="#публицистика" type="sphere"/>
+    <catRef target="#публицистика.отрывок" type="type"/>
+   </textClass>
+   <preparedness>not finished</preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName>Три отрывка о музыке</cyclusName>
+   <orthographyType>old</orthographyType>
+   <versionNumber/>
+   <isFinished>not finished</isFinished>
+   <isEdited>not edited</isEdited>
+   <p> Проект <title>Толстой.Digital </title> разрабатывается сотрудниками и студентами <orgName>
+     Высшей школы экономики </orgName> в сотрудничестве с <orgName> Государственным музеем Л.Н.
+     Толстого </orgName> . Источник текстов – <bibl> 90-томное собрание сочинений Л.Н.Толстого
+    </bibl> . Разметка основана на стандарте <ref target="http://www.tei-c.org">TEI (Text Encoding
+ Initiative) </ref>. </p>
+  </xenoData>
+ </teiHeader>
+ <text> <div>
+<div class="section">
+<h6 id="h53">[*ОТРЫВОК II.]</h6>
+<p class="left">
+
+<choice><reg>Знание</reg><orig>Знанiе</orig></choice> музыки — субъективное и объективное. Объективное есть <choice><reg>знание</reg><orig>знанiе</orig></choice> <choice><reg>теории</reg><orig>теорiи</orig></choice> музыки, т. е. <choice><reg>основных</reg><orig>основныхъ</orig></choice> <choice><reg>начал</reg><orig>началъ</orig></choice>. Субъективное <choice><reg>разделяется</reg><orig>раздѣляется</orig></choice> на <choice><reg>знание</reg><orig>знанiе</orig></choice> <choice><reg>правил</reg><orig>правилъ</orig></choice> музыки и на <choice><reg>знание</reg><orig>знанiе</orig></choice> <choice><reg>воспроизведения</reg><orig>воспроизведенiя</orig></choice> музыки. Начало музыки есть способность выразить какую нибудь музыкальную мысль. —
+
+</p>
+<p class="left">
+
+Музыкальная мысль есть <choice><reg>соедин[ение]</reg><orig>соедин[енiе]</orig></choice> <choice><reg>звуков</reg><orig>звуковъ</orig></choice>, составляющее одно <choice><reg>целое</reg><orig>цѣлое</orig></choice>, <choice><reg>имеющее</reg><orig>имѣющее</orig></choice> начало и <choice><reg>конец</reg><orig>конецъ</orig></choice>. —
+
+</p>
+<p class="left">
+
+Мысли эти выражаются на <choice><reg>каком</reg><orig>какомъ</orig></choice> нибудь <choice><reg>инструменте</reg><orig>инструментѣ</orig></choice>. Для <choice><reg>облегчения</reg><orig>облегченiя</orig></choice> <choice><reg>изобретено</reg><orig>изобрѣтено</orig></choice> <choice><reg>выражение</reg><orig>выраженiе</orig></choice> <choice><reg>музыкал[ьных]</reg><orig>музыкал[ьныхъ]</orig></choice> мыслей на <choice><reg>бумаге</reg><orig>бумагѣ</orig></choice>, не составляющее собств[енно] музыки, но посредств[ующее] <choice><reg>выражение</reg><orig>выраженiе</orig></choice> оной.
+
+</p>
+<p class="left">
+
+Способность составлять музыкаль[ную] мысль называется <choice><reg>фантазией</reg><orig>фантазiей</orig></choice>, способность понимать эту мысль заключается <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>правильном</reg><orig>правильномъ</orig></choice> <choice><reg>устройст[ве]</reg><orig>устройст[вѣ]</orig></choice> уха и <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>присутствии</reg><orig>присутствiи</orig></choice> что называет[ся] <choice><reg>музыкального</reg><orig>музыкальнаго</orig></choice> чувства.
+
+</p>
+<p class="left">
+
+<choice><reg>Музыкал[ьным]</reg><orig>Музыкал[ьнымъ]</orig></choice> <choice><reg>чувством</reg><orig>чувствомъ</orig></choice> называется способность воспринимать муз[ыкальную] м[ысль] <choice><reg>так</reg><orig>такъ</orig></choice>, чтобы не <choice><reg>расстроивать</reg><orig>разстроивать</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>душе</reg><orig>душѣ</orig></choice> единство оной. —
+
+</p>
+<p class="left">
+
+Способность передавать музыкальн[ую] мысль <choice><reg>зависит</reg><orig>зависитъ</orig></choice> 1) <choice><reg>от</reg><orig>отъ</orig></choice> муз[ыкальной] памяти, 2) <choice><reg>от</reg><orig>отъ</orig></choice> <choice><reg>упражнения</reg><orig>упражненiя</orig></choice> или <choice><reg>изучения</reg><orig>изученiя</orig></choice> музыки, т. е. смотря <choice><reg>от</reg><orig>отъ</orig></choice> того, передается ли мысль прямо <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>музыке</reg><orig>музыкѣ</orig></choice> или <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>письме</reg><orig>письмѣ</orig></choice>.
+
+</p>
+<p class="left">
+
+И <choice><reg>так</reg><orig>такъ</orig></choice> субъектив[ное] <choice><reg>изучение</reg><orig>изученiе</orig></choice> музыки [<choice><reg>состоит</reg><orig>состоитъ</orig></choice>] 1) <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>развитии</reg><orig>развитiи</orig></choice> способности <choice><reg>фантазии</reg><orig>фантазiи</orig></choice>, 2) <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>развитии</reg><orig>развитiи</orig></choice> <choice><reg>музык[ального]</reg><orig>музык[альнаго]</orig></choice> ума и чувства, 3) <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>развитии</reg><orig>развитiи</orig></choice>: а) музыкальной памяти и b) <choice><reg>в</reg><orig>въ</orig></choice> способности играть на <choice><reg>каком</reg><orig>какомъ</orig></choice> либо <choice><reg>инструменте</reg><orig>инструментѣ</orig></choice>, <choice><reg>петь</reg><orig>пѣть</orig></choice> или писать музык[у].
+
+</p>
+<p class="center">
+
+3-е <choice><reg>Отделение</reg><orig>Отдѣленiе</orig></choice>.
+
+</p>
+<p class="center">
+
+1-я часть
+
+</p>
+<p class="left">
+
+<choice><reg>Развитие</reg><orig>Развитiе</orig></choice> музыкальной памяти.
+
+</p>
+<p class="center">
+
+2-я часть
+
+</p>
+<p class="left">
+
+1-е. <choice><reg>Выражение</reg><orig>Выраженiе</orig></choice> мысли на <choice><reg>инструменте</reg><orig>инструментѣ</orig></choice> (Школы <choice><reg>всех</reg><orig>всѣхъ</orig></choice> <choice><reg>инструментов</reg><orig>инструментовъ</orig></choice> и <choice><reg>пения</reg><orig>пѣнiя</orig></choice>)
+
+</p>
+<p class="left">
+
+Школа <choice><reg>фортепиано</reg><orig>фортепiано</orig></choice>.
+
+</p>
+<p class="left">
+
+2. <choice><reg>Выраж[ение]</reg><orig>Выраж[енiе]</orig></choice> мыс[лей] <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>письме</reg><orig>письмѣ</orig></choice>.
+
+</p>
+<p class="left">
+
+..........................................................................................................................................................................
+
+</p>
+<p class="left">
+
+(<choice><reg>Генерал</reg><orig>Генералъ</orig></choice> <span class="opdelimiter"><choice><reg>Бас</reg><orig>Басъ</orig></choice>)</span><span class="opnumber">242</span></p>
+<p class="left"><span id="p243" class="npnumber">243</span><span class="npdelimiter">3.</span> <choice><reg>Развитие</reg><orig>Развитiе</orig></choice> способности передавать <choice><reg>как</reg><orig>какъ</orig></choice> на <choice><reg>инструменте</reg><orig>инструментѣ</orig></choice> <choice><reg>так</reg><orig>такъ</orig></choice> и <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>письме</reg><orig>письмѣ</orig></choice> <choice><reg>из</reg><orig>изъ</orig></choice> головы, т. е. <choice><reg>из</reg><orig>изъ</orig></choice> памяти музыки и памяти письма. - - - -
+
+</p>
+<p class="left">
+
+И <choice><reg>с</reg><orig>съ</orig></choice> письма на <choice><reg>инструменте</reg><orig>инструментѣ</orig></choice> и обратно.
+
+</p>
+<p class="left">
+
+4) <choice><reg>Упражнения</reg><orig>Упражненiя</orig></choice>. - - - - -
+
+</p>
+<p class="center">
+
+<choice><reg>Отношение</reg><orig>Отношенiе</orig></choice> <choice><reg>звуков</reg><orig>звуковъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>отношении</reg><orig>отношенiи</orig></choice> силы - - -
+
+</p>
+<p class="left">
+
+<choice><reg>Отношение</reg><orig>Отношенiе</orig></choice> это <choice><reg>может</reg><orig>можетъ</orig></choice> быть <choice><reg>бесконечно</reg><orig>безконечно</orig></choice>. При <choice><reg>каждом</reg><orig>каждомъ</orig></choice> <choice><reg>звуке</reg><orig>звукѣ</orig></choice> употребляется различная степень силы. - - -
+
+</p>
+<p class="left">
+
+<choice><reg>Разделить</reg><orig>Раздѣлить</orig></choice> можно на пять степеней: <em>ровно</em>, <em><choice><reg>крепко</reg><orig>крѣпко</orig></choice></em>, <em>очень <choice><reg>крепко</reg><orig>крѣпко</orig></choice></em>, <em>слабо</em>, <em>очень слабо.</em> <choice><reg>Так</reg><orig>Такъ</orig></choice> [же] <choice><reg>как</reg><orig>какъ</orig></choice> для <choice><reg>определения</reg><orig>опредѣленiя</orig></choice> прост[ой] [высоты звука употребляется] <em><choice><reg>камертон</reg><orig>камертонъ</orig></choice></em>, для времени <em><choice><reg>метроном</reg><orig>метрономъ</orig></choice></em>, для силы особый <choice><reg>инструмент</reg><orig>инструментъ</orig></choice>, <choice><reg>ударяющий</reg><orig>ударяющiй</orig></choice> по <choice><reg>клавишам</reg><orig>клавишамъ</orig></choice> <em>ровно</em>. - - - - - - - -
+
+</p>
+<p class="center">
+<img id="i5" alt="" src="./img/i000020000000.png"/>
+</p>
+<p class="left">
+
+<choice><reg>Изучение</reg><orig>Изученiе</orig></choice> <choice><reg>сочинения</reg><orig>сочиненiя</orig></choice> — на [?] три. - - - -
+
+</p>
+<p class="left">
+
+1) Правила <choice><reg>общия</reg><orig>общiя</orig></choice> касательно <choice><reg>отноше[ния]</reg><orig>отноше[нiя]</orig></choice> по пространству и <choice><reg>соедине[ния]</reg><orig>соедине[нiя]</orig></choice> <choice><reg>звук[ов]</reg><orig>звук[овъ]</orig></choice>. — <choice><reg>Генерал</reg><orig>Генералъ</orig></choice> <choice><reg>бас</reg><orig>басъ</orig></choice>.
+
+</p>
+<p class="left">
+
+2) Правила <choice><reg>общия</reg><orig>общiя</orig></choice> кас[ательно] <choice><reg>отнош[ения]</reg><orig>отнош[енiя]</orig></choice> по времени <choice><reg>Ритм</reg><orig>Ритмъ</orig></choice>.
+
+</p>
+<p class="left">
+
+3) правила <choice><reg>общия</reg><orig>общiя</orig></choice> касательно <choice><reg>отнош[ения]</reg><orig>отнош[енiя]</orig></choice> по <choice><reg>силе</reg><orig>силѣ</orig></choice>. <em><choice><reg>Аксентуация</reg><orig>Аксентуацiя</orig></choice></em>. - - - - - - - - - -
+
+</p>
+<p class="left">
+
+<choice><reg>Отношений</reg><orig>Отношенiй</orig></choice> <choice><reg>всех</reg><orig>всѣхъ</orig></choice> <choice><reg>родов</reg><orig>родовъ</orig></choice> <choice><reg>может</reg><orig>можетъ</orig></choice> бы[ть] <choice><reg>бесчисленное</reg><orig>безчисленное</orig></choice> множество, принято же по пространству 7, по времени [<em>1 неразобр.</em>], по <choice><reg>силе</reg><orig>силѣ</orig></choice> 5. —
+
+</p>
+<p class="left">
+
+По времени вообще (<choice><reg>движение</reg><orig>движенiе</orig></choice> быстрое и тихое) и особенное, т. е. каждая нота относител[ьно] другой <choice><reg>может</reg><orig>можетъ</orig></choice> дробиться до <choice><reg>бесконечно[сти]</reg><orig>безконечно[сти]</orig></choice>, принято же до <sup>1</sup>/<sub>64</sub>. — Для <choice><reg>рассчета</reg><orig>разсчета</orig></choice> принято <choice><reg>деление</reg><orig>дѣленiе</orig></choice> на такты, т. е. <choice><reg>равные</reg><orig>равныя</orig></choice> части по времени.
+
+</p>
+<p class="left">
+
+Для <choice><reg>означения</reg><orig>означенiя</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>письме</reg><orig>письмѣ</orig></choice> собствен[но] <choice><reg>звуков</reg><orig>звуковъ</orig></choice> <span class="opdelimiter">наилучше</span><span class="opnumber">243</span> 
+<span id="p244" class="npnumber">244</span><span class="npdelimiter">принять
+</span> буквы, для времени — цифры, ставя <choice><reg>под</reg><orig>подъ</orig></choice> каждой нотой, <choice><reg>как</reg><orig>какъ</orig></choice> <choice><reg>деление</reg><orig>дѣленiе</orig></choice>:
+
+</p>
+<p class="center">
+<img id="i6" alt="" src="./img/i000020100000.png"/>
+</p>
+<p class="left">
+
+Для <choice><reg>означения</reg><orig>означенiя</orig></choice> силы <choice><reg>над</reg><orig>надъ</orig></choice> или <choice><reg>под</reg><orig>подъ</orig></choice> каждой нотой или <choice><reg>нескольким[и]</reg><orig>нѣскольким[и]</orig></choice> ставить одну черт[у] для 1 ст[епени], 2 — для второй и <choice><reg>так</reg><orig>такъ</orig></choice> <choice><reg>далее</reg><orig>далѣе</orig></choice>, если больше ровного — одна черта на верху или <choice><reg>две</reg><orig>двѣ</orig></choice>, <choice><reg>менее</reg><orig>менѣе</orig></choice>, — внизу.
+
+</p>
+</div>
+</div>
+ </text>
+</TEI>

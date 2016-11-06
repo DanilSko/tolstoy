@@ -1,0 +1,3010 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Новая азбука</title>
+    <author> Толстой Л.Н. </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name> Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова </name>
+    </respStmt>
+    <respStmt>
+     <name> Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов </name>
+     <resp> Идея, постановка задач, руководство </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>Школа лингвистики НИУ ВШЭ</orgName></publisher>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+      лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author> Толстой Л.Н. </author>
+      <title level="a">Новая азбука</title>
+     </analytic>
+     <monogr>
+      <title level="m"> Полное собрание сочинений. Серия первая "Произведения". Том 21 </title>
+      <imprint>
+       <pubPlace> Москва </pubPlace>
+       <publisher> Государственное издательство "Художественная литература" </publisher>
+       <date when="1957"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s"> Л.Н. Толстой. Полное собрание сочинений </title>
+      <biblScope unit="vol">21</biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date notBefore = "1874"  notAfter="1875">
+     1874-1875 </date>
+    <rs type="Россия"> Россия </rs>
+   </creation>
+   <textClass>
+    <catRef target="#детская литература" type="sphere"/>
+    <catRef target="#детская литература.сборник" type="type"/>
+   </textClass>
+   <preparedness>finished</preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName></cyclusName>
+   <orthographyType></orthographyType>
+   <versionNumber></versionNumber>
+   <isFinished>finished</isFinished>
+   <isEdited>edited</isEdited>
+   <p> Проект <title>Толстой.Digital </title> разрабатывается сотрудниками и студентами <orgName>
+     Высшей школы экономики </orgName> в сотрудничестве с <orgName> Государственным музеем Л.Н.
+     Толстого </orgName> . Источник текстов – <bibl> 90-томное собрание сочинений Л.Н.Толстого
+    </bibl> . Разметка основана на стандарте <ref target="http://www.tei-c.org">TEI (Text Encoding
+     Initiative) </ref>. </p>
+  </xenoData>
+ </teiHeader>
+ <text> <div class="section" id="ref1">
+<h1 class="center"><strong><span class="Razradka">НОВАЯ АЗБУКА</span></strong><br/><br/><strong>1874—1875</strong></h1>
+<div>
+</div>
+</div>
+<div class="section" id="h000005">
+<h1 class="center"><strong><span class="Razradka">HОВАЯ АЗБУКА</span></strong><br/><strong> И </strong><br/><strong>РУССКИЕ КНИГИ ДЛЯ ЧТЕНИЯ</strong><br/><br/><strong>(1874—1875)</strong></h1>
+<p class="left"> </p>
+</div>
+<div class="section" id="h000010002">
+<h2 class="center">ПРЕДИСЛОВИЕ</h2>
+<p class="left">Подразделение Азбуки: 1) Слова, заключающие все буквы азбуки, и слова, начинающиеся с букв азбуки, и слова, начинающиеся с произношения букв азбуки по слуховому способу. 2) Изображение букв простых и употребительных очертаний с употребительными названиями. 3) Двухсложные, двухбуквенные слова. 4) Слова двухсложные, где один слог составляет одна гласная. 5) Двухбуквенные, сложные слова с гласною <em>е</em> и <em>ѣ.</em> 6) Двухсложные слова с трехбуквенными слогами. 7) Слова, где второй слог состоит из одной согласной и из <em>ъ</em>. 8) Где второй слог состоит из одной согласной и из <em>ь</em>. Слова, где второй слог состоит из двух согласных с <em>ъ</em> и <em>ь</em>. 10) Слова с <em>й</em> на конце. 11) Слова в три слога. 12) Слова со слогами в три и более согласных. 13) Слова с <em>й</em> в середине. 14) Слова с <em>ъ</em> перед гласною. 15) Слова с <em>ь</em> перед гласною. 16) Слова с <em>ъ</em> перед согласною. 17) Удвоение согласных. 18) Удвоение гласных. 19) Слова в 4 и более слогов. 20) Славянская азбука. 21) Молитвы, и 22) изображения цифр: арабских, славянских и римских.</p>
+<p class="left">Задача Азбуки состоит в том, чтобы за наименьшую цену дать учащимся наибольшее количество понятного матерьяла, расположенного в такой правильной постепенности, от простого и легкого к сложному, чтобы постепенность эта служила главным средством обучения чтению и письму, по какому бы то ни было способу. С этой целью сначала подобраны слова все понятные, все произносящиеся так, как пишутся, и все расположенные по ударениям для того, чтобы ученик узнавал значение каждого прочитанного слова и мог бы писать их под диктовку; потом составлены соединения из самых <span class="opdelimiter">простых</span><span class="opnumber">3</span> <span class="npnumber">4</span><span class="npdelimiter">слов,</span> потом более сложные слова и более сложные соединения из них, переходящие в басни, сказки и рассказы. Рассказы, басни и сказки составлены так, чтобы ученик мог без наводящих вопросов рассказать прочитанное, и потому статьи эти могли бы быть употребляемы для упражнения учеников в самостоятельном чтении и для диктовки.</p>
+<p class="left">Так как главная трудность в сознательном чтении состоит в длине самых слов, то вся первая часть Азбуки составлена из слов, не выходящих из двух слогов и шести букв. Во второй части употребляются слова, не выходящие из трех слогов, принимая <em>бъ</em> и <em>ль</em> за слог, и только в последней — третьей — части поставлены слова четырех и пятисложные.</p>
+<p class="left">С целью наибольшей доступности приложено большое старание для того, чтобы на наименьшем количестве бумаги четким шрифтом было помещено наибольшее количество понятного и хорошего материала для детского чтения; и потому исключено всё несущественно необходимое: прописи, которые можно иметь теперь за 3 коп., картинки, составляющие роскошь, а не потребность Азбуки, и часто развлекающие внимание ученика, и всякие умственные упражнения и наставления учителя.</p>
+<p class="left">Что касается до способа обучения, то составитель старался сделать эту Азбуку одинаково удобной для всех способов. Учащие по звуковому способу, посредством прикладывания согласных к гласным, найдут во главе отделов подобранные для этой цели односложные слова; учащие по звуковому способу прямо с чтения, называя согласные звуки с присоединением <em>ъ,</em> найдут в 1-м, 3-м и 5-м столбцах 1-й стр. двухсложные четырехбуквенные слова, в которых понемногу вводятся новые звуки. Для тех и других подобран длинный ряд слов 1-го отдела, составленный из самых легких, коротких и однообразных слов, но которым ученик твердо узнает все звуки, за исключением полугласных <em>ъ,ъ </em>и<em> й.</em> Для воспоминания забытых звуков подобраны слова, начинающиеся со всех звуков, и 14 слов, заключающие все буквы азбуки. Для учащихся по слуховому способу подобраны слова, начинающиеся с букв, как они произносятся. Учащиеся по-старинному найдут в главе отделов односложные, сначала двухбуквенные, потом трех и четырехбуквенные слова, которые вместе с первыми слогами слов могут быть употребляемы как склады. Учащие по <span class="opdelimiter">слуховому</span><span class="opnumber">4</span> <span class="npnumber">5</span><span class="npdelimiter">способу</span><a href="#n57" id="backn57" type="note">[57]</a> могут употреблять эти же односложные слова для упражнения в складывании и раскладывании на слух. Те, которые захотят учить, как многие матери учат своих детей и как учатся самоучки у нас, по так называемому в Англии и Америке «способу слов» (word method), состоящему в том, чтобы по виду узнавать целые слова и потом уже разлагать их на составные части — буквы, те найдут для этой цели ряд легких и коротких слов. Вообще же эта Азбука составлена так, что по ней ученье может и должно начинаться прямо с чтения, и отличается от всех других тем, что в ней, кроме упражнений для изучения звуков, кроме обильного материала для чтения (в чем чувствуется главный недостаток существующих руководств), находится длинный ряд постепенных упражнений в трудностях чтения по величине слов и особенностям выговора.</p>
+<p class="left">Пусть учитель, по какому бы то ни было способу, пройдет эту Азбуку с начала, употребляя для складывания слов и запоминания букв какой бы то ни было прием, только чтобы прием был один и тот же во всё продолжение учения, и, пройдя Азбуку, ученик будет уметь и читать и писать, если, одновременно с чтением, он был упражняем в диктовке.</p>
+<br/>
+<div class="image"><img alt="" class="image w70" src="./img/b00000736.png"/></div><p class="left emptyline"><span class="opnumber">7</span> <span class="npnumber">8</span></p>
+<div class="image"><img alt="" class="image w70" src="./img/b00000739.png"/></div><p class="left emptyline"><span class="opnumber">8</span> <span class="npnumber">9</span></p>
+<div class="image"><img alt="" class="image" src="./img/i00000743r0c0p00000.png"/></div>
+<table>
+<tr>
+<td class="noborder_all">
+<p class="centerline">Слова, начинающіяся съ буквъ Азбуки.</p>
+<p class="Azbuka notindent"><strong>Аня Баня Ваня Гаша Даша Ели Жижа Заря Имя Катя Люди Миша Няня Оля Паша Руки Сани Тётя Уши Ходы Цари Чёки Шуба Щука Ѣда Эти Юла Яма Ѳедя.</strong></p>
+</td>
+</tr>
+<tr>
+<td class="noborder_all">
+<p class="centerline">Слова, заключающія всѣ звуки</p>
+<p class="Azbuka notindent">Бусы Возы Гуща Пыжи Люди Маша Феня Цари Косы Хочу Эти Ѣда.</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_all">
+<p class="centerline">Слова, начинающiяся съ буквъ, какъ онѣ произносятся.</p>
+<p class="Azbuka1 notindent center">Арбузъ. Бѣлка. Ведро. Герасимъ. Дерево. Ели. Ѣздокъ. Жеребенокъ. Зерно. Иголка. Іисусъ. Кедровые-орѣхи. Лебедь. Медвѣдь. Неводъ. Обручъ. Перо. Рѣпа. Селедка. Телѣга. Утка. Фертъ. Хѣръ. Церковь. Червякъ. Шерсть. Щенокъ. Эта. Юла. Яблоко. Ѳедя.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">9</span> <span class="npnumber">10</span></p>
+<table class="border_in">
+<tr>
+<td class="border_bottom" colspan="5">
+<p class="Azbuka2 centerline"><strong>Ба Ma Па Но До Ну Бу Ту Ты Мы Ти Ни Мя Щи Тя Ся Тю Ню Лю</strong></p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom">
+<p class="Azbuka2">Туча.</p>
+<p class="Azbuka2">Тула.</p>
+<p class="Azbuka2">Куча.</p>
+<p class="Azbuka2">Лужа.</p>
+<p class="Azbuka2">Луки.</p>
+<p class="Azbuka2">Дули.</p>
+<p class="Azbuka2">Дуги.</p>
+<p class="Azbuka2">Души.</p>
+<p class="Azbuka2">Руки.</p>
+<p class="Azbuka2">Буки.</p>
+<p class="Azbuka2">Бусы.</p>
+</td>
+<td class="noborder_bottom">
+<p class="Azbuka2">Дура.</p>
+<p class="Azbuka2">Губы.</p>
+<p class="Azbuka2">Дуня.</p>
+<p class="Azbuka2">Куры.</p>
+<p class="Azbuka2">Гуща.</p>
+<p class="Azbuka2">Пуля.</p>
+<p class="Azbuka2">Гуси.</p>
+<p class="Azbuka2">Буря.</p>
+<p class="Azbuka2">Сумы.</p>
+<p class="Azbuka2">Шина.</p>
+<p class="Azbuka2">Диво.</p>
+</td>
+<td class="noborder_bottom">
+<p class="Azbuka2">Сани.</p>
+<p class="Azbuka2">Бани.</p>
+<p class="Azbuka2">Ваня.</p>
+<p class="Azbuka2">Катя.</p>
+<p class="Azbuka2">Каша.</p>
+<p class="Azbuka2">Рама.</p>
+<p class="Azbuka2">Рана.</p>
+<p class="Azbuka2">Сало.</p>
+<p class="Azbuka2">Мама.</p>
+<p class="Azbuka2">Мыло.</p>
+<p class="Azbuka2">Мыши.</p>
+</td>
+<td class="border_bottom">
+<p class="Azbuka2">Сажа.</p>
+<p class="Azbuka2">Саша.</p>
+<p class="Azbuka2">Даша.</p>
+<p class="Azbuka2">Маша.</p>
+<p class="Azbuka2">Жало.</p>
+<p class="Azbuka2">Папа.</p>
+<p class="Azbuka2">Рыба.</p>
+<p class="Azbuka2">Дыры.</p>
+<p class="Azbuka2">Лыжи.</p>
+<p class="Azbuka2">Лыко.</p>
+<p class="Azbuka2">Мясо.</p>
+</td>
+<td class="border_bottom">
+<p class="Azbuka2">Тёща.</p>
+<p class="Azbuka2">Дыня.</p>
+<p class="Azbuka2">Дядя.</p>
+<p class="Azbuka2">Тятя.</p>
+<p class="Azbuka2">Тюря.</p>
+<p class="Azbuka2">Щёки.</p>
+<p class="Azbuka2">Няня.</p>
+<p class="Azbuka2">Люди.</p>
+<p class="Azbuka2">Люли.</p>
+<p class="Azbuka2">Тётя.</p>
+<p class="Azbuka2">Лёля.</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_top">
+<p class="Azbuka2">Муха.</p>
+<p class="Azbuka2">Пилы.</p>
+<p class="Azbuka2">Силы.</p>
+<p class="Azbuka2">Жилы.</p>
+<p class="Azbuka2">Вилы.</p>
+<p class="Azbuka2">Липы.</p>
+<p class="Azbuka2">Зубы.</p>
+<p class="Azbuka2">Щука.</p>
+<p class="Azbuka2">Шува.</p>
+</td>
+<td class="noborder_top">
+<p class="Azbuka2">Пиво.</p>
+<p class="Azbuka2">Тина.</p>
+<p class="Azbuka2">Пища.</p>
+<p class="Azbuka2">Лиза.</p>
+<p class="Azbuka2">Рига.</p>
+<p class="Azbuka2">Горы.</p>
+<p class="Azbuka2">Нары.</p>
+<p class="Azbuka2">Воры.</p>
+<p class="Azbuka2">Ноги.</p>
+</td>
+<td class="noborder_top">
+<p class="Azbuka2">Митя.</p>
+<p class="Azbuka2">Гиря.</p>
+<p class="Azbuka2">Козы.</p>
+<p class="Azbuka2">Сохи.</p>
+<p class="Azbuka2">Кожа.</p>
+<p class="Azbuka2">Кони.</p>
+<p class="Azbuka2">Раки</p>
+<p class="Azbuka2">Баба.</p>
+<p class="Azbuka2">Лапа.</p>
+</td>
+<td>
+<p class="Azbuka2">Пары.</p>
+<p class="Azbuka2">Кули.</p>
+<p class="Azbuka2">Пила.</p>
+<p class="Azbuka2">Зима.</p>
+<p class="Azbuka2">Душа.</p>
+<p class="Azbuka2">Губа.</p>
+<p class="Azbuka2">Сума.</p>
+<p class="Azbuka2">Пуды.</p>
+<p class="Azbuka2">Быки.</p>
+</td>
+<td>
+<p class="Azbuka2">Сады.</p>
+<p class="Azbuka2">Луга.</p>
+<p class="Azbuka2">Луна.</p>
+<p class="Azbuka2">Цари.</p>
+<p class="Azbuka2">Дуга.</p>
+<p class="Azbuka2">Рука.</p>
+<p class="Azbuka2">Mука.</p>
+<p class="Azbuka2">Суды.</p>
+<p class="Azbuka2">Пыжи.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">10</span> <span class="npnumber">11</span></p>
+<table>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Муха мала.</p>
+<p class="Azbuka2">Пила тупа.</p>
+<p class="Azbuka2">Сума худа.</p>
+<p class="Azbuka2">Мухи малы.</p>
+<p class="Azbuka2">Пилы тупы.</p>
+<p class="Azbuka2">Руби дубы.</p>
+<p class="Azbuka2">Руби липу.</p>
+</td>
+<td colspan="2">
+<p class="Azbuka2">Ноги босы.</p>
+<p class="Azbuka2">Дуги туги.</p>
+<p class="Azbuka2">Руки голы.</p>
+<p class="Azbuka2">Гуси наши.</p>
+<p class="Azbuka2">Куры рябы.</p>
+<p class="Azbuka2">Суши шубу.</p>
+<p class="Azbuka2">Буди Ваню.</p>
+</td>
+<td colspan="2">
+<p class="Azbuka2">Люди рады.</p>
+<p class="Azbuka2">Щуки-рыбы.</p>
+<p class="Azbuka2">Дядя дома.</p>
+<p class="Azbuka2">Маша дома.</p>
+<p class="Azbuka2">Сади сады.</p>
+<p class="Azbuka2">Тащи сани.</p>
+<p class="Azbuka2">Купи дыню.</p>
+</td>
+</tr>
+<tr>
+<td class="w50" colspan="3">
+<p class="Azbuka2">Мука была сыра.</p>
+<p class="Azbuka2">Дуга была туга.</p>
+<p class="Azbuka2">Катя была мила.</p>
+<p class="Azbuka2">Катя шила шубу.</p>
+<p class="Azbuka2">Таня жила дома.</p>
+<p class="Azbuka2">Маша била Васю.</p>
+<p class="Azbuka2">Баба мыла руки.</p>
+<p class="Azbuka2">Мыши пили воду.</p>
+<p class="Azbuka2">Люди пили вино.</p>
+<p class="Azbuka2">Паша мыла щёки.</p>
+<p class="Azbuka2">Маши дали каши.</p>
+<p class="Azbuka2">Рыбы было мало.</p>
+<p class="Azbuka2">Дуни дали маку.</p>
+<p class="Azbuka2">Маша была рада</p>
+<p class="Azbuka2 indentedtbl">маку.</p>
+</td>
+<td class="w50" colspan="3">
+<p class="Azbuka2">Няня была рада</p>
+<p class="Azbuka2 indentedtbl">сыну.</p>
+<p class="Azbuka2">Тёща рада была</p>
+<p class="Azbuka2 indentedtbl">зятю.</p>
+<p class="Azbuka2">Дяди надо было</p>
+<p class="Azbuka2 indentedtbl">луку.</p>
+<p class="Azbuka2">Тёти надо было</p>
+<p class="Azbuka2 indentedtbl">муки.</p>
+<p class="Azbuka2">Я вижу кучу сору.</p>
+<p class="Azbuka2">Я чиню шубу Кати.</p>
+<p class="Azbuka2">Кума дала куму</p>
+<p class="Azbuka2 indentedtbl">рыбы.</p>
+<p class="Azbuka2">Таня дала Маши</p>
+<p class="Azbuka2 indentedtbl">сала.</p>
+<p class="Azbuka2">Люби Ваня Машу.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">11</span> <span class="npnumber">12</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Люби Маша Ваню.</p>
+<p class="Azbuka2">У Даши руки были голы.</p>
+<p class="Azbuka2">У Маши ноги были босы.</p>
+<p class="Azbuka2">У гуся лапы были сини.</p>
+<p class="Azbuka2">Вася и Таня были</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">малы и были милы.</p>
+<p class="Azbuka2">Жили куры и гуси у дома и жила лиса у рощи. У лисы были ноги вялы и зубы были тупы, куры и гуси были рады.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2 centerline"><strong>Азы. Ужи. Ѣда. Уха. Усы. Юла. Упа.  Яма. Ямы. Ухо. Уши. Осы. Оси. Ели. Я мою. Я рою. Я дую. Я лаю. Я жую.</strong></p>
+</td>
+</tr>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Я жую это мясо.</p>
+<p class="Azbuka2">Я дую на кашу.</p>
+<p class="Azbuka2">Я мою уши.</p>
+<p class="Azbuka2">Я рою эту яму.</p>
+<p class="Azbuka2">Я лаю на вора.</p>
+<p class="Azbuka2">Мы ещё малы.</p>
+<p class="Azbuka2">Упа рѣка.</p>
+<p class="Azbuka2">Руби эти ели.</p>
+<p class="Azbuka2">Маша ѣла уху.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">И я хочу ухи.</p>
+<p class="Azbuka2 notindent">Иди сюда Оля.</p>
+<p class="Azbuka2 notindent">Мама дала ухи.</p>
+<p class="Azbuka2 notindent">Оля ѣла уху.</p>
+<p class="Azbuka2 notindent">Купи Васи юлу.</p>
+<p class="Azbuka2 notindent">Ему надо юлу.</p>
+<p class="Azbuka2 notindent">Купи дяди чаю.</p>
+<p class="Azbuka2 notindent">Ему надо чаю.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">12</span> <span class="npnumber">13</span></p>
+<p class="left emptyline" id="loi2"> </p>
+<div class="image"><img alt="" class="image w70" src="./img/b00000756.png"/></div><p class="centerline">Отрывок из третьей редакции «Новой азбуки».</p>
+<br/>
+<table>
+<tr>
+<td colspan="15">
+<p class="Azbuka2">Я дала Васи эту юлу, а Маши дала ту юлу.</p>
+<p class="Azbuka2">Эта юла наша, а та юла ваша.</p>
+</td>
+<td colspan="15">
+<p class="Azbuka2">По часу сижу: азы буки учу.</p>
+<p class="Azbuka2">У Тани ума мало.</p>
+<p class="Azbuka2">Кому надо чаю иди сюда.</p>
+<p class="Azbuka2">Даю чаю.</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom" colspan="30">
+<p class="centerline Azbuka2"><strong>БЕ. Be. ГЕ Де. ЖЕ. Зе. МЕ. Не. Ле. Лѣ. Пѣ. Рѣ. Сѣ. Тѣ.</strong></p>
+</td>
+</tr>
+<tr>
+<td class="w20 noborder_top" colspan="6">
+<p class="Azbuka2">Нèбо.</p>
+</td>
+<td class="w20 noborder_top" colspan="6">
+<p class="Azbuka2">Лѣ̀то.</p>
+</td>
+<td class="w20 noborder_top" colspan="6">
+<p class="Azbuka2">Пèтя.</p>
+</td>
+<td class="w20 noborder_top" colspan="6">
+<p class="Azbuka2">Щепà</p>
+</td>
+<td class="w20 noborder_top" colspan="6">
+<p class="Azbuka2">Вѣсы̀.</p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p class="Azbuka2">Рѣ̀па.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Мѣ̀ра.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Гòре.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Невà</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Селò.</p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p class="Azbuka2">Сѣ̀но.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Вѐщи.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Дѣ̀ды.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Цѣнà.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Лещѝ.</p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p class="Azbuka2">Сѣ̀мя.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Сѣ̀ни.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Лѣсà.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Дѣлà</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Перò.</p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p class="Azbuka2">Пòле.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Мòре.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Бѣдà.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Мѣнà.</p>
+</td>
+<td colspan="6">
+<p class="Azbuka2">Чекà.</p>
+</td>
+</tr>
+<tr>
+<td colspan="10">
+<p class="Azbuka2">Сѣни новы.</p>
+</td>
+<td colspan="10">
+<p class="Azbuka2">Рѣпы нѣту.</p>
+</td>
+<td colspan="10">
+<p class="Azbuka2">Рѣжу дулю.</p>
+</td>
+</tr>
+<tr>
+<td colspan="10">
+<p class="Azbuka2">Щели малы.</p>
+</td>
+<td colspan="10">
+<p class="Azbuka2">Сѣна нѣту.</p>
+</td>
+<td colspan="10">
+<p class="Azbuka2">Цѣжу воду.</p>
+</td>
+</tr>
+<tr>
+<td colspan="10">
+<p class="Azbuka2">Перо тупо.</p>
+</td>
+<td colspan="10">
+<p class="Azbuka2">Вѣрю дѣду.</p>
+</td>
+<td colspan="10">
+<p class="Azbuka2">Лѣчу дядю.</p>
+</td>
+</tr>
+<tr>
+<td colspan="10">
+<p class="Azbuka2">Сѣно сыро.</p>
+</td>
+<td colspan="10">
+<p class="Azbuka2">Лежу дома.</p>
+</td>
+<td colspan="10">
+<p class="Azbuka2"> </p>
+</td>
+</tr>
+<tr>
+<td colspan="15">
+<p class="Azbuka2">Тётя била Петю</p>
+<p class="Azbuka2">Гуси сѣли на воду.</p>
+<p class="Azbuka2">Дѣти сѣли на сѣно.</p>
+<p class="Azbuka2">Жили мыши у печи.</p>
+</td>
+<td colspan="15">
+<p class="Azbuka2">Баба дала Ванѣ и Петѣ мёду.</p>
+<p class="Azbuka2">Бери косы и иди на поле.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">13</span> <span class="npnumber">14</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Няня, чеши Танѣ косу.</p>
+<p class="Azbuka2">Лежи тише на печи, уже не рано.</p>
+<p class="Azbuka2">Чини шубу Пети. Она худа.</p>
+<p class="Azbuka2">Было лѣто, пала зима.</p>
+<p class="Azbuka2">Щи и каша пища наша.</p>
+<p class="Azbuka2">Нянѣ была баня.</p>
+<p class="Azbuka2">Няня рада была банѣ.</p>
+<p class="Azbuka2">Но у няни мыла не было.</p>
+<p class="Azbuka2">Мама дала нянѣ мыла.</p>
+<p class="Azbuka2">Бабы сѣли на сѣнѣ и пѣли, a дѣти рыли и мяли сѣно.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">У Ѳеди и Вани были сѣти.</p>
+<p class="Azbuka2">Неси сѣти на рѣку.</p>
+<p class="Azbuka2">Я рѣжу рѣпу и даю рѣпы Ванѣ и Петѣ.</p>
+<p class="Azbuka2">У меня на тѣлѣ шуба, а на шеѣ бусы.</p>
+<p class="Azbuka2">Эти ели выши липы.</p>
+<p class="Azbuka2">Не руби эту липу.</p>
+<p class="Azbuka2">Эта липа ещё мала на лыко.</p>
+<p class="Azbuka2">Иди ваня тише, ноги у тебя ещё малы.</p>
+<p class="Azbuka2">Дѣти, куда вы дѣли вашу юлу?</p>
+<p class="Azbuka2">Дали бы вы юлу Машѣ.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">14</span> <span class="npnumber">15</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Она была бы рада.</p>
+<p class="Azbuka2">Иди дядя.</p>
+<p class="Azbuka2">Дѣти уже сѣли за щи и кашу.</p>
+<p class="Azbuka2">Дядѣ надо соли.</p>
+<p class="Azbuka2">Неси ему соли.</p>
+<p class="Azbuka2">На полѣ пыли и дыму нѣту.</p>
+<p class="Azbuka2">Была у дома лужа. На лужу сѣли гуси. Гуси были сѣры.</p>
+<p class="Azbuka2">Жила баба у дѣда. Были оба сѣды.</p>
+<p class="Azbuka2">У рѣки были норы и жили раки.</p>
+<p class="Azbuka2">Не бери рака за шею, а бери рака за ноги.</p>
+<p class="Azbuka2">Я несу суму.</p>
+<p class="Azbuka2">Иду до дома.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Дома лягу на печи.</p>
+<p class="Azbuka2">Я веду Таню за руку. Она ещё мала и ноги Тани малы.</p>
+<p class="Azbuka2">У дѣда ещё мёду нѣту. Васѣ не дали меду.</p>
+<p class="Azbuka2">У рощи была ива</p>
+<p class="Azbuka2">Не руби эту иву.</p>
+<p class="Azbuka2">Эта ива наша.</p>
+<p class="Azbuka2">Тётя дала Катѣ мяты, a Петѣ дала чаю.</p>
+<p class="Azbuka2">Море сине и небо сине.</p>
+<p class="Azbuka2">Небо выше.</p>
+<p class="Azbuka2">Море ниже.</p>
+<p class="Azbuka2">На небѣ тучи.</p>
+<p class="Azbuka2">На зарѣ иди на луга.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">15</span> <span class="npnumber">16</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Суши сѣно на домѣ.</p>
+<p class="Azbuka2">Руби липу на лыки, иву на дуги, а дубы на сани.</p>
+<p class="Azbuka2">Тяни сѣти по рѣкѣ.</p>
+<p class="Azbuka2">Ищи рыбу.</p>
+<p class="Azbuka2">Неси дядѣ рыбы на уху.</p>
+<p class="Azbuka2">Воры были на полѣ, а кони были дома.</p>
+<p class="Azbuka2">Эта шуба на мѣху, но хуже шубы Пети.</p>
+<p class="Azbuka2">Тоню тяну, рыбу ищу, уху варю.</p>
+<p class="Azbuka2">Были цѣпы наши на полѣ и цѣпы цѣлы.</p>
+<p class="Azbuka2">Ну, Вася, уже не рано.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Иди. Митя уже у мамы на печи.</p>
+<p class="Azbuka2">Не шуми Ваня, не буди дядю, а сиди тихо.</p>
+<hr class="black"/>
+<p class="Azbuka2">У мамы было не мало дѣла.</p>
+<p class="Azbuka2">Она шила шубы Тани и Маши.</p>
+<hr class="black"/>
+<p class="Azbuka2">У Саши на лицѣ была сажа.</p>
+<p class="Azbuka2">Мама мыла лице Саши.</p>
+<hr class="black"/>
+<p class="Azbuka2">Танѣ дали бусы на шею.</p>
+<p class="Azbuka2">Бусы были милы и Таня была рада.</p>
+<hr class="black"/>
+<p class="Azbuka2">Ваня и Дуня сѣли на сѣнѣ и рыли на сѣнѣ дыру.</p>
+<hr class="black"/>
+<p class="Azbuka2">Мы были на рѣкѣ.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">16</span> <span class="npnumber">17</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">У Пети ноги были сухи, а у меня ноги были сыры.</p>
+<p class="Azbuka2">Сушу ноги на печи.</p>
+<hr class="black"/>
+<p class="Azbuka2">Таня сѣла на сѣно и пѣла: люли люли, дули дули!</p>
+<hr class="black"/>
+<p class="Azbuka2">Мама была на рѣкѣ, мыла.</p>
+<p class="Azbuka2">И я иду туда.</p>
+<p class="Azbuka2">Не иди на рѣку.</p>
+<p class="Azbuka2">У тебя ноги босы.</p>
+<hr class="black"/>
+<p class="Azbuka2">У Тани было горе.</p>
+<p class="Azbuka2">Тётя шила Танѣ шубу на мѣху.</p>
+<p class="Azbuka2">Мѣху было мало.</p>
+<p class="Azbuka2">Бѣда-Танѣ. Зима, а шубы нѣту.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Катѣ дали мыла.</p>
+<p class="Azbuka2">Она мыла лицё и шею.</p>
+<p class="Azbuka2">И лицё и шея и руки Кати были бѣлы.</p>
+<hr class="black"/>
+<p class="Azbuka2">У Кати или у Вани болѣ силы.</p>
+<p class="Azbuka2">Катя дала руку Ванѣ.</p>
+<p class="Azbuka2">Тяни, Ваня, за руку Катю.</p>
+<p class="Azbuka2">У Кати силы болѣ, а у Вани силы нѣту.</p>
+<hr class="black"/>
+<p class="Azbuka2">Тётя дала Варѣ мёду. Варя сама ѣла мало мёду, а дала мёду Мишѣ, Васѣ и Катѣ и они были рады.</p>
+<hr class="black"/>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">17</span> <span class="npnumber">18</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Сани были на низу.</p>
+<p class="Azbuka2">Вези сани на гору.</p>
+<p class="Azbuka2">Ну-же, дѣти, живо на сани.</p>
+<p class="Azbuka2">Дѣти сѣли на сани и были рады.</p>
+<hr class="black"/>
+<p class="Azbuka2">У дяди была на рукѣ рана.</p>
+<p class="Azbuka2">Мама дала сала.</p>
+<p class="Azbuka2">Я мажу дядѣ рану на рукѣ, я лѣчу ему рану. </p>
+<hr class="black"/>
+<p class="Azbuka2">Няня ѣла кашу.</p>
+<p class="Azbuka2">Маша сѣла нянѣ на руки.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Няня дала Машѣ каши.</p>
+<p class="Azbuka2">Муха сѣла Машѣ на руку.</p>
+<p class="Azbuka2">Маша дала мухѣ каши.</p>
+<p class="Azbuka2">И няня была сыта, и Маша была сыта, и муха была сыта.</p>
+<hr class="black"/>
+<p class="Azbuka2">У Миши были сани.</p>
+<p class="Azbuka2">Маша и Петя сѣли на сани.</p>
+<p class="Azbuka2">Вези сани Миша. <br/>А у Миши силы нѣту.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2"><strong>Рвы. Дни. Псы. Сны. Рты. Лбы. Вши. Лжи, Пни. Дно. Зло. Кто. Что. Сто. Рви. Ржи. Жми. Жни. Гни. Чти. Три. Спи. Жги. Лги. Жгу. Мну. Мщу. Тку.</strong></p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">18</span> <span class="npnumber">19</span></p>
+<table>
+<tr>
+<td colspan="4">
+<p class="Azbuka2"><strong>Двѣ. Всѣ. Ржа. Два. Тля. Зря. Лгу. Тру. Рву. Гдѣ. Вся. Всё. Вру. Шлю.</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Я жду дядю.</p>
+<p class="Azbuka2">Я тру сѣмя.</p>
+<p class="Azbuka2">Я рву дули.</p>
+<p class="Azbuka2">Я жгу сѣно.</p>
+<p class="Azbuka2">Я гну липу.</p>
+<p class="Azbuka2">Я жму руку.</p>
+<p class="Azbuka2">Не лги и не ври.</p>
+<p class="Azbuka2">Не зли пса.</p>
+<p class="Azbuka2">У пса зубы не тупы.</p>
+<p class="Azbuka2">Шли дѣти по лѣсу, сѣли на пни.</p>
+<p class="Azbuka2">Я вижу сны про Машу.</p>
+</td>
+<td colspan="2">
+<p class="Azbuka2">Гдѣ ты была?</p>
+<p class="Azbuka2">Что у тебя на лбу?</p>
+<p class="Azbuka2">Вся рыба ушла на дно рѣки.</p>
+<p class="Azbuka2">Мнѣ дали чаю, а для тебя нѣту.</p>
+<p class="Azbuka2">Лежи и спи.</p>
+<p class="Azbuka2">При мамѣ я была мила три дня.</p>
+<p class="Azbuka2">Я жну три дня. Я тку всю зиму.</p>
+</td>
+</tr>
+<tr>
+<td class="w25">
+<p class="Azbuka2">Трава.</p>
+<p class="Azbuka2">Ключѝ.</p>
+<p class="Azbuka2">Блины.</p>
+<p class="Azbuka2">Глаза.</p>
+<p class="Azbuka2">Земля.</p>
+</td>
+<td class="w25">
+<p class="Azbuka2">Весна.</p>
+<p class="Azbuka2">Пчела.</p>
+<p class="Azbuka2">Листы.</p>
+<p class="Azbuka2">Звѣзда.</p>
+<p class="Azbuka2">Гнѣздо.</p>
+</td>
+<td class="w25">
+<p class="Azbuka2">Трубà.</p>
+<p class="Azbuka2">Цвѣты̀.</p>
+<p class="Azbuka2">Грибы.</p>
+<p class="Azbuka2">Изба.</p>
+<p class="Azbuka2">Сѣдло.</p>
+</td>
+<td class="w25">
+<p class="Azbuka2">Зерно.</p>
+<p class="Azbuka2">Грачи.</p>
+<p class="Azbuka2">Стекло.</p>
+<p class="Azbuka2">Крючки.</p>
+<p class="Azbuka2">Тепло.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">19</span> <span class="npnumber">20</span></p>
+<table>
+<tr>
+<td class="w25">
+<p class="Azbuka2">Кости.</p>
+<p class="Azbuka2">Буквы.</p>
+<p class="Azbuka2">Сабля.</p>
+<p class="Azbuka2">Вёдра.</p>
+<p class="Azbuka2">Мѣсто.</p>
+<p class="Azbuka2">Время.</p>
+<p class="Azbuka2">Стѣны.</p>
+<p class="Azbuka2">Утка.</p>
+<p class="Azbuka2">Плечи.</p>
+<p class="Azbuka2">Нитка.</p>
+</td>
+<td class="w25">
+<p class="Azbuka2">Слово.</p>
+<p class="Azbuka2">Крыса.</p>
+<p class="Azbuka2">Птицы.</p>
+<p class="Azbuka2">Шляпа.</p>
+<p class="Azbuka2">Черви.</p>
+<p class="Azbuka2">Шишка.</p>
+<p class="Azbuka2">Шапка.</p>
+<p class="Azbuka2">Блюдо.</p>
+<p class="Azbuka2">Книга.</p>
+<p class="Azbuka2">Слава.</p>
+</td>
+<td class="w25">
+<p class="Azbuka2">Камни.</p>
+<p class="Azbuka2">Волки.</p>
+<p class="Azbuka2">Масло.</p>
+<p class="Azbuka2">Груша.</p>
+<p class="Azbuka2">Спицы.</p>
+<p class="Azbuka2">Пушка.</p>
+<p class="Azbuka2">Галка.</p>
+<p class="Azbuka2">Грабли.</p>
+<p class="Azbuka2">Скука.</p>
+<p class="Azbuka2">Грива.</p>
+</td>
+<td class="w25">
+<p class="Azbuka2">Двери.</p>
+<p class="Azbuka2">Капля.</p>
+<p class="Azbuka2">Палка.</p>
+<p class="Azbuka2">Вилки.</p>
+<p class="Azbuka2">Звѣри.</p>
+<p class="Azbuka2">Глина.</p>
+<p class="Azbuka2">Брови.</p>
+<p class="Azbuka2">Пчёлы.</p>
+<p class="Azbuka2">Щелка.</p>
+<p class="Azbuka2">Полки.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Капли малы.</p>
+<p class="Azbuka2">Чашки новы.</p>
+<p class="Azbuka2">Груши спѣлы.</p>
+<p class="Azbuka2">Глаза свѣтлы.</p>
+<p class="Azbuka2">Блины жирны.</p>
+<p class="Azbuka2">Труба крива.</p>
+<p class="Azbuka2">Палки гладки.</p>
+<p class="Azbuka2">Стѣны стары.</p>
+<p class="Azbuka2">Булки вкусны.</p>
+<p class="Azbuka2">Щенки слѣпы.</p>
+<p class="Azbuka2">Кадки полны.</p>
+</td>
+<td colspan="2">
+<p class="Azbuka2">Блохи мелки.</p>
+<p class="Azbuka2">Брови черны.</p>
+<p class="Azbuka2">Пушки крѣпки.</p>
+<p class="Azbuka2">Масло жёлто.</p>
+<p class="Azbuka2">Крыши кривы.</p>
+<p class="Azbuka2">Крысы ловки.</p>
+<p class="Azbuka2">Цвѣты видны.</p>
+<p class="Azbuka2">Кошки хитры.</p>
+<p class="Azbuka2">Хлѣбы мягки.</p>
+<p class="Azbuka2">Стѣны плохи.</p>
+<p class="Azbuka2">Чулки стары.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">20</span> <span class="npnumber">21</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Наши пряли.</p>
+<p class="Azbuka2"><em>Наши пряли.</em></p>
+<p class="Azbuka2">Ваши спали.</p>
+<p class="Azbuka2"><em>Ваши спали.</em></p>
+<p class="Azbuka2">Капля мала, а по каплѣ море.</p>
+<p class="Azbuka2"><em>Капля мала, а по каплѣ море.</em></p>
+<p class="Azbuka2">По снѣгу грибы не ищи.</p>
+<p class="Azbuka2"><em>По снѣгу грибы не ищи.</em></p>
+<p class="Azbuka2">Кошкѣ шутки, а мышкѣ слезки.</p>
+<p class="Azbuka2"><em>Кошкѣ шутки, а мышкѣ слезки.</em></p>
+<p class="Azbuka2">Наша кошка стала стара.</p>
+<p class="Azbuka2">Наши гости много пили браги.</p>
+<p class="Azbuka2">Тётка Мавра взяла всю крупу.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Павлу дали много квасу.</p>
+<p class="Azbuka2">Мишкѣ нынче дали книгу.</p>
+<p class="Azbuka2">Крысы крупны, а мышки мелки.</p>
+<p class="Azbuka2">Мы бы крыли крышу, да тёсу уже нѣту.</p>
+<p class="Azbuka2">Пришла весна, стала видна на лугу трава.</p>
+<p class="Azbuka2">Клали скирды. Было жарко, было трудно, а всё пѣли пѣсни.</p>
+<p class="Azbuka2">Настя спѣла пѣсню. Хвалю за то Настю.</p>
+<p class="Azbuka2">Сиди крѣпче на сѣдлѣ, держи за гривку.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">21</span> <span class="npnumber">22</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Несла баба ведро квасу. На ведpѣ была крышка.</p>
+<p class="Azbuka2">Пришли гости. Сняли шапки, сѣли на лавки.</p>
+<p class="Azbuka2">Ушла крыса за печку, не видно стало крысы.</p>
+<p class="Azbuka2">Дѣвки пряли вмѣстѣ пряжу. Пришли парни, стали возлѣ.</p>
+<p class="Azbuka2">Засни Вася, пришло время. Уже стало вовсе темно.</p>
+<p class="Azbuka2">Стало тёмно. Бери спичку, три о стѣну, зажги свѣчку.</p>
+<p class="Azbuka2">Плыли люди по рѣкѣ, стала буря.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Держи весла тверже, греби крѣпче.</p>
+<p class="Azbuka2">Я нынче прочту по книгѣ всю сказку, это мнѣ не трудно.</p>
+<p class="Azbuka2">Стала школа, пошли дѣти. Сѣли на лавки, взяли книги. </p>
+<p class="Azbuka2">Дѣду скучно было дома. Пришла внучка, спѣла пѣсню.</p>
+<p class="Azbuka2">Тётка дала Настѣ ленту. Настя рада была лентѣ.</p>
+<p class="Azbuka2">Тётка шила шубу Настѣ. Сама пѣла пѣсню, а Настя спала подлѣ тётки.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">22</span> <span class="npnumber">23</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Наши дѣды стали стары. Глаза стали слѣпы. Ноги стали слабы. Всѣ стали плохи.</p>
+<hr class="black"/>
+<p class="Azbuka2">Настя ѣла грушу, а у Маши текли слюнки. Стыдно Маша, утри губы. </p>
+<hr class="black"/>
+<p class="Azbuka2">Мама, купи мнѣ нитки, я свяжу тёткѣ чулки. Чулки тётки стали стары. Видны пятки. </p>
+<hr class="black"/>
+<p class="Azbuka2">На елкѣ были шишки. Дѣти взяли эти шишки, снесли полны шапки. </p>
+<hr class="black"/>
+<p class="Azbuka2">Бабка долго шла, трудно стало бабкѣ идти. Она легла </p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">и спала и послѣ легче пошла и дошла. </p>
+<hr class="black"/>
+<p class="Azbuka2">Два волка вышли прямо на меня и стали на бугрѣ. Мнѣ стало жутко. </p>
+<hr class="black"/>
+<p class="Azbuka2">Пало много снѣгу. По снѣгу шли звѣри и видны были слѣды. Пришли люди, шли по слѣду и нашли звѣря. </p>
+<hr class="black"/>
+<p class="Azbuka2">Вбили на дворѣ два шеста. На верху были платки и шапки. Дѣти лѣзли на шесты. Брали платки и шапки. </p>
+<hr class="black"/>
+<p class="Azbuka2">У бабки была внучка, прежде внучка </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">23</span> <span class="npnumber">24</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">была мала и всё спала, а бабка сама пекла хлѣбы, мела избу, мыла, шила, пряла и ткала на внучку; a послѣ бабка стала стара и легла на печку и всё спала. И внучка пекла, мыла, шила, ткала и пряла на бабку. </p>
+<hr class="black"/>
+<p class="Azbuka2">Помню я была мала, тётка дала мнѣ тряпку, иглу и нитку. И я сшила себѣ сумку. Сумка была плоха, но я была горда, что сама сшила эту штуку. </p>
+<hr class="black"/>
+</td>
+<td class="w50">
+<p class="Azbuka2">Петя и Маша были гости у Насти. Они вышли всѣ вмѣстѣ за кусты и сѣли на траву. Настя взяла хлѣба и масла и они вмѣстѣ ѣли a послѣ пѣли пѣсни. </p>
+<hr class="black"/>
+<p class="Azbuka2">На лугу были чурки. Дѣти взяли эти чурки и клали избу. Прежде стѣны, послѣ крышу. И на крышѣ была труба, а на углу были двери. Изба была не мала, но двери были тѣсны для куклы. Дѣти сняли крышу </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">24</span> <span class="npnumber">25</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">и куклы сѣли туда сверху. </p>
+<hr class="black"/>
+<p class="Azbuka2">Несла баба ведро воды. Ведро было худо. Вода текла на землю. А баба была рада, что нести стало легче. Пришла, сняла ведро, а воды нѣту. </p>
+<hr class="black"/>
+<p class="Azbuka2">Пришла Настя послѣ школы. Одна мама была дома. Настя сѣла у стола, взяла книжку и прочла сказку. Мама была рада. </p>
+<hr class="black"/>
+<p class="Azbuka2">Птица свила гнѣздо на кустѣ. Дѣти нашли гнѣздо и сняли на землю.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Гляди, Вася, три птички! На утро пришли дѣти, а гнѣздо уже было пусто. Жалко было. </p>
+<hr class="black"/>
+<p class="Azbuka2">Дѣти на дворѣ рыли себѣ грядки. У Васи были дубки, а у Пети была рѣпа. На лѣто у Васи все были дубки, а у Пети рѣпы не было. </p>
+<hr class="black"/>
+<p class="Azbuka2">На дворѣ было чисто. Среди двора была куча песку. Вышли дѣти, сѣли на кучу песку и пошла игра. Клали по двору </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">25</span> <span class="npnumber">26</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">кучки. Была игра: у кого выше кучка. </p>
+<hr class="black"/>
+<p class="Azbuka2">Сѣли гуси на воду. По водѣ пошли круги всё шире и шире, a послѣ стало гладко. Вода была чиста и видны были лапки. </p>
+<hr class="black"/>
+<p class="Azbuka2">Была у Насти кукла. Настя звала куклу дочка. Мама дала Настѣ для ея куклы всё, что надо. Были у куклы юпки, кофты, платки, чулки, были даже гребни, щётки, бусы. </p>
+<hr class="black"/>
+<p class="Azbuka2">Пошла Катя по утру по грибы, взяла Машу. Маша</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">была мала. На пути была рѣчка. Катя взяла Машу себѣ на спину. Сняла чулки и пошла по водѣ. Сиди крѣпче, Маша, да не жми меня за шею. Пусти ручки, а то мнѣ душно. И Катя снесла Машу. </p>
+<hr class="black"/>
+<p class="Azbuka2">Маша и Гриша сѣли на лодку. А лодка была худа. Была дыра. Стала лодка полна воды Маша и Гриша стали мокры и слѣзли на землю. </p>
+<hr class="black"/>
+<p class="Azbuka2">Жили мыши на полѣ подлѣ пруда</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">26</span> <span class="npnumber">27</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">Пришла весна. Пошли воды. Мыши пошли на гору. На горѣ жила лиса. Лиса была рада, что пришли мыши и ѣла сразу по двѣ мыши и стала жирна. </p>
+<hr class="black"/>
+<p class="Azbuka2">У Маши была тётка. Маша пришла и сѣла на лавку. Тётя дала Машѣ два куска дыни. Маша снесла дыни брату Пети.</p>
+<p class="Azbuka2">Была зима, но было тепло. Было много снѣгу. Дѣти были на пруду. Взяли снѣгу, </p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">клали куклу. — Руки зябли. За то кукла вышла славно. Во рту куклы была трубка. Глаза куклы были угли. </p>
+<hr class="black"/>
+<p class="Azbuka2">Спала кошка на крышѣ, сжала лапки. Сѣла подлѣ кошки птичка. Не сиди близко, птичка, кошки хитры. </p>
+<hr class="black"/>
+<p class="Azbuka2">Нашли дѣти ежа на травѣ. Бери его, Вася, на руки. Мнѣ колко. Ну клади шапку на землю; а я скачу его на шапку. Шапка была мала и дѣти ушли, а ежа не взяли. </p>
+<hr class="black"/>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">27</span> <span class="npnumber">28</span></p>
+<table>
+<tr>
+<td>
+<p class="Azbuka2">Таня знала буквы. Она взяла книгу и куклу и дала книгу куклѣ, будто школа. Учи, кукла, буквы! Это — А. Это Б — Бе. Смотри помни. </p>
+<hr class="black"/>
+<p class="Azbuka2">У Розки были щенки на дворѣ на сѣнѣ. Розка ушла. Дѣти пришли и взяли щенка и снесли на печку. Розка пришла, не нашла щенка и выла. Послѣ нашла</p>
+</td>
+<td>
+<p class="Azbuka2 notindent">щенка и выла подлѣ печки. Дѣти сняли щенка и дали Розкѣ. И Розка снесла щенка во рту на мѣсто. </p>
+<hr class="black"/>
+<p class="Azbuka2">У дяди была Розка, Розка была умна. Дядя! вели, чтобъ Розка взяла шапку. Розка! гляди на Васѣ шапка. Розка лѣзла на Васю, клала ему лапы на плечи и брала шапку.</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom" colspan="2">
+<p class="centerline Azbuka2"><strong>Въ. Къ. Съ. Отъ. Изъ. Ихъ. Объ.<br/>Ахъ. Онъ.</strong></p>
+</td>
+</tr>
+<tr>
+<td class="noborder_top">
+<p class="Azbuka2">Я иду въ гости. Я ѣду къ дѣду.</p>
+</td>
+<td class="noborder_top">
+<p class="Azbuka2">Сними меня съ печки.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">28</span> <span class="npnumber">29</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Шелъ снѣгъ съ неба.</p>
+<p class="Azbuka2">Я кладу дитя въ зыбку.</p>
+<p class="Azbuka2">Мама пришла къ Васѣ.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Иди въ баню. Иди къ мамѣ. Сними съ полки шапку.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Ловъ. Ровъ. Шовъ. Провъ. Кровъ. Хлѣвъ. Сѣвъ. Левъ. Рёвъ. Лёвъ.</p>
+<p class="Azbuka2">Бокъ. Сокъ. Срокъ. Стукъ. Жукъ. Звукъ. Пукъ. Крикъ. Сукъ. Лукъ. Макъ. Ракъ. Знакъ. Крикъ. Лукъ.</p>
+<p class="Azbuka2">Носъ. Пёсъ. Часъ. Лѣсъ. Вкусъ. Трусъ. Тесъ. Квасъ. Класъ. Рисъ.</p>
+<p class="Azbuka2">Дымъ. Кумъ. Домъ. Храмъ. Громъ.</p>
+<p class="Azbuka2">Свѣтъ. Котъ. Братъ. Сватъ. Плутъ. Кнутъ. Шутъ. Титъ. Щитъ. Ротъ.</p>
+<p class="Azbuka2">Разъ. Возъ. Глазъ. Тазъ. Тузъ. Низъ.</p>
+<p class="Azbuka2">Лёнъ. Сонъ. Звонъ. Хрѣнъ. Клинъ.</p>
+<p class="Azbuka2">Блинъ. Чинъ. Сынъ. Тынъ. Донъ.</p>
+<p class="Azbuka2">Лобъ. Дубъ. Гробъ. Зобъ. Зубъ. Хлѣбъ. Рабъ. Лубъ. Глѣбъ.</p>
+<p class="Azbuka2">Цѣпъ. Щупъ. Снопъ. Клопъ.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">29</span> <span class="npnumber">30</span></p>
+<table>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Дѣдъ. Садъ. Годъ. Плодъ. Родъ. Градъ. Жидъ. Радъ. Младъ. Прудъ.</p>
+<p class="Azbuka2">Жаръ. Паръ. Боръ. Дворъ. Соръ. Жиръ. Миръ. Сыръ. Воръ. Пиръ. Сѣръ.</p>
+<p class="Azbuka2">Богъ. Рогъ. Другъ. Плугъ. Врагъ.</p>
+<p class="Azbuka2">Пухъ. Мѣхъ. Смѣхъ. Слухъ. Мохъ.</p>
+<p class="Azbuka2">Полъ. Столъ. Стулъ. Мѣлъ. Илъ.</p>
+<p class="Azbuka2">Мужъ. Ужъ. Ножъ. Кряжъ. Чижъ.</p>
+</td>
+</tr>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Жукъ сѣлъ на сукъ.</p>
+<p class="Azbuka2">Дѣдъ нашъ спитъ.</p>
+<p class="Azbuka2">Кнутъ не такъ свитъ.</p>
+<p class="Azbuka2">Пёсъ сталъ золъ.</p>
+<p class="Azbuka2">Мужъ былъ трусъ.</p>
+<p class="Azbuka2">Лукъ нашъ не тугъ.</p>
+<p class="Azbuka2">Снѣгъ бѣлъ, точно мѣлъ.</p>
+<p class="Azbuka2">Дѣдъ старъ, а внукъ глупъ.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Дядя скупъ, не далъ намъ крупъ.</p>
+<p class="Azbuka2">Изъ котла шёлъ паръ.</p>
+<p class="Azbuka2">Изъ трубъ шелъ дымъ.</p>
+<p class="Azbuka2">Братъ пилъ квасъ</p>
+<p class="Azbuka2">Нѣтъ для насъ.</p>
+<p class="Azbuka2">Кто пёкъ хлѣбъ, тотъ и ѣлъ.</p>
+<p class="Azbuka2">На нашъ садъ палъ градъ. Сталъ нашъ садъ голъ.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">30</span> <span class="npnumber">31</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Сталъ нашъ пёсъ плохъ. Я его мылъ, а все на нёмъ много блохъ.</p>
+<p class="Azbuka2">Ваня легъ на полъ и спитъ. Вотъ такъ сонъ!</p>
+<p class="Azbuka2">Изъ за лѣсу, изъ за горъ, вижу нашъ домъ и дворъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">Дѣдъ сталъ старъ. Разъ онъ лѣзъ на печку и не могъ. Внукъ былъ въ избѣ. Ему стало смѣшно. Стыдно, внукъ. Не то дурно, что дѣдъ старъ и слабъ, а то дурно, что внукъ младъ и глупъ. </p>
+<hr class="black"/>
+</td>
+<td class="w50">
+<p class="Azbuka2">Шелъ Миша по лѣсу. У дуба росъ грибъ. Грибъ былъ старъ, никто его не бралъ. Но Миша былъ радъ и снёсъ грибъ въ домъ. Вотъ грибъ, лучше всѣхъ! А грибъ былъ гнилъ, никто его не ѣлъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">Пошли дѣти въ лѣсъ. Долго были въ лѣсу, не знали куда выдти изъ лѣсу и не знали гдѣ домъ. Стало имъ слышно звонъ; они и пошли на звонъ и нашли тогда село и пришли въ домъ. </p>
+<hr class="black"/>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">31</span> <span class="npnumber">32</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">У Пети и Вани шла игра вотъ такъ: они будто овцы, били другъ друга лобъ о лобъ. Игра была плоха: у Вани стала шишка на лбу, а у Пети шишка на глазу. </p>
+<hr class="black"/>
+<p class="Azbuka2">Была въ лѣсу бѣлка и были у бѣлки дѣти. Жили бѣлки въ дуплѣ. Пришли Миша и Коля, взяли ихъ къ себѣ, и бѣлки жили у нихъ въ клѣткѣ. </p>
+<hr class="black"/>
+<p class="Azbuka2">Саша былъ трусъ. Была гроза и громъ. Саша влѣзъ</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">въ шкапъ Тамъ было ему темно и душно. Сашѣ не слышно было прошла ли гроза. Сиди, Саша, всегда въ шкапу за то, что ты трусъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">Былъ у Миши кнутъ. Онъ имъ всѣхъ билъ. Разъ онъ билъ кошку няни. Пришла няня взяла у Миши кнутъ и била Мишу за то, что онъ былъ золъ и билъ ея кошку. </p>
+<hr class="black"/>
+<p class="Azbuka2">Сталъ быкъ золъ никто мимо быка идти не смѣлъ. Гналъ разъ дѣдъ</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">32</span> <span class="npnumber">33</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">быка въ стадо. Быкъ сбилъ дѣда съ ногъ и подъ себя смялъ. Пришли люди и взяли дѣда. Дѣдъ послѣ</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">того не долго былъ живъ. Тогда взяли быка, свели на дворъ и били по лбу до тѣхъ поръ, пока быкъ палъ.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="centerline Azbuka2"><strong>Ась. Ель. Ось. Ерь. Ѣшь.</strong></p>
+<p class="Azbuka2">Тѣнь. Пень. День. Лѣнь. Конь. Дань. Брань. Дрань. Грань. Дрянь. Линь.</p>
+<p class="Azbuka2">Сѣть. Мать. Путь. Клѣть. Плеть. Треть. Зять. Ртуть. Пять. Нить. Стать.</p>
+<p class="Azbuka2">Боль. Моль. Даль. Цѣль. Соль. Бѣль. Сталь. Ноль. Шаль. Куль. Щель.</p>
+<p class="Azbuka2">Гусь. Русь. Смѣсь. Спѣсь. Здѣсь.</p>
+<p class="Azbuka2">Цѣпь. Степь. Лещь. Клещь. Хрящь.</p>
+<p class="Azbuka2">Мышь. Плѣшь. Царь. Дверь.</p>
+<p class="Azbuka2">Глубь. Рябь. Звѣрь. Корь.</p>
+<p class="Azbuka2">Бровь. Кровь. Грудь. Мѣдь.</p>
+<p class="Azbuka2">Князь. Грязь. Темь. Земь.</p>
+<p class="Azbuka2">Стань. Вынь. Кинь. Дунь. Тронь.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">33</span> <span class="npnumber">34</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Руби пень.</p>
+<p class="Azbuka2">Время спать.</p>
+<p class="Azbuka2">Брось шить.</p>
+<p class="Azbuka2">Кинь сѣть.</p>
+<p class="Azbuka2">Иду траву рвать.</p>
+<p class="Azbuka2">Весь день жать.</p>
+<p class="Azbuka2">Не стану вина пить.</p>
+<p class="Azbuka2">Стали бабы пѣсни пѣть.</p>
+<p class="Azbuka2">Надо на кашу дуть.</p>
+<p class="Azbuka2">Иду въ путь.</p>
+<p class="Azbuka2">Ему лѣнь на ноги стать.</p>
+<p class="Azbuka2">Мнѣ надо книгу дать.</p>
+<p class="Azbuka2">Иду воду на гряды лить.</p>
+<p class="Azbuka2">Вели ему шапку снять.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Бабы шли лёнъ мять.</p>
+<p class="Azbuka2">Весь день отъ липы тѣнь.</p>
+<p class="Azbuka2">Дунь на свѣчу.</p>
+<p class="Azbuka2">Сунь книгу въ столъ.</p>
+<p class="Azbuka2">Хочу идти въ клѣть, да въ клѣти дверь, а я не стяну съ двери цѣпь.</p>
+<p class="Azbuka2">Я иду на рѣку мыть.</p>
+<p class="Azbuka2">Мамѣ много дѣла. Надо мамѣ шить, мыть, ткать и печь. </p>
+<hr class="black"/>
+<p class="Azbuka2">Вася сѣлъ на пень и пень былъ у него будто конь.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">34</span> <span class="npnumber">35</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Онъ взялъ плеть и гналъ пень. </p>
+<hr class="black"/>
+<p class="Azbuka2">У Вари былъ чижъ. Чижъ жилъ въ клѣткѣ и ни разу не пѣлъ. Варя пришла къ чижу. — Пора тебѣ, чижъ, пѣть. — Пусти меня на волю, на волѣ буду весь день пѣть. </p>
+<hr class="black"/>
+<p class="Azbuka2">Дядя далъ Ѳедѣ коня и далъ плеть. Смотри, Ѳедя, не гони коня шибко, а то конь старъ. Ѳедя взялъ плеть и сталъ коня шибко гнать, конь вовсе сталъ, и Ѳедя слѣзъ. </p>
+<hr class="black"/>
+<br/>
+</td>
+<td class="w50">
+<p class="Azbuka2">Мать дала Катѣ квасу. А у Кати былъ братъ Власъ. Катя дала и брату пить. Катѣ для брата Власа не жаль было кваса. </p>
+<hr class="black"/>
+<p class="Azbuka2">Мышка грызла полъ и стала щель. Мышь прошла въ щель, нашла много ѣды. Мышь была жадна и ѣла такъ много, что у ней брюхо стало полно. Когда сталъ день, мышь пошла къ себѣ, но брюхо было такъ полно, что она не прошла въ щель. </p>
+<hr class="black"/>
+<br/>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">35</span> <span class="npnumber">36</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Мать и дочь легли спать. Мать не спала весь день. А дочь стала пѣсни пѣть. Дочка! я хочу спать, брось пѣть. А дочка еще громче стала пѣть. Тогда мать свела дочь въ клѣть. — Тебѣ здѣсь лучше пѣть, a мнѣ безъ тебя лучше спать. </p>
+<hr class="black"/>
+<p class="Azbuka2">Жилъ дѣдъ у рѣки. Были у дѣда лодка и сѣть. И были у дѣда два внука: Петя и Гриша. Гришѣ было семь лѣтъ, а Пети пять. Разъ вышли Петя и Гриша рано </p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">на рѣку. Они знали, что у дѣда на рѣкѣ была сѣть. Они сѣли въ лодку. Гриша сѣлъ на руль, а Петя грёбъ. Они плыли долго по рѣкѣ, не знали гдѣ сѣть; но нашли сѣть, взяли рыбу и дали дѣду. </p>
+<hr class="black"/>
+<p class="Azbuka2">Звѣрь сѣръ.</p>
+<p class="Azbuka2">Жукъ сѣлъ въ щель.</p>
+<p class="Azbuka2">Я на кашу дулъ.</p>
+<p class="Azbuka2">У меня было пять пуль.</p>
+<p class="Azbuka2">Брату Петѣ семь лѣтъ.</p>
+<p class="Azbuka2">Онъ всѣмъ милъ.</p>
+<p class="Azbuka2">Дѣти спятъ, всѣ пять.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">36</span> <span class="npnumber">37</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Стань на станъ.</p>
+<p class="Azbuka2">Росъ клёнъ, отъ него была тѣнь.</p>
+<p class="Azbuka2">На дворѣ была пыль, а я дома былъ.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Запри дверь на дворъ.</p>
+<p class="Azbuka2">Давно ли ты, дядя, нѣмъ? Да ужъ лѣтъ семь.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Волкъ. Шелкъ. Полкъ. Блескъ. Толкъ.</p>
+<p class="Azbuka2">Постъ. Мостъ. Ростъ. Хвостъ. Листъ. Кустъ. Крестъ. Пустъ. Густъ. Шестъ.</p>
+<p class="Azbuka2">Кость. Гость. Трость. Честь. Вѣсть. Лесть. Шесть. Грусть. Пасть. Снасть.</p>
+<p class="Azbuka2">Пискъ. Спускъ. Воскъ. Лоскъ.</p>
+<p class="Azbuka2">Чортъ. Мартъ. Гуртъ. Сортъ.</p>
+<p class="Azbuka2">Франтъ. Бантъ. Кантъ. Столбъ. Верхъ. Дёрнъ. Тёрнъ. Гвоздь. Груздь. Дождь. Вихрь. Рубль. Скорбь. Смерть. Дроздъ.</p>
+<p class="Azbuka2">Жизнь. Казнь. Пѣснь. Чернь.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Azbuka2">Шестъ во весь ростъ.</p>
+<p class="Azbuka2">Крѣпка какъ кость.</p>
+<p class="Azbuka2">Нынѣ постъ.</p>
+<p class="Azbuka2">На сохѣ снасть.</p>
+</td>
+<td>
+<p class="Azbuka2">Тесть сталъ ѣсть.</p>
+<p class="Azbuka2">У волка пасть.</p>
+<p class="Azbuka2">Петръ шлетъ намъ вѣсть.</p>
+<p class="Azbuka2">Хочу на стулъ</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">37</span> <span class="npnumber">38</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">сѣсть, чтобы лапти плесть.</p>
+<p class="Azbuka2">Трудна ея жизнь.</p>
+<p class="Azbuka2">На море много волнъ.</p>
+<p class="Azbuka2">Не стало вербъ, всѣ вышли.</p>
+<p class="Azbuka2">Не видно звѣздъ. Верба хлёстъ, билъ до слёзъ.</p>
+<p class="Azbuka2">Супъ нашъ густъ Домъ сталъ пустъ.</p>
+<p class="Azbuka2">Червь ѣстъ листъ.</p>
+<p class="Azbuka2">Нужно бы траву гресть, къ стогу сѣно везть.</p>
+<p class="Azbuka2">Волкъ былъ бы добръ, да ему ѣсть надо.</p>
+<p class="Azbuka2">Всѣ мѣста взяты. Нѣтъ намъ мѣстъ, нèгдѣ сѣсть.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Шелъ гуртъ на мостъ.</p>
+<p class="Azbuka2"><em>Тонко прясть, долго ждать. </em></p>
+<hr class="black"/>
+<p class="Azbuka2">Мамы не было дома, а прялка была въ избѣ. Пришла Катя, стала прясть. Пряла мало, а пряжи смяла много. </p>
+<hr class="black"/>
+<p class="Azbuka2">Есть червь, онъ жёлтъ, онъ ѣсть листъ. Изъ червя того шелкъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">У меня есть шесть куръ и по утру даю имъ кормъ. Я кричу: цыпъ, цыпъ. Я сыплю зерно на землю и на куръ. </p>
+<hr class="black"/>
+<br/>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">38</span> <span class="npnumber">39</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Дѣти стали лѣзть на шестъ, но шестъ былъ толстъ и они ноги стерли и не влѣзли на шестъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">Сталъ Ваня на коня лѣзть и взялъ его за хвостъ. Кинь, Ваня, хвостъ. По хвосту на коня не влѣзть. </p>
+<hr class="black"/>
+<p class="Azbuka2">Ѣла мать борщъ и клала въ борщъ соль. А Митя былъ глупъ, когда мать ушла, сталъ одну соль ѣсть. </p>
+<hr class="black"/>
+<p class="Azbuka2">Жилъ дядя Петръ. И влѣзъ къ нему въ домъ воръ, чтобъ красть. Но у дяди</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">Петра домъ былъ пустъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">Несла Жучка кость черезъ мостъ. Глядь, въ водѣ ея тѣнь. Пришло Жучкѣ на умъ, что въ водѣ не тѣнь, а Жучка и кость. Она и пусти свою кость, чтобы ту взять. Ту не взяла, а своя ко дну пошла. </p>
+<hr class="black"/>
+<p class="Azbuka2">Ваня нёсъ отцу хлѣбъ, легъ подъ кустъ и сталъ спать. Жучка нашла хлѣбъ и стала его ѣсть. </p>
+<hr class="black"/>
+<p class="Azbuka2">Пошли дѣти на гумно и пошла у</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">39</span> <span class="npnumber">40</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">ни<strong>х</strong>ъ игра въ волка и овцы. Миша былъ волкъ. Онъ влѣзъ по шесту на скирдъ. На скирдѣ было мягко и Миша лёгъ. Овцы были Коля и Настя. Они ждали, ждали волка, нѣтъ волка. Стали его звать. Не нашли</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">Мишу и ушли. Пришла мать. Гдѣ Миша, гдѣ Миша? Пошли въ поле, въ лѣсъ. Нѣтъ Миши. Пришла мать на гумно, Миша! А Миша! А Миша: я здѣсь, я спалъ, шестъ мой упалъ и я незнаю какъ со скирда слезть.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Бой. Вой. Рой. Ной.</p>
+<p class="Azbuka2">Май. Рай. Чай. Лай. Дай. Клей. Злѣй. Вой. Пой. Рой. Стой. Спой. Мой. Твой. Свой. Злой.</p>
+<p class="Azbuka2">Шей. Пей. Вей. Лей. Чей. Ей.</p>
+<p class="Azbuka2">Дуй. Жуй. Куй. Плюй.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Azbuka2">Мой чай.</p>
+<p class="Azbuka2">Твой клей.</p>
+<p class="Azbuka2">Свой змѣй.</p>
+<p class="Azbuka2">Вой псовъ.</p>
+</td>
+<td>
+<p class="Azbuka2">Рой пчелъ.</p>
+<p class="Azbuka2">Иду на бой.</p>
+<p class="Azbuka2">Ной былъ давно.</p>
+<p class="Azbuka2">Спой пѣсню.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">40</span> <span class="npnumber">41</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Рой яму.</p>
+<p class="Azbuka2">Стой прямо.</p>
+<p class="Azbuka2">Пей чай.</p>
+<p class="Azbuka2">Лей воду.</p>
+<p class="Azbuka2">Чей грошъ? Мой.</p>
+<p class="Azbuka2">Дуй на воду.</p>
+<p class="Azbuka2">Жуй корку.</p>
+<p class="Azbuka2">Куй въ кузнѣ.</p>
+<p class="Azbuka2">Тепло стало, видно что Май.</p>
+<p class="Azbuka2">Рай на томъ свѣтѣ.</p>
+<p class="Azbuka2">Слышу лай и вой псовъ.</p>
+<p class="Azbuka2">Дай мнѣ мой чай.</p>
+<p class="Azbuka2">На мой домъ сѣлъ рой пчёлъ.</p>
+<p class="Azbuka2">Лей воду въ тазъ, мой руки.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Ты чей? я свой. </p>
+<hr class="black"/>
+<p class="Azbuka2">Сѣлъ дѣдъ пить чай. Дѣдъ! и мнѣ чаю дай. Вотъ тебѣ, внукъ, чай. Пей, на себя не лей. </p>
+<hr class="black"/>
+<p class="Azbuka2">Былъ у Пети и у Миши конь. Сталъ у нихъ споръ: чей конь. Стали они коня другъ у друга рвать. Дай мнѣ, мой конь. Нѣтъ ты мнѣ дай, конь не твой, а мой. Пришла мать, взяла коня и сталъ конь ни чей.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Улей. Иней. Нищій. Сергѣй. Матвѣй. Налой. Лакей. Сарай. Давай. Кидай.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">41</span> <span class="npnumber">42</span></p>
+<table>
+<tr>
+<td colspan="2">
+<p class="left Azbuka2">Читай. Снимай. Считай. Играй. Глотай. Гуляй. Валяй.</p>
+<p class="left Azbuka2">Сѣдой. Кривой. Простой. Живой. Мягкій. Гладкій. Синій. Сладкій. Бѣдный. Мѣдный. Добрый. Сѣрый. Старый. Малый. Вялый. Чистый. Умный. Глупый. Зашей. Скорѣй. Живѣй. Теплѣй. Умнѣй. Глупѣй. Раздуй. Ночуй. Подуй. Воюй.</p>
+</td>
+</tr>
+<tr>
+<td class="w50">
+<p class="left Azbuka2">Давай книгу.</p>
+<p class="left Azbuka2">Читай сказку.</p>
+<p class="left Azbuka2">Гуляй по лѣсу.</p>
+<p class="left Azbuka2">Сѣдой дядя.</p>
+<p class="left Azbuka2">Зимой снѣгъ.</p>
+<p class="left Azbuka2">Глядкій путь.</p>
+<p class="left Azbuka2">Синій цвѣтъ.</p>
+<p class="left Azbuka2">Бѣдный Миша.</p>
+<p class="left Azbuka2">Сѣрый волкъ.</p>
+<p class="left Azbuka2">Милый мой другъ</p>
+<p class="left Azbuka2">Теплѣй стало.</p>
+<p class="left Azbuka2">Онъ умнѣй тебя.</p>
+<p class="left Azbuka2">Зашей шубу.</p>
+</td>
+<td class="w50">
+<p class="left Azbuka2">Иди скорѣй.</p>
+<p class="left Azbuka2">Ночуй у насъ.</p>
+<p class="left Azbuka2">Не тоскуй, не горюй.</p>
+<p class="left Azbuka2">Воюй храбро.</p>
+<p class="left Azbuka2"><em>Глупой птицѣ свой домъ не милъ. </em></p>
+<hr class="black"/>
+<p class="left Azbuka2">Сѣлъ рой на кустъ. Дядя его снялъ, снёсъ въ улей. И сталъ у него годъ цѣлый, мёдъ бѣлый.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">42</span> <span class="npnumber">43</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Слушай меня мой пёсъ: на вора лай, къ намъ въ домъ не пускай, a дѣтей не пугай и съ ними играй. </p>
+<hr class="black"/>
+<p class="Azbuka2">На землѣ снѣгъ, на лѣсѣ иней. Давай скорѣй сани. На сани прыгай, сани двигай и подъ гору катай. </p>
+<hr class="black"/>
+<p class="Azbuka2">У дѣтей были свои грядки. Пришло разъ на ихъ грядки стадо свиней. Дѣти скорѣй! Жучку пускай. Жучка скорѣй, лай на свиней, сгоняй ихъ съ грядъ долой. </p>
+<hr class="black"/>
+<br/>
+</td>
+<td class="w50">
+<p class="Azbuka2">Была драка между Жучкой и кошкой. Кошка стала ѣсть, а Жучка пришла. Кошка Жучку лапой за носъ. Жучка кошку за хвостъ. Кошка Жучкѣ въ глаза. Жучка кошку за шею. Тётя шла мимо, несла ведро съ водой и стала лить на кошку и Жучку водой. </p>
+<hr class="black"/>
+<p class="Azbuka2">Нѣтъ у насъ Ваня змѣя. Иди, Ваня, вари клей, а я сберу дранки. Нашли дранки и клей и на утро</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">43</span> <span class="npnumber">44</span></p>
+<table>
+<tr>
+<td class="w50 noborder_bottom">
+<p class="Azbuka2 notindent">сталъ змѣй. Не было вѣтра, но дѣти пошли въ поле и взяли змѣй. Ну бѣги, Ваня, да скорѣй! Еще скорѣй! Пускай! Но змѣй на верхъ не шелъ; тогда дѣти стали подъ змѣй дуть. Дуй. Ваня, дуй, еще дуй. Ваня дулъ изъ всѣхъ силъ; но змѣй не шелъ и на землю сѣлъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">У Груши не было куклы, она взяла сѣна, свила изъ сѣна себѣ жгутъ</p>
+</td>
+<td class="w50 noborder_bottom">
+<p class="Azbuka2 notindent">и это была ея кукла; звала она ее Маша. Она взяла эту Машу на руки. „Спи Маша! Спи дочка! бай, баю, бай!“ </p>
+<hr class="black"/>
+<p class="Azbuka2">Слѣпой шелъ домой. Была ночь. Слѣпой несъ предъ собой свѣтъ. Какой глупый слѣпой, несетъ свѣтъ предъ собой, — а самъ слѣпой, для чего ему свѣтъ? А нужно свѣтъ ему для того, чтобъ зрячій не сбилъ его съ ногъ долой.</p>
+</td>
+</tr>
+<tr><td class="noborder_top" colspan="2"><p class="centerline">—————————</p></td></tr>
+</table>
+<p class="left"><span class="opnumber">44</span> <span class="npnumber">45</span></p>
+<table class="width_">
+<tr>
+<td class="w25 noborder_right">
+<p class="Azbuka2">Рабòта.</p>
+<p class="Azbuka2">Забо̀та.</p>
+<p class="Azbuka2">Ребя̀та.</p>
+<p class="Azbuka2">Теля̀та.</p>
+<p class="Azbuka2">Береза.</p>
+<p class="Azbuka2">Калина.</p>
+<p class="Azbuka2">Малина.</p>
+<p class="Azbuka2">Корова.</p>
+<p class="Azbuka2">Ракита.</p>
+<p class="Azbuka2">Лисица.</p>
+<p class="Azbuka2">Собака.</p>
+<p class="Azbuka2">Бараны.</p>
+<p class="Azbuka2">Бумага.</p>
+<p class="Azbuka2">Кирюшка.</p>
+<p class="Azbuka2">Петрушка.</p>
+<p class="Azbuka2">Картина.</p>
+</td>
+<td class="w25 noborder_left noborder_right">
+<p class="Azbuka2">Булавка.</p>
+<p class="Azbuka2">Граница.</p>
+<p class="Azbuka2">Деревня.</p>
+<p class="Azbuka2">Тарелки.</p>
+<p class="Azbuka2">Кибитки.</p>
+<p class="Azbuka2">Лепешки.</p>
+<p class="Azbuka2">Крестины.</p>
+<p class="Azbuka2">Капуста.</p>
+<p class="Azbuka2">Невѣста.</p>
+<p class="Azbuka2">Медвѣди.</p>
+<p class="Azbuka2">Веревка.</p>
+<p class="Azbuka2">Рубашка.</p>
+<p class="Azbuka2">Скотина.</p>
+<p class="Azbuka2">Заика.</p>
+<p class="Azbuka2">Наука.</p>
+<p class="Azbuka2">Приступки.</p>
+</td>
+<td class="w25 noborder_left noborder_right">
+<p class="Azbuka2">Пастухѝ.</p>
+<p class="Azbuka2">Старики.</p>
+<p class="Azbuka2">Мужикѝ.</p>
+<p class="Azbuka2">Сундуки.</p>
+<p class="Azbuka2">Пѣтухи.</p>
+<p class="Azbuka2">Пауки</p>
+<p class="Azbuka2">Темнота.</p>
+<p class="Azbuka2">Тѣснота.</p>
+<p class="Azbuka2">Калачи.</p>
+<p class="Azbuka2">Башмаки.</p>
+<p class="Azbuka2">Журавли.</p>
+<p class="Azbuka2">Ласточка.</p>
+<p class="Azbuka2">Горница.</p>
+<p class="Azbuka2">Яблоки.</p>
+<p class="Azbuka2">Яблони.</p>
+<p class="Azbuka2">Иванъ.</p>
+</td>
+<td class="w25 noborder_left">
+<p class="Azbuka2">Семёнъ.</p>
+<p class="Azbuka2">Стаканъ.</p>
+<p class="Azbuka2">Женихъ.</p>
+<p class="Azbuka2">Заборъ.</p>
+<p class="Azbuka2">Кузнецъ.</p>
+<p class="Azbuka2">Холодъ.</p>
+<p class="Azbuka2">Осень.</p>
+<p class="Azbuka2">Камень.</p>
+<p class="Azbuka2">Радость.</p>
+<p class="Azbuka2">Лошадь.</p>
+<p class="Azbuka2">Милость.</p>
+<p class="Azbuka2">Старость.</p>
+<p class="Azbuka2">Николай.</p>
+<p class="Azbuka2">Алексѣй.</p>
+<p class="Azbuka2">Соловей.</p>
+<p class="Azbuka2">Каравай.</p>
+</td>
+</tr>
+<tr>
+<td class="w50" colspan="2">
+<p class="Azbuka2">Мужики ходили далеко на работу.</p>
+<p class="Azbuka2">Рыбаки ловили на озерѣ рыбу.</p>
+<p class="Azbuka2">Барыня купила у мужика чёрнаго пѣтуха.</p>
+<p class="Azbuka2">Берёзы выросли велики.</p>
+<p class="Azbuka2">Купчиха наняла мужика въ кучера.</p>
+</td>
+<td class="w50" colspan="2">
+<p class="Azbuka2">Ребята купили на базарѣ пряники.</p>
+<p class="Azbuka2">Телята и бараны бѣгутъ по выгону.</p>
+<p class="Azbuka2">Кукушка рано запѣла.</p>
+<p class="Azbuka2">Старые волки заѣли барана.</p>
+<p class="Azbuka2">Мужики убили вилами одного волка.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">45</span> <span class="npnumber">46</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Ребята писали уроки на бумагѣ.</p>
+<p class="Azbuka2">Не берите калачи грязными руками.</p>
+<p class="Azbuka2">Не топчите комнату мокрыми ногами.</p>
+<p class="Azbuka2">Дѣвушки нарядны, личики красивы, щёчки румяны.</p>
+<p class="Azbuka2">Синичка сѣла на окошко.</p>
+<p class="Azbuka2">У мужика украли сундуки. Сундуки были пустые.</p>
+<p class="Azbuka2">Служанка вымела горницу, собрала цѣлую кучу сору и бросила на улицу.</p>
+<p class="Azbuka2">Параша читала книжку, a послѣ писала дядюшкѣ записку.</p>
+<p class="Azbuka2">Кухарка варила яица. Яйца стали крутыя.</p>
+<p class="Azbuka2">Дѣти красили и катали яйца.</p>
+<p class="Azbuka2">Курицы несли яйца, a пѣтухи кричали. Бабушка — старушка </p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">лежала на лежанкѣ, а дѣвочка — внучка играла подлѣ бабушки.</p>
+<p class="Azbuka2">Старая барыня купила у торговки бѣлую гусыню.</p>
+<p class="Azbuka2">Гусыня вывела два гусёнка.</p>
+<p class="Azbuka2">Слѣпые нищіе запѣли подлѣ забора пѣсню про Лазаря. Купчиха слушала и дала одному слѣпому гривну.</p>
+<p class="Azbuka2">Добрыя дѣти дали слѣпому старику лепёшку.</p>
+<p class="Azbuka2">Малые ребята играли на крылечкѣ, а телята играли на выгонѣ!</p>
+<p class="Azbuka2">Кафтаны теплѣе нежели рубашки.</p>
+<p class="Azbuka2">Моему брату Матюшкѣ четыре года.</p>
+<p class="Azbuka2">Повезли Матюшку въ чужую деревню и отдали на выучку кузнецу.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">46</span> <span class="npnumber">47</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Сѣрая лошадь везётъ сани.</p>
+<p class="Azbuka2">Подавай поскорѣй моихъ лошадей.</p>
+<p class="Azbuka2">Николай Петровъ пришелъ на крестины.</p>
+<p class="Azbuka2">Женихъ да невѣста — князь и княгиня.</p>
+<p class="Azbuka2">Одинъ годъ весь вѣкъ заѣлъ.</p>
+<p class="Azbuka2">Бѣдность не порокъ.</p>
+<p class="Azbuka3"><em>Бѣдность не порокъ.</em></p>
+<p class="Azbuka2">Конецъ дѣлу вѣнецъ.</p>
+<p class="Azbuka3"><em>Конецъ дѣлу вѣнецъ. </em></p>
+<hr class="black"/>
+<p class="Azbuka2">Пришла весна, потекла вода. Дѣти взяли дощечки, сдѣлали лодочку, пустили лодочку по водѣ. Лодочка плыла, a дѣти бѣжали за нею, кричали и ничего впереди себя не видали и въ лужу упали. </p>
+<hr class="black"/>
+<br/>
+</td>
+<td class="w50">
+<p class="Azbuka2">Рыбамь море, птицамъ воздухъ, людямъ земля.</p>
+<p class="Azbuka2">Куда иголка, туда и нитка.</p>
+<p class="Azbuka3"><em>Куда иголка, туда и нитка.</em></p>
+<p class="Azbuka2">Богачу жалко карабля, бѣдняку жалко костыля.</p>
+<p class="Azbuka3"><em>Богачу жалко корабля, бѣдняку жалко костыля. </em></p>
+<hr class="black"/>
+<p class="Azbuka2">Ушли два мужика вмѣстѣ на работу, рыли канаву. Рыли три дня, принесли три рубля. И три дня дѣлили три рубля, все между собой спорили. Лучше бы эти мужики эти три дня рыли канаву. </p>
+<hr class="black"/>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">47</span> <span class="npnumber">48</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Ходили дѣти по лѣсу за грибами, набрали полны корзины. Вышли дѣти на поляну, сѣли на копну и считали грибы. За кустами завыли волки. Дѣти забыли про грибы, бросили свои грибы на сѣнѣ и ушли домой. </p>
+<hr class="black"/>
+<p class="Azbuka2">Попался звѣрь — хорёкъ въ ловушку и сталъ просить, чтобы мужикъ пустилъ его. Онъ сказалъ: мыши твоё добро ѣдятъ, а я ихъ ѣмъ. А мужикъ сказалъ: мышей-то ты ѣшь, да съ ними вмѣстѣ и цыплятъ моихъ поѣлъ, — и убилъ звѣрка. </p>
+<hr class="black"/>
+<br/>
+</td>
+<td class="w50">
+<p class="Azbuka2">Пошли разъ старуха и молодка на поле гороха. Набрали гороху и сѣли подъ межу, стали ѣсть. Старая катала во рту горохъ, а жевать не могла: зубовъ не было; а молодка поѣла свой горохъ, пришла къ старухѣ ѣсть и говоритъ: какая ты, старая, жадная. Я ужъ давно поѣла, а ты всё ѣшь. </p>
+<hr class="black"/>
+<p class="Azbuka2">Пошла коза въ поле за кормомъ, а козлятъ заперла въ сарай, не велѣла никого пускать. Она сказала: только когда мой голосъ кликать будетъ, тогда пустите. Волкъ слышалъ это, пришёлъ къ сараю и запѣлъ подъ голосъ козы: <em><span class="Azbuka1">дѣтки, пустите, ваша мать пришла, вамъ корму набрала.</span></em> Дѣтки глянули въ окно и сказали: голосъ матушки, а ноги волка, не надо пускать.</p>
+<hr class="black"/>
+<br/>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">48</span> <span class="npnumber">49</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Лисица позвала журавля на обѣдъ и подала похлёбку на тарелкѣ. Журавль ничего не могъ взять своимъ длиннымъ носомъ и лисица сама всё поѣла. На другой день журавль къ себѣ позвалъ лисицу и подалъ обѣдъ въ кувшинѣ съ узкимъ горломъ. Лисица не могла продѣть морду въ кувшинъ, а журавль всунулъ свою долгую шею и все выпилъ одинъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">У одной женщины мыши поѣли въ погребѣ сало. Она заперла въ погребъ кошку, чтобъ кошка ловила мышей. А кошка поѣла и сало, и молоко и мясо.</p>
+<p class="Azbuka2">Ѣхали два мужика, одинъ въ городъ, а другой изъ города. Они задѣли санями другъ за</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">друга. Одинъ кричитъ дай дорогу, мнѣ скорѣй въ городъ надо; а другой кричитъ: ты дай дорогу, мнѣ, скорѣй домой надо. Они долго кричали. Третій мужикъ видѣлъ и сказалъ: кому скорѣй надо, тотъ осади назадъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">Ходили овцы по полю. Откуда ни взялся орёлъ, — упалъ съ неба, вцѣпился когтями въ ягнёнка и унёсъ его. Ворона видѣла это и хотѣла тоже мяса поѣсть. Она сказала: это не хитра штука. Дай я тоже сдѣлаю, да ещё лучше. Орёлъ глупъ, онъ малаго ягнёнка взялъ, а я вонъ того жирнаго барана выберу. Взялась барану ворона когтями прямо въ во̀лну, хотѣла поднять — не можетъ. И не знаетъ ворона, какъ самой </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">49</span> <span class="npnumber">50</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">изъ во̀лны когти выдрать. Пастухъ пришёлъ, выдралъ воронѣ ноги изъ во̀лны, убилъ её и бросилъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">Былъ одинъ глупый мужикъ. Онъ пошёлъ въ лѣсъ за дровами. Дерева всѣ были велики. Онъ сталъ срубать вѣтки. Одинъ сукъ на дубу былъ высоко. Мужикъ влѣзъ на дубъ,</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">сѣлъ верхомъ на сукъ; спиной къ дереву и срубилъ сукъ. Другой сукъ былъ ещё выше. Мужикъ влѣзъ на сукъ и чтобы короче срубить сѣлъ на него лицомъ къ дереву. Онъ рубилъ немного и сталъ сукъ трещать; мужикъ былъ радъ и сказалъ: вперёдъ всё такъ буду рубить. Но сукъ сломался и мужикъ сорвался.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Сплю. Мсти. Мгла. Мзда. Сбрую. Страхъ. Стклянка. Стрижъ. Портной. Спросъ. Скрипъ. Страсть. Сестра. Взводъ. Москва. Искра. Царство. Сердце. Стремя. Стряпня. Перстень. Встрѣча. Солнце. Бездна. Островъ. Холстъ. Шерсть. Горсть.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Azbuka2">Столяры склеивали столъ.</p>
+<p class="Azbuka2">Искра зажгла Москву.</p>
+<p class="Azbuka2">Сбруя исправна.</p>
+<p class="Azbuka2">Стрижи замерзли.</p>
+<p class="Azbuka2">Отецъ и два сына втроёмъ ушли въ городъ.</p>
+</td>
+<td>
+<p class="Azbuka2">Коня вели подъ уздцы.</p>
+<p class="Azbuka2">Дождикъ пошёлъ, вздулись пузыри.</p>
+<p class="Azbuka2">Продѣнь платокъ сквозь перстень.</p>
+<p class="Azbuka2">Завтра праздникъ, будутъ въ церкви пѣть:</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">50</span> <span class="npnumber">51</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">Христосъ воскресе изъ мертвыхъ!</p>
+<p class="Azbuka2">Вскрылась рѣка, потекла быстрая вода.</p>
+<p class="Azbuka2">Не столкни дѣвочку съ ногъ.</p>
+<p class="Azbuka2">Я много сплю и нынче поздно всталъ.</p>
+<p class="Azbuka2">Хлѣбъ очень чёрствъ.</p>
+<p class="Azbuka2">Стригла баба шерсть.</p>
+<p class="Azbuka2">Ткала невѣетка холстъ.</p>
+<p class="Azbuka2">Ушли дѣти въ лавку, купили горсть стручковъ.</p>
+<p class="Azbuka2">Платокъ слишкомъ пёстръ.</p>
+<p class="Azbuka2">Вздѣнь нитку въ иглу.</p>
+<p class="Azbuka2">Здравствуй! давно не видалъ.</p>
+<p class="Azbuka2">Стряпала стряпуха постный обѣдъ.</p>
+<p class="Azbuka2">Я увидалъ страшнаго звѣря и сердце у меня вздрогнуло отъ страха.</p>
+<p class="Azbuka3"><em>Вздулся какъ пузырь </em></p>
+</td>
+<td class="w50">
+<p class="Azbuka3 notindent"><em>и сталъ ничего.</em></p>
+<p class="Azbuka3"><em>Скрученъ, связанъ, по избѣ пляшетъ </em>(<em>вѣникъ</em>)</p>
+<p class="Azbuka3"><em>Дали бабѣ холстъ, сказала толстъ. </em></p>
+<hr class="black"/>
+<p class="Azbuka2">Петя ползалъ и сталъ на ножки. Хочетъ ступить — боится. Чуть не упалъ. Мать схватила его и понесла. </p>
+<hr class="black"/>
+<p class="Azbuka2">Ласточка строила гнѣздо. Влетѣлъ въ гнѣздо стрижъ и сѣлъ. Ласточка позвала другихъ ласточекъ и выгнала стрижа. </p>
+<hr class="black"/>
+<p class="Azbuka2">Остригли съ барана шерсть. Стало барашку холодно, прикрыть себя нечѣмъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">Стряпуха топила печку и вышла изъ избы. Искра упала на лучину.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">51</span> <span class="npnumber">52</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">Лучина зажглась, насилу залили огонь. </p>
+<hr class="black"/>
+<p class="Azbuka2">Пришла Мышь въ гости къ лягушкѣ. Лягушка встрѣтила мышь на берегу и стала её звать къ себѣ въ хоромы подъ воду. Мышь полѣзла, да воды хлебнула и насилу жива вонъ вылѣзла. Никогда, сказала она, къ чужимъ людямъ въ гости ходить не буду. </p>
+<hr class="black"/>
+<p class="Azbuka2">Дрались два пѣтуха у навозной кучи. У одного пѣтуха было силы больше, онъ забилъ другаго и прогналъ отъ навозной кучи. Всѣ куры сошлись вкругь пѣтуха и стали хвалить его. Пѣтухъ хотѣлъ, чтобы и на другомъ дворѣ узнали про его силу и славу. Онъ взлетѣлъ на сарай, забилъ </p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">крылами и запѣлъ громко: смотрите всѣ на меня, я пѣтуха побилъ! Нѣтъ ни у одного пѣтуха на свѣтѣ такой силы.</p>
+<p class="Azbuka2">Не успѣлъ пропѣть, летитъ орёлъ, сбилъ пѣтуха, схватилъ въ когти и унёсъ съ свое гнѣздо.</p>
+<hr class="black"/>
+<p class="Azbuka2">Стало мышамъ плохо жить отъ кота. Что ни день, то двухъ, трёхъ заѣстъ. Сошлись разъ мыши и стали судить, какъ бы имъ отъ кота спастись. Судили, судили, ничего не могли вздумать.</p>
+<p class="Azbuka2">Вотъ одна мышка и сказала: я вамъ скажу, какъ намъ отъ кота спастись. Вѣдь мы потому и гибнемъ, что не знаемъ когда онъ къ намъ идётъ. Надо коту на шею звонокъ надѣть, чтобы онъ гремѣлъ.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">52</span> <span class="npnumber">53</span></p>
+<table>
+<tr>
+<td class="w50" rowspan="2">
+<p class="Azbuka2 notindent">Тогда всякій разъ, какъ онъ будетъ отъ насъ близко, намъ слышно станетъ и мы уйдемъ.</p>
+<p class="Azbuka2">Это бы хорошо, сказала старая мышь, да надо кому нибудь звонокъ на кота надѣть. Вздумала ты хорошо, а воть навяжи ка звонокъ коту на шею, тогда мы тебѣ спасибо скажемъ.</p>
+<hr class="black"/>
+<p class="Azbuka2">Шли по дорогѣ старикъ и молодой. Видятъ они: на дорогѣ лежитъ мѣшокъ денегъ. Молодой поднялъ и сказалъ: вотъ Богъ мнѣ находку послалъ. А старики сказалъ: чуръ вмѣстѣ. Молодой сказалъ: нѣтъ мы не вмѣстѣ нашли, я одинъ поднялъ. Старикъ ничего не сказалъ.-Прошли они ещё немного. Вдругъ </p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">слышатъ, скачетъ сзади погоня, кричать: кто мѣшокъ денегъ укралъ! Молодой струсилъ и сказалъ: какъ бы намъ, дядюшка, за нашу находку бѣды не было. Старикъ сказалъ: находка <em><span class="Azbuka1">твоя</span></em> а <em><span class="Azbuka1">не наша</span></em>, и бѣда <em><span class="Azbuka1">твоя</span></em> а <em><span class="Azbuka1">не наша</span></em>. Малаго схватили и повели въ городъ судить, а старикъ пошелъ домой.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Azbuka2 centerline"><strong>КРАСНАЯ ШАПОЧКА.</strong></p>
+<p class="Azbuka2">Въ деревнѣ жила дѣвочка. Мать сшила ей красную шапочку и дѣвочка всегда носила её. Народъ сталъ звать дѣвочку — дѣвочка Красная Шапочка. Разъ мать сказала Красной Шапочкѣ: поди, навѣсти бабушку и снеси ей отъ меня лепёшки и горшокъ масла. Красная Шапочка </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">53</span> <span class="npnumber">54</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">взяла гостинцы и пошла. Шла она черезъ лѣсъ. Вдругъ въ лѣсу вышелъ ей на встрѣчу волкъ. «Здравствуй, Красная Шапочка?» «Здравствуй, волкъ. Куда идешь?» Я иду къ бабушкѣ. Она стара, ходить не можетъ, такъ я несу ей масла и лепёшки. — А гдѣ живётъ твоя бабушка? А вонъ тамъ за лѣсомъ деревня, такъ въ домѣ съ краю; - Ну-ка, Красная Шапочка, кто прежде придётъ? И волкъ пустился бѣжать; а Красная Шапочка стала брать грибы и ягоды и забыла про волка. Волкъ пришёлъ прежде Красной Шапочки, нашёлъ домъ бабушки и толкнулъ дверь. Бабушка спросила: кто тамъ? Волкъ сказалъ: это я,</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">бабушка, Красная Шапочка. Бабушка сказала: подыми, внучка, щеколду. Волкъ вошёлъ, вскочилъ на постель бабушки, заѣлъ бабушку, а самъ надѣлъ ея платокъ на голову и лёгъ въ постель. Когда Красная Шапочка пришла, она тоже толкнула дверь и волкъ ей сказалъ: подыми, внучка, щеколду. Красная Шапочка вошла, подошла къ постели и сказала: здравствуй, бабушка! Отчего у тебя нынче такіе большіе глаза? А волкъ сказалъ: чтобы лучше глядѣть на тебя, внучка. — А за чѣмъ у тебя зубы велики, бабушка? - Чтобъ тебя загрызть, внучка!.. И волкъ схватилъ Красную Шапочку и заѣлъ её. А самъ раздѣлся и ушёлъ опять въ лѣсъ.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">54</span> <span class="npnumber">55</span></p>
+<table>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Шайка. Сайка. Гайка. Койка. Тайна. Война. Тройка. Двойка. Лейка. Шейка. Чуйка. Копѣйка. Хозяйка. Злодѣйка. Линейка. Скамейка. Шубейка.</p>
+</td>
+</tr>
+<tr>
+<td class="w50">
+<p class="left Azbuka2">Сайки вкусны.</p>
+<p class="left Azbuka2">Лейте воду изъ шайки.</p>
+<p class="left Azbuka2">Гречиху сѣйте чаще.</p>
+<p class="left Azbuka2">Завинти гайку.</p>
+<p class="left Azbuka2">Уйди изъ дому.</p>
+<p class="left Azbuka2">Я найду ягодъ.</p>
+<p class="left Azbuka2">Найми кучера.</p>
+<p class="left Azbuka2">Дойная корова.</p>
+<p class="left Azbuka2">Бойкій конь.</p>
+<p class="left Azbuka2">У лейки тонка шейка.</p>
+<p class="left Azbuka2">Можетъ быть и я найду копѣйку.</p>
+<p class="left Azbuka2">Зайди къ намъ въ гости.</p>
+<p class="left Azbuka2">Уйми собаку.</p>
+<p class="left Azbuka2">Зайцу отъ собакъ не уйти.</p>
+<p class="left Azbuka2">Тройка бѣжитъ бойко.</p>
+<p class="left Azbuka2"><em>Надѣйся на Бога, самъ не плошай.</em></p>
+</td>
+<td class="w50">
+<p class="left Azbuka2">У Серёжи были три собаки, онъ запрёгь ихъ въ телѣгу тройкой и погналъ. Собаки ушли съ телѣжкой и Серёжа ихъ не поймалъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Миша просилъ отца сдѣлать ему скамейку, чтобъ ѣздить съ горы. Отцу не было времени. А мать дала Мишѣ шайку. Онъ полилъ её водой, сѣлъ въ неё и скатился. </p>
+<hr class="black"/>
+<p class="left Azbuka2">У Васи было четыре копѣйки. Онъ пришёлъ въ лавку, купилъ сайку и ему дали сдачи копѣйку. Онъ пошёлъ домой. Подайте, Христа ради, сказалъ нищій. Васѣ жалко было дать сайку. Онъ далъ копѣйку. Потомъ ему жаль </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">55</span> <span class="npnumber">56</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">стало нищаго. Онъ вернулся и отдалъ сайку. </p>
+<hr class="black"/>
+<p class="Azbuka2">Къ машѣ пришли въ гости дѣвочки пить чай. Маша была хозяйка и сѣла за чайный столъ угощать гостей. Но хозяйка была мала. Она взяла чайникъ, ручка была горяча. Маша уронила изъ рукъ чайникъ и разбила его, и себя и другихъ обожгла. </p>
+<hr class="black"/>
+<p class="Azbuka2">Двѣ крысы нашли яйцо. Хотѣли его дѣлить и ѣсть; но видятъ летитъ ворона и хочетъ яйцо взять. Стали думать крысы, какъ яйцо отъ вороны стащить. Нести? не схватишь; - катить? разбить можно. И рѣшили крысы вотъ что: одна легла на спину, схватила яйцо лапками, а другая повезла ее за хвостъ, и какъ на санялъ </p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">стащили яйцо подъ полъ. </p>
+<hr class="black"/>
+<p class="Azbuka2">Дѣвочка поймала стрекозу и хотѣла рвать ей ноги. Отецъ сказалъ: эти самыя стрекозы поютъ по зарямъ. Дѣвочка вспомнила ихъ пѣсни и пустила. </p>
+<hr class="black"/>
+<p class="Azbuka2">Мышка вышла гулять. Ходила по двору и пришла опять къ матери. Ну, матушка, я двухъ звѣрей видѣла. Одинъ страшный, а другой добрый. Мать сказала: скажи какіе это звѣри? Мышка сказала: единъ страшный ходить по двору вотъ этакъ: ноги у него черныя, хохолъ красный, глаза на выкатѣ, а носъ крючкомъ. Когда я мимо шла, онъ открылъ пасть, ногу поднялъ и сталъ кричать такъ громко, что </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">56</span> <span class="npnumber">57</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">я отъ страха не знала куда уйти.</p>
+<p class="Azbuka2">— Это Пѣтухъ, сказала старая мышь. Онъ зла никому не дѣлаетъ, его не бойся. Ну, а другой звѣрь?</p>
+<p class="Azbuka2">— Другой лежалъ на солнышкѣ и грѣлся. Шейка у него бѣлая, ножки сѣрыя, гладкія, самъ лижетъ свою бѣлую грудку и хвостикомъ чуть движетъ, на меня глядитъ. Старая мышь сказала: дура, ты дура. Вѣдь это самъ котъ.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Пошелъ разъ левъ на охоту и взялъ съ собой осла и сказалъ ему: ты зайди, осёлъ, въ лѣсъ и кричи, что есть мочи, у тебя горло просторно. Какіе звѣри отъ этого крика пустятся бѣжать, я тѣхъ поймаю: Такъ и сдѣлалъ. Осёлъ кричалъ, a звѣри бѣжали, куда попало и левъ ловилъ ихъ. Послѣ ловли левъ сказалъ ослу: ну, хвалю тебя, ты хорошо кричалъ. И съ тѣхъ поръ осёлъ всё кричитъ, всё ждётъ, чтобы его хвалили.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Съѣздъ. Въѣздъ. Разъѣздъ. Подъемъ. Подъѣздъ. Отъѣздъ. Объѣздъ. Съёмъ. Съѣли. Съютили. Объяви. Въѣхали.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Azbuka2">Въ ворота въѣздъ узкій.</p>
+<p class="Azbuka2">Подъѣздъ къ дому съ другой стороны.</p>
+<p class="Azbuka2">Въ объѣздъ ближе ѣхать чемъ прямо.</p>
+</td>
+<td>
+<p class="Azbuka2">Волки съѣли овцу, а лисицы подъѣли косточки.</p>
+<p class="Azbuka2">Объяви указъ.</p>
+<p class="Azbuka2">Не тряси яблоню, а снимай яблоки съёмомъ.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">57</span> <span class="npnumber">58</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="left Azbuka2">Надо мазать телѣгу, дай подъёмъ.</p>
+<p class="left Azbuka2">Гости въѣхали на дворъ.</p>
+<p class="left Azbuka2">Пастухи съютили шалашъ.</p>
+<p class="left Azbuka2">Съ горы съѣзшать надо шагомъ.</p>
+<p class="left Azbuka2">Съѣстные припасы всѣ вышли.</p>
+<p class="left Azbuka2">Подъѣзжай ближе къ дому.</p>
+<p class="left Azbuka2">Эти кони парой съѣзжены.</p>
+<p class="left Azbuka2">Я съѣзжу на два дня къ дядѣ.</p>
+<p class="left Azbuka2">Безъ костей рыбы не съѣсть.</p>
+<p class="left Azbuka2">Съѣлъ бы пирогъ, да въ печи сжёгъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Ребята ѣздили съ горы. Пришли мужики, взяли сани, подняли оглобли. Насѣли полны сани и пустили подъ гору. Съѣхали хорошо, но на концѣ горы сани пошли въ бокъ и въѣхали </p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">въ сугробъ. Мужики упали въ снѣгь.</p>
+<p class="left Azbuka2">Волкъ съѣлъ овцу. Мужики поймали волка и стали его бить. Волкъ сказалъ: за то вы меня мучите, что я сѣръ. Мужики сказали: не за то, что ты сѣръ, а за то, что ты овцу съѣлъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Старикъ сажалъ яблони. Ему сказали: зачѣмъ тебѣ эти яблони. Долго ждать съ этихъ яблонь плода, и ты не съѣшь съ нихъ яблочка. Старикъ сказалъ: я не съѣмъ, другіе съѣдятъ, мнѣ спасибо скажутъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Былъ у дурака ножъ оченъ хорошъ. Сталъ дуракъ этимъ ножемъ гвоздь рѣзать. Ножъ гвоздя не рѣзалъ. Тогда дуракъ сказалъ: дуренъ мой ножъ. И сталъ этимъ ножемъ жидкій </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">58</span> <span class="npnumber">59</span></p>
+<table>
+<tr>
+<td class="w50" rowspan="2">
+<p class="Azbuka2 notindent">кисель рѣзать: гдѣ пройдетъ по киселю ножемъ, тамъ кисель опять съѣдется. Дуракъ сказалъ: дуренъ ножъ и киселя не рѣжетъ и бросилъ хорошій ножъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Мужикъ сталъ спускать возъ подъ гору и держалъ крѣпко возжи въ рукахъ. Возжи лопнули и возъ одинъ. съѣхалъ съ горы. А мужикъ держалъ однѣ возжи въ рукахъ и кричалъ: тпру! </p>
+<hr class="black"/>
+<p class="left Azbuka2">Два мужика пошли вмѣстѣ на охоту. Одинъ слѣзъ въ оврагъ и кричитъ другому: иди сюда, я медвѣдя поймалъ!— Тащи его. сюда! Да не втащу! — Такъ самъ иди сюда! — Да не пускаетъ меня, съѣсть хочетъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Овцѣ ходили подъ лѣсомъ, два ягнёнка отошли </p>
+</td>
+<td class="w50">
+<p class="notindent Azbuka2">отъ стада. Старая овца сказала: не шалите, ягнята, не долго до бѣды. А волкъ стоялъ за кустомъ и сказалъ: не правда, ягнята, овца стара, у ней ноги не ходятъ, такъ ей завидно. Бѣгайте одни по всему полю. Ягнята такъ и сдѣлали: отошли отъ стада; а волкъ поймалъ ихъ и съѣлъ.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="left Azbuka2">Одинъ Царь строилъ себѣ дворецъ и передъ дворцомъ сдѣлалъ садъ. Но на самомъ въѣздѣ съ садъ стояла избушка и жилъ бѣдный мужикъ. Царь хотѣлъ эту избушку снести, чтобы она садъ не портила и послалъ своего министра къ бѣдному мужику, чтобы купилъ избушку. Министръ пошёлъ къ мужику и сказалъ: ты счастливъ. Царь </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">59</span> <span class="npnumber">60</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">хочетъ твою избушку купить. Она десяти рублей не стоитъ, а Царь тебѣ сто даетъ. Мужикъ сказалъ: нѣтъ, я избушку за сто рублей не продамъ. Министръ сказалъ: ну такъ Царь двѣсти даетъ: Мужикъ сказалъ: ни за двѣсти, ни за тысячу не отдамъ. Мой дѣдь и отецъ въ избушкѣ этой жили и померли и я въ ней старъ сталъ и умру, Богъ дастъ. Министръ пошёлъ къ Царю и сказалъ: мужикъ упрямъ ничего не берётъ. Не давай же Царь мужику ничего, а вели снести избушку даромъ. Вотъ и всё.</p>
+</td>
+<td class="w50">
+<p class="Azbuka2">Царь сказалъ: нѣтъ, я этого не хочу. Тогда министръ сказалъ: какъ же быть! Развѣ можно противъ дворца, гнилой избушкѣ стоять. Всякій взглянетъ на дворецъ, скажетъ: хорошъ бы дворецъ, да избушка портитъ. Видно, скажетъ, у Царя денегъ не было избушку купитъ; а Царь сказалъ: нѣтъ, кто взглянетъ на дворецъ, тотъ скажетъ: видно у Царя денегъ много было, что такой дворецъ сдѣлалъ; а взглянетъ на избушку, скажетъ: <em>видно въ Царѣ этомъ и правда была.</em></p>
+<p class="Azbuka2">Оставь избушку.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="Azbuka2">Ружье. Копье. Бѣлье. Семья. Житье. Ульи. Друзья. Ручьи. Бадья. Келья. Ружья. Листья. Дарья. Сучья. Стулья. Веселье. Колья. Братья. Счастье. Кушанья. Демьянъ. Деревья. Вьюшка.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">60</span> <span class="npnumber">61</span></p>
+<table>
+<tr>
+<td class="w50" rowspan="2">
+<p class="left Azbuka2">Во всёмъ воля Божья.</p>
+<p class="left Azbuka2">Мое ружье бьётъ далеко.</p>
+<p class="left Azbuka2">Бѣлье взяли въ мытье.</p>
+<p class="left Azbuka2">Волчьи ягоды не съѣдобны.</p>
+<p class="left Azbuka2">Наша семья мала.</p>
+<p class="left Azbuka2">Дарья и Марья стали друзья.</p>
+<p class="left Azbuka2">Въ печи закрыли вьюшки.</p>
+<p class="left Azbuka2">Иванъ бьётъ лошадь плетью.</p>
+<p class="left Azbuka2">Демьянъ былъ нынче пьянъ.</p>
+<p class="left Azbuka2">Я шью по сукну шерстью.</p>
+<p class="left Azbuka2">Я пью изъ бадьи воду.</p>
+<p class="left Azbuka2">Петръ своимъ ружьемъ убьётъ зайца.</p>
+<p class="left Azbuka2">Пастухъ ночью вьётъ кнутъ.</p>
+<p class="left Azbuka2">Знаетъ вошка, чье мясо съѣла.</p>
+<p class="left Azbuka2">Своя семья самые вѣрные друзья.</p>
+<p class="left Azbuka2">Кукушка не вьётъ своего гнѣзда.</p>
+</td>
+<td class="w50">
+<p class="left Azbuka2">Одинъ льётъ, другой пьетъ, третій ростётъ (дождь, земля, трава).</p>
+<p class="left Azbuka2">Живой мертваго бьётъ, а мертвый громко поётъ, (колоколъ и языкъ колокола.)</p>
+<p class="left Azbuka2">Что краше свѣта? Что выше лѣса? Что чаще лѣса? Что безъ коренья? Чего мы не знаемъ?</p>
+<p class="left Azbuka2">Краше свѣта — красно солнце.</p>
+<p class="left Azbuka2">Выше лѣса — свѣтелъ мѣсяцъ.</p>
+<p class="left Azbuka2">Чаще лѣса — часты звѣзды.</p>
+<p class="left Azbuka2">А не знаемъ — Божьей воли. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Петя игралъ плетью и сталъ бить собаку. Мать сказала: зачѣмъ ты бьешь собаку, она уйдетъ и ночью некому насъ стеречь будетъ.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="left Azbuka2">Мать съ дочерью достали бадью воды и хотѣли </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">61</span> <span class="npnumber">62</span></p>
+<table>
+<tr>
+<td class="w50" rowspan="2">
+<p class="notindent Azbuka2">несть въ избу. Дочь сказала: тяжело нести, дай я воды солью немного. Мать сказала: сама дома пить будешь, а если сольешь, надо будетъ идти въ другой разъ. Дочь сказала: я дома не буду пить, а тутъ на весь день напьюсь. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Ребята сдѣлали себѣ веселье. Они сошлись у ручья, принесли каменья и склали ихъ въ ручьѣ. Смазали каменья глиной и сталъ прудокъ. Изъ прудка пошла вода струйкой. Подъ струйку ребята подвели колесо. Вода вертѣла колесо. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Мужикъ пошелъ косить луга и заснулъ, а Счастье ходило по свѣту. Подошло Счастье къ мужику и сказало: вотъ</p>
+</td>
+<td class="w50">
+<p class="notindent Azbuka2">онъ вмѣсто работы спить, а потомъ не сберетъ сѣно за погоду на меняна Счастье скажетъ. Скажетъ: мнѣ счастья нѣтъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Хозяинъ хотѣлъ вывести въ своемъ огородѣ репьи и каждый день ходилъ ихъ дергать и бросать, но когда онъ дергалъ репьи, то онъ ихъ собиралъ на свое платье. Потомъ когда бросалъ ихъ на землю, на томъ мѣстѣ, гдѣ падали старые репьи, выростали новые.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="left Azbuka2">Кобыла ходила день и ночь въ полѣ, не пахала, а конь кормился ночью, а днемъ пахалъ. Кобыла и говоритъ коню: зачѣмъ ты пашешь? Я бы на твоемъ мѣстѣ не пошла. Онъ бы меня плетью, а я бы его, ногою. — На другой день </p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">62</span> <span class="npnumber">63</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="notindent Azbuka2">конь такъ и сдѣлалъ. Мужикъ видитъ, что конь сталъ упрямъ, запрёгъ въ соху кобылу. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Спорилъ одинъ мужикъ съ другимъ, что много выпить можетъ. Онъ сказалъ: я всё море выпью. — А не можешь. — Выпью! Объ закладъ! Бьюсь объ закладъ на тысячу рублей, что все море выпью. На утро пришли къ мужику: что жъ, иди море пить или давай тысячу рублей! А онъ сказалъ: я брался море выпить и выпью море. Но я рѣкъ всѣхъ не брался пить. Прудите рѣки и ручьи, чтобъ вода въ море не текла, тогда я море выпью. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Худой волкъ ходилъ подлѣ деревни и встрѣтилъ жирную собаку.</p>
+</td>
+<td class="w50">
+<p class="left Azbuka2">Волкъ спросилъ у собаки: скажи, собака, откуда вы кормъ берете. Собака сказала: люди намъ даютъ.</p>
+<p class="left Azbuka2">— Вѣрно вы трудную людямъ службу служите.</p>
+<p class="left Azbuka2">Собака сказала: нѣтъ, наша служба не трудная. Дѣло наше — по ночамъ дворъ стеречь.</p>
+<p class="left Azbuka2">— Такъ только за это васъ такъ кормятъ, сказалъ волкъ. Это я бы сей часъ въ вашу службу пошелъ, а то намъ волкамъ трудно корма достать.</p>
+<p class="left Azbuka2">— Чтожъ, иди, сказала собака. Хозяинъ и тебя также кормить станетъ.</p>
+<p class="left Azbuka2">Волкъ былъ радъ и пошелъ съ собакой къ людямъ служить. Сталъ уже волкъ въ ворота входить, видитъ онъ, что у собаки на шеѣ шерсть стёрта. Онъ скзалъ:</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">63</span> <span class="npnumber">64</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="left Azbuka2">А это у тебя, собака, отъ чего?</p>
+<p class="left Azbuka2">— Да такъ, сказала собака.</p>
+<p class="left Azbuka2">— Да что такъ?</p>
+<p class="left Azbuka2">— Да такъ, отъ цѣпи. Днемъ вѣдь я на цѣпи сижу, такъ вотъ цѣпью</p>
+</td>
+<td class="w50">
+<p class="notindent Azbuka2">и стерло немного шерсть на шеѣ. Ну такъ прощай, собака, сказалъ волкъ. Не пойду къ людямъ жить. Пускай не такъ жиренъ буду, да на волѣ.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="left Azbuka2">Львы. Льды. Тьма. Льны. Кольца. Деньги. Свадьба. Вѣдьма. Синька. Пенька. Бѣльмо. Кульки. Крыльцо. Серьги. Пальто. Коньки. Рѣдька. Люлька. Шпилька. Мальчикъ. Мельница.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="left Azbuka2">У меня только мѣдныя деньги.</p>
+<p class="left Azbuka2">Моему пальцу больно.</p>
+<p class="left Azbuka2">Мое кольцо тоньше вашего.</p>
+<p class="left Azbuka2">Дуньку послали въ пуньку.</p>
+<p class="left Azbuka2">У насъ будетъ свадьба, мнѣ нельзя ѣхать.</p>
+<p class="left Azbuka2">Ванька надѣлъ коньки и бѣгалъ по льду.</p>
+<p class="left Azbuka2">Клади въ воду больше синьки.</p>
+<p class="left Azbuka2">Танькѣ продѣли серьги и ей не было больно.</p>
+</td>
+<td>
+<p class="left Azbuka2">Привезли сельди въ кулькѣ.</p>
+<p class="left Azbuka2">Про вѣдьмъ только слышатъ, а никто ихъ не видитъ.</p>
+<p class="left Azbuka2">Изъ пеньки и льну дѣлаютъ полотно.</p>
+<p class="left Azbuka2">Что дальше въ лѣсъ то больше дровъ.</p>
+<p class="left Azbuka2">Львы сильны, но не злы</p>
+<p class="left Azbuka2">Шелъ отецъ съ семью дѣтьми, одинъ другаго меньше.</p>
+<p class="left Azbuka2">Дали Петькѣ рѣдьку она была горька.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">64</span> <span class="npnumber">65</span></p>
+<table>
+<tr>
+<td class="w50" rowspan="2">
+<p class="left Azbuka2">Дарю тебѣ это кольцо и серьги.</p>
+<p class="left Azbuka2">Въ люлькѣ спалъ Сенька.</p>
+<p class="left Azbuka2">Заря деньгу даетъ. Раньше встанешь больше дня.</p>
+<p class="left Azbuka2">Два кольца, два конца. по серёдкѣ гвоздь. (Ножницы). </p>
+<hr class="black"/>
+<p class="left Azbuka2">Ѣхалъ съ базара мужикъ въ сыномъ Ванькой: мужикъ заснулъ въ телѣгѣ, а Ванька взялъ возжи и кнутомъ махалъ. На встрѣчу шли воза. Ванька кричитъ: „Держи правѣй! Задавлю!“ А мужикъ съ возомъ сказалъ: не великъ сверчокъ, а слышно кричитъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Хотѣла галка пить. На дворѣ стоялъ кувшинъ съ водой, а въ кувшинѣ была вода только на днѣ. Галкѣ нельзя </p>
+</td>
+<td class="w50">
+<p class="notindent Azbuka2">было достать. Она стала кидать въ кувшинъ камушки и столько наклала, что вода стала выше и можно было пить. </p>
+<hr class="black"/>
+<p class="left Azbuka2">У одной женщины былъ болѣнъ старшій сынъ. Отцу жалко было старшаго, онъ сказалъ: лучше бы умеръ меньшой. А мать сказала: все равно, какой палецъ ни укуси, все больно.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="left Azbuka2">Митька набралъ столько грибовъ, что ему нельзя было всѣ донести домой. Онъ сложилъ ихъ въ лѣсу. На зарѣ Митька пошелъ взять грибы. Грибы унесли и онъ сталъ плакать. Мать ему сказала: что плачешь? Или наши лепешки поѣли кошки? Тогда Митькѣ стало смѣшно, онъ тёръ по лицу слёзы и самъ смѣялся.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">65</span> <span class="npnumber">66</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2">Пропали деньги у мужика и не могли найти вора. Сошлись мужики и стали судить: какъ узнать у кого деньги. Одинъ мужикъ сказалъ: а я знаю такое слово, что у вора шапка будетъ горѣть. Только глядите, сейчасъ будетъ на ворѣ шапка горѣть. Одинъ мужикъ взялся за шапку и всѣ узнали, что онъ былъ воръ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Пришелъ разъ ёжъ къ ужу и сказалъ: пусти меня, ужъ, въ свое гнѣздо на время. Ужъ пустилъ. Только какъ залѣзъ ёжъ въ гнѣздо, не стало житья ужатамъ отъ ежа. Ужъ сказалъ ежу: „Я пустилъ тебя только на время, а теперь уходи, ужата мои все колятся о твои иглы и имъ больно“. Ежъ сказалъ:</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">„Тотъ уходи, кому больно, a мнѣ и тутъ хорошо. </p>
+<hr class="black"/>
+<p class="Azbuka2">Плыли рыбаки въ лодкѣ. И стала буря. Имъ стало страшно. Они весла бросили и стали молить Бога, чтобы Онъ ихъ спасъ. Лодку несло по рѣкѣ все дальше отъ берега. Тогда одинъ старшій рыбакъ сказалъ: что веслы бросили? Богу то молись, а къ берегу гребись. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Въ одномъ домѣ жили на верху богачъ баринъ, а внизу бѣдный портной. Портной за работой все пѣлъ пѣсни и мѣшалъ барину спать. Баринъ далъ портному мѣшокъ денегъ, чтобы онъ не пѣлъ. Портной сталъ богатъ и все стерегъ свои деньги, а пѣть ужъ не сталъ. И стало</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">66</span> <span class="npnumber">67</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="Azbuka2 notindent">ему скучно, онъ взялъ деньги и снёсъ ихъ назадъ барину и сказалъ: возьми свои деньги назадъ, a мнѣ ужъ позволь пѣсни пѣть, а то на меня напала тоска. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Заѣли лисицу блохи. Она и вздумала какъ блохъ известь. Пришла къ рѣкѣ и стала съ кончика спускать свой хвостъ въ рѣку. Блохи съ хвоста прыгали ей на спину. Она стала и заднія ноги спускать въ воду. Блохи прыгали ей все выше на спину, на шею и на голову. Она еще глубже ушла</p>
+</td>
+<td class="w50">
+<p class="notindent Azbuka2">въ воду, такъ, что только одна голова была видна. Блохи всѣ сошлись у ней на мордочкѣ. Тогда лисица нырнула въ воду. Блохи скочили на берегъ, а лисица вышла изъ воды въ другомъ мѣстѣ. Волкъ видѣлъ это и хотѣлъ сдѣлать лучше. Волкъ сразу прыгнулъ въ рѣку, нырнулъ глубоко и долго сидѣлъ подъ водой; онъ думалъ, что блохи всѣ на немъ помрутъ. Вышелъ изъ воды, а блохи всѣ на немъ отжили и стали его кусать.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="left Azbuka2">Денникъ. Ссора. Ссадина. Поддѣвка. Оттепель. Вводъ. Ванна. Дрожжи. Суббота. Россія. Анна. Жжетъ. Вверху.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="left Azbuka2">Сонную собаку не буди.</p>
+<p class="left Azbuka2">Жаръ всю траву сожжетъ.</p>
+</td>
+<td>
+<p class="left Azbuka2">Банный вѣникъ лежитъ на полу.</p>
+<p class="left Azbuka2">Жуки жужжатъ.</p>
+<p class="left Azbuka2">Оттащи прочь брёвна.</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">67</span> <span class="npnumber">68</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="left Azbuka2">Столъ затрёсся.</p>
+<p class="left Azbuka2">На дворѣ оттепель.</p>
+<p class="left Azbuka2">Беззубая корова плохо ѣстъ сѣно.</p>
+<p class="left Azbuka2">Въ денникѣ стоитъ конь.</p>
+<p class="left Azbuka2">Рыбаки плыли вверхъ по рѣкѣ.</p>
+<p class="left Azbuka2">Вчера ввечеру невѣсту ввели въ домъ, и весь народъ ввалился въ избу на нее смотрѣть.</p>
+<p class="left Azbuka2">Рада бы курица на свадьбу не итти, да за крыло сволокли.</p>
+<p class="Azbuka2">Съ году на годъ беззубая старушка Маврушка кости жуётъ. (Мялка, чѣмъ лёнъ мнутъ). </p>
+<hr class="black"/>
+<p class="Azbuka2">Въ субботу ввечеру у Кати и Вари была ванна. Вышла у нихъ ссора, кому прежде влѣзть. Пришла мать и сказала: сядьте вмѣстѣ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Мужику съ возомъ надо было ѣхать черезъ</p>
+</td>
+<td class="w50">
+<p class="Azbuka2 notindent">рѣку. Черезъ рѣку ходилъ паромъ. Мужикъ отпрёгъ лошадь и свезъ телѣгу на паромъ; но лошадь была упряма и не хотѣла итти на паромъ. Мужикъ тащилъ ее изъ всѣхъ силъ за поводъ и не могъ ввести на паромъ, потомъ онъ сталъ толкать ее сзади; но не могъ ссунуть съ берега. Тогда онъ вздумалъ тащить ее за хвостъ прочь отъ воды. Лошадь была упряма и пошла не туда, куда ее тащили, и вошла на паромъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Червь дѣлалъ шелкъ, а паукъ дѣлалъ свои нитки и смѣялся надъ червёмъ. Твоя работа тихая, смотри я сколько сдѣлалъ и какія длинныя мои нитки. Червь сказалъ: нитки твои длинны то длинны, да</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">68</span> <span class="npnumber">69</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="notindent Azbuka2">толку въ нихъ нѣтъ, а за мои золото платятъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Два рыбака тянули неводъ. Когда стало тяжело, одинъ сказалъ: неводъ не хорошъ; другой сказалъ: нѣтъ неводъ хорошъ, но ты слабо тянешь, И стала у нихъ ссора. Пока спорили рыба вся ушла. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Бѣлка прыгала съ вѣтки на вѣтку и упала прямо на соннаго волка. Волкъ вскочилъ и хотѣлъ ее съѣсть. Бѣлка стала просить: пусти меня. Волкъ сказалъ: хорошо, я пущу тебя, только ты скажи мнѣ отчего вы, бѣлки, такъ веселы. Мнѣ всегда скучно, а на васъ смотришь, вы тамъ вверху всё играете и прыгаете. Бѣлка сказала: «пусти меня</p>
+</td>
+<td class="w50">
+<p class="notindent Azbuka2">прежде на дерево, а оттуда тебѣ скажу, а то я боюсь тебя». Волкъ пустилъ, a бѣлка ушла на дерево и оттуда сказала: тебѣ оттого скучно, что ты золъ. Тебѣ злость сердце жжетъ. А мы веселы оттого, что мы добры и никому зла не дѣлаемъ.</p>
+<hr class="black"/>
+<p class="left Azbuka2">Пришла важная мышь изъ города къ простой мыши. Простая мышь жила въ полѣ, и дала своей гостьѣ, что было, гороха и пшеницы. Важная мышь погрызла и сказала: „оттого ты и худа, что житье твое бѣдное, приходи ко мнѣ, посмотри какъ мы живёмъ.“</p>
+<p class="left Azbuka2">Вотъ пришла простая мышь въ гости. Дождались подъ поломъ ночи. Люди поѣли и ушли. Важная мышь</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">69</span> <span class="npnumber">70</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="notindent Azbuka2">ввела изъ щели свою гостью въ горницу и обѣ влѣзли на столъ. Простая мышь никогда не видала такой ѣды и не знала за что взяться. Она сказала: твоя правда, наше житье плохое. Я перейду также въ городъ жить. Только она сказала это, затрясся столъ и въ двери вошелъ человѣкъ съ свѣчкой и сталъ ловить мышей. На силу онѣ ушли въ щелку. „Нѣтъ“, говорить полевая мышь, „мое житье въ полѣ лучше. Хоть у меня сладкой ѣды и нѣтъ, да за то я и страха такого не знаю“.</p>
+<hr class="black"/>
+<p class="left Azbuka2">Лягушка и мышь завели ссору. Вышли на кочку и стали драться. Ястребъ видитъ, что онѣ о немъ забыли, спустился и схватилъ обѣихъ.</p>
+<hr class="black"/>
+</td>
+<td class="w50">
+<p class="left Azbuka2">Жила мышь въ полѣ у рѣки и пришла она къ другой мыши въ гости въ домъ. Поѣли они въ домѣ. Гостья и спросила пить. Хозяйка повела гостью къ ведру. А у ведра была пролита вода. Вотъ тутъ напейся. Рѣчная мышь вздернула носикъ и сказала: ну ужъ житье! Когда я у себя пить захочу, я прямо къ рѣкѣ иду, изъ всей рѣки пью вволю. А та мышь сказала: здѣсь вода все та же, а и тамъ больше того не выпьешь, что тебѣ въ брюхо войдетъ. </p>
+<hr class="black"/>
+<p class="Azbuka2 centerline"><strong>МАТЬ И ДОЧЬ ЕЯ АННОЧКА.</strong></p>
+<p class="left Azbuka2">У одной женщины умерла дѣвочка Анночка. Мать съ горя не пила, не ѣла и три дня и три ночи плакала. На третью ночь мать уснула. И видитъ мать во снѣ, что</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">70</span> <span class="npnumber">71</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="notindent Azbuka2">будто Анночка вошла къ ней и въ рукѣ держитъ кружечку. Что ты Анночка? И зачѣмъ у тебя кружечка? А я въ эту кружечку, мамочка, всѣ твои слёзы собрала. Видишь кружечка верхомъ полна. Не плачь больше. Если ты еще по мнѣ плакать будешь,</p>
+</td>
+<td class="w50">
+<p class="notindent Azbuka2">то лишнія слёзы черезъ край на землю падутъ и тогда мнѣ на томъ свѣтѣ дурно будетъ. Мнѣ теперь хорошо тамъ.</p>
+<p class="left Azbuka2">Мать съ тѣхъ поръ больше не плакала по своей дѣвочкѣ.</p>
+<p class="left Azbuka2">Она рада была, что ей хорошо на томъ свѣтѣ.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="left Azbuka2">Іисусъ. Ааронъ. Вообще. Сообща. Приищи. Свѣтлѣе. Живѣе. Гуляя. Стрѣляя. Синяя. Синюю. Митяя.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="left Azbuka2">Ааронъ былъ братъ Моисея.</p>
+<p class="left Azbuka2">Приищи такихъ друзей, чтобы у нихъ все съ тобой было сообща.</p>
+<p class="left Azbuka2">Я гуляя дошелъ до лѣса.</p>
+<p class="left Azbuka2">Дай мнѣ синюю ленту.</p>
+<p class="Azbuka2">Я съѣлъ дурную ягоду и все плюю. </p>
+<hr class="black"/>
+<p class="left Azbuka2">У дяди Митяя была каряя лошадь очень хороша. Узнали воры про карюю лошадь и вздумали</p>
+</td>
+<td>
+<p class="notindent Azbuka2">ее украсть. Пришли они ночью и влѣзли на дворъ. А въ тотъ вечеръ мужикъ привелъ медвѣдя и сталъ на ночь у дядѣ Митяя. Дядя Митяй пустилъ мужика въ избу, вывелъ карюю лошадь на дворъ, а медвѣдя пустилъ въ денникъ, гдѣ стояла каряя лошадь. Воры ночью вошли въ денникъ и стали щупать. Медвѣдь</p>
+</td>
+</tr>
+</table>
+<p class="left"><span class="opnumber">71</span> <span class="npnumber">72</span></p>
+<table>
+<tr>
+<td class="w50">
+<p class="notindent Azbuka2">всталъ и схватилъ вора. Воръ отъ страха заоралъ во всю мочь. Дядя Митяй вышелъ и поймалъ воровъ. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Сталъ левъ старъ и пришла ему смерть. Пришли всѣ звѣри и стали вокругъ льва. Звѣрямъ было жутко и жалко, они стояли всѣ молча. Пришелъ, глупая голова, оселъ и сталъ плевать на льва, онъ сказалъ: я тебя прежде боялся, а теперь не боюсь, плюю на тебя. Звѣри взяли и убили осла. </p>
+<hr class="black"/>
+<p class="left Azbuka2">Сидѣла птичка на вѣткѣ, а внизу было на травѣ сѣмя. Птичка сказала: дай я поклюю. Слетѣла на сѣмя и попала въ сѣть. За что я пропала? сказала птичка ястребы живыхъ птицъ ловятъ и все имъ ничего, а я заодно сѣмячко погибла.</p>
+</td>
+<td class="w50">
+<p class="left Azbuka2">Стало у мужика много мышей. Онъ взялъ въ домъ кошку, чтобы она ловила мышей, а кошка думала, что её затѣмъ взяли, чтобы она сама стала жирна. Кошка и стала ѣсть кости и молоко и стала жирна и гладка. И не стала больше кошка мышей ловить. Она думала: пока я была худа и шаршава, я боялась, чтобы меня не прогнали, а теперь я стала гладка и красива и мужикъ не прогонитъ меня. Другую кошку онъ не скоро справитъ, какъ меня. А мужикъ видитъ, что кошка не ловить мышей и говорить женѣ: кошка наша не годится, пріищи котёнка худаго. Взялъ жирную кошку, вынесъ въ лѣсъ и бросилъ.</p>
+</td>
+</tr>
+</table>
+<br/>
+<p class="left"><span class="opnumber">72</span> <span class="npnumber">73</span></p>
+<p class="left Azbuka1">Перепелъ. Перепёлка Перепёлочка. Цыплёнокъ. Колокольня. Колокольчикъ. Коноплянникъ. Набережная. Подберезникъ. Подъосинничекъ. Коробочники. Воскресенье. Наконечники. Виноградникъ. Черезсѣдельникъ. Землетрясеніе. Книгопечатаніе. Хлѣбопашество. Золотошвейная. Путешествіе. Путешественники.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Нужда и по воскреснымъ днямъ постится.</p>
+<p class="left Azbuka1">Незамороженная рѣка не держитъ. Непропаханное поле нельзя сѣять.</p>
+<p class="left Azbuka1">Морскихъ топить море, а сухопутныхъ горе.</p>
+<p class="left Azbuka1">Не будетъ пахатника не будетъ и бархатника.</p>
+<p class="left Azbuka1">На всякое чиханье не наздравствуешься.</p>
+<div class="image"><img alt="" class="image" src="./img/b00000946.png"/></div><hr class="black"/>
+<p class="left Azbuka1">Пріѣхалъ купецъ на постоялый дворъ и спросилъ обѣдать. Хозяйка ему разсказывала, кто къ ней заѣзжалъ, a обѣдать все не давала Купецъ разсердился и говоритъ: у тебя есть что слушать, да нечего кушать.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Два человѣка на улицѣ нашли вмѣстѣ книгу и стали спорить, кому ее взять. Третій шелъ мимо и спросилъ: кто изъ васъ умѣетъ читать? — Никто. — Такъ зачѣмъ вамъ книга? Вы спорите все равно какъ два плѣшивыхъ дрались за гребень, а самимъ чесать нечего было.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Волкъ убѣгалъ отъ собакъ и хотѣлъ спрятаться въ водомоину. А въ водомоинѣ сидѣла лисица, она оскалила зубы на волка и сказала: не пущу тебя — это мое мѣсто. Волкъ не сталъ спорить, а только сказалъ: если бы собаки не были такъ близко, я бы тебѣ показалъ, чье это мѣсто, а теперь видно твоя правда.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Мать отдавала дочь замужъ и приказывала ей слушаться всѣхъ въ мужниномъ домѣ. Поутру свекровь послала молодку за водой; молодка спросила: въ чёмъ воду носить? Невѣстка <span class="opdelimiter">въ</span><span class="opnumber">73</span> <span class="npnumber">74</span><span class="npdelimiter">шутку</span> сказала: рѣшетомъ. Молодка взяла рѣшето и пошла за водой. Мужикъ увидалъ и спросилъ: зачѣмъ она такъ глупо дѣлаетъ. Мнѣ такъ велѣли. Ну, видно добрыхъ людей слушаться — рѣшетомъ воду носить.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Орёлъ ухватилъ у лисицы лисенёнка и хотѣлъ унесть. Лисица стала просить, чтобы онъ пожалѣлъ ее. Орелъ не пожалѣлъ ее. Онъ подумалъ: что она мнѣ сдѣлаетъ? Гнѣздо у меня высоко на соснѣ. Она не достанетъ до меня. И унесъ лисенёнка. Лисица побѣжала въ поле, достала у людей головешку съ огнемъ и принесла подъ сосну. Она хотѣла зажигать сосну; но орелъ сталъ просить прощенья и принесъ ей назадъ лисенёнка.</p>
+<hr class="black"/>
+<p class="left Azbuka1">У одной обезъяны были два дѣтеныша. Одного она любила, а другаго нѣтъ. Погнались разъ за обезъяной люди. Она ухватила любимаго дѣтеныша и побѣжала съ нимъ, а нелюбимаго бросила. Нелюбимый дѣтенышъ залѣзъ въ чащу лѣса, люди не примѣтили его, пробѣжали мимо. А обезъяна вскочила на дерево, да второпяхъ ударила головой объ сукъ любимаго дѣтеныша и убила его. Когда люди ушли, обезъяна пошла искать нелюбимаго дѣтеныша, но и его не нашла и осталась одна.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Выбрали разъ звѣри себѣ обезъяну въ начальники. Лисица пришла къ обезъянѣ и говорить: ты теперь у насъ начальникъ, я тебѣ услужить хочу: я нашла въ лѣсу кладъ: пойдемъ, я тебѣ покажу. Обезъяна обрадовалась и пошла за лисицей. Лисица привела обезъяну къ капкану и говоритъ: вотъ здѣсь, возьми сама, а я до тебя трогать не хотѣла. Обезъяна засунула лапы въ капканъ и попалась. Тогда лисица побѣжала, призвала всѣхъ звѣрей и показала имъ обезъяну. Посмотрите, говоритъ, какого вы начальника выбрали! Видите, у нее ума нѣтъ, она въ капканъ попала.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Пришли непріятельскіе солдаты въ чужую землю. Народъ сталъ разбѣгаться. Одинъ мужикъ побѣжалъ въ поле за своею лошадью и сталъ ловить ее. Лошадь не давалась мужику. Мужикъ и говорить ей: глупая, не дашься мнѣ, такъ тебя непріятели возмугъ. А лошадь говоритъ: а что непріятели со мною дѣлать будутъ? Мужикъ говоритъ: извѣстно, возить <span class="opdelimiter">заставятъ.</span><span class="opnumber">74</span> <span class="npnumber">75</span><span class="npdelimiter">А</span> лошадь говоритъ: а у тебя развѣ я не вожу? Стало быть, мнѣ все одно, что на тебя, что на непріятелей твоихъ работать.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Разговорились кошка съ лисицею, какъ отъ собакъ отдѣлываться. Кошка говоритъ: я собакъ не боюсь, потому что у меня отъ нихъ одна уловка есть. А лисица говоритъ: какъ можно съ одной уловкой отдѣлаться отъ собакъ. У меня такъ семьдесят семь уловокъ и семьдесятъ семь увертокъ есть. Пока онѣ говорили, наѣхали охотники и набѣжали собаки. У кошки одна уловка: она вскочила на дерево и собаки не поймали ея; а лисица начала свои увертки дѣлать, да не увернулась, собаки поймали ее.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Была свинья и у ней было пятнадцать бѣленькихъ поросеночковъ. Всѣ были послушны, одинъ только пестрый поросеночекъ ослушивался матери. Мать не приказывала ему отходить отъ себя, а онъ все отбивался. Разъ непослушный поросеночекъ забѣжалъ далеко. Свинья разсердилась на него и говоритъ: уйду я подальше, онъ испугается и впередъ не будетъ ослушиваться. Только она отошла, слышитъ сзади поросеночекъ повизгиваетъ, ее отыскиваетъ. Ей стало жаль поросеночка, она повернулась назадъ, хотѣла его взять съ собой. Вдругъ услыхала — онъ визжитъ. Прибѣжала свинья къ тому мѣсту, гдѣ былъ поросеночекъ, а его уже нѣтъ, только забрызгана земля кровью и волчьи слѣды до пыли виднѣются.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Орелъ свилъ на деревѣ гнѣздо и вывелъ орлятъ. А подъ деревомъ дикая свинья вывела поросятъ. Орелъ леталъ на добычу и ворочался къ своимъ орлятамъ, а свинья копала около дерева и ходила въ лѣсъ, а къ ночи приносила кормъ своимъ поросятамъ. И жили орелъ съ свиньей въ дружбѣ. Задумалъ котъ погубить орлятъ и поросятъ. Пришелъ онъ къ орлу и говоритъ: ты, орелъ, не летай далеко. Посматривай за свиньей. Она затѣяла плохое дѣло: хочетъ дерево съ кореньями подрыть. Видишь, она все копаетъ. Потомъ пошелъ котъ къ свиньѣ и говорить: не хорошъ у тебя, свинья, сосѣдъ. Вчера я слышалъ, орелъ говорилъ своимъ орлятамъ: ну, орлятушки, угощу васъ скоро поросятинкой. Вотъ дай только она уйдетъ, принесу вамъ молочнаго поросеночка <span class="opdelimiter">покушать.</span><span class="opnumber">75</span></p>
+<p class="left Azbuka1"><span class="npnumber">76</span><span class="npdelimiter">Съ</span> тѣхъ поръ пересталъ орелъ летать за добычею, а свинья не ходила больше въ лѣсъ. Подохли съ голода и орлята и поросята и котъ поѣлъ ихъ.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Мужикъ нашелъ дорогой камень и понесъ къ Царю, пришелъ во дворецъ и сталъ спрашивать у царскихъ слугъ: какъ-бы Царя увидать. Одинъ царскій слуга спросилъ: зачѣмъ ему Царя. Мужикъ расказалъ. Слуга и говоритъ: хорошо, я скажу Царю, но только отдай мнѣ половину того, что тебѣ дастъ Царь. А если не обѣщаешь, то не допущу тебя до Царя. Мужикъ обѣщалъ, слуга доложилъ Царю. Царь взялъ камень и говоритъ: какую тебѣ мужикъ, награду дать? Мужикъ говоритъ: дай мнѣ пятьдесятъ плетей: не хочу другой награды. Только у меня съ твоимъ слугою уговоръ былъ, чтобы пополамъ дѣлить награду. Такъ мнѣ двадцать пять и ему двадцать пять. Царь посмѣялся и прогналъ слугу, а мужику далъ тысячу рублей.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Пропалъ у богатого купца кошелекъ съ деньгами и объявилъ купецъ, что было въ кошелькѣ двѣ тысячи рублей и обѣщалъ половину отдать тому, кто найдетъ деньги. Работникъ нашелъ кошелекъ и принесъ къ купцу. Купцу жаль было отдать обѣщанную половину. Онъ придумалъ, что будто у него кромѣ денегъ, въ кошелькѣ еще дорогой камень былъ, и говоритъ: я не отдамъ денегъ. Въ кошелькѣ былъ дорогой камень. Отдай мнѣ камень, тогда отдамъ тысячу рублей. Работникъ пошелъ къ судьѣ. Судья разсудилъ такъ: онъ сказалъ купцу: ты говорилъ, что въ кошелькѣ было двѣ тысячи рублей и еще камень дорогой. А въ этомъ кошелькѣ нѣтъ камня, значитъ кошелекъ этотъ не твой. Пускайже этотъ кошелекъ съ деньгами останется у работника, пока ихъ хозяинъ найдется, а ты объяви объ своей пропажѣ, можетъ она и найдется. Купецъ не сталъ спорить и отдалъ работнику тысячу рублей.</p>
+<hr class="black"/>
+<p class="left Azbuka1">Былъ одинъ богатый, скупой человѣкъ. Денегъ у него было много, а ему все мало было. И рядомъ съ скупымъ, завистливый человѣкъ.</p>
+<p class="left Azbuka1">Завистливому самому ничего не нужно было. Пришла къ этимъ двумъ людямъ волшебница и говоритъ имъ: просите чего хотите, чего пожелаете, — то сдѣлается, только пусть <span class="opdelimiter">проситъ</span><span class="opnumber">76</span> <span class="npnumber">77</span><span class="npdelimiter">одинъ</span> изъ двоихъ. А чего одинъ попроситъ, того другому дамъ вдвое.</p>
+<p class="left Azbuka1">Скупой и подумалъ: пускай сосѣдъ проситъ. Онъ попроситъ богатства, a мнѣ вдвое будетъ. А завистливый подумалъ: чего-бы я не попросилъ, сосѣду вдвое дадутъ. Такъ дай-же, я попрошу того, чему онъ и не радъ будетъ. И завистливый попросилъ, чтобы у него у самаго одинъ глазъ лопнулъ; такъ и сдѣлалось: завистливый окривѣлъ, а скупой совсѣмъ ослѣпъ.</p>
+<p class="left Azbuka1">Тетеревъ сидѣлъ на деревѣ. Лисица подошла къ нему и говоритъ: здравствуй, тетеревочекъ мой дружочекъ, какъ услышала твой голосочекъ, такъ и пришла тебя провѣдать. Спасибо на добромъ словѣ, сказалъ тетеревъ. Лисица притворилась, что не разслышитъ и говоритъ: что говоришь? не слышу. Ты бы тетеревочекъ мой дружочекъ, сошелъ на травушку погулять, поговорить со мной, а то я съ дерева не разслышу. Тетеревъ сказалъ: боюсь я сходить на траву. Намъ птицамъ, опасно ходить по землѣ.</p>
+<p class="left Azbuka1">Или ты меня боишься? сказала лисица. Не тебя, такъ другихъ звѣрей, боюсь, сказалъ тетеревъ. Всякіе звѣри бываютъ.</p>
+<p class="left Azbuka1">Нѣтъ, тетеревочекъ мой дружечекъ, нынче указъ объявленъ, чтобы по всей землѣ миръ былъ. Нынче ужъ звѣри другъ друга не трогаютъ. Вотъ это хорошо, сказалъ тетеревъ, а то вотъ собаки бѣгутъ, кабы по старому, тебѣ бы уходить надо, а теперь тебѣ бояться нечего. Лисица услыхала про собакъ, навострила уши и хотѣла бѣжать. Куда-жъ ты? сказалъ тетеревъ, вѣдь нынче указъ, собаки не тронутъ. А кто ихъ знаетъ! сказала лисица, можетъ онѣ указа не слыхали. И убѣжала.</p>
+<hr class="black"/>
+<p class="centerline Azbuka1"><span class="Razradka">Нош</span>а. (Басня.)</p>
+<p class="left Azbuka1">Въ Москву послѣ Француза пришли два мужика — искать богатства. Одинъ былъ умный, другой глупый. Они вмѣстѣ пришли на пожарище и нашли обгорѣлую шерсть. Они сказали: пригодится для дома. Связали сколько могли унесть и понесли домой. На дорогѣ, на улицѣ, они увидали, лежитъ подъ рогожами сукно. Умный мужикъ сбросилъ шерсть, связалъ сукна, <span class="opdelimiter">сколько</span><span class="opnumber">77</span> <span class="npnumber">78</span><span class="npdelimiter">могъ</span> донести, и взвалилъ на плечи. Глупый сказалъ: за чѣмъ бросать шерсть. Она увязана хорошо и на плечахъ хорошо держится и не взялъ сукна. Они пошли дальше и увидали: на дорогѣ лежать выброшенныя платья. Умный мужикъ свалилъ сукно, завязалъ платья и взвалилъ на плечи. Глупый сказалъ: зачѣмъ бросать шерсть, она хорошо увязана и крѣпко держится на плечахъ. Они пошли дальше и увидали лежитъ посуда серебряная. Умный бросилъ платья и собралъ сколько могъ серебра и понесъ; а глупый не снялъ шерсти, потому что она хорошо увязана и крѣпко держится. Еще дальше на дорогѣ увидали они, лежитъ золото. Умный бросилъ серебро и поднялъ золото, а глупый сказалъ: къ чему снимать шерсть. Она хорошо увязана и крѣпко на плечахъ держится. И они пошли домой. На дорогѣ ихъ засталъ дождь и такъ намочилъ шерсть, что глупый бросилъ и пришелъ домой ни съ чѣмъ, а умный принесъ золото и сталъ богатъ.</p>
+<p class="centerline Azbuka1"><span class="Razradka">Большая печк</span>а. (Басня.)</p>
+<p class="left Azbuka1">У одного человѣка былъ большой домъ, а въ домѣ была большая печь; а семья у этого человѣка была небольшая: только самъ, да жена. Когда пришла зима, сталъ человѣкъ топить печь и сжегъ въ одинъ мѣсяцъ всѣ свои дрова. Нечѣмъ стало топить, а холодно. Тогда человѣкъ сталъ ломать дворъ и топить лѣсомъ изъ разломаннаго двора. Когда онъ сжегъ весь дворъ, въ домѣ безъ защиты стало еще холоднѣе, а топить нечѣмъ. Тогда онъ влѣзъ, разломалъ крышу и сталъ топить крышей; въ домѣ стало еще холоднѣе, — а дровъ нѣту. Тогда человѣкъ сталъ разбирать потолокъ изъ дома, чтобы топить имъ. Сосѣдъ увидалъ, какъ онъ потолокъ разворачиваетъ и говоритъ ему: что ты, сосѣдъ, или съ ума сошелъ? —Зимой потолокъ разскрываешь! Ты и себя и жену заморозишь! A человѣкъ говоритъ: нѣтъ братъ: я вѣдь за тѣмъ и потолокъ поднимаю, чтобы мнѣ печку топить. У насъ печь такая, что чѣмъ больше топлю, то холоднѣе становится. Сосѣдъ засмѣялся и говоритъ: ну, а какъ потолокъ сожжешь, тогда домъ разбирать будешь? Жить негдѣ будетъ, останется одна печь, да и та <span class="opdelimiter">остынетъ.</span><span class="opnumber">78</span></p>
+<p class="left Azbuka1"><span class="npnumber">79</span><span class="npdelimiter">Такое</span> мое несчастіе, сказалъ человѣкъ. У всѣхъ сосѣдей дровъ на всю зиму хватило, а я дворъ и половину дома сжегъ и то не достало. Сосѣдъ сказалъ: тебѣ надо только печку передѣлать. A человѣкъ сказалъ: знаю я, что ты моему дому и моей печкѣ завидуешь за то, что она больше твоей, затѣмъ и не велишь ломать; и не послушался сосѣда и сжегъ потолокъ и сжегъ домъ и пошелъ жить къ чужимъ людямъ.</p>
+<p class="centerline Azbuka1"><span class="Razradka">Находк</span>а. (Быль.)</p>
+<p class="left Azbuka1">Въ одной деревнѣ жила старушка съ внучкой. Онѣ были очень бѣдны и ѣсть имъ было нечего. Пришло Свѣтло Христово Воскресенье. Народъ радуется. Всѣ купили себѣ разговѣться, только старушкѣ съ внучкой нечѣмъ разговѣться. Поплакали онѣ, и стали Бога просить, чтобы Онъ имъ помогъ. И вспомнила старушка, что встарину, во время француза, мужики деньги въ землю зарывали. Старушка и говорить внучкѣ: «возьми ты, внучка, лопатку и иди на старое селище; помолись Богу, да порой въ землѣ, можеть Богъ намъ и пошлетъ что нибудь. Внучка и думаетъ: какъ можно кладъ найдти. Ну да сдѣлаю, какъ бабушка велитъ. Взяла лопату и пошла. Вырыла она яму и думаетъ: будетъ, порылась, пойду домой. Хотѣла подымать лопату, слышитъ — обо что-то лопата стукнула. Она нагнулась, видитъ кубышка большая. Потрясла ее, что-то звенитъ. Она бросила лопату, побѣжала къ бабушкѣ, кричитъ: бабушка, кладъ нашла! Открыли кубышку, въ ней полно серебряныхъ, рубленыхъ копѣечекъ. И бабушка съ внучкой купили себѣ къ празднику, чѣмъ разговѣться и корову купили и благодарили Бога, что онъ услышалъ ихъ молитву.</p>
+<p class="centerline Azbuka1"><span class="Razradka">Дѣвочка и разбойник</span>и. (Сказка.)</p>
+<p class="left Azbuka1">Одна дѣвочка стерегла въ полѣ корову. Пришли разбойники и увезли дѣвочку. Разбойники привезли дѣвочку въ лѣсъ въ домъ и велѣли ей стряпать, убирать и шить. Дѣвочка жила у разбойниковъ, работала на нихъ и не знала какъ уйти. <span class="opdelimiter">Когда</span><span class="opnumber">79</span> <span class="npnumber">80</span><span class="npdelimiter">разбойники</span> уходили, они запирали дѣвочку. Разъ ушли всѣ разбойники и оставили дѣвочку одну. Она принесла соломы, сдѣлала изъ соломы куклу, надѣла на нее свои платья и посадила у окна. А сама вымазалась мёдомъ, вывалялась въ перьяхъ, и стала похожа на страшную птицу. Она выскочила въ окно и побѣжала. Только что она вышла на дорогу, видитъ на встрѣчу ей идуть разбойники. Разбойники не узнали ее и спросили: «чучело, что наша дѣвочка дѣлаетъ? A дѣвочка и говоритъ:</p>
+<p class="left Azbuka1">«Она моетъ, готовить и шьетъ, у окна разбойничковъ ждетъ. И сама еще скорѣе побѣжала.</p>
+<p class="left Azbuka1">Разбойники пришли домой и видятъ у окна кто-то сидитъ. Они поклонились и говорять: здравствуй, наша дѣвочка, отопри намъ; и видятъ, что дѣвочка не кланяется и молчитъ. Они стали бранить куклу, а она все недвигается и молчитъ. Тогда они сломали дверь и хотѣли убить дѣвочку — и тутъ увидали, что это не дѣвочка. а соломенная кукла. Разбойники ее бросили и говорятъ: обманула насъ дѣвочка!</p>
+<p class="left Azbuka1">A дѣвочка пришла къ рѣкѣ, обмылась и пришла домой.</p>
+<p class="centerline Azbuka1"><span class="Razradka">Орѣховая вѣтк</span>а. (Сказка.)</p>
+<p class="left Azbuka1">Жилъ богатый купецъ и было у него три дочери. Собрался онъ ѣхать за товаромъ и спросилъ у дочерей: что имъ привезть? Старшая попросила бусы. Вторая попросила колечко, а меньшая говоритъ: мнѣ ничего не нужно. Если вспомнишь про меня, то привези орѣховую вѣтку. Купецъ уѣхалъ, сдѣлалъ свои дѣла и купилъ старшей дочери бусы, второй колечко. Ѣдетъ онъ уже назадъ черезъ большой лѣсъ и вспомнилъ, что меньшая ничего не просила, только орѣховую вѣтку и слѣзъ съ повозки и пошелъ сорвать орѣховую вѣтку. Вдругъ, видитъ орѣховая вѣтка и не простая, а на ней золотые орѣхи. Купецъ и думаетъ: вотъ и моей меньшой умницѣ подарокъ, нагнулъ вѣтку и сломилъ. Вдругъ, откуда ни взялся медвѣдь; схватилъ купца за руку и говорить: ты какъ смѣлъ мою вѣтку ломать. Теперь я тебя съѣмъ. Купецъ испугался и говоритъ: я бы не взялъ вѣтки, да меньшая дочь просила меня.</p>
+<p class="left Azbuka1">Медвѣдь и говоритъ: иди же домой, но помни: тотъ, <span class="opdelimiter">кто</span><span class="opnumber">80</span> <span class="npnumber">81</span><span class="npdelimiter">тебя</span> дома первый встрѣтитъ, того ты мнѣ отдай. Купецъ обѣщался и медвѣдь отпустилъ его. Купецъ поѣхалъ дальше и пріѣхалъ домой.</p>
+<p class="left Azbuka1">Только въѣхалъ во дворъ, бѣжитъ на встрѣчу его любимая — меньшая дочь. Купецъ вспомнилъ, что онъ обѣщался медвѣдю, того, кто его первый встрѣтитъ и такъ и обмеръ.</p>
+<p class="left Azbuka1">Разсказалъ купецъ все, что съ нимъ было и что надо меньшую дочь медвѣдю отдать. Стали всѣ плакать. А мать говоритъ: «не плачьте, я знаю что сдѣлать. Когда медвѣдь придетъ за нашей дочкой, мы нарядимъ пастухову дочь и отдадимъ ее вмѣсто своей.»</p>
+<p class="left Azbuka1">Разъ сидятъ всѣ дома и видятъ, что ѣдетъ на дворъ карета. Стали смотрѣть. Видятъ: изъ кареты вышелъ медвѣдь. Вошелъ медвѣдь къ купцу и говоритъ: давай дочь. Купецъ не знаетъ, что сказать. А мать догадалась снарядила пастухову дочь и привела медвѣдю. Медвѣдь посадилъ её въ карету и поѣхалъ. Только отъѣхали, медвѣдь зарычалъ и хотѣлъ съѣсть пастухову дочь. Тогда она призналась, что она пастухова, а не купцова дочь.</p>
+<p class="left Azbuka1">Медвѣдь вернулся къ купцу и говорить: ты меня обманулъ, давай настоящую дочь. Поплакали, одѣли дочь, простились съ нею и отдали медвѣдю. Медвѣдь посадилъ её въ карету и поѣхалъ. 'Ѣхали они, ѣхали; пріѣхали въ большой лѣсъ и остановились. Медвѣдь вылѣзъ изъ кареты и сказалъ: вотъ нашъ домъ, иди за мной. Медвѣдь влѣзъ въ яму, дѣвочка вошла за нимъ. Потомъ отворилъ медвѣдь большую дверь и ввелъ дѣвочку въ темный подвалъ и говоритъ: иди за мной. Дѣвочка дрожала отъ страха и думала, что ея конецъ пришёлъ; а все таки шла за медвѣдемъ. Вдругъ затрещало что то, какъ громъ, стало свѣтло и дѣвочка видитъ, что она не въ подвалѣ, а въ богатомъ дворцѣ: свѣтло. музыка играетъ и нарядные люди ее встрѣчаютъ и ей кланяются, а рядомъ съ ней молодой князь. Князь подошелъ къ ней и сказалъ: «я не медвѣдь, а князь, и хочу на тебѣ жениться.»</p>
+<p class="left Azbuka1">Тогда послали за отцемъ и матерью, позвали гостей и съиграли сватьбу. Жили они счастливо и всегда берегли орѣховую <span class="opdelimiter">вѣтку.</span><span class="opnumber">81</span></p>
+<p class="centerline Azbuka1"><span class="npnumber">82</span><span class="npdelimiter"><span class="Razradka">Птичк</span>а.</span> (Быль.)</p>
+<p class="left Azbuka1">Былъ Сережа имянинникъ и много ему разныхъ подарили подарковъ; и волчки и кони и картинки. Но дороже всѣхъ подарковъ , подарилъ дядя Сережѣ сѣтку, чтобъ птицъ ловить. Сѣтка сдѣлана такъ, что на рамкѣ придѣлана дощечка и сѣтка откинута. Насыпать сѣмя на дощечку и выставить на дворъ. Прилетитъ птичка, сядетъ на дощечку, дощечка подвернется и сѣтка сама захлопнется. Обрадовался Сережа, прибѣжалъ къ матери показать сѣтку. Мать говорить: не хороша игрушка. На что тебѣ птички? зачѣмъ ты ихъ мучить будешь! — Я ихъ въ клѣтки посажу. Они будутъ пѣть, и я ихъ буду кормить. — Досталъ Сережа сѣмя, насыпалъ на дощечку и выставилъ сѣтку въ садъ. И все стоялъ, ждаль, что птички прилетятъ. Но птицы его боялись и не летѣли на сѣтку. Пошелъ Сережа обѣдать и сѣтку оставилъ. Поглядѣлъ послѣ обѣда, сѣтка захлопнулась и подъ сѣткой бьется птичка. Сережа обрадовался, поймалъ птичку и понесъ домой. Мама! посмотрите я птичку поймалъ, это вѣрно соловей! и какъ у него сердце бьется. Мать сказала: это чижъ. Смотри — же не мучай его, а лучше пусти. Нѣтъ я его кормить и поить буду. Посадилъ Сережа чижа въ клѣтку и два дня сыпалъ ему сѣмя и ставилъ воду и чистилъ клѣтку. На третій день онъ забылъ про чижа и не перемѣнилъ ему воду. Мать ему и говоритъ: вотъ видишь, ты забылъ про свою птичку, лучше пусти ее. Нѣтъ, я не забуду, я сейчасъ поставлю воды и вычищу клѣтку. Засунулъ Сережа руку въ клѣтку сталъ чистить, а чижикъ испугался, бьется объ клѣтку. Сережа вычистилъ клѣтку и пошелъ за водой. Мать увидала, что онъ забылъ закрыть клѣтку и кричитъ ему: Сережа закрой клѣтку, а то вылетитъ и убьется твоя птичка! Не успѣла она сказать, чижикъ нашелъ дверку, обрадовался, распустилъ крылушки и полетѣлъ черезъ горницу къ окошку. Да не видалъ стекла, ударился о стекло и упалъ на подоконникъ.</p>
+<p class="left Azbuka1">Прибѣжалъ Сережа, взялъ птичку, понесъ ее въ клѣтку. Чижикъ былъ еще живъ; но лежалъ на груди распустивши крылушки и тяжело дышалъ, Сережа смотрѣлъ, смотрѣлъ и началъ плакать. — Мама! что мнѣ теперь <span class="opdelimiter">дѣлать?</span><span class="opnumber">82</span></p>
+<p class="left Azbuka1"><span class="npnumber">83</span><span class="npdelimiter">Теперь</span> ничего не сдѣлаешь. Сережа цѣлый день не отходилъ отъ клѣтки и все смотрѣлъ на чижика, а чижикъ все такъже лежалъ на грудкѣ и тяжело и скоро дышалъ. Когда Сережа пошелъ спать, чижикъ еще былъ живъ. Сережа долго не могъ заснуть, всякій разъ. какъ закрывалъ глаза, ему представлялся чижикъ, какъ онъ лежитъ и дышетъ. Утромъ, когда Сережа подошелъ къ клѣткѣ, онъ увидѣлъ, что чижъ уже лежитъ на спинкѣ, поджалъ лапки и закостенѣлъ. Съ тѣхъ поръ Сережа никогда не ловилъ птицъ.</p>
+<p class="centerline Azbuka1"><span class="Razradka">Три медвѣд</span>я. (Сказка.)</p>
+<p class="left Azbuka1">Одна дѣвочка ушла изъ дома въ лѣсъ. Въ лѣсу она заблудилась и стала искать дорогу домой, да не нашла, а пришла въ лѣсу къ домику.</p>
+<p class="left Azbuka1">Дверь была отворена: она посмотрѣла въ дверь, видитъ въ домикѣ никого нѣтъ и вошла. Въ домикѣ этомъ жили три медвѣдя. Одинъ медвѣдь былъ отецъ. звали его Михаилъ Иванычъ. Онъ былъ большой и лохматый. Другой была медвѣдица. Она была поменьше и звали ее Настасья Петровна. Третій былъ маленькій медвѣженокъ и звали его Мишутка. Медвѣдей небыло дома, они ушли гулять по лѣсу.</p>
+<p class="left Azbuka1">Въ домикѣ было двѣ комнаты: одна столовая, другая спальня. Дѣвочка вошла въ столовую и увидѣла на столѣ три чашки съ похлёбкой. Первая чашка, очень большая, была Михайлы Ивановичева. Вторая чашка, поменьше, была Настасьи Петровнина; третья синенькая чашечка была Мишуткина. Подлѣ каждой чашки лежала ложка: большая, средняя и маленькая.</p>
+<p class="left Azbuka1">Дѣвочка взяла самую большую ложку и похлебала изъ самой большой чашки; потомъ взяла среднюю ложку и похлебала изъ средней чашки, потомъ взяла маленькую ложечку и похлебала изъ синенькой чашечки; и Мишуткина похлёбка ей показалась лучше всѣхъ.</p>
+<p class="left Azbuka1">Дѣвочка захотѣла сѣсть и видитъ у стола три стула: одинъ большой, Михайлы Иваныча, другой поменьше. Настасьи Петровнинъ и третій маленькій, съ синенькой подушечкой — <span class="opdelimiter">Мишуткинъ.</span><span class="opnumber">83</span> <span class="npnumber">84</span><span class="npdelimiter">Она</span> полѣзла на большой стулъ и упала; потомъ сѣла на средній стулъ, на немъ было неловко, потомъ сѣла на маленькій стульчикъ и засмѣялась, такъ было хорошо. Она взяла синенькую чашечку на колѣна и стала ѣсть. Поѣла всю похлёбку и стала качаться на стулѣ.</p>
+<p class="left Azbuka1">Стульчикъ проломился и она упала на полъ. Она встала, подняла стульчикъ и пошла въ другую горницу. Тамъ стояли три кровати: Одна большая Михайлы Иванычева, другая средняя — Настасьи Петровнина, третья маленькая — Мишенькина. Дѣвочка легла въ большую, ей было слишкомъ просторно; легла въ среднюю — было слишкомъ высоко; легла въ маленькую — кроватка пришлась ей какъ разъ въ пору, и она заснула.</p>
+<p class="left Azbuka1">A медвѣди пришли домой голодные и захотѣли обѣдать Большой медвѣдь взялъ свою чашку, взглянулъ и заревѣлъ страшнымъ голосомъ:</p>
+<p class="centerline Azbuka">Кто хлебалъ въ моей чашкѣ!</p>
+<p class="left Azbuka1">Настасья Петровна посмотрѣла свою чашку и зарычала, не такъ громко:</p>
+<p class="centerline Azbuka2">Кто хлебалъ въ моей чашкѣ!</p>
+<p class="left Azbuka1">А Мишутка увидалъ свою пустую чашечку и запищалъ тонкимъ голосомъ:</p>
+<p class="centerline Azbuka4">Кто хлебалъ въ коей чашкѣ я все выхлебалъ!</p>
+<p class="left Azbuka1">Михайло Иванычъ взглянулъ на свой стулъ и зарычалъ страшнымъ голосомъ:</p>
+<p class="centerline Azbuka">Кто сидѣлъ на моемъ стулѣ и сдвинулъ его съ мѣста!</p>
+<p class="left Azbuka1">Настасья Петровна взглянула на свой стулъ и зарычала не такъ громко:</p>
+<p class="centerline Azbuka2">Кто сидѣлъ на моемъ стулѣ и сдвинулъ его съ мѣста!</p>
+<p class="left Azbuka1">Мишутка взглянулъ на свой сломанный стульчикъ и <span class="opdelimiter">пропищалъ:</span><span class="opnumber">84</span></p>
+<p class="centerline Azbuka4"><span class="npnumber">85</span><span class="npdelimiter">Кто</span> сидѣлъ на моемъ стулѣ и сломалъ его!</p>
+<p class="left Azbuka1">Медвѣди пришли въ другую горницу.</p>
+<p class="centerline Azbuka">Кто ложился въ мою постель и смялъ ее!</p>
+<p class="left Azbuka1">Зеревѣлъ Михайло Иванычъ страшнымъ голосомъ.</p>
+<p class="centerline Azbuka2">Кто ложился въ мою постель и смялъ ее,</p>
+<p class="left Azbuka1">зарычала Настасья Петровна не такъ громко.</p>
+<p class="left Azbuka1">А Мишенька подставилъ скамеечку, полѣзъ въ свою кроватку и запищалъ тонкимъ голосомъ:</p>
+<p class="centerline Azbuka4">Кто ложился въ мою постель!</p>
+<p class="left Azbuka1">И вдругъ онъ увидалъ дѣвочку и завизжалъ такъ какъ будто его рѣжутъ:</p>
+<p class="centerline Azbuka4">Вотъ она? Держи, держи! Вотъ она. Вотъ она! Ай яяй! Держи!</p>
+<p class="left Azbuka1">Онъ хотѣлъ ее укусить. Дѣвочка открыла глаза, увидѣла медвѣдей и бросилась къ окну. Окно было открыто, она выскочила въ окно и убѣжала. И медвѣди не догнали её.</p>
+<p class="centerline Azbuka1"><span class="Razradka">Какъ дядя Семенъ разсказывалъ про то, что съ нимъ въ лѣсу был</span>о. (Разсказъ.)</p>
+<p class="left Azbuka1">Поѣхалъ я разъ зимою въ лѣсъ за деревами, срубилъ три дерева, обрубилъ сучья, обтесалъ. смотрю ужъ поздно, надо домой ѣхать. А погода была дурная: снѣгъ шелъ и мело. Думаю, ночь захватитъ и дороги не найдешь. Погналъ я лошадь; ѣду, ѣду — все выѣзду нѣтъ. Все лѣсъ. Думаю, шуба на мнѣ плохая. замерзнешь. Ѣздилъ, ѣздилъ, нѣтъ дороги и темно. Хотѣлъ ужъ сани отпрягать, да подъ сани ложиться, слышу недалеко бубенцы погромыхиваютъ. Поѣхалъ я на бубенчики, вижу тройка коней соврасыхъ, гривы заплетены лентами, бубенцы свѣтятся и сидятъ двое молодцовъ.</p>
+<p class="left Azbuka1">Здорово братцы! — Здорово мужикъ! — Гдѣ братцы дорога? — Да вотъ мы на самой дорогѣ. Выѣхалъ я къ нимъ, смотрю, что за чудо — дорога гладкая и не заметеная. — Ступай, говорятъ, за нами и погнали коней. Моя кобылка плохая не поспѣваетъ. Сталъ я кричать: подождите братцы! Остановились, смѣются. — Садись, говорятъ, съ нами. Твоей лошади порожнемъ легче <span class="opdelimiter">будетъ.</span><span class="opnumber">85</span> <span class="npnumber">86</span><span class="npdelimiter">Спасибо,</span> говорю. Перелѣзъ я къ нимъ въ сани. Сани хорошія, ковровыя. Только сѣлъ я, какъ свиснуть: ну вы любезные! Завились соврасые кони такъ, что снѣгъ столбомъ. Смотрю, что за чудо. Свѣтлѣй стало и дорога гладкая какъ ледъ и палимъ мы такъ, что духъ захватываетъ, только по лицу вѣтками стегаетъ. Ужъ мнѣ жутко стало. Смотрю впередъ: гора крутая, прекрутая и подъ горой пропасть. Соврасые прямо въ пропасть летятъ. Испугался я, кричу: батюшки! легче, убьете! Куда тутъ, только смѣются, свищутъ. Вижу я пропадать. Надъ самой пропастью сани. Гляжу, у меня надъ головой сукъ. Ну думаю: пропадайте одни. Приподнялся, схватился за сукъ и повисъ. Только повисъ и кричу: держи! А самъ слышу тоже, кричатъ бабы: дядя Семенъ! чего ты? Бабы, а бабы! дуйте огонь. Съ дядей Семеномъ что-то недоброе — кричитъ. Вздули огонь. Отчнулся я. А я въ избѣ, за палати ухватился руками, вишу и кричу не путевымъ голосомъ. А это я — все во снѣ видѣлъ.</p>
+<p class="centerline Azbuka1"><span class="Razradka">Коров</span>а. (Быль.)</p>
+<p class="left Azbuka1">Жила вдова Марья съ своей матерью и съ шестью дѣтьми. Жили они бѣдно. Но купили на послѣднія деньги бурую корову, чтобъ было молоко для дѣтей. Старшіе дѣти кормили Буренушку въ полѣ и давали ей помои дома. Одинъ разъ мать вышла со двора, a старшій мальчикъ Миша полѣзъ за хлѣбомъ на полку, уронилъ стаканъ и разбилъ его. Миша испугался, что мать его будетъ бранить, подобралъ большія стекла оть стакана, вынесъ на дворъ и зарылъ въ навозѣ, a маленькія стеклушки всѣ подобралъ и бросилъ въ лаханку. Мать хватилась стакана, стала спрашивать, но Миша не сказалъ: и такъ дѣло осталось.</p>
+<p class="left Azbuka1">На другой день послѣ обѣда, пошла мать давать Буренушкѣ помои изъ лаханки, видитъ Буренушка скучна и не ѣстъ корма. Стали лѣчить корову, позвали бабку. Бабка сказала: корова жива не будетъ надо ее убить на мясо. Позвали мужика, стали бить корову. Дѣти услыхали какъ на дворѣ заревѣла Буренушка. Собрались всѣ на печку и стали плакать. Когда убили Буренушку, сняли шкуру и разрѣзали на части, у ней въ горлѣ нашли <span class="opdelimiter">стекло.</span><span class="opnumber">86</span></p>
+<p class="left Azbuka1"><span class="npnumber">87</span><span class="npdelimiter">И</span> узнали, что она издохла отъ того, что ей попало стекло въ помояхъ. Когда Миша узналъ это, онъ сталъ горько плакать и признался матери объ стаканѣ. Мать ничего не сказала и сама заплакала. Она сказала: убили мы свою Буренушку, купить теперь не на что. Какъ проживутъ малыя дѣти безъ молока: Миша еще пуще, сталъ плакать и не слѣзалъ съ печи, когда ѣли студень изъ коровьей головы. Онъ каждый день во снѣ видѣлъ, какъ дядя Василій несъ за рога мертвую, бурую голову Буренушки съ открытыми глазами и красной шеей. Съ тѣхъ поръ у дѣтей молока не было. Только по праздникамъ бывало молоко, когда Марья попроситъ у сосѣдей горшечекъ. Случилось, барынѣ той деревни, понадобилась къ дитяти няня. Старушка и говоритъ дочери, отпусти меня, я пойду въ няни и тебѣ можетъ Богъ поможетъ одной съ дѣтьми управляться. А я, Богъ дастъ, заслужу въ годъ на корову. Такъ и сдѣлали. Старушка ушла къ барынѣ. A Марьѣ еще тяжелѣе съ дѣтьми стало. И дѣти безъ молока цѣлый годъ жили: одинъ кисель и тюрю ѣли и стали худые и блѣдные. Прошелъ годъ, пришла старушка домой и принесла двадцать рублей. Ну дочка! говорить, теперь купимъ корову. Обрадовалась Марья, обрадовались всѣ дѣти. Собрались Марья съ старухой на базарь покупать корову. Сосѣдку попросили съ дѣтьми побыть, a сосѣда дядю Захара попросили сь ними поѣхать, выбирать корову. Помолились Богу, поѣхали въ городъ. Дѣти пообѣдали и вышли на улицу смотрѣть: не ведуть-ли корову. Стали дѣти судить: какая будетъ корова — бурая или черная. Стали они говорить: какъ ее кормить будутъ. Ждали они, ждали цѣлый день. За версту ушли встрѣчать корову, ужь смеркаться стало, вернулись назадъ. Вдругъ, видятъ: по улицѣ ѣдетъ на телѣгѣ бабушка, а у задняго колеса идетъ пестрая корова за рога привязана и идетъ сзади мать, хворостиной подгоняетъ. Подбѣжали дѣти, стали смотрѣть корову, Набрали хлѣба, травы, стали кормить. Мать пошла въ избу, раздѣлась и вышла на дворъ съ полотенцемъ и подойникомъ. Она сѣла подъ корову, обтерла вымя. Господи благослови! стала доить корову; a дѣти сѣли кругомъ и смотрѣли какъ молоко брызнуло изъ вымя въ край подойника и засвистѣло у матери изъ подъ пальцевъ. <span class="opdelimiter">Надоила</span><span class="opnumber">87</span> <span class="npnumber">88</span><span class="npdelimiter">мать</span> половину подойника, снесла на погребъ и отлила дѣтямъ горшочекъ къ ужину.</p>
+<p class="centerline Azbuka1"><span class="Razradka">Филипок</span>ъ. (Быль.)</p>
+<p class="left Azbuka1">Былъ мальчикъ, звали его Филиппъ. Пошли разъ всѣ ребята въ школу. Филиппъ взялъ шапку и хотѣлъ тоже идти. Но мать сказала ему: — куда ты, Филипокъ, собрался? — Въ школу. Ты еще малъ, не ходи, и мать оставила его дома. Ребята ушли въ школу. Отецъ ещё съ утра уѣхалъ въ лѣсъ, мать ушла на поденную работу. Остались въ избѣ Филипокъ да бабушка на печкѣ, Стало Филипку скучно одному, бабушка заснула, а онъ сталъ искать шапку. Своей не нашелъ, взялъ старую, отцовскую и пошелъ въ шкоду.</p>
+<p class="left Azbuka1">Школа была за селомъ у Церкви. Когда Филиппъ шелъ по своей слободѣ, собаки не трогали его, онѣ его знали. Но когда онъ вышелъ къ чужимъ дворамъ, выскочила Жучка, залаяла, а за Жучкой большая собака Волчокъ. Филипокъ бросился бѣжать, собаки за нимъ. Филипокъ сталъ кричать, споткнулся и упалъ. Вышелъ мужикь, отогналъ собакъ и сказалъ: куда ты, пострѣленокъ, одинъ бѣжишъ? Филипокъ ничего не сказалъ, подобралъ полы и пустился бѣжать во весь духъ. Прибѣжалъ онъ къ школѣ. На крыльцѣ никого нѣтъ, а въ школѣ слышны гудятъ голоса ребята. На Филипка нашелъ страхъ: что какъ учитель меня прогонитъ? И сталъ онъ думать, что ему дѣлать. Назадъ идти опять собака заѣстъ, въ школу идти — учителя боится. Шла мимо школы баба съ ведромъ и говорить: всѣ учатся, а ты что тут стоишь? Филипокъ и пошелъ въ школу. Въ сѣнцахъ снялъ шапку и отворилъ дверь. Школа вся была полна ребятъ. Всѣ кричали свое и учитель въ красномъ шарфѣ ходилъ посерединѣ.</p>
+<p class="left Azbuka1">Ты что? закричалъ онъ на Филипка. Филипокъ ухватился за шапку и ничего не говорилъ. — Да ты кто? Филипокъ молчалъ. — Или ты нѣмой? Филипокъ такъ напугался, что говорить не могъ Ну такъ иди домой, коли говорить не хочешь. А Филипокъ и радъ бы что сказать, да въ горлѣ у него отъ страха пересохло. Онъ посмотрѣлъ на учителя и заплакалъ. Тогда учителю жалко его стало. Онъ погладилъ его по головѣ и спросилъ у ребятъ, кто этотъ <span class="opdelimiter">мальчикъ.</span><span class="opnumber">88</span></p>
+<p class="left Azbuka1"><span class="npnumber">89</span><span class="npdelimiter">—</span> Это Филипокъ, Костюшкинъ братъ, онъ давно просится въ школу, да мать не пускаетъ его и онъ украдкой пришелъ въ школу.</p>
+<p class="left Azbuka1">Ну садись на лавку возлѣ брата, а я твою мать попрошу, чтобъ пускала тебя въ школу.</p>
+<p class="left Azbuka1">Учитель сталъ показывать Филипку буквы, а Филипокъ ихъ ужъ зналъ и немножко читать умѣлъ.</p>
+<p class="left Azbuka1">Ну-ка сложи: свое имя. Филипокъ сказалъ: хве-и-хви,-ле-и-ли, пеокъ-покъ. Всѣ засмѣялись.</p>
+<p class="left Azbuka1">Молодецъ, сказалъ учителъ. Кто же тебя училъ читать?</p>
+<p class="left Azbuka1">Филипокъ осмѣлился и сказалъ: Костюшка. Я бѣдовый, я сразу все понялъ. Я страсть какой ловкій! Учитель засмѣялся и сказалъ: а молитвы ты знаешъ? Филипокъ сказалъ: знаю, и началъ говорить Богородицу; но всякое слово говорилъ не такъ. Учитель остановилъ его и сказалъ: ты погоди хвалиться, а поучись.</p>
+<p class="left Azbuka1">Съ тѣхъ поръ Филипокъ сталъ ходить съ ребятами въ школу.</p>
+<br/>
+<p class="Azbuka2 centerline"><strong>СЛАВЯНСКІЯ БУКВЫ.</strong></p>
+<div class="image"><img alt="" class="image w70" src="./img/b00001073.png"/></div><p class="left emptyline"><span class="opnumber">89</span> <span class="npnumber">90</span></p>
+<div class="image"><img alt="" class="image w70" src="./img/b00001076.png"/></div><p class="left emptyline"><span class="opnumber">90</span> <span class="npnumber">91</span></p>
+<p class="Azbuka2 centerline"><strong>МОЛИТВЫ.</strong></p>
+<div class="image"><img alt="" src="./img/b00001080.png"/></div>
+<p class="left Azbuka1">Во имя Отца и Сына и Святаго Духа, аминь.</p>
+<p class="left Azbuka1">Слава Тебѣ Боже нашъ, слава Тебѣ,</p>
+<br/>
+<p class="Azbuka2 center">СВ. ДУХУ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001086.png"/></div>
+<p class="left Azbuka1">Царю небесный Утѣшителю, Душе истины, Иже вездѣ сый и вся исполняяй, сокровище благихъ и жизни подателю, пріиди и вселися въ ны, и очисти ны отъ всякія скверны, и спаси, Блаже, души наша.</p>
+<br/>
+<p class="Azbuka2 center">БОГУ ВЪ ТРОИЦѢ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001091.png"/></div>
+<p class="left Azbuka1">Святый Боже, Святый крѣпкій, Святый безсмертный, помилуй насъ.</p>
+<br/>
+<p class="Azbuka2 center">СЛАВОСЛОВIЕ ПРЕСВЯТОЙ ТРОИЦѢ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001096.png"/></div>
+<p class="left Azbuka1">Слава Отцу и Сыну и Святому Духу, и нынѣ и присно, и во вѣки вѣковъ, аминь.</p>
+<p class="left emptyline"><span class="opnumber">91</span> <span class="npnumber">92</span></p>
+<br/>
+<p class="Azbuka2 center">ПРЕСВЯТОЙ ТРОИЦѢ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001101.png"/></div>
+<p class="left Azbuka1">Пресвятая Троице, помилуй насъ. Господи, очисти грѣхи наша. Владыко, прости беззаконія наша. Святый, посѣти и исцѣли немощи наша имене Твоего ради. Господи помилуй (трижды).</p>
+<br/>
+<p class="Azbuka2 center">МОЛИТВА ГОСПОДНЯ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001106.png"/></div>
+<p class="left Azbuka1">Отче нашъ, Иже еси на небесѣхъ! да святится имя Твое, да пріидетъ царствіе Твое, да будетъ воля Твоя, яко на небеси и на земли. Хлѣбъ нашъ насущный даждь намъ днесь; и остави намъ долги наша, якоже и мы оставляемъ должникомъ нашимъ. И не введи насъ во искушеніе, но избави насъ отъ лукаваго Яко Твое есть царство, и сила и слава во вѣки, аминь.</p>
+<br/>
+<p class="Azbuka2 center">СЫНУ БОЖIЮ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001111.png"/></div>
+<p class="left Azbuka1">Господи Іисусе Христе, Сыне Божій, молитвъ ради Пречистыя Твоея Матере и всѣхъ Святыхъ, помилуй насъ. Аминь.</p>
+<br/>
+<p class="Azbuka2 center">БОГОРОДИЦѢ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001116.png"/></div>
+<p class="left emptyline"><span class="opnumber">92</span> <span class="npnumber">93</span></p>
+<p class="left Azbuka1">Богородице Дѣво, радуйся, благодатная Маріе, Господь съ Тобою: благословенна Ты въ женахъ и благословенъ плодъ чрева Твоего, яко Спаса родила еси душъ нашихъ.</p>
+<br/>
+<p class="Azbuka2 center">МЫТАРЯ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001122.png"/></div>
+<p class="left Azbuka1">Боже, милостивъ буди мнѣ грѣшному!</p>
+<br/>
+<p class="Azbuka2 center">ПРЕСВЯТОЙ БОГОРОДИЦѢ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001127.png"/></div>
+<p class="left Azbuka1">Достойно есть, яко во истинну блажити Тя Богородицу, присноблаженную и пренепорочную, и Матерь Бога нашего. Честнѣйшую Херувимъ и славнѣйшую безъ сравненія Серафимъ, безъ истлѣнія Бога Cлова рождшую, сущую Богородицу, Тя величаемъ.</p>
+<br/>
+<p class="Azbuka2 center">ПРЕДЪ ОБѢДОМЪ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001132.png"/></div>
+<p class="left Azbuka1">Очи всѣхъ на Тя, Господи, уповаютъ, и Ты даеши имъ пищу во благовременіи, отверзаепіи Ты щедрую руку Твою, и исполняеши всяко животное благоволенія.</p>
+<p class="left emptyline"><span class="opnumber">93</span> <span class="npnumber">94</span></p>
+<br/>
+<p class="Azbuka2 center">ПОСЛѢ ОБѢДА.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001138.png"/></div>
+<p class="left Azbuka1">Благодаримъ Тя, Христе Боже нашъ, яко насытилъ еси насъ земныхъ Твоихъ благъ; не лиши насъ и небеснаго Твоего Царствія.</p>
+<br/>
+<p class="Azbuka2 center">ПРЕДЪ УЧЕНІЕМЪ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001143.png"/></div>
+<p class="left Azbuka1">Преблагій Господи! ниспосли намъ благодать Духа Твоего Святаго, дарствующаго и укрѣпляющаго душевныя ваши силы, дабы, внимая преподаваемому намъ ученію, возрасли мы Тебѣ, нашему Создателю, во славу, родителямъ же вашимъ на утѣшеніе, Церкви и Отечеству на пользу.</p>
+<br/>
+<p class="Azbuka2 center">ПОСЛѢ УЧЕНІЯ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001148.png"/></div>
+<p class="left Azbuka1">Благодаримъ Тебе, Создателю, яко сподобилъ еси насъ благодати Твоея, во еже внимати ученію: Благослови нашихъ начальниковъ, родителей и учителей, ведущихъ насъ къ познанію блага, и подаждь намъ силу и крѣпость къ продолженiю ученія сего.</p>
+<p class="left emptyline"><span class="opnumber">94</span> <span class="npnumber">95</span></p>
+<br/>
+<p class="Azbuka2 center">СVМВОЛЪ ВѢРЫ.</p>
+<div class="image"><img alt="" class="image" src="./img/b00001153.png"/></div>
+<p class="left Azbuka1">Вѣрую во единаго Бога Отца, Вседержителя. Творца небу и земли, видимымъ же всѣмъ и невидимымъ. И во единаго Господа Іисуса Христа, Сына Божія, единороднаго. Иже отъ Отца рожденнаго прежде всѣхъ вѣкъ: Свѣта отъ Свѣта, Бога истинна отъ Бога истина, рожденна, несотворенна, единосущна Отцу, Имъ же вся быша. Насъ ради человѣкъ. и нашего ради спасенія, сшедшаго съ небесъ, и воплотившагося отъ Духа Свята и Маріи Дѣвы и вочеловѣчшася. Распятаго же за ны при Понтійстѣмъ Пилатѣ, и страдавша и погребенна. И воскресшаго въ третій день по писаніемъ. И возшедшаго на небеса и сѣдяща одесную Отца. И паки грядущаго со славою судити живымъ и мертвымъ, Его же царствію не будетъ конца. И въ Духа Святаго, Господа, животворящаго, Иже отъ Отца исходящаго, Иже со Отцемъ и Сыномъ споклоняема и сславима, глаголовшаго пророки. Во едину, Святую, Соборную, и Апостольскую Церковь. Исповѣдую едино крещеніе во оставленіе грѣховъ. Даю воскресенія мертвыхъ, и жизни будущаго вѣка, Аминь.</p>
+<p class="left emptyline"><span class="opnumber">95</span> <span class="npnumber">96</span></p>
+<br/>
+<p class="Azbuka2 center">ДЕСЯТЬ ЗАПОВѢДЕЙ БОЖIИХЪ.</p>
+<br/>
+<div class="imageleft"><img alt="" class="image" src="./img/b00001159.png"/></div><p class="textindent25 Azbuka1">1. Азъ есмь Господь Богъ Твой, да не будетъ тебѣ бозѣ иніи развѣ Мене.</p>
+<br/>
+<div class="imageleft"><img alt="" class="image" src="./img/b00001162.png"/></div><p class="textindent25 Azbuka1">2. Не сотвори себѣ кумира, и всякаго подобія, елика на небеси горѣ, и елика на земли низу, и елика въ водахъ и подъ землею, да не поклонишися имъ, ни послужиши имъ.</p>
+<br/>
+<div class="imageleft"><img alt="" class="image" src="./img/b00001165.png"/></div><p class="textindent25 Azbuka1">3. Не пріемли имене Господа Бога твоего всуе.</p>
+<br/>
+<div class="imageleft"><img alt="" class="image" src="./img/b00001168.png"/></div><p class="textindent25 Azbuka1">4. Помни день субботный, еже святити его: шесть дней дѣлай и сотвориши въ нихъ вся дѣла твоя, въ день же седьмый суббота Господу Богу твоему.</p>
+<br/>
+<div class="imageleft"><img alt="" class="image" src="./img/b00001171.png"/></div><p class="textindent25 Azbuka1">5. Чти отца твоего и матерь твою, да благо ти будетъ, и да долголѣтенъ будеши на земли.</p>
+<br/>
+<div class="imageleft"><img alt="" class="image" src="./img/b00001174.png"/></div><p class="textindent25 Azbuka1">6. Не убій.</p>
+<br/>
+<div class="imageleft"><img alt="" class="image" src="./img/b00001177.png"/></div><p class="textindent25 Azbuka1">7. Не прелюбы сотвори.</p>
+<br/>
+<p class="left emptyline"><span class="opnumber">96</span> <span class="npnumber">97</span></p>
+<div class="imageleft1"><img alt="" class="image" src="./img/b00001181.png"/></div><p class="textindent25 Azbuka1">8. Не укради.</p>
+<br/>
+<div class="imageleft"><img alt="" class="image" src="./img/b00001184.png"/></div><p class="textindent25 Azbuka1">9. Не послушествуй на друга твоего свидѣтельства ложна.</p>
+<br/>
+<div class="imageleft"><img alt="" class="image" src="./img/b00001187.png"/></div><p class="textindent25 Azbuka1">10. Не пожелай жены искренняго твоего, не пожелай дому ближняго твоего, ни села его, ни раба его, ни рабыни его, ни вола его, ни осла его, ни всякаго скота его, ни всего елика суть ближняго твоего.</p>
+<br/>
+<table class="width_">
+<col width="20%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="20%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<tr>
+<td class="noborder_bottom">
+<br/>
+</td>
+<td>
+<p class="petit notindent Azbuka7">Арабскія.</p>
+</td>
+<td>
+<p class="petit notindent Azbuka7">Слав.</p>
+</td>
+<td>
+<p class="petit notindent Azbuka7">Римскія.</p>
+</td>
+<td class="noborder_bottom">
+<br/>
+</td>
+<td>
+<p class="petit notindent Azbuka7">Арабскія.</p>
+</td>
+<td>
+<p class="petit notindent Azbuka7">Слав.</p>
+</td>
+<td>
+<p class="petit notindent Azbuka7">Римскія.</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_top noborder_bottom">
+<p class="notindent Azbuka1">Одинъ</p>
+</td>
+<td class="noborder_bottom">
+<p class="notindent Azbuka1">1</p>
+</td>
+<td class="noborder_bottom">
+<p class="notindent"><img alt="" src="./img/i00001190r1c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom">
+<p class="notindent Azbuka1">I</p>
+</td>
+<td class="noborder_top noborder_bottom">
+<p class="notindent Azbuka1">Сорокъ</p>
+</td>
+<td class="noborder_bottom">
+<p class="notindent Azbuka1">40</p>
+</td>
+<td class="noborder_bottom">
+<p class="notindent"><img alt="" src="./img/i00001190r1c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom">
+<p class="notindent Azbuka1">XL</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Два</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">2</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r2c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">II</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Пятьдесятъ</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">50</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r2c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">L</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Три</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">3</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r3c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">ІІІ</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Шестьдес.</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">60</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r3c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">LX</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Четыре</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">4</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r4c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">IV</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Семьдесять</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">70</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r4c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">LXX</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Пять</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">5</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r5c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">V</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Восемьдес.</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">80</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r5c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">LXXX</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Шесть</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">6</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r6c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">VI</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Девяносто</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">90</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r6c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XC</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Семь</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">7</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r7c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">VII</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Сто</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">100</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r7c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">С</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Восемь</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">8</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r8c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">VIII</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Двѣсти</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">200</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r8c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">CC</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Девять</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">9</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r9c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">IX</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Триста</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">300</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r9c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">CCC</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Десять</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">10</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r10c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">X</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Четыреста</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">400</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r10c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">CD</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Одинадцать</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">11</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r11c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XI</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Пятьсотъ</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">500</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r11c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">D</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Двѣнадцать</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">12</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r12c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XII</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Шестьсотъ</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">600</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r12c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">DC</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Тринадцать</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">13</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r13c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XIII</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Семьсотъ</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">700</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r13c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">DCC</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Четырнадц.</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">14</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r14c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XIV</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Восемьсотъ</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">800</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r14c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">DCCC</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Пятнадцать</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">15</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r15c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XV</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Девятьсотъ</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">900</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r15c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">CM</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Шеснадцать</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">16</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r16c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XVI</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Тысяча</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">1000</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r16c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">M</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Семнадцать</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">17</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r17c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XVII</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Двѣ тысячи</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">2000</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r17c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">MM</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Восемнадц.</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">18</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r18c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XVIII</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Три тысячи</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">3000</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r18c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">МММ</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Девятнадц.</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">19</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r19c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XIX</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Четыре тыс.</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">4000</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r19c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">MMMM</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Двадцать.</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">20</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r20c2p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XX</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">Десять тыс.</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">10,000</p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r20c6p00000.png"/></p>
+</td>
+<td class="noborder_bottom noborder_top">
+<p class="notindent Azbuka1">XM</p>
+</td>
+</tr>
+<tr>
+<td class="noborder_top">
+<p class="notindent Azbuka1">Тридцать</p>
+</td>
+<td class="noborder_top">
+<p class="notindent Azbuka1">30</p>
+</td>
+<td class="noborder_top">
+<p class="notindent"><img alt="" src="./img/i00001190r21c2p00000.png"/></p>
+</td>
+<td class="noborder_top">
+<p class="notindent Azbuka1">XXX</p>
+</td>
+<td class="noborder_top">
+<br/>
+</td>
+<td class="noborder_top">
+<br/>
+</td>
+<td class="noborder_top">
+<br/>
+</td>
+<td class="noborder_top">
+<br/>
+</td>
+</tr>
+</table>
+<p class="centerline">————</p>
+<p class="left emptyline"><span class="opnumber">97</span> <span class="npnumber">98</span></p>
+</div>
+<div class="section" id="h000010003">
+<h2 class="center">КАК УЧИТЬ ПО СЛУХОВОМУ СПОСОБУ</h2>
+<p class="left">Показать все простые изображения букв и написать такие же на стене. Называть буквы так, как они обозначены в Азбуке над буквами, и заставлять повторять за собой учеников (буква <em>ё</em> показывается как отдельная буква и называется <em>ио</em>, <em>ы</em> выговаривается как грубое <em>и).</em> Не дожидаясь того, чтобы ученики выучили буквы, начинать <em>на слух</em> складывать и раскладывать те слоги, которые стоят во главе 1-го отдела.</p>
+<p class="left"><strong>Учить складывать так:</strong> Учитель собирает вокруг себя учеников и заставляет читать слово <em>Ба.</em> Ученики прочтут <em>бе</em> и а. Учитель спрашивает: что вышло? Ученики не знают. Учитель говорит <em>бе</em> и <em>а</em> будет <em>ба</em> и быстро выговаривает: <em>ба,</em> и потом, указывая на следующие склады, говорит: <em>бе-у</em> — <em>бу</em>, <em>ме-а</em> — <em>ма</em>, <em>пе-а</em> — <em>па, не-у</em> — <em>ну</em>, заставляет учеников повторять за собою. Повторив таким образом слогов 20 на разные гласные, учитель говорит только: <em>бе-а</em>, а ученики отвечают <em>ба.</em> Уловление учениками процесса складыванья происходит весьма скоро, так что не более как в полчаса времени некоторые ученики отвечают верно на всякие соединения из согласной и гласной. Упражнение это, чередуя его с изучением букв, повторяется в первый же урок два или три раза. Когда учитель видит, что большинство учеников складывает на слух верно, начинается чтение с начала первой страницы. Читается слово: туча. Если ученики не помнят 4-х букв, из которых состоит слово, учитель показывает их, пользуясь словами, начинающимися с этих букв: телега, утка, червяк, арбуз, и заставляет читать. Как скоро прочтены <em>т и у,</em> учитель заставляет повторять эти две буквы несколько раз, быстро одну за другою и спрашивает: что вышло? Ученики отвечают: <em>ту</em>. Учитель <span class="opdelimiter">говорит:</span><span class="opnumber">98</span> <span class="npnumber">99</span><span class="npdelimiter">помни</span> <em>ту</em> и читай дальше. Когда прочтено <em>ча,</em> учитель спрашивает, что было прежде, и заставляет повторить один слог за другим, чтобы ученики из соединения двух слогов поняли значение слова. Таким образом учитель с первого же урока начинает и ведет чтение по книге или выписывая те же слова на доске, что еще удобнее. Самостоятельное занятие для учеников с первого же урока составляет списывание букв и прочтенных слов.</p>
+<p class="left">С первого же или со второго урока учитель показывает обратное действие складыванью и чтению, т. е. раскладывание слов и слогов на буквы и писание.</p>
+<p class="left"><strong>Учить раскладывать так: </strong>Учитель говорит: напишем слово «туча». Сказал «туча» реже. Ученик говорит: «ту-ча». — В сколько раз ты сказал? — В два. — Какие? — <em>Ту</em> и <em>ча.</em> — Как сложить <em>ту?</em> Ученик не знает и учитель напоминает, что <em>me-у</em> будет <em>ту</em>, и тут же делает с учениками на слух обратное упражнение тому, которое делаемо было для складыванья, т. е. учитель сам говорит, заставляя учеников повторять за собою как сложить разные слоги. Как сложить <em>ба?</em> и сам отвечает: <em>бе-а,</em> как сложить <em>па?</em> — <em>ne-а. Ma?</em> — <em>ме-а</em>. <em>Ну?</em> — <em>не-у, </em>и т. д. и, повторив слогов 20-ть, говорит только: <em>ту</em>, и ученики отвечают: <em>те-у</em>. Тогда учитель возвращается к слову «туча», опять растягивает его и опять спрашивает, как сложить <em>ту? </em>Ученики говорят: тe-у. Учитель заставляет писать или сам пишет под их диктовку и спрашивает: чего недостает, чтоб было «туча»? Ученики говорят: <em>ча.</em> — Сложи <em>ча</em> и напиши. Прочти всё вместе.</p>
+<p class="left">Таким образом читаются и пишутся все упражнения по порядку перед началом каждого отдела, складывая и раскладывая <em>на слух</em> слоги и слова, поставленные во главе отдела.</p>
+<p class="left">Склады с полугласными <em>ъ и ь</em> взрослым ученикам могут быть объяснены как грубое и тонкое окончание согласной без всякой гласной. Но в большой школе и с малыми детьми гораздо проще заучиваются так же, как и обыкновенные склады. Учитель говорит, что <em>бе</em> и <em>ер</em> будет <em>бъ</em>, <em>ве</em> и <em>ер</em> будет <em>въ</em> и т. д., а <em>бе </em>и <em>ерь</em>, будет <em>бь,</em> <em>ве</em> и <em>ерь</em> — <em>вь</em> и т. д., выговаривая <em>бъ</em> почти как <em>бы</em> и <em>бъ</em> почти как <em>би,</em> и заставляет учеников повторять за собой до тех пор, пока они усвоят это соединение, что обыкновенно совершается в один урок и тогда приступает к чтению слов, оканчивающихся на <em>ъ</em> и <em>ь</em>.</p>
+<p class="left emptyline"><span class="opnumber">99</span> <span class="npnumber">100</span></p>
+<p class="left">И краткое — <em>й</em> произносится как <em>ий</em> и приставляется к сложенному слогу.</p>
+<p class="left">Как на обыкновенные склады, так и на склады с полугласными делаются одновременно упражнения в складывании и раскладывании. Склады трех и четырехбуквенные, как мгла, ведро и т. д., усваиваются учениками на слух так же быстро, как и другие склады, и не представляют никакого затруднения.</p>
+<p class="left">При обучении по слуховому способу одного ученика можно выучить читать и писать в две недели; в большой школе, от 25 до 50 учеников, выучиваются в шесть недель.</p>
+<p class="left">Особенное удобство этого способа, кроме быстроты, точности и легкости для учителя, состоит в том, что процесс складывания и раскладывания на слух бессознательно передается ученикам друг другу так, что в местностях и семьях, где употребляется слуховой способ, меньшие братья и сестры бессознательно выучиваются складывать и раскладывать на слух, и им для того, чтобы уметь читать и писать, остается только выучить буквы.</p>
+</div>
+ </text>
+</TEI>

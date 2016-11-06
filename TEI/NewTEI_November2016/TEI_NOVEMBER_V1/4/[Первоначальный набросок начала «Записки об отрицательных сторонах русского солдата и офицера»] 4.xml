@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>[Первоначальный набросок начала «Записки об отрицательных сторонах русского солдата и офицера»]</title>
+    <author> Толстой Л.Н. </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name> Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова </name>
+    </respStmt>
+    <respStmt>
+     <name> Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов </name>
+     <resp> Идея, постановка задач, руководство </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>Школа лингвистики НИУ ВШЭ</orgName></publisher>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+ лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author> Толстой Л.Н. </author>
+      <title level="a">[Первоначальный набросок начала «Записки об отрицательных сторонах русского солдата и офицера»]</title>
+     </analytic>
+     <monogr>
+      <title level="m"> Полное собрание сочинений. Серия первая "Произведения". Том 4 </title>
+      <imprint>
+       <pubPlace> Москва </pubPlace>
+       <publisher> Государственное издательство "Художественная литература" </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s"> Л.Н. Толстой. Полное собрание сочинений </title>
+      <biblScope unit="vol">4</biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1854">
+     1854 </date>
+    <rs type="Россия"> Россия </rs>
+   </creation>
+   <textClass>
+    <catRef target="#публицистика" type="sphere"/>
+    <catRef target="#публицистика.записка, статья" type="type"/>
+   </textClass>
+   <preparedness>not finished</preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType>old</orthographyType>
+   <versionNumber>ver10</versionNumber>
+   <isFinished>not finished</isFinished>
+   <isEdited>not edited</isEdited>
+   <p> Проект <title>Толстой.Digital </title> разрабатывается сотрудниками и студентами <orgName>
+     Высшей школы экономики </orgName> в сотрудничестве с <orgName> Государственным музеем Л.Н.
+     Толстого </orgName> . Источник текстов – <bibl> 90-томное собрание сочинений Л.Н.Толстого
+    </bibl> . Разметка основана на стандарте <ref target="http://www.tei-c.org">TEI (Text Encoding
+ Initiative) </ref>. </p>
+  </xenoData>
+ </teiHeader>
+ <text> <div class="section" id="h000013001003001">
+<h4 class="center">1. <br/>* [ПЕРВОНАЧАЛЬНЫЙ НАБРОСОК НАЧАЛА «ЗАПИСКИ».]</h4>
+<p class="left">Русское войско огромно и было славно, было <choice><reg>непобедимо</reg><orig>непобѣдимо</orig></choice>; поэтому то оно <choice><reg>самонадеянно</reg><orig>самонадѣянно</orig></choice> и неединодушно; и несмотря на громадность этого войска <choice><reg>Россия</reg><orig>Россiя</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> опасности. — <a href="index.xhtml#n54" id="backn54" type="note">[54]</a></p>
+<p class="left"><choice><reg>Многие</reg><orig>Многiе</orig></choice> <choice><reg>понимают</reg><orig>понимаютъ</orig></choice> это <choice><reg>положение</reg><orig>положенiе</orig></choice> отечества, <choice><reg>сочувствуют</reg><orig>сочувствуютъ</orig></choice> ему и готовы для него жертвовать <choice><reg>имуществом</reg><orig>имуществомъ</orig></choice>, трудами и жизнью. <choice><reg>Многие</reg><orig>Многiе</orig></choice>, увлеченные страстями и привычкой <choice><reg>злоупотребления</reg><orig>злоупотребленiя</orig></choice> <choice><reg>законов</reg><orig>законовъ</orig></choice>, <choice><reg>препятствуют</reg><orig>препятствуютъ</orig></choice> <choice><reg>примером</reg><orig>примѣромъ</orig></choice> и даже властью — <choice><reg>людям</reg><orig>людямъ</orig></choice> <choice><reg>преданным</reg><orig>преданнымъ</orig></choice> отечеству — оказывать ему ту пользу, которую бы они могли. Большинство равнодушно.</p>
+<p class="left">Слова: <choice><reg>самопожертвование</reg><orig>самопожертвованiе</orig></choice>, <choice><reg>бескорыстие</reg><orig>безкорыстiе</orig></choice>, <choice><reg>трудолюбие</reg><orig>трудолюбiе</orig></choice> потеряли <choice><reg>смысл</reg><orig>смыслъ</orig></choice> и <choice><reg>значение</reg><orig>значенiе</orig></choice>. Правила чести <choice><reg>старинного</reg><orig>стариннаго</orig></choice> воинства стали барьерами <choice><reg>слишком</reg><orig>слишкомъ</orig></choice> высокими, которые мы привыкли проходить, нагибаясь <choice><reg>под</reg><orig>подъ</orig></choice> ними.</p>
+<p class="left">Нужны новая преграда и новый <choice><reg>толчок</reg><orig>толчокъ</orig></choice>, которые бы дали <choice><reg>деятель[ности]</reg><orig>дѣятель[ности]</orig></choice> людей <choice><reg>преданных</reg><orig>преданныхъ</orig></choice>, <choice><reg>умерили</reg><orig>умѣрили</orig></choice> <choice><reg>злоупотребление</reg><orig>злоупотребленiе</orig></choice> людей <choice><reg>увлеченных</reg><orig>увлеченныхъ</orig></choice> и дали бы <choice><reg>напр[авление]</reg><orig>напр[авленiе]</orig></choice> и <choice><reg>равнодуш[ным]</reg><orig>равнодуш[нымъ]</orig></choice>.</p>
+</div> </text>
+</TEI>

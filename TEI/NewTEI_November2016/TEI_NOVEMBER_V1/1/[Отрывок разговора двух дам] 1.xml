@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>[Отрывок разговора двух дам]</title>
+    <author> Толстой Л.Н. </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name> Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова </name>
+    </respStmt>
+    <respStmt>
+     <name> Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов </name>
+     <resp> Идея, постановка задач, руководство </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>Школа лингвистики НИУ ВШЭ</orgName></publisher>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+ лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author> Толстой Л.Н. </author>
+      <title level="a">[Отрывок разговора двух дам]</title>
+     </analytic>
+     <monogr>
+      <title level="m"> Полное собрание сочинений. Серия первая "Произведения". Том 1 </title>
+      <imprint>
+       <pubPlace> Москва </pubPlace>
+       <publisher> Государственное издательство "Художественная литература" </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s"> Л.Н. Толстой. Полное собрание сочинений </title>
+      <biblScope unit="vol">1</biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1851">
+     1851 </date>
+    <rs type="Россия"> Россия </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.рассказ" type="type"/>
+   </textClass>
+   <preparedness>not finished</preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType>old</orthographyType>
+   <versionNumber/>
+   <isFinished>not finished</isFinished>
+   <isEdited>not edited</isEdited>
+   <p> Проект <title>Толстой.Digital </title> разрабатывается сотрудниками и студентами <orgName>
+     Высшей школы экономики </orgName> в сотрудничестве с <orgName> Государственным музеем Л.Н.
+     Толстого </orgName> . Источник текстов – <bibl> 90-томное собрание сочинений Л.Н.Толстого
+    </bibl> . Разметка основана на стандарте <ref target="http://www.tei-c.org">TEI (Text Encoding
+ Initiative) </ref>. </p>
+  </xenoData>
+ </teiHeader>
+ <text> <div>
+<div class="section">
+<h5 id="h60">*XVІ.<br/>[ОТРЫВОК РАЗГОВОРА ДВУХ ДАМ.]</h5>
+<p class="center">
+
+ГЛАВА I
+
+</p>
+<p class="left">
+
+— «<choice><reg>Верно</reg><orig>Вѣрно</orig></choice> ли это? У <choice><reg>вас</reg><orig>васъ</orig></choice> <choice><reg>вед</reg><orig>вѣдъ</orig></choice> <choice><reg>любят</reg><orig>любятъ</orig></choice> <choice><reg>Петербургские</reg><orig>Петербургскiе</orig></choice> ложные слухи распускать. И <choice><reg>от</reg><orig>отъ</orig></choice> кого вы это слышали, моя милая?»
+
+</p>
+<p class="left">
+
+— «Помилуйте, Марья Ивановна, я <choice><reg>вам</reg><orig>вамъ</orig></choice> <choice><reg>ведь</reg><orig>вѣдь</orig></choice> говорю, была я у княгини Полянской, <choice><reg>к</reg><orig>къ</orig></choice> ней молодая княгиня вчера только <choice><reg>из</reg><orig>изъ</orig></choice> Петербурга <choice><reg>приехала</reg><orig>прiѣхала</orig></choice> и <choice><reg>рассказывала</reg><orig>разсказывала</orig></choice>, что у <choice><reg>них</reg><orig>нихъ</orig></choice> только и разговора, что про эту свадьбу. <em>(<choice><reg>С</reg><orig>Съ</orig></choice> <choice><reg>расстановкой</reg><orig>разстановкой</orig></choice>.)</em> La comtesse Lise Bersenieff, la jeune personne la plus recherchée, la plus aimable, le parti le plus brillant de Pétersbourg épouse un какой-то Taramonoff, mauvais genre achevé.<a class="a" href="#n235" id="backn235" type="note"><sup>235</sup></a> Костромской <choice><reg>медведь</reg><orig>медвѣдь</orig></choice> какой-то. <choice><reg>В</reg><orig>Въ</orig></choice> комнату не <choice><reg>умеет</reg><orig>умѣетъ</orig></choice> взойти. Ни родства, ни богатства, ни связей, ничего! И что меня <choice><reg>удивляет</reg><orig>удивляетъ</orig></choice>, <choice><reg>так</reg><orig>такъ</orig></choice> это то, что, <choice><reg>говорят</reg><orig>говорятъ</orig></choice>, оба дяди этого очень <choice><reg>хотят</reg><orig>хотятъ</orig></choice>: и <choice><reg>граф</reg><orig>графъ</orig></choice> <choice><reg>Александр</reg><orig>Александръ</orig></choice> и <choice><reg>граф</reg><orig>графъ</orig></choice> <choice><reg>Петр</reg><orig>Петръ</orig></choice>. —
+
+</p>
+<p class="left">
+
+Старушка подвинула табакерку <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>портретом</reg><orig>портретомъ</orig></choice> и обтерла стеклушко <choice><reg>одним</reg><orig>однимъ</orig></choice> <choice><reg>из</reg><orig>изъ</orig></choice> <choice><reg>двух</reg><orig>двухъ</orig></choice> <choice><reg>батистовых</reg><orig>батистовыхъ</orig></choice> <choice><reg>платков</reg><orig>платковъ</orig></choice>.
+
+</p>
+<p class="left">
+
+«Incroyable...<a class="a" href="#n236" id="backn236" type="note"><sup>236</sup></a> Ежели это <choice><reg>Костромские</reg><orig>Костромскiе</orig></choice> Тарамоновы, <choice><reg>так</reg><orig>такъ</orig></choice> я старика знала; когда мы жили на <choice><reg>Мечах</reg><orig>Мечахъ</orig></choice> [?], <choice><reg>так</reg><orig>такъ</orig></choice> <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>езжал</reg><orig>ѣзжалъ</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> покойнику <choice><reg>Этиену</reg><orig>Этiену</orig></choice> и <choice><reg>детей</reg><orig>дѣтей</orig></choice> <choice><reg>приваясивал</reg><orig>приваясивалъ</orig></choice>: <choice><reg>босоногие</reg><orig>босоногiе</orig></choice> <choice><reg>бегали</reg><orig>бѣгали</orig></choice>. <choice><reg>Покойник</reg><orig>Покойникъ</orig></choice> его <choice><reg>любил</reg><orig>любилъ</orig></choice> и <choice><reg>ласкал</reg><orig>ласкалъ</orig></choice>; однако они хорошей <choice><reg>фамилии</reg><orig>фамилiи</orig></choice>, но <choice><reg>бедно</reg><orig>бѣдно</orig></choice> жили; что теперь у <choice><reg>них</reg><orig>нихъ</orig></choice> есть, это <choice><reg>уж</reg><orig>ужъ</orig></choice> <choice><reg>старик</reg><orig>старикъ</orig></choice> <choice><reg>нажил</reg><orig>нажилъ</orig></choice>, но <choice><reg>детям</reg><orig>дѣтямъ</orig></choice> никакого <choice><reg>воспитания</reg><orig>воспитанiя</orig></choice> не <choice><reg>дал</reg><orig>далъ</orig></choice>. Должны быть <choice><reg>те</reg><orig>тѣ</orig></choice>; а то есть <choice><reg>Вологодские</reg><orig>Вологодскiе</orig></choice>, <choice><reg>так</reg><orig>такъ</orig></choice> это не <choice><reg>те</reg><orig>тѣ</orig></choice>».
+
+</p>
+<p class="left">
+
+Марья Ивановна Игреньева, урожденная Дамыдова, — почтенная дама. Родилась она 50 <choice><reg>лет</reg><orig>лѣтъ</orig></choice> тому <choice><reg>назад</reg><orig>назадъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>Москве</reg><orig>Москвѣ</orig></choice> <choice><reg>от</reg><orig>отъ</orig></choice> <choice><reg>богатых</reg><orig>богатыхъ</orig></choice> и <choice><reg>знатных</reg><orig>знатныхъ</orig></choice> родителей; <choice><reg>их</reg><orig>ихъ</orig></choice> было <choice><reg>две</reg><orig>двѣ</orig></choice> сестры и три брата. Вышла М. И. <choice><reg>замуж</reg><orig>замужъ</orig></choice> за Игреньева, <choice><reg>богатого</reg><orig>богатаго</orig></choice> <choice><reg>человека</reg><orig>человѣка</orig></choice> и тоже Москвича. Жили они зимы всегда <choice><reg>в</reg><orig>въ</orig></choice> <span class="opdelimiter"><choice><reg>Москве</reg><orig>Москвѣ</orig></choice>,</span><span class="opnumber">296</span> 
+<span id="p297" class="npnumber">297</span><span class="npdelimiter">
+<choice><reg>где</reg><orig>гдѣ</orig></choice>
+</span> <choice><reg>имели</reg><orig>имѣли</orig></choice> <choice><reg>большие</reg><orig>большiе</orig></choice> связи не только <choice><reg>с</reg><orig>съ</orig></choice> Московскою знатью, но и со <choice><reg>всем</reg><orig>всѣмъ</orig></choice>, что было <choice><reg>знатного</reg><orig>знатнаго</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>России</reg><orig>Россiи</orig></choice>, <choice><reg>летом</reg><orig>лѣтомъ</orig></choice> — <choice><reg>в</reg><orig>въ</orig></choice> Тульской <choice><reg>деревне</reg><orig>деревнѣ</orig></choice>, [и] жили <choice><reg>как</reg><orig>какъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>городе</reg><orig>городѣ</orig></choice>, <choice><reg>так</reg><orig>такъ</orig></choice> и <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>деревне</reg><orig>деревнѣ</orig></choice> барски. <choice><reg>Покойник</reg><orig>Покойникъ</orig></choice> <choice><reg>был</reg><orig>былъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>чинах</reg><orig>чинахъ</orig></choice> и пользовался <choice><reg>всеобщим</reg><orig>всеобщимъ</orig></choice> <choice><reg>уважением</reg><orig>уваженiемъ</orig></choice>. <choice><reg>Одним</reg><orig>Однимъ</orig></choice> <choice><reg>словом</reg><orig>словомъ</orig></choice>, <choice><reg>дом</reg><orig>домъ</orig></choice> <choice><reg>Игреньевых</reg><orig>Игреньевыхъ</orig></choice> <choice><reg>вот</reg><orig>вотъ</orig></choice> какой: у <choice><reg>приезжего</reg><orig>прiѣзжаго</orig></choice>, <choice><reg>которого</reg><orig>котораго</orig></choice> почи[тали] <choice><reg>достойным</reg><orig>достойнымъ</orig></choice>, спрашивали: «Вы уже были у <choice><reg>Игренье[вых]</reg><orig>Игренье[выхъ]</orig></choice>?» или: «<choice><reg>как</reg><orig>какъ</orig></choice> это вы еще не были у <choice><reg>Игрен[ьевых]</reg><orig>Игрен[ьевыхъ]</orig></choice>?».
+
+</p>
+<p class="left">
+
+«Марья Ивановна овдовѣла 16 лѣтъ тому назадъ, съ нѣсколько разстроеннымъ состояніемъ и съ двумя дѣтьми: сыномъ 15 лѣтъ и дочерью, которая была уже замужемъ. М. И. женщина очень умная, или нѣтъ, лучше сказать, хитрая, не смотря на свою доброту и умѣющая имѣть вліяніе на другихъ и пользоваться общимъ уваженіемъ. — Она, должно быть, не была хороша собою; большой орлиной носъ въ особенности мѣшалъ красотѣ ея; но она была хороша какъ свѣжая, не столько физически — (Она говаривала: «я удивляюсь себѣ, какъ могла я перенести столько горестей!»)—сколько морально, старушка. Она не отставала отъ моды сколько могла, сама придумывала, какъ бы передѣлать чепчикъ или мантилію <em>«по старушечьи»</em>. Она любила <choice><reg>свет</reg><orig>свѣтъ</orig></choice> и <choice><reg>свет</reg><orig>свѣтъ</orig></choice> <choice><reg>любил</reg><orig>любилъ</orig></choice> ее, она судила о <choice><reg>всем</reg><orig>всемъ</orig></choice> и о <choice><reg>всех</reg><orig>всѣхъ</orig></choice>......
+
+</p>
+<p class="center">
+
+————
+
+</p>
+<p class="center">
+<span class="opnumber" style="margin-left: -3em;">297</span> <span id="p298" class="npnumber">298</span>
+</p>
+</div>
+</div>
+
+ </text>
+</TEI>

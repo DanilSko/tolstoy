@@ -1,0 +1,508 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Комедия в 3-х действиях (Нигилист)</title>
+    <author> Толстой Л.Н. </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name> Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова </name>
+    </respStmt>
+    <respStmt>
+     <name> Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов </name>
+     <resp> Идея, постановка задач, руководство </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>Школа лингвистики НИУ ВШЭ</orgName></publisher>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+      лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author> Толстой Л.Н. </author>
+      <title level="a">Комедия в 3-х действиях (Нигилист)</title>
+     </analytic>
+     <monogr>
+      <title level="m"> Полное собрание сочинений. Серия первая "Произведения". Том 7 </title>
+      <imprint>
+       <pubPlace> Москва </pubPlace>
+       <publisher> Государственное издательство "Художественная литература" </publisher>
+       <date when="1936"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s"> Л.Н. Толстой. Полное собрание сочинений </title>
+      <biblScope unit="vol">7</biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1866">
+     1866 </date>
+    <rs type="Россия"> Россия </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.комедия" type="type"/>
+   </textClass>
+   <preparedness>not finished</preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName></cyclusName>
+   <orthographyType>old</orthographyType>
+   <versionNumber></versionNumber>
+   <isFinished>not finished</isFinished>
+   <isEdited>not edited</isEdited>
+   <p> Проект <title>Толстой.Digital </title> разрабатывается сотрудниками и студентами <orgName>
+     Высшей школы экономики </orgName> в сотрудничестве с <orgName> Государственным музеем Л.Н.
+     Толстого </orgName> . Источник текстов – <bibl> 90-томное собрание сочинений Л.Н.Толстого
+    </bibl> . Разметка основана на стандарте <ref target="http://www.tei-c.org">TEI (Text Encoding
+     Initiative) </ref>. </p>
+  </xenoData>
+ </teiHeader>
+ <text> 
+<div class="section" id="h000012">
+<h1 class="center"><strong>НЕОПУБЛИКОВАННОЕ, НЕОТДЕЛАННОЕ И НЕОКОНЧЕННОЕ</strong></h1>
+</div>
+<div class="section" id="h000012019">
+<h2 class="title_level1 center">ДРAMAТИЧЕСКИЕ ПРОИЗВЕДЕНИЯ</h2>
+</div>
+<div class="section" id="h000012019008">
+<h3 class="title_level2 center center">** <choice><reg>КОМЕДИЯ</reg><orig>КОМЕДІЯ</orig></choice> <choice><reg>В</reg><orig>ВЪ</orig></choice> <choice><reg>ТРЕХ</reg><orig>ТРЕХЪ</orig></choice> <choice><reg>ДЕЙСТВИЯХ</reg><orig>ДѢЙСТВІЯХЪ</orig></choice>. <br/><choice><reg>[НИГИЛИСТъ.]</reg><orig>[НИГИЛИСТЪ.]</orig></choice> </h3>
+<p class="center"><choice><reg>ДЕЙСТВУЮЩИЕ</reg><orig>ДѢЙСТВУЮЩІЯ</orig></choice> ЛИЦА: </p>
+<p class="left"><span class="Razradka">Глафира Ѳеодоровна</span>, старая барыня.</p>
+<p class="left"><span class="Razradka"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна </span>, ея приживалка.</p>
+<p class="left"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> Иванычь </span>, <choice><reg>сын</reg><orig>сынъ</orig></choice> Глафиры <choice><reg>Феодоровны</reg><orig>Ѳеодоровны</orig></choice>, <choice><reg>помещик</reg><orig>помѣщикъ</orig></choice> <choice><reg>лет</reg><orig>лѣтъ</orig></choice> 40. </p>
+<p class="left"><span class="Razradka">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>, </span> его молодая жена</p>
+<p class="left"><span class="Razradka">Люба</span>, ея сестра.</p>
+<p class="left"><span class="Razradka">Наталья Павловна</span>, подруга Любы.</p>
+<p class="left"><span class="Razradka">Николинька</span>, <choice><reg>гимназист</reg><orig>гимназистъ</orig></choice>, <choice><reg>племянник</reg><orig>племянникъ</orig></choice> Семена Иваныча. </p>
+<p class="left"><span class="Razradka"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> </span><a href="index.xhtml#n384" id="backn384" type="note">[384]</a><span class="Razradka"><choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice> </span>, <choice><reg>студент</reg><orig>студентъ</orig></choice>, <choice><reg>нигилист</reg><orig>нигилистъ</orig></choice>, учитель Николеньки. </p>
+<p class="center"><choice><reg>Действие</reg><orig>Дѣйствіе</orig></choice> <choice><reg>происходит</reg><orig>происходитъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>деревне</reg><orig>деревнѣ</orig></choice> Семена Иваныча. </p>
+<p class="center"><choice><reg>ДЕЙСТВИЕ</reg><orig>ДѢЙСТВІЕ</orig></choice> I. </p>
+<p class="center">ЯВЛЕНІЕ 1.</p>
+<p class="center"><span class="Razradka">Глафира <choice><reg>Феодоровна</reg><orig>Ѳеодоровна</orig></choice>, <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна, <choice><reg>Семен</reg><orig>Семенъ</orig></choice> Иванычь </span>(за <choice><reg>чайным</reg><orig>чайнымъ</orig></choice> <choice><reg>столом</reg><orig>столомъ</orig></choice>). <a href="index.xhtml#n385" id="backn385" type="note">[385]</a></p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Сеня, ты <choice><reg>вот</reg><orig>вотъ</orig></choice> <choice><reg>назвал</reg><orig>назвалъ</orig></choice> гостей, а я и ума не приложу. Добро бы были люди путные, а то <choice><reg>Бог</reg><orig>Богъ</orig></choice> <choice><reg>знает</reg><orig>знаетъ</orig></choice> кто. Вчера <choice><reg>в</reg><orig>въ</orig></choice> кладовую забрались, все перерыли, <choice><reg>затеи</reg><orig>затѣи</orig></choice> <choice><reg>там</reg><orig>тамъ</orig></choice> <choice><reg>какие</reg><orig>какія</orig></choice> то. <choice><reg>С</reg><orig>Съ</orig></choice> прислугой нынче и <choice><reg>так</reg><orig>такъ</orig></choice> <choice><reg>беда</reg><orig>бѣда</orig></choice>. <choice><reg>Ох</reg><orig>Охъ</orig></choice>, <choice><reg>уж</reg><orig>ужъ</orig></choice> эта <choice><reg>мне</reg><orig>мнѣ</orig></choice> молодежь! </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">И-и,<a href="index.xhtml#n386" id="backn386" type="note">[386]</a>батюшка, по <choice><reg>нынешним</reg><orig>нынѣшнимъ</orig></choice> <choice><reg>временам</reg><orig>временамъ</orig></choice> <choice><reg>уж</reg><orig>ужъ</orig></choice> не гостей звать. У <choice><reg>Животовских</reg><orig>Животовскихъ</orig></choice>, <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>Золотухине</reg><orig>Золотухинѣ</orig></choice>, изволили слышать, <choice><reg>кучер</reg><orig>кучеръ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> окошко <span class="opdelimiter"><choice><reg>влез</reg><orig>влѣзъ</orig></choice>. </span><span class="opnumber">325</span></p>
+<p class="Razradka center"><span class="npnumber">326</span><span class="npdelimiter"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> </span><choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="left">Не <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>кучере</reg><orig>кучерѣ</orig></choice> <choice><reg>дело</reg><orig>дѣло</orig></choice>, Глафира <choice><reg>Федоровна</reg><orig>Ѳедоровна</orig></choice>. Отчего же, маменька, молодежи не повеселиться? Одно удивительно, куда они <choice><reg>все</reg><orig>всѣ</orig></choice> <choice><reg>делись</reg><orig>дѣлись</orig></choice>? </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Да, мой <choice><reg>друг</reg><orig>другъ</orig></choice>, ты <choice><reg>вот</reg><orig>вотъ</orig></choice> думаешь <choice><reg>об</reg><orig>объ</orig></choice> <choice><reg>их</reg><orig>ихъ</orig></choice> <choice><reg>удовольствии</reg><orig>удовольствіи</orig></choice>, а они всякое <choice><reg>уважение</reg><orig>уваженіе</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>старикам</reg><orig>старикамъ</orig></choice> потеряли. Твои имянины, никто до <choice><reg>сих</reg><orig>сихъ</orig></choice> <choice><reg>пор</reg><orig>поръ</orig></choice> и не <choice><reg>поздравил</reg><orig>поздравилъ</orig></choice>. </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Все, матушка, новые порядки, генелисты<a href="index.xhtml#n387" id="backn387" type="note">[387]</a>завелись. A <choice><reg>всех</reg><orig>всѣхъ</orig></choice> напоить, накормить надо. </p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="left">Да много ль же <choice><reg>их</reg><orig>ихъ</orig></choice>? И <choice><reg>из</reg><orig>изъ</orig></choice> чего вы, маменька, <choice><reg>делаете</reg><orig>дѣлаете</orig></choice> такое <choice><reg>затруднение</reg><orig>затрудненіе</orig></choice>? Племянника на <choice><reg>вакации</reg><orig>вакаціи</orig></choice> нельзя было не взять, ну, <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>ним</reg><orig>нимъ</orig></choice> учитель, <choice><reg>студент</reg><orig>студентъ</orig></choice>.... </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left"><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, мои батюшки, <a href="index.xhtml#n388" id="backn388" type="note">[388]</a> нельзя же....</p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Матушки, <choice><reg>светы</reg><orig>свѣты</orig></choice>! </p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="left"><choice><reg>Потом</reg><orig>Потомъ</orig></choice>, свояченицу <choice><reg>из</reg><orig>изъ</orig></choice> института отпустили, а <choice><reg>с</reg><orig>съ</orig></choice> ней подруга, очень милая <choice><reg>девушка</reg><orig>дѣвушка</orig></choice>. </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left"><choice><reg>Уж</reg><orig>Ужъ</orig></choice> эти подруги, <choice><reg>зададут</reg><orig>зададутъ</orig></choice> <choice><reg>они</reg><orig>онѣ</orig></choice> <choice><reg>тебе</reg><orig>тебѣ</orig></choice>. </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left"><choice><reg>Зададут</reg><orig>Зададутъ</orig></choice>, матушка, <choice><reg>зададут</reg><orig>зададутъ</orig></choice>. </p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="left">Что?</p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Ничего.</p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Ничего, батюшка, сахарку пожалуйте.</p>
+<p class="center">ЯВЛЕНИЕ II. </p>
+<p class="center"><choice><reg>Те</reg><orig>Тѣ</orig></choice> же, и <choice><reg>входит</reg><orig>входитъ</orig></choice> Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="left">А, <choice><reg>вот</reg><orig>вотъ</orig></choice> и она. </p>
+<p class="left"><span class="opnumber">326</span> <span class="npnumber">327</span></p>
+<p class="center"><span class="Razradka">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice> </span> <em>(<choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>дверях</reg><orig>дверяхъ</orig></choice>). </em></p>
+<p class="left">Смотрите <choice><reg>ж</reg><orig>жъ</orig></choice>, не забудьте. <em>(<choice><reg>Подходит</reg><orig>Подходитъ</orig></choice> ко <choice><reg>всем</reg><orig>всѣмъ</orig></choice> поочереди и <choice><reg>целует</reg><orig>цѣлуетъ</orig></choice> мужа.) </em>Здраствуй, мой <choice><reg>друг</reg><orig>другъ</orig></choice>, поздравляю тебя. Здраствуйте, maman, поздравляю <choice><reg>вас</reg><orig>васъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>имянинником</reg><orig>имянинникомъ</orig></choice>. <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна, мое <choice><reg>почтение</reg><orig>почтеніе</orig></choice>. </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Нынче кажется, ma chère,<a href="index.xhtml#n389" id="backn389" type="note">[389]</a>для <choice><reg>нас</reg><orig>насъ</orig></choice> радостный день. </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Знаю, <choice><reg>слишком</reg><orig>слишкомъ</orig></choice> хорошо знаю. <em>(<choice><reg>Целует</reg><orig>Цѣлуетъ</orig></choice> мужа.) </em></p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> Иванычь. </p>
+<p class="left">Ты не видала, <choice><reg>где</reg><orig>гдѣ</orig></choice> <choice><reg>все</reg><orig>всѣ</orig></choice>, <choice><reg>где</reg><orig>гдѣ</orig></choice> Люба и вся молодежь? </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left"><choice><reg>Видела</reg><orig>Видѣла</orig></choice>... <choice><reg>ах</reg><orig>ахъ</orig></choice> <choice><reg>нет</reg><orig>нѣтъ</orig></choice>, не видала... </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">То ли <choice><reg>дело</reg><orig>дѣло</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> наше время! бывало, <choice><reg>как</reg><orig>какъ</orig></choice> покойный мой <choice><reg>Иван</reg><orig>Иванъ</orig></choice> <choice><reg>Захарыч</reg><orig>Захарычъ</orig></choice> <choice><reg>имянинник</reg><orig>имянинникъ</orig></choice>, <choice><reg>чем</reg><orig>чѣмъ</orig></choice> <choice><reg>свет</reg><orig>свѣтъ</orig></choice> встанешь, все осмотришь, приготовишь сюрпризы <choice><reg>там</reg><orig>тамъ</orig></choice> разные, букеты. Кто стихи <choice><reg>выучит</reg><orig>выучитъ</orig></choice>, сестра <choice><reg>раз</reg><orig>разъ</orig></choice> <choice><reg>куплет</reg><orig>куплетъ</orig></choice> на <choice><reg>клавикордах</reg><orig>клавикордахъ</orig></choice> разучила... </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">А помните, матушка, <choice><reg>как</reg><orig>какъ</orig></choice> <choice><reg>комедию</reg><orig>комедію</orig></choice> играли, — струну? </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Какую струну?</p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left"><choice><reg>Так</reg><orig>Такъ</orig></choice> <choice><reg>заглавие</reg><orig>заглавіе</orig></choice> было. </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left"><choice><reg>Войдет</reg><orig>Войдетъ</orig></choice>, мой <choice><reg>голубчик</reg><orig>голубчикъ</orig></choice>, <choice><reg>пойдут</reg><orig>пойдутъ</orig></choice> <choice><reg>поздравления</reg><orig>поздравленія</orig></choice>, даже со стороны трогательно <choice><reg>смотреть</reg><orig>смотрѣть</orig></choice>. Не <choice><reg>так</reg><orig>такъ</orig></choice> у <choice><reg>вас</reg><orig>васъ</orig></choice>. <a href="index.xhtml#n390" id="backn390" type="note">[390]</a></p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left"><choice><reg>Без</reg><orig>Безъ</orig></choice> <choice><reg>слез</reg><orig>слезъ</orig></choice> вспомнить не могу. <choice><reg>Вот</reg><orig>Вотъ</orig></choice> <choice><reg>уж</reg><orig>ужъ</orig></choice> имянины, <choice><reg>так</reg><orig>такъ</orig></choice> имянины, не то, что <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>нынешнее</reg><orig>нынѣшнее</orig></choice> время... На <choice><reg>их</reg><orig>ихъ</orig></choice> любовь глядючи наплачешься. <em>(<choice><reg>Плачет</reg><orig>Плачетъ</orig></choice>.) </em></p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left"><choice><reg>Так</reg><orig>Такъ</orig></choice> <choice><reg>вот</reg><orig>вотъ</orig></choice> <choice><reg>как</reg><orig>какъ</orig></choice> бывало, maman, — а теперь <span class="opdelimiter">хуже?</span><span class="opnumber">327</span></p>
+<p class="Razradka center"><span class="npnumber">328</span><span class="npdelimiter">Глафира</span> Ѳеодоровна.</p>
+<p class="left">Да, мой <choice><reg>друг</reg><orig>другъ</orig></choice>, хуже. </p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> III. </p>
+<p class="center"><choice><reg>Те</reg><orig>Тѣ</orig></choice> же; <choice><reg>вбегают</reg><orig>вбѣгаютъ</orig></choice> Наталья Павловна, Люба и <choice><reg>студент</reg><orig>студентъ</orig></choice>. </p>
+<p class="Razradka center">Люба.</p>
+<p class="left">Здраствуйте, Глафира <choice><reg>Федоровна</reg><orig>Ѳедоровна</orig></choice>, честь <choice><reg>имею</reg><orig>имѣю</orig></choice> поздравить <choice><reg>с</reg><orig>съ</orig></choice> имянинами! Здраствуйте, <choice><reg>Семен</reg><orig>Семенъ</orig></choice> Иванычь, и <choice><reg>вас</reg><orig>васъ</orig></choice> поздравляю. </p>
+<p class="center"><span class="Razradka">Наталья Павловна</span> <em>(жеманно <choice><reg>присядает</reg><orig>присядаетъ</orig></choice> </em>).</p>
+<p class="left">Bonjour, madame, je vous félicite, et vous aussi, monsieur. <a href="index.xhtml#n391" id="backn391" type="note">[391]</a></p>
+<p class="center"><span class="Razradka">Люба</span> <em>(весело</em>).</p>
+<p class="left">Что это вы плачете, <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна! <em>(<choice><reg>Отходит</reg><orig>Отходитъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> сторону.) </em></p>
+<p class="center"><span class="Razradka"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice> </span> <em>(<choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>Маше</reg><orig>Машѣ</orig></choice> тихо). </em><choice><reg>Достал</reg><orig>Досталъ</orig></choice>, посмотрите. </p>
+<p class="center"><span class="Razradka">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice> </span> <em>(тоже тихо).</em></p>
+<p class="left">Хорошо, очень хорошо.</p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> Иванычь. </p>
+<p class="left">Что? <em>(Сцена <choice><reg>общего</reg><orig>общаго</orig></choice> <choice><reg>молчанья</reg><orig>молчанія</orig></choice>.) </em></p>
+<p class="center"><span class="Razradka"><choice><reg>Крисанф</reg><orig>Крисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice> </span> <em>(<choice><reg>к</reg><orig>къ</orig></choice> Семену Иванычу). </em></p>
+<p class="left"><choice><reg>Так</reg><orig>Такъ</orig></choice> <choice><reg>как</reg><orig>какъ</orig></choice> <choice><reg>существует</reg><orig>существуетъ</orig></choice> обычай поздравлять, то и я поздравляю <choice><reg>вас</reg><orig>васъ</orig></choice>. </p>
+<p class="center"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> Иванычь </span> <em>(<choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>Марье</reg><orig>Марьѣ</orig></choice> <choice><reg>Дмитриевне</reg><orig>Дмитріевнѣ</orig></choice>). </em></p>
+<p class="left">Что̀, ты не видалась <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>Крисанфом</reg><orig>Крисанфомъ</orig></choice> <choice><reg>Васильевичем</reg><orig>Васильевичемъ</orig></choice>? </p>
+<p class="center"><span class="Razradka">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice> </span> <em>(<choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>замешателъством</reg><orig>замѣшателъствомъ</orig></choice> </em>).</p>
+<p class="left"><choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>.... Да.... <choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, мы не видались, здраствуйте. </p>
+<p class="center"><span class="Razradka"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice> </span> <em>(кланяясь</em>).</p>
+<p class="left"><choice><reg>Нет</reg><orig>Нѣтъ</orig></choice> мы уже <choice><reg>виделись</reg><orig>видѣлись</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> вами. <em>(<choice><reg>К</reg><orig>Къ</orig></choice> <choice><reg>приживалке</reg><orig>приживалкѣ</orig></choice>.) </em>Что это вы, <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна <choice><reg>так</reg><orig>такъ</orig></choice> разрюмились? <choice><reg>В</reg><orig>Въ</orig></choice> <choice><reg>нынешние</reg><orig>нынѣшнія</orig></choice> времена прогресса доказано, что слезы есть только отправление <span class="opdelimiter">организма.</span><span class="opnumber">328</span></p>
+<p class="Razradka center"><span class="npnumber">329</span><span class="npdelimiter"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> </span> Андреевна.</p>
+<p class="left">Ну <choice><reg>вас</reg><orig>васъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>сурганизмом</reg><orig>сурганизмомъ</orig></choice>, <a href="index.xhtml#n392" id="backn392" type="note">[392]</a> я те сама<a href="index.xhtml#n393" id="backn393" type="note">[393]</a><choice><reg>так</reg><orig>такъ</orig></choice> обругаю, и почище <choice><reg>вас</reg><orig>васъ</orig></choice> видала. <em>(Отворачивается.)</em></p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Очень рада, mes chers amis, <a href="index.xhtml#n394" id="backn394" type="note">[394]</a>что <choice><reg>приехали</reg><orig>пріѣхали</orig></choice> <choice><reg>навестить</reg><orig>навѣстить</orig></choice> моего сына, боюсь только не соскучились бы <choice><reg>с</reg><orig>съ</orig></choice> нами старухами. <a href="index.xhtml#n395" id="backn395" type="note">[395]</a>Теперь время уже не то. Et vous, ma chère, avez vous terminé vos études? <a href="index.xhtml#n396" id="backn396" type="note">[396]</a> <em>(Обращается <choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>Наталье</reg><orig>Натальѣ</orig></choice>.) </em></p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left">Non, madame, pas encore.<a href="index.xhtml#n397" id="backn397" type="note">[397]</a> — <em>(Люба <choice><reg>дергает</reg><orig>дергаетъ</orig></choice> ее сзади за платье.) </em>Нельзя, <choice><reg>узнают</reg><orig>узнаютъ</orig></choice>. </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left"><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, <choice><reg>как</reg><orig>какъ</orig></choice> <choice><reg>здесь</reg><orig>здѣсь</orig></choice> жарко. <em>(<choice><reg>Идет</reg><orig>Идетъ</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> молодежи.) </em>Ради Бога, <choice><reg>осторожнее</reg><orig>осторожнѣе</orig></choice>, <a href="index.xhtml#n398" id="backn398" type="note">[398]</a><choice><reg>чтоб</reg><orig>чтобъ</orig></choice> <choice><reg>он</reg><orig>онъ</orig></choice> не <choice><reg>видал</reg><orig>видалъ</orig></choice>! <em>(<choice><reg>Молчанье</reg><orig>Молчаніе</orig></choice>.) </em></p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left"><choice><reg>Как</reg><orig>Какъ</orig></choice> однако твоя жена скоро сошлась <choice><reg>с</reg><orig>съ</orig></choice> этими господами. </p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> Иванычь. </p>
+<p class="left">Что?</p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Очень обходительна.</p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> IV. </p>
+<p class="center"><choice><reg>Те</reg><orig>Тѣ</orig></choice> же и Николинька. </p>
+<p class="center"><span class="Razradka">Николинька</span> <em>(<choice><reg>вбегает</reg><orig>вбѣгаетъ</orig></choice> </em>).</p>
+<p class="left">Поздравляю <choice><reg>вас</reg><orig>васъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>имянинником</reg><orig>имянинникомъ</orig></choice>, <a href="index.xhtml#n399" id="backn399" type="note">[399]</a>Глафира <choice><reg>Феодоровна</reg><orig>Ѳеодоровна</orig></choice>, и <choice><reg>вас</reg><orig>васъ</orig></choice>, дядинька. <em>(Кланяется комично <choice><reg>Фионе</reg><orig>Ѳіонѣ</orig></choice> <choice><reg>Андреевне</reg><orig>Андреевнѣ</orig></choice>; <choice><reg>отходит</reg><orig>отходитъ</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> молодежи; перешоптываются и <choice><reg>все</reg><orig>всѣ</orig></choice> <choice><reg>убегают</reg><orig>убѣгаютъ</orig></choice>.) </em></p>
+<p class="center"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> Иванычь </span> <em>(<choice><reg>им</reg><orig>имъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>след</reg><orig>слѣдъ</orig></choice>). </em></p>
+<p class="left">Маша, a <span class="opdelimiter">Маша!</span><span class="opnumber">329</span></p>
+<p class="center"><span class="npnumber">330</span><span class="npdelimiter"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНIЕ</orig></choice> </span> V.</p>
+<p class="center">Глафира <choice><reg>Федоровна</reg><orig>Ѳедоровна</orig></choice>, <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна и <choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Да, мой <choice><reg>друг</reg><orig>другъ</orig></choice>, молодость <a href="index.xhtml#n400" id="backn400" type="note">[400]</a>нынче по своему <choice><reg>смотрит</reg><orig>смотритъ</orig></choice> на эти вещи. Не скажу, <choice><reg>чтоб</reg><orig>чтобъ</orig></choice> была большая разница <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>ваших</reg><orig>вашихъ</orig></choice> <choice><reg>летах</reg><orig>лѣтахъ</orig></choice>, <a href="index.xhtml#n401" id="backn401" type="note">[401]</a>все таки могла бы оказать больше <choice><reg>внимания</reg><orig>вниманія</orig></choice>. Грустно, очень грустно. </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Точно <choice><reg>все</reg><orig>всѣ</orig></choice> на <choice><reg>пожар</reg><orig>пожаръ</orig></choice> <choice><reg>побежали</reg><orig>побѣжали</orig></choice>. </p>
+<p class="center"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice> </span> <em>(<choice><reg>с</reg><orig>съ</orig></choice> сердцемь). </em></p>
+<p class="left"><choice><reg>Уж</reg><orig>Ужъ</orig></choice> вы то молчите! <em>(<choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна <choice><reg>встает</reg><orig>встаетъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>испугом</reg><orig>испугомъ</orig></choice>.) </em></p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left"><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, мой <choice><reg>друг</reg><orig>другъ</orig></choice>, <choice><reg>как</reg><orig>какъ</orig></choice> ты кричишь. Жена твоя <choice><reg>убежала</reg><orig>убѣжала</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>этим</reg><orig>этимъ</orig></choice> <choice><reg>стюдентом</reg><orig>стюдентомъ</orig></choice>, <choice><reg>вместо</reg><orig>вмѣсто</orig></choice> того, <choice><reg>чтоб</reg><orig>чтобъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>мужем</reg><orig>мужемъ</orig></choice> <choice><reg>посидеть</reg><orig>посидѣть</orig></choice>, а она-то <choice><reg>чем</reg><orig>чѣмъ</orig></choice> виновата, что ты <choice><reg>приревновал</reg><orig>приревновалъ</orig></choice> ее <choice><reg>к</reg><orig>къ</orig></choice> этому <choice><reg>мальчишке</reg><orig>мальчишкѣ</orig></choice>. </p>
+<p class="center"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice> </span> <em>(вставая</em>).</p>
+<p class="left"><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, maman, что вы только говорите! <choice><reg>С</reg><orig>Съ</orig></choice> какой стати! Неужели я унижусь до такой степени, <choice><reg>чтоб</reg><orig>чтобъ</orig></choice> ревновать! И слово то это <choice><reg>мне</reg><orig>мнѣ</orig></choice> мерзко. <em>(<choice><reg>С</reg><orig>Съ</orig></choice> <choice><reg>сердцем</reg><orig>сердцемъ</orig></choice> <choice><reg>стукает</reg><orig>стукаетъ</orig></choice> <choice><reg>кулаком</reg><orig>кулакомъ</orig></choice> по столу) </em>А позвольте <choice><reg>мне</reg><orig>мнѣ</orig></choice> сказать, что ежели вы хотите меня поссорить <choice><reg>с</reg><orig>съ</orig></choice> моей женой.... </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left"><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, батюшка, <choice><reg>Христос</reg><orig>Христосъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> тобой, на меня то не кричи. <choice><reg>Назвал</reg><orig>Назвалъ</orig></choice> <choice><reg>Бог</reg><orig>Богъ</orig></choice> <choice><reg>знает</reg><orig>знаетъ</orig></choice> кого, а я виновата. Пойдемте, <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна, я вижу, что мы <choice><reg>лишние</reg><orig>лишнія</orig></choice>. </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left"><choice><reg>Лишние</reg><orig>Лишнія</orig></choice>, матушка, <choice><reg>лишние</reg><orig>лишнія</orig></choice>. <em>(<choice><reg>Уходят</reg><orig>Уходятъ</orig></choice>.) </em></p>
+<p class="center"><choice><reg>ЯВЛЕНИE</reg><orig>ЯВЛЕНIE</orig></choice> VI. </p>
+<p class="center"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice> </span> <em>(<choice><reg>один</reg><orig>одинъ</orig></choice>). </em></p>
+<p class="left">Ревновать — не ревновать, это глупости. Но странно, <choice><reg>действительно</reg><orig>дѣйствительно</orig></choice> странно. Что за перемигиванье, перешоптыванье, — <choice><reg>убежала</reg><orig>убѣжала</orig></choice>.... И <choice><reg>все</reg><orig>всѣ</orig></choice> <choice><reg>они</reg><orig>онѣ</orig></choice>, эти <choice><reg>девчонки</reg><orig>дѣвчонки</orig></choice>, обрадовались этому костлявому Крисанфу какому то. Все это <choice><reg>пример</reg><orig>примѣръ</orig></choice>. <a href="index.xhtml#n402" id="backn402" type="note">[402]</a><choice><reg>Девчонки</reg><orig>Дѣвчонки</orig></choice> <choice><reg>кокетничают</reg><orig>кокетничаютъ</orig></choice>, и она зa ними. Но то <choice><reg>девчонки</reg><orig>дѣвчонки</orig></choice>! Непостижимо! <a href="index.xhtml#n403" id="backn403" type="note">[403]</a> Однако, что это за таинственныя улыбки, перемигиванье? <span class="opdelimiter"><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, </span><span class="opnumber">330</span> <span class="npnumber">331</span><span class="npdelimiter"><choice><reg>как</reg><orig>какъ</orig></choice> </span>досадно! <choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, это даже страшно... Да, страшно. <choice><reg>Ах</reg><orig>Ахъ</orig></choice>, женщины! <a href="index.xhtml#n404" id="backn404" type="note">[404]</a> <em>(<choice><reg>Уходит</reg><orig>Уходитъ</orig></choice>.) </em></p>
+<p class="center"><choice><reg>ДеЙСТВИЕ</reg><orig>ДѣЙСТВІЕ</orig></choice> II. </p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> I. </p>
+<p class="center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>, Люба, Наталья Павловна, Николинька <choice><reg>рассматривают</reg><orig>разсматриваютъ</orig></choice> <choice><reg>транспарант</reg><orig>транспарантъ</orig></choice>. <choice><reg>В</reg><orig>Въ</orig></choice> <choice><reg>комнате</reg><orig>комнатѣ</orig></choice> <choice><reg>беспорядок</reg><orig>безпорядокъ</orig></choice>, бумага, <choice><reg>крахмал</reg><orig>крахмалъ</orig></choice>, костюмы. </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Отлично, отлично <choice><reg>устроил</reg><orig>устроилъ</orig></choice> <choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice>, <choice><reg>нам</reg><orig>намъ</orig></choice> <choice><reg>Бог</reg><orig>Богъ</orig></choice> <choice><reg>послал</reg><orig>послалъ</orig></choice> <choice><reg>этого</reg><orig>этаго</orig></choice> Хрисанфа. </p>
+<p class="center"><span class="Razradka">Наталья Павловна</span> <em>(<choice><reg>смеется</reg><orig>смѣется</orig></choice> </em>).</p>
+<p class="left"><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>, <choice><reg>как</reg><orig>какъ</orig></choice> <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>мне</reg><orig>мнѣ</orig></choice> <choice><reg>надоел</reg><orig>надоѣлъ</orig></choice>? <choice><reg>Выдумал</reg><orig>Выдумалъ</orig></choice> <a href="index.xhtml#n405" id="backn405" type="note">[405]</a> зa мной ухаживать, говорить о какой то разумной любви, такой противный!</p>
+<p class="Razradka center">Люба.</p>
+<p class="left">Неправда, Маша, она очень рада. Сама <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>ним</reg><orig>нимъ</orig></choice> <choice><reg>кокетничает</reg><orig>кокетничаетъ</orig></choice>. </p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left">Я? <choice><reg>вот</reg><orig>вотъ</orig></choice> еще <choice><reg>вздор</reg><orig>вздоръ</orig></choice>! <choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>, это она <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>ним</reg><orig>нимъ</orig></choice> кокетничала. Все <choice><reg>об</reg><orig>объ</orig></choice> <choice><reg>эмансипации</reg><orig>эмансипаціи</orig></choice> говорила. </p>
+<p class="Razradka center">Люба.</p>
+<p class="left"><choice><reg>Нет</reg><orig>Нѣтъ</orig></choice> ты. </p>
+<p class="center"><span class="Razradka">Наталья Павловна</span> <em>(обиженно).</em></p>
+<p class="left"><choice><reg>Уж</reg><orig>Ужъ</orig></choice> извините, <choice><reg>совсем</reg><orig>совсѣмъ</orig></choice> не я. </p>
+<p class="Razradka center">Люба.</p>
+<p class="left"><choice><reg>Нет</reg><orig>Нѣтъ</orig></choice> ты! </p>
+<p class="center">Наталья Павловна <em>(<choice><reg>тем</reg><orig>тѣмъ</orig></choice> же тономь). </em></p>
+<p class="left"><choice><reg>Уж</reg><orig>Ужъ</orig></choice> <choice><reg>сделайте</reg><orig>сдѣлайте</orig></choice> милость, не я. </p>
+<p class="Razradka center">Люба.</p>
+<p class="left"><choice><reg>Нет</reg><orig>Нѣтъ</orig></choice> ты. </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left"><choice><reg>Будет</reg><orig>Будетъ</orig></choice>, <choice><reg>будет</reg><orig>будетъ</orig></choice> <choice><reg>вам</reg><orig>вамъ</orig></choice> спорить. Пора за <choice><reg>дело</reg><orig>дѣло</orig></choice> приниматься. У <choice><reg>нас</reg><orig>насъ</orig></choice> еще и S не <choice><reg>кончен</reg><orig>конченъ</orig></choice>. <a href="index.xhtml#n406" id="backn406" type="note">[406]</a></p>
+<p class="left"><span class="opnumber">331</span> <span class="npnumber">332</span></p>
+<p class="Razradka center">Люба.</p>
+<p class="left"><choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, Маша, я не <choice><reg>умею</reg><orig>умѣю</orig></choice>; надо <choice><reg>Христанф</reg><orig>Христанфъ</orig></choice> Васильевича позвать. </p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left">Nicolas, <choice><reg>бегите</reg><orig>бѣгите</orig></choice> за <choice><reg>ним</reg><orig>нимъ</orig></choice> <choice><reg>скорей</reg><orig>скорѣй</orig></choice>. </p>
+<p class="center"><em>(Николинька <choice><reg>убегает</reg><orig>убѣгаетъ</orig></choice> </em>).</p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> II. </p>
+<p class="center"><choice><reg>Те</reg><orig>Тѣ</orig></choice> же, <choice><reg>без</reg><orig>безъ</orig></choice> Николиньки. </p>
+<p class="center"><span class="Razradka">Наталья Павловна</span> <em>(<choice><reg>с</reg><orig>съ</orig></choice> живостью <choice><reg>подходит</reg><orig>подходитъ</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>Маше</reg><orig>Машѣ</orig></choice> </em>).</p>
+<p class="left">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>, когда <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>работает</reg><orig>работаетъ</orig></choice>, <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>снимает</reg><orig>снимаетъ</orig></choice> <choice><reg>сюртук</reg><orig>сюртукъ</orig></choice>. Вы уж <em>ъ </em> ему позвольте. Посмотрите, какая у него рубашка ситцевая.</p>
+<p class="center"><choice><reg>ЯВЛЕНИE</reg><orig>ЯВЛЕНIE</orig></choice> III. </p>
+<p class="center"><choice><reg>Те</reg><orig>Тѣ</orig></choice> же, <choice><reg>входят</reg><orig>входятъ</orig></choice> <choice><reg>студент</reg><orig>студентъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> Николинькой. </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Стихи готовы?</p>
+<p class="Razradka center">Люба.</p>
+<p class="left">Мажьте сажей transparent, а то я руки замараю.</p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left"><choice><reg>Чтож</reg><orig>Чтожъ</orig></choice> фонари? </p>
+<p class="center"><span class="Razradka"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice> </span> <em>(останавливается <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>дверях</reg><orig>дверяхъ</orig></choice> </em>).</p>
+<p class="left"><choice><reg>Вот</reg><orig>Вотъ</orig></choice> она, равноправность <choice><reg>женщин</reg><orig>женщинъ</orig></choice>. <choice><reg>Везде</reg><orig>Вездѣ</orig></choice> <choice><reg>сущим</reg><orig>сущимъ</orig></choice> <choice><reg>может</reg><orig>можетъ</orig></choice> быть только <choice><reg>один</reg><orig>одинъ</orig></choice> <choice><reg>Бог</reg><orig>Богъ</orig></choice>, а я всюду не <choice><reg>поспею</reg><orig>поспѣю</orig></choice>. <choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, я <choice><reg>говорил</reg><orig>говорилъ</orig></choice> <choice><reg>вам</reg><orig>вамъ</orig></choice>, Наталья Павловна, что еще далеко <choice><reg>нашим</reg><orig>нашимъ</orig></choice> <choice><reg>женщинам</reg><orig>женщинамъ</orig></choice> до <choice><reg>понятия</reg><orig>понятія</orig></choice> о разумной любви. </p>
+<p class="Razradka center">Люба.</p>
+<p class="left">Не <choice><reg>в</reg><orig>въ</orig></choice> любви <choice><reg>дело</reg><orig>дѣло</orig></choice>, мажьте сажей. </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Снимайте <choice><reg>сюртук</reg><orig>сюртукъ</orig></choice>. </p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left">Клейте фонари.</p>
+<p class="Razradka center"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left"><choice><reg>Так</reg><orig>Такъ</orig></choice> позвольте же. <em>(<choice><reg>Снимает</reg><orig>Снимаетъ</orig></choice> <choice><reg>сюртук</reg><orig>сюртукъ</orig></choice>.) </em></p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left"><choice><reg>Сделайте</reg><orig>Сдѣлайте</orig></choice> <choice><reg>одолжение</reg><orig>одолженіе</orig></choice>. Николинька, ступай на крыльцо; если кто <choice><reg>пройдет</reg><orig>пройдетъ</orig></choice>, <choice><reg>беги</reg><orig>бѣги</orig></choice> <span class="opdelimiter">сказать.</span><span class="opnumber">332</span></p>
+<p class="Razradka center"><span class="npnumber">333</span><span class="npdelimiter">Николинька</span>.</p>
+<p class="left"><choice><reg>Уж</reg><orig>Ужъ</orig></choice> будьте покойны, ни кота, ни кошки не пропущу. <em>(<choice><reg>Убегает</reg><orig>Убѣгаетъ</orig></choice>.) </em></p>
+<p class="center"><choice><reg>ЯВЛЕНИE</reg><orig>ЯВЛЕНIE</orig></choice> IV. </p>
+<p class="center"><choice><reg>Те</reg><orig>Тѣ</orig></choice> же, <choice><reg>без</reg><orig>безъ</orig></choice> Николиньки (<choice><reg>Все</reg><orig>Всѣ</orig></choice> <choice><reg>обращают</reg><orig>обращаютъ</orig></choice> <choice><reg>внимание</reg><orig>вниманіе</orig></choice> на рубашку студента.) </p>
+<p class="center"><span class="Razradka">Наталья Павловна</span> <em>(насмешливо).</em></p>
+<p class="left">Лиловая!</p>
+<p class="center"><span class="Razradka">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice> </span> <em>( так же</em>).</p>
+<p class="left">Грязная!</p>
+<p class="Razradka center">Люба.</p>
+<p class="left"><choice><reg>С</reg><orig>Съ</orig></choice> голубыми <choice><reg>цветочками</reg><orig>цвѣточками</orig></choice>! </p>
+<p class="Razradka center"><choice><reg>Xрисанф</reg><orig>Xрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left">Что? Что?</p>
+<p class="Razradka center">Люба.</p>
+<p class="left">Ничего, я только говорю, что <choice><reg>голубенькие</reg><orig>голубенькіе</orig></choice> <a href="index.xhtml#n407" id="backn407" type="note">[407]</a><choice><reg>цветочки</reg><orig>цвѣточки</orig></choice> <choice><reg>будут</reg><orig>будутъ</orig></choice> очень хороши на <choice><reg>фонаре</reg><orig>фонарѣ</orig></choice>. <a href="index.xhtml#n408" id="backn408" type="note">[408]</a></p>
+<p class="Razradka center"><choice><reg>Xрисанф</reg><orig>Xрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left">Но прошу вашего <choice><reg>содействия</reg><orig>содѣйствія</orig></choice>, господа. </p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left">Хорошо, я подклею. <em>(<choice><reg>Подклеивает</reg><orig>Подклеиваетъ</orig></choice> ему <choice><reg>звезду</reg><orig>звѣзду</orig></choice> на <choice><reg>рубашке</reg><orig>рубашкѣ</orig></choice>.) </em></p>
+<p class="center"><span class="Razradka">Люба</span> <em>(<choice><reg>красит</reg><orig>краситъ</orig></choice> ему <choice><reg>ворот</reg><orig>воротъ</orig></choice> рубашки). </em></p>
+<p class="left">А я подкрашу.</p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Ну, <choice><reg>чтож</reg><orig>чтожъ</orig></choice> стихи? </p>
+<p class="Razradka center"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left">Позвольте минуту <choice><reg>вдохновения</reg><orig>вдохновенія</orig></choice>, Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. <em>(<choice><reg>Проводит</reg><orig>Проводитъ</orig></choice> рукой по <choice><reg>волосам</reg><orig>волосамъ</orig></choice> и <choice><reg>мажет</reg><orig>мажетъ</orig></choice> <choice><reg>лоб</reg><orig>лобъ</orig></choice> сажей.) </em></p>
+<p class="center"><span class="Razradka">Наталья Павловна и Люба</span> <em>(<choice><reg>вместе</reg><orig>вмѣстѣ</orig></choice>). </em></p>
+<p class="left">Еще, еще <choice><reg>вдохновения</reg><orig>вдохновенія</orig></choice>! </p>
+<p class="center"><span class="Razradka"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice> </span> <em>(<choice><reg>пачкает</reg><orig>пачкаетъ</orig></choice> опять лицо, не <choice><reg>замечая</reg><orig>замѣчая</orig></choice> <choice><reg>этого</reg><orig>этаго</orig></choice>). </em></p>
+<p class="left">Извольте. <em>(<choice><reg>Отходит</reg><orig>Отходитъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> сторону и становится <choice><reg>в</reg><orig>въ</orig></choice> позу.) </em>«<choice><reg>С</reg><orig>Съ</orig></choice> имянинами поздравить...» <choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, не хорошо... </p>
+<p class="left"><span class="opnumber">333</span> <span class="npnumber">334</span></p>
+<p class="center"><span class="Razradka">Николинька</span> <em>(<choice><reg>вбегает</reg><orig>вбѣгаетъ</orig></choice>). </em></p>
+<p class="left"><choice><reg>Идет</reg><orig>Идетъ</orig></choice>, <choice><reg>идет</reg><orig>идетъ</orig></choice>! </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Кто <choice><reg>идет</reg><orig>идетъ</orig></choice>? </p>
+<p class="Razradka center">Николинька.</p>
+<p class="left">Николай <choice><reg>повар</reg><orig>поваръ</orig></choice>. </p>
+<p class="Razradka center">Люба.</p>
+<p class="left"><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, <choice><reg>дурак</reg><orig>дуракъ</orig></choice>! </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Не <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>поваре</reg><orig>поварѣ</orig></choice> <choice><reg>дело</reg><orig>дѣло</orig></choice>, а если кто <choice><reg>из</reg><orig>изъ</orig></choice> <choice><reg>наших</reg><orig>нашихъ</orig></choice> <choice><reg>придет</reg><orig>придетъ</orig></choice>... </p>
+<p class="Razradka center"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left">Позвольте, позвольте, господа. Вы меня измазали и приклеили. Приклеили двояко.</p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left">А <choice><reg>стихов</reg><orig>стиховъ</orig></choice> всетаки <a href="index.xhtml#n409" id="backn409" type="note">[409]</a><choice><reg>нет</reg><orig>нѣтъ</orig></choice>. </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Ну, <choice><reg>как</reg><orig>какъ</orig></choice> хотите <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>вашим</reg><orig>вашимъ</orig></choice> <choice><reg>вдохновением</reg><orig>вдохновеніемъ</orig></choice>, а мы <choice><reg>будем</reg><orig>будемъ</orig></choice> клеить. </p>
+<p class="center"><span class="Razradka"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice> </span> <em>(<choice><reg>в</reg><orig>въ</orig></choice> сторону). </em></p>
+<p class="left">«<choice><reg>С</reg><orig>Съ</orig></choice> имянинами поздравить...» <choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, не хорошо. <a href="index.xhtml#n410" id="backn410" type="note">[410]</a>«<choice><reg>Поздравление</reg><orig>Поздравленіе</orig></choice> принесть...» <em>(<choice><reg>Подумав</reg><orig>Подумавъ</orig></choice>.) </em> Возьму готовое...<a href="index.xhtml#n411" id="backn411" type="note">[411]</a>Пожалуйте, Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>, готово. <em>(<choice><reg>Декламирует</reg><orig>Декламируетъ</orig></choice>.) </em><a href="index.xhtml#n412" id="backn412" type="note">[412]</a></p>
+<div class="poem">
+<div class="stanza left">
+<p class="v">
+Хоть поздравлять не современно
+</p>
+<p class="v"><choice><reg>В</reg><orig>Въ</orig></choice> <choice><reg>костюме</reg><orig>костюмѣ</orig></choice> <choice><reg>грации</reg><orig>граціи</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>цветами</reg><orig>цвѣтами</orig></choice>, — </p>
+<p class="v">Я <choice><reg>консерватор</reg><orig>консерваторъ</orig></choice> совершенно, </p>
+<p class="v">
+И занята одними вами!
+</p>
+</div>
+</div>
+<p class="left">Позвольте еще?</p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Довольно. Отлично, очень хорошо. Мы <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>костюмах</reg><orig>костюмахъ</orig></choice> <choice><reg>трех</reg><orig>трехъ</orig></choice> <choice><reg>граций</reg><orig>грацій</orig></choice> <choice><reg>поднесем</reg><orig>поднесемъ</orig></choice> ему вензель, и я спою стихи. Очень <choice><reg>вам</reg><orig>вамъ</orig></choice> благодарна, <choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. <em>(<choice><reg>Жмет</reg><orig>Жметъ</orig></choice> руку студенту. <choice><reg>В</reg><orig>Въ</orig></choice> это время отворяется окно и показывается голова </em><a href="index.xhtml#n413" id="backn413" type="note">[413]</a> <em>Семена Иваныча.) (Испуганно, между <choice><reg>тем</reg><orig>тѣмъ</orig></choice> <choice><reg>как</reg><orig>какъ</orig></choice> <choice><reg>девочки</reg><orig>дѣвочки</orig></choice> <choice><reg>закрывают</reg><orig>закрываютъ</orig></choice> фонари.) </em><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, <choice><reg>Семен</reg><orig>Семенъ</orig></choice> Иванычь, не ходи сюда, не ходи! </p>
+<p class="center"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice> </span> <em>(<choice><reg>глядит</reg><orig>глядитъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>ужасом</reg><orig>ужасомъ</orig></choice> на жену). </em></p>
+<p class="left">А, вы <choice><reg>все</reg><orig>всѣ</orig></choice> <choice><reg>здесь</reg><orig>здѣсь</orig></choice>. Я очень <choice><reg>рад</reg><orig>радъ</orig></choice>, что <choice><reg>вам</reg><orig>вамъ</orig></choice> весело. Хорошо, хорошо, я <span class="opdelimiter">уйду.</span><span class="opnumber">334</span></p>
+<p class="Razradka center"><span class="npnumber">335</span><span class="npdelimiter">Наталья</span> Ивановна.</p>
+<p class="left">Боже мой, <choice><reg>он</reg><orig>онъ</orig></choice> все <choice><reg>видел</reg><orig>видѣлъ</orig></choice>! </p>
+<p class="Razradka center">Люба.</p>
+<p class="left">Не <choice><reg>видал</reg><orig>видалъ</orig></choice>, не <choice><reg>видал</reg><orig>видалъ</orig></choice>! </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left"><choice><reg>Где</reg><orig>Гдѣ</orig></choice> же <choice><reg>этот</reg><orig>этотъ</orig></choice> проклятый Николинька? Люба, притащи его сюда <em>. (Николинька сталкивается <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>бегущей</reg><orig>бѣгущей</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> нему Любой.) </em></p>
+<p class="center"><span class="Razradka">Николинька</span> <em>(<choice><reg>вбегает</reg><orig>вбѣгаетъ</orig></choice> </em>).</p>
+<p class="left"><choice><reg>Идет</reg><orig>Идетъ</orig></choice>, <choice><reg>сам</reg><orig>самъ</orig></choice> <choice><reg>идет</reg><orig>идетъ</orig></choice>. </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Что ты <choice><reg>наделал</reg><orig>надѣлалъ</orig></choice>? </p>
+<p class="Razradka center">Люба.</p>
+<p class="left"><choice><reg>Где</reg><orig>Гдѣ</orig></choice> ты <choice><reg>был</reg><orig>былъ</orig></choice>? </p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left"><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, все пропало! </p>
+<p class="Razradka center"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left"><choice><reg>Неверный</reg><orig>Невѣрный</orig></choice> <choice><reg>раб</reg><orig>рабъ</orig></choice>, я <choice><reg>заставил</reg><orig>заставилъ</orig></choice> тебя караулить <choice><reg>вертоград</reg><orig>вертоградъ</orig></choice> мой, а ты <choice><reg>спал</reg><orig>спалъ</orig></choice>. <em>(<choice><reg>Все</reg><orig>Всѣ</orig></choice> <choice><reg>тормошат</reg><orig>тормошатъ</orig></choice> Николиньку.) </em></p>
+<p class="Razradka center">Люба.</p>
+<p class="left">Защекочу.</p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left">А я сажей вымажу.</p>
+<p class="center"><span class="Razradka">Николинька</span> <em>(барахтается).</em></p>
+<p class="left">Пустите, пустите!</p>
+<p class="center">ЯВЛЕНИЕ V.</p>
+<p class="center"><choice><reg>Те</reg><orig>Тѣ</orig></choice> же, <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="center"><span class="Razradka"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна </span> <em>(<choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>ужасом</reg><orig>ужасомъ</orig></choice>). </em></p>
+<p class="left">Батюшки, ребенка задушили. Кузьма! люди! <choice><reg>народ</reg><orig>народъ</orig></choice>! <a href="index.xhtml#n414" id="backn414" type="note">[414]</a></p>
+<p class="Razradka center"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left">Сударыня! сколь не <choice><reg>приятно</reg><orig>пріятно</orig></choice> <choice><reg>нам</reg><orig>намъ</orig></choice> ваше общество, но <choice><reg>в</reg><orig>въ</orig></choice> настоящую минуту <a href="index.xhtml#n415" id="backn415" type="note">[415]</a>мы <choice><reg>без</reg><orig>безъ</orig></choice> <choice><reg>слез</reg><orig>слезъ</orig></choice> обойдемся <choice><reg>без</reg><orig>безъ</orig></choice> <choice><reg>оного</reg><orig>онаго</orig></choice>. </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Тьфу <span class="opdelimiter">ты!</span><span class="opnumber">335</span></p>
+<p class="Razradka center"><span class="npnumber">336</span><span class="npdelimiter">Люба</span>.</p>
+<p class="left">Идите, ступайте. <em>(<choice><reg>Захлопывает</reg><orig>Захлопываетъ</orig></choice> дверь.) </em></p>
+<p class="center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна <em>(жалобно, показывая разорванное платье).</em></p>
+<p class="left"><choice><reg>Креп-рашелевое</reg><orig>Крепъ-рашелевое</orig></choice>! <choice><reg>Благодетельница</reg><orig>Благодѣтельница</orig></choice> подарила! </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Ну <choice><reg>вас</reg><orig>васъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>благодетельницей</reg><orig>благодѣтельницей</orig></choice>! </p>
+<p class="center"><span class="Razradka"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна </span> <em>(<choice><reg>выглядывает</reg><orig>выглядываетъ</orig></choice> <choice><reg>из</reg><orig>изъ</orig></choice> двери). </em></p>
+<p class="left">Ай, страсти <choice><reg>какие</reg><orig>какія</orig></choice>, <choice><reg>стюдент</reg><orig>стюдентъ</orig></choice> <choice><reg>чортом</reg><orig>чортомъ</orig></choice> нарядился! Все пойду скажу. <em>(<choice><reg>Уходит</reg><orig>Уходитъ</orig></choice>.) </em></p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Ступайте. Николинька, <choice><reg>беги</reg><orig>бѣги</orig></choice> на часы, а мы примемся за <choice><reg>дело</reg><orig>дѣло</orig></choice>. </p>
+<p class="Razradka center"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left"><choice><reg>Чтож</reg><orig>Чтожъ</orig></choice> это она однако сказала, что <choice><reg>студент</reg><orig>студентъ</orig></choice> <choice><reg>чортом</reg><orig>чортомъ</orig></choice> нарядился? Дай посмотрю. <em>(Смотрится <choice><reg>в</reg><orig>въ</orig></choice> зеркало и <choice><reg>с</reg><orig>съ</orig></choice> досадой <choice><reg>срывает</reg><orig>срываетъ</orig></choice> бумажку.) </em><choice><reg>Как</reg><orig>Какъ</orig></choice> глупо. Ничего <choice><reg>остроумного</reg><orig>остроумнаго</orig></choice> <choice><reg>неть</reg><orig>нѣть</orig></choice>. <a href="index.xhtml#n416" id="backn416" type="note">[416]</a>Покорно <choice><reg>вас</reg><orig>васъ</orig></choice> благодарю, Наталья Павловна, это все ваше <choice><reg>остроумие</reg><orig>остроуміе</orig></choice>. <em>(<choice><reg>Надевает</reg><orig>Надѣваетъ</orig></choice> <choice><reg>сюртук</reg><orig>сюртукъ</orig></choice>.) </em></p>
+<p class="Razradka center">Люба.</p>
+<p class="left">Эго вовсе не Наташа, а она сама приклеилась.</p>
+<p class="Razradka center">Наталья Павловна и Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Сама, сама.</p>
+<p class="Razradka center"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left">Какое <choice><reg>недоразвитие</reg><orig>недоразвитіе</orig></choice>! <a href="index.xhtml#n417" id="backn417" type="note">[417]</a></p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Ну полноте, <choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. <choice><reg>Как</reg><orig>Какъ</orig></choice> это шутки не понимать! Однако <choice><reg>мне</reg><orig>мнѣ</orig></choice> надо идти, <choice><reg>как</reg><orig>какъ</orig></choice> бы не хватились. </p>
+<p class="center"><span class="Razradka">Николинька</span> <em>(<choice><reg>бежит</reg><orig>бѣжитъ</orig></choice>) </em>.</p>
+<p class="left"><choice><reg>Идет</reg><orig>Идетъ</orig></choice>, <choice><reg>идет</reg><orig>идетъ</orig></choice> сама, распросама! <em>(<choice><reg>Биъгают</reg><orig>Біъгаютъ</orig></choice> <choice><reg>без</reg><orig>безъ</orig></choice> толку кру </em>г<em><choice><reg>ом</reg><orig>омъ</orig></choice> стола </em>,<a href="index.xhtml#n418" id="backn418" type="note">[418]</a> <em><choice><reg>кричат</reg><orig>кричатъ</orig></choice>: батюшки!) </em></p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Полноте, несите все <choice><reg>вон</reg><orig>вонъ</orig></choice>, прячьте! <em>(<choice><reg>Все</reg><orig>Всѣ</orig></choice> <choice><reg>убегают</reg><orig>убѣгаютъ</orig></choice>, <choice><reg>кроме</reg><orig>кромѣ</orig></choice> Марьи <choice><reg>Дмитриевны</reg><orig>Дмитріевны</orig></choice> и Хрисанфа Васильевича.) </em></p>
+<p class="left"><span class="opnumber">336</span> <span class="npnumber">337</span></p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> VI. </p>
+<p class="center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>, <choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice> и Глафира <choice><reg>Феодоровна</reg><orig>Ѳеодоровна</orig></choice>. </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Мило, очень мило. Simon! <choice><reg>бедный</reg><orig>бѣдный</orig></choice> Simon! <a href="index.xhtml#n419" id="backn419" type="note">[419]</a>И ты не <choice><reg>пожалела</reg><orig>пожалѣла</orig></choice> <choice><reg>моих</reg><orig>моихъ</orig></choice> <choice><reg>седых</reg><orig>сѣдыхъ</orig></choice> <choice><reg>волос</reg><orig>волосъ</orig></choice>. Для кого? <choice><reg>Хорош</reg><orig>Хорошъ</orig></choice>, помазилка! </p>
+<p class="center"><span class="Razradka"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice> </span> <em>(<choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>достоинством</reg><orig>достоинствомъ</orig></choice> </em>).</p>
+<p class="left">Какое вы <choice><reg>имеете</reg><orig>имѣете</orig></choice> право? </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left"><choice><reg>После</reg><orig>Послѣ</orig></choice>, maman, <choice><reg>после</reg><orig>послѣ</orig></choice> все <choice><reg>расскажу</reg><orig>разскажу</orig></choice>. Пойдемте, <choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. <em>(<choice><reg>Уводит</reg><orig>Уводитъ</orig></choice> студента.) </em></p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> VII. </p>
+<p class="center">Глафира <choice><reg>Феодоровна</reg><orig>Ѳеодоровна</orig></choice> одна, <choice><reg>потом</reg><orig>потомъ</orig></choice> <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="Razradka center">Глафира Ѳеодоровна <em>(одна).</em></p>
+<p class="left">Ни стыда, ни <choice><reg>совести</reg><orig>совѣсти</orig></choice>! <choice><reg>Так</reg><orig>Такъ</orig></choice>, сударыня! Взяла <choice><reg>под</reg><orig>подъ</orig></choice> руки своего <choice><reg>возлюбленного</reg><orig>возлюбленнаго</orig></choice> и пошла. <choice><reg>Бог</reg><orig>Богъ</orig></choice> мой! <choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, я не перенесу <choice><reg>этого</reg><orig>этаго</orig></choice>. <choice><reg>Фиона</reg><orig>Фіона</orig></choice> Андреевна! </p>
+<p class="center"><span class="Razradka"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна </span> <em>(<choice><reg>вбегает</reg><orig>вбѣгаетъ</orig></choice>). </em></p>
+<p class="left"><choice><reg>Благодетельница</reg><orig>Благодѣтельница</orig></choice>! </p>
+<p class="center"><choice><reg>ДЕЙСТВИЕ</reg><orig>ДѢЙСТВІЕ</orig></choice> III. </p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> I. </p>
+<p class="center">Глафира <choice><reg>Феодоровна</reg><orig>Ѳеодоровна</orig></choice> и <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна <choice><reg>раскладывают</reg><orig>раскладываютъ</orig></choice> карты. </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">И <choice><reg>слышит</reg><orig>слышитъ</orig></choice> она необыкновенный <choice><reg>треск</reg><orig>трескъ</orig></choice>, <choice><reg>глядит</reg><orig>глядитъ</orig></choice>, <choice><reg>глядит</reg><orig>глядитъ</orig></choice>, а у ней <choice><reg>под</reg><orig>подъ</orig></choice> образами круги, все круги.... </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Да что за круги?</p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left"><choice><reg>Уж</reg><orig>Ужъ</orig></choice> ото ей, матушка, <choice><reg>так</reg><orig>такъ</orig></choice> <choice><reg>Бог</reg><orig>Богъ</orig></choice> <choice><reg>дал</reg><orig>далъ</orig></choice> <choice><reg>знамение</reg><orig>знаменіе</orig></choice>.... <choice><reg>Ну-с</reg><orig>Ну-съ</orig></choice>, <choice><reg>вот</reg><orig>вотъ</orig></choice> она и пошла <choice><reg>к</reg><orig>къ</orig></choice> старцу, <choice><reg>приходит</reg><orig>приходитъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> келью, глядь, а <choice><reg>там</reg><orig>тамъ</orig></choice> свинья <choice><reg>сидит</reg><orig>сидитъ</orig></choice>.... <choice><reg>бес</reg><orig>бѣсъ</orig></choice> <choice><reg>над</reg><orig>надъ</orig></choice> ней. Она <choice><reg>так</reg><orig>такъ</orig></choice> и хлопнулась. Спасибо, <choice><reg>послушник</reg><orig>послушникъ</orig></choice> <choice><reg>вошел</reg><orig>вошелъ</orig></choice>, <choice><reg>спрыснул</reg><orig>спрыснулъ</orig></choice> её, <choice><reg>говорит</reg><orig>говоритъ</orig></choice>: это ничего, <choice><reg>он</reg><orig>онъ</orig></choice> у <choice><reg>нас</reg><orig>насъ</orig></choice> блаженный! Иной <choice><reg>раз</reg><orig>разъ</orig></choice> <choice><reg>Бог</reg><orig>Богъ</orig></choice> <choice><reg>знает</reg><orig>знаетъ</orig></choice> <choice><reg>чем</reg><orig>чѣмъ</orig></choice> прикинется. </p>
+<p class="left"><span class="opnumber">337</span> <span class="npnumber">338</span></p>
+<p class="center"><span class="Razradka">Глафира Ѳеодоровна</span> <em>(отдает ей карты).</em></p>
+<p class="left"><choice><reg>Помешайте</reg><orig>Помѣшайте</orig></choice> карты. </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Извольте, матушка. <choice><reg>Вот</reg><orig>Вотъ</orig></choice>, сударыня моя, <choice><reg>старец</reg><orig>старецъ</orig></choice> <choice><reg>этот</reg><orig>этотъ</orig></choice> и <choice><reg>посоветовал</reg><orig>посовѣтовалъ</orig></choice>: поди, <choice><reg>мол</reg><orig>молъ</orig></choice>, <choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>Соловецким</reg><orig>Соловецкимъ</orig></choice>. </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Куда?</p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left"><choice><reg>К</reg><orig>Къ</orig></choice> <choice><reg>Соловецким</reg><orig>Соловецкимъ</orig></choice>, матушка. <choice><reg>Ну-с</reg><orig>Ну-съ</orig></choice>, она и пошла, — шла, шла, а <choice><reg>он</reg><orig>онъ</orig></choice> то все <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>глазах</reg><orig>глазахъ</orig></choice>... </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Кто?</p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Да <choice><reg>бес-то</reg><orig>бѣсъ-то</orig></choice>. И заболи то у нее <choice><reg>вдруг</reg><orig>вдругъ</orig></choice> нога, шишка. </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Что?</p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Шишка, матушка, да здоровенная такая. <choice><reg>Как</reg><orig>Какъ</orig></choice> <choice><reg>тут</reg><orig>тутъ</orig></choice> быть? Остановилась она у старушки, а <choice><reg>старец</reg><orig>старецъ</orig></choice>, <choice><reg>отец</reg><orig>отецъ</orig></choice> <choice><reg>Анфилогий</reg><orig>Анфилогій</orig></choice> ей <choice><reg>сказал</reg><orig>сказалъ</orig></choice>: смотри, никогда на <choice><reg>правом</reg><orig>правомъ</orig></choice> боку не спи, потому — <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>тут</reg><orig>тутъ</orig></choice> <choice><reg>сидит</reg><orig>сидитъ</orig></choice>... </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Да что ты, мать моя, <choice><reg>так</reg><orig>такъ</orig></choice> <choice><reg>бестолково</reg><orig>безтолково</orig></choice> <choice><reg>рассказываешь</reg><orig>разсказываешь</orig></choice>? Да кто <choice><reg>сидит</reg><orig>сидитъ</orig></choice> то? </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left"><choice><reg>Он</reg><orig>Онъ</orig></choice>, матушка. Да какже, — <choice><reg>отец</reg><orig>отецъ</orig></choice> <choice><reg>Анфилогий</reg><orig>Анфилогій</orig></choice> <choice><reg>говорит</reg><orig>говоритъ</orig></choice>: при <choice><reg>рождении</reg><orig>рожденіи</orig></choice> <choice><reg>кажного</reg><orig>кажнаго</orig></choice> <choice><reg>человека</reg><orig>человѣка</orig></choice>, <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>писании</reg><orig>писаніи</orig></choice> сказано... </p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Да ну, <choice><reg>будет</reg><orig>будетъ</orig></choice> <choice><reg>вам</reg><orig>вамъ</orig></choice>! У меня не то <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>голове</reg><orig>головѣ</orig></choice>. <choice><reg>Где</reg><orig>Гдѣ</orig></choice> Сеня то <choice><reg>наш</reg><orig>нашъ</orig></choice>? <choice><reg>Бедный</reg><orig>Бѣдный</orig></choice> Simon! подумать не могу. <choice><reg>Вон</reg><orig>Вонъ</orig></choice> и <choice><reg>он</reg><orig>онъ</orig></choice>, уйдемте. <em>(<choice><reg>Уходят</reg><orig>Уходятъ</orig></choice>.) </em></p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> II. </p>
+<p class="center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice> <choice><reg>один</reg><orig>одинъ</orig></choice>, <choice><reg>потом</reg><orig>потомъ</orig></choice> Наталья Павловна. </p>
+<p class="center"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice> </span> <em>(<choice><reg>входит</reg><orig>входитъ</orig></choice> мрачный). </em></p>
+<p class="left"><choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, я не могу <choice><reg>этого</reg><orig>этаго</orig></choice> <choice><reg>терпеть</reg><orig>терпѣть</orig></choice> больше. Маменька призвала меня и <choice><reg>решительно</reg><orig>рѣшительно</orig></choice> объявила, что она сама <choice><reg>видела</reg><orig>видѣла</orig></choice>, <choice><reg>как</reg><orig>какъ</orig></choice> моя жена говорила тайно <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>этим</reg><orig>этимъ</orig></choice> <choice><reg>господином</reg><orig>господиномъ</orig></choice>. Она <span class="opdelimiter"><choice><reg>говорит</reg><orig>говоритъ</orig></choice>... </span><span class="opnumber">338</span> <span class="npnumber">339</span><span class="npdelimiter">Но</span>это ужасно, что она <choice><reg>говорит</reg><orig>говоритъ</orig></choice> и <choice><reg>думает</reg><orig>думаетъ</orig></choice>... <choice><reg>Положим</reg><orig>Положимъ</orig></choice>, это <choice><reg>вздор</reg><orig>вздоръ</orig></choice>, но <choice><reg>как</reg><orig>какъ</orig></choice> довести себя до того, чтобы подать <choice><reg>повод</reg><orig>поводъ</orig></choice> это думать! Но надо <choice><reg>решиться</reg><orig>рѣшиться</orig></choice>. Я не могу <choice><reg>так</reg><orig>такъ</orig></choice> это оставить. Пойду <choice><reg>к</reg><orig>къ</orig></choice> ней и <a href="index.xhtml#n420" id="backn420" type="note">[420]</a>объяснюсь. Маша, Маша, <choice><reg>как</reg><orig>какъ</orig></choice> я <choice><reg>любил</reg><orig>любилъ</orig></choice> тебя! А <choice><reg>этого</reg><orig>этаго</orig></choice> господина... ну, <choice><reg>уж</reg><orig>ужъ</orig></choice> этому господину нехорошо <choice><reg>будет</reg><orig>будетъ</orig></choice> — да, нехорошо! <em>(<choice><reg>Берет</reg><orig>Беретъ</orig></choice> дубину.) </em></p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> III. </p>
+<p class="center"><span class="Razradka">Наталья Павловна</span> <em>(<choice><reg>входит</reg><orig>входитъ</orig></choice>). </em></p>
+<p class="left">Что вы, <choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>, грустны <choice><reg>как</reg><orig>какъ</orig></choice> будто? </p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="left">Я? <choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, ничего. </p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left">Что это какая страшная палка? Это <choice><reg>зачем</reg><orig>зачѣмъ</orig></choice>? </p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="left">Это <choice><reg>так</reg><orig>такъ</orig></choice>... <em>(<choice><reg>Молчит</reg><orig>Молчитъ</orig></choice>.) </em>Наталья Павловна, что бы вы <choice><reg>сделали</reg><orig>сдѣлали</orig></choice>, ежели бы всей душой вы любили <choice><reg>человека</reg><orig>человѣка</orig></choice>, и <choice><reg>этот</reg><orig>этотъ</orig></choice> <choice><reg>человек</reg><orig>человѣкъ</orig></choice> не <choice><reg>пожалел</reg><orig>пожалѣлъ</orig></choice> бы оскорбить <choice><reg>вас</reg><orig>васъ</orig></choice>, <choice><reg>в</reg><orig>въ</orig></choice> самое больное <choice><reg>место</reg><orig>мѣсто</orig></choice> поразить <choice><reg>вас</reg><orig>васъ</orig></choice>? </p>
+<p class="Razradka center">Наталья Павловна.</p>
+<p class="left">Я не могу думать,<a href="index.xhtml#n421" id="backn421" type="note">[421]</a> я не испытала.</p>
+<p class="center"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice> </span> <em>(<choice><reg>берет</reg><orig>беретъ</orig></choice> палку). </em></p>
+<p class="left">Я знаю, что <choice><reg>сделать</reg><orig>сдѣлать</orig></choice>. <em>(<choice><reg>Угрожает</reg><orig>Угрожаетъ</orig></choice> дубинкой.) </em><choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, ничего. Прощайте. <em>(Наталья Павловна <choice><reg>уходит</reg><orig>уходитъ</orig></choice>.) </em><a href="index.xhtml#n422" id="backn422" type="note">[422]</a><choice><reg>Ах</reg><orig>Ахъ</orig></choice>, <choice><reg>нет</reg><orig>нѣтъ</orig></choice>... <choice><reg>Где</reg><orig>Гдѣ</orig></choice> Маша? Пойду и <choice><reg>решу</reg><orig>рѣшу</orig></choice> все, непременно <choice><reg>решу</reg><orig>рѣшу</orig></choice>? <em>(<choice><reg>Идет</reg><orig>Идетъ</orig></choice>.) </em></p>
+<p class="center"><span class="Razradka">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice> </span> <em>(<choice><reg>из</reg><orig>изъ</orig></choice> за двери). </em></p>
+<p class="left">Сеня, это ты? Выдь на минутку, я тебя прошу.</p>
+<p class="center"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice> </span> <em>(<choice><reg>в</reg><orig>въ</orig></choice> сторону). </em></p>
+<p class="left">Она и скрывать не <choice><reg>хочет</reg><orig>хочетъ</orig></choice>! Непонятно. <a href="index.xhtml#n423" id="backn423" type="note">[423]</a></p>
+<p class="center"><em>(Наталья Павловна <choice><reg>уходит</reg><orig>уходитъ</orig></choice>.) </em></p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> IV. </p>
+<p class="center"><span class="Razradka"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice> </span> <em>(<choice><reg>берет</reg><orig>беретъ</orig></choice> <choice><reg>свечи</reg><orig>свѣчи</orig></choice>, <choice><reg>отодвигает</reg><orig>отодвигаетъ</orig></choice> <choice><reg>стол</reg><orig>столъ</orig></choice> и стулья). </em></p>
+<p class="left"><choice><reg>Вас</reg><orig>Васъ</orig></choice> <choice><reg>просят</reg><orig>просятъ</orig></choice> выйти на минуту. </p>
+<p class="left"><span class="opnumber">339</span> <span class="npnumber">340</span></p>
+<p class="left"><span class="Razradka"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice> </span> <em>(<choice><reg>берет</reg><orig>беретъ</orig></choice> палку </em>).<a href="index.xhtml#n424" id="backn424" type="note">[424]</a>Постойте, подождите!</p>
+<p class="Razradka center"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left">Некогда, <choice><reg>после</reg><orig>послѣ</orig></choice>. <em>(<choice><reg>Уходит</reg><orig>Уходитъ</orig></choice> унося <choice><reg>свечи</reg><orig>свѣчи</orig></choice>.) </em></p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНIЕ</orig></choice> V. </p>
+<p class="center"><span class="Razradka">Люба</span> <em>(<choice><reg>подбегает</reg><orig>подбѣгаетъ</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> двери). </em></p>
+<p class="left">Глафира <choice><reg>Феодоровна</reg><orig>Ѳеодоровна</orig></choice>, голубушка, <choice><reg>скорее</reg><orig>скорѣе</orig></choice>! что у <choice><reg>нас</reg><orig>насъ</orig></choice> <choice><reg>делается</reg><orig>дѣлается</orig></choice>, прелесть! идите <choice><reg>скорее</reg><orig>скорѣе</orig></choice>. <em>(<choice><reg>Убегает</reg><orig>Убѣгаетъ</orig></choice>.) </em></p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> VI. </p>
+<p class="center">Глафира <choice><reg>Ффодоровна</reg><orig>Ѳѳодоровна</orig></choice>, <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна, <choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>, <choice><reg>потом</reg><orig>потомъ</orig></choice> и <choice><reg>все</reg><orig>всѣ</orig></choice>. <a href="index.xhtml#n425" id="backn425" type="note">[425]</a></p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Это еще что? <choice><reg>Светопредставление</reg><orig>Свѣтопредставленіе</orig></choice>! </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Матушка, <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>потемках</reg><orig>потемкахъ</orig></choice> хоть молитву сотворите. </p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="left"><choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, это <a href="index.xhtml#n426" id="backn426" type="note">[426]</a>нельзя перенести, или я или.... Они <choice><reg>взбесились</reg><orig>взбѣсились</orig></choice>, ничего не понимаю! </p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> VII. </p>
+<p class="center"><choice><reg>Все</reg><orig>Всѣ</orig></choice> <choice><reg>входят</reg><orig>входятъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>костюмах</reg><orig>костюмахъ</orig></choice>, <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>транспарантом</reg><orig>транспарантомъ</orig></choice>. </p>
+<p class="center"><span class="Razradka">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice> </span> <em>(<choice><reg>поет</reg><orig>поетъ</orig></choice> стихи </em>).<a href="index.xhtml#n427" id="backn427" type="note">[427]</a></p>
+<div class="poem">
+<div class="stanza left">
+<p class="v">
+Хоть поздравлять несовременно
+</p>
+<p class="v"><choice><reg>В</reg><orig>Въ</orig></choice> <choice><reg>костюмах</reg><orig>костюмахъ</orig></choice> <choice><reg>граций</reg><orig>грацій</orig></choice> и <choice><reg>цветами</reg><orig>цвѣтами</orig></choice>, — </p>
+<p class="v">Я <choice><reg>консерватор</reg><orig>консерваторъ</orig></choice> совершенно </p>
+<p class="v">
+Я занята одними вами.
+</p>
+</div>
+</div>
+<p class="center">(<choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна, Глафира <choice><reg>Феодоровна</reg><orig>Ѳеодоровна</orig></choice>, <choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice> <choice><reg>плачут</reg><orig>плачутъ</orig></choice>.) <a href="index.xhtml#n428" id="backn428" type="note">[428]</a></p>
+<p class="Razradka center"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="left"><choice><reg>Ах</reg><orig>Ахъ</orig></choice> я <choice><reg>дурак</reg><orig>дуракъ</orig></choice>! А я то <choice><reg>думал</reg><orig>думалъ</orig></choice>.... </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">Что ты <span class="opdelimiter"><choice><reg>думал</reg><orig>думалъ</orig></choice>? </span><span class="opnumber">340</span></p>
+<p class="Razradka center"><span class="npnumber">341</span><span class="npdelimiter"><choice><reg>Семен</reg><orig>Семенъ</orig></choice> </span><choice><reg>Иваныч</reg><orig>Иванычъ</orig></choice>. </p>
+<p class="left"><choice><reg>Нет</reg><orig>Нѣтъ</orig></choice>, не скажу. </p>
+<p class="Razradka center">Марья <choice><reg>Дмитриевна</reg><orig>Дмитріевна</orig></choice>. </p>
+<p class="left">То-то.</p>
+<p class="Razradka center">Глафира Ѳеодоровна.</p>
+<p class="left">Charmant, <choice><reg>как</reg><orig>какъ</orig></choice> мило! <choice><reg>дети</reg><orig>дѣти</orig></choice>, обнимите меня. </p>
+<p class="Razradka center"><choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна. </p>
+<p class="left">Ай да <choice><reg>нигилист</reg><orig>нигилистъ</orig></choice>, <choice><reg>прострелил</reg><orig>прострѣлилъ</orig></choice>! </p>
+<p class="Razradka center"><choice><reg>Хрисанф</reg><orig>Хрисанфъ</orig></choice> <choice><reg>Васильевич</reg><orig>Васильевичъ</orig></choice>. </p>
+<p class="left">Ну, <choice><reg>великолепная</reg><orig>великолѣпная</orig></choice> госпожа, <choice><reg>Фиона</reg><orig>Ѳіона</orig></choice> Андреевна, совершимте и мы <choice><reg>с</reg><orig>съ</orig></choice> вами <choice><reg>примирение</reg><orig>примиреніе</orig></choice>. </p>
+<p class="Razradka center"><choice><reg>Конец</reg><orig>Конецъ</orig></choice>. </p>
+<p class="left"><span class="opnumber">341</span> <span class="npnumber">342</span></p>
+</div>
+ </text>
+</TEI>
