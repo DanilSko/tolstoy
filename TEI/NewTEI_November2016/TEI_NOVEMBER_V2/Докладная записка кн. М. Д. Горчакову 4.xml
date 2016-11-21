@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Докладная записка кн. М. Д. Горчакову</title>
+    <author> Толстой Л.Н. </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name> Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова </name>
+    </respStmt>
+    <respStmt>
+     <name> Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов </name>
+     <resp> Идея, постановка задач, руководство </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>Школа лингвистики НИУ ВШЭ</orgName></publisher>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+ лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author> Толстой Л.Н. </author>
+      <title level="a">Докладная записка кн. М. Д. Горчакову</title>
+     </analytic>
+     <monogr>
+      <title level="m"> Полное собрание сочинений. Серия первая "Произведения". Том 4 </title>
+      <imprint>
+       <pubPlace> Москва </pubPlace>
+       <publisher> Государственное издательство "Художественная литература" </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s"> Л.Н. Толстой. Полное собрание сочинений </title>
+      <biblScope unit="vol">4</biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1855">
+     1855 </date>
+    <rs type="Россия"> Россия </rs>
+   </creation>
+   <textClass>
+    <catRef target="#публицистика" type="sphere"/>
+    <catRef target="#публицистика.записка" type="type"/>
+   </textClass>
+   <preparedness>not finished</preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType>old</orthographyType>
+   <versionNumber/>
+   <isFinished>not finished</isFinished>
+   <isEdited>not edited</isEdited>
+   <p> Проект <title>Толстой.Digital </title> разрабатывается сотрудниками и студентами <orgName>
+     Высшей школы экономики </orgName> в сотрудничестве с <orgName> Государственным музеем Л.Н.
+     Толстого </orgName> . Источник текстов – <bibl> 90-томное собрание сочинений Л.Н.Толстого
+    </bibl> . Разметка основана на стандарте <ref target="http://www.tei-c.org">TEI (Text Encoding
+ Initiative) </ref>. </p>
+  </xenoData>
+ </teiHeader>
+ <text> 
+ <div>
+ <h3 class="center">IV.<br/>* [ДОКЛАДНАЯ ЗАПИСКА КН. М. Д. ГОРЧАКОВУ?]</h3>
+
+<p class="center">В[аше] <choice><reg>С[иятельство]</reg><orig>С[iятельство]</orig></choice>.</p>
+
+<p class="left">Дело, о <choice><reg>кот[ором]</reg><orig>кот[оромъ]</orig></choice> я хочу говорить <choice><reg>вам</reg><orig>вамъ</orig></choice>, <choice><reg>слишком</reg><orig>слишкомъ</orig></choice> велико и важно, чтобы, говоря о <choice><reg>нем</reg><orig>немъ</orig></choice>, я боялся говорить истину. С[евастополь] <choice><reg>идет</reg><orig>идетъ</orig></choice> быстрыми шагами <choice><reg>к</reg><orig>къ</orig></choice> своему <choice><reg>падению</reg><orig>паденiю</orig></choice>, <choice><reg>гарнизон</reg><orig>гарнизонъ</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> своей гибели, <choice><reg>Россия</reg><orig>Россiя</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> своему сраму. <choice><reg>Падение</reg><orig>Паденiе</orig></choice> Севаст[ополя] важно, <choice><reg>как</reg><orig>какъ</orig></choice> погибель всего того <choice><reg>благого</reg><orig>благаго</orig></choice>, что кровью <choice><reg>приобрела</reg><orig>прiобрѣла</orig></choice> <choice><reg>Россия</reg><orig>Россiя</orig></choice>, <choice><reg>как</reg><orig>какъ</orig></choice> молчаливое <choice><reg>вечное</reg><orig>вѣчное</orig></choice> <choice><reg>признание</reg><orig>признанiе</orig></choice> не превосходства, а владычества <choice><reg>Англо-Французов</reg><orig>Англо-Французовъ</orig></choice>, важно, <choice><reg>как</reg><orig>какъ</orig></choice> <choice><reg>отречение</reg><orig>отреченiе</orig></choice> <choice><reg>от</reg><orig>отъ</orig></choice> <choice><reg>вековой</reg><orig>вѣковой</orig></choice> славы <choice><reg>Р[оссии]</reg><orig>Р[оссiи]</orig></choice> и <choice><reg>уничтожение</reg><orig>уничтоженiе</orig></choice> <choice><reg>навеки</reg><orig>навѣки</orig></choice> чести и <choice><reg>надежд</reg><orig>надеждъ</orig></choice> <choice><reg>Р[усских]</reg><orig>Р[усскихъ]</orig></choice>. — И мы быстрыми шагами <choice><reg>идем</reg><orig>идемъ</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> нему. — Я говорю не про число <choice><reg>войск</reg><orig>войскъ</orig></choice>, пороху, [не] про факты войны и осады, — я говорю про <choice><reg>дух</reg><orig>духъ</orig></choice> войска. <choice><reg>Дух</reg><orig>Духъ</orig></choice> войска <choice><reg>в</reg><orig>въ</orig></choice> настоящую минуту есть грустное <choice><reg>сомнение</reg><orig>сомнѣнiе</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> возмож[ности] отсто[ять] С[евастополь], преданность <choice><reg>воле</reg><orig>волѣ</orig></choice> <choice><reg>Пров[идения]</reg><orig>Пров[идѣнiя]</orig></choice>, но не <choice><reg>энтузиазм</reg><orig>энтузiазмъ</orig></choice> <choice><reg>героев</reg><orig>героевъ</orig></choice>, к[оторый] <choice><reg>один</reg><orig>одинъ</orig></choice> <choice><reg>может</reg><orig>можетъ</orig></choice> спасти <choice><reg>нас</reg><orig>насъ</orig></choice>. — <choice><reg>Зародыш</reg><orig>Зародышъ</orig></choice> <choice><reg>геро[ического]</reg><orig>геро[ическаго]</orig></choice> чувства готовности <choice><reg>к</reg><orig>къ</orig></choice> смерти за <choice><reg>дело</reg><orig>дѣло</orig></choice> <choice><reg>христианства</reg><orig>христiанства</orig></choice> и чести отечества — <choice><reg>лежит</reg><orig>лежитъ</orig></choice> во <choice><reg>всех</reg><orig>всѣхъ</orig></choice> <choice><reg>нас</reg><orig>насъ</orig></choice>. Дайте ему <choice><reg>ход</reg><orig>ходъ</orig></choice> и <choice><reg>проявление</reg><orig>проявленiе</orig></choice>, и <choice><reg>дух</reg><orig>духъ</orig></choice> <choice><reg>этот</reg><orig>этотъ</orig></choice> выразится поступками достойными <choice><reg>человека</reg><orig>человѣка</orig></choice> и <choice><reg>Русского</reg><orig>Русскаго</orig></choice>. —</p>
+
+<p class="left">Пусть каждому <choice><reg>из</reg><orig>изъ</orig></choice> <choice><reg>нас</reg><orig>насъ</orig></choice> <choice><reg>от</reg><orig>отъ</orig></choice> <choice><reg>высшего</reg><orig>высшаго</orig></choice> до <choice><reg>нисшего</reg><orig>нисшаго</orig></choice> <choice><reg>прочтут</reg><orig>прочтутъ</orig></choice> <choice><reg>воззвание</reg><orig>воззванiе</orig></choice>, к[оторое] вылилось <choice><reg>из</reg><orig>изъ</orig></choice> среды гарнизона и уже глубоко сознали <choice><reg>многие</reg><orig>многiе</orig></choice> <choice><reg>из</reg><orig>изъ</orig></choice> <choice><reg>нас</reg><orig>насъ</orig></choice>.</p>
+
+<p class="left">[П]усть каждый <choice><reg>из</reg><orig>изъ</orig></choice> <choice><reg>нас</reg><orig>насъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> Церкви <choice><reg>перед</reg><orig>передъ</orig></choice> <choice><reg>лицом</reg><orig>лицомъ</orig></choice> [Бог]а <choice><reg>примет</reg><orig>приметъ</orig></choice> клятвенное <choice><reg>обещание</reg><orig>обѣщанiе</orig></choice>, к[оторое] <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>виде</reg><orig>видѣ</orig></choice> а долга таится <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>душе</reg><orig>душѣ</orig></choice> <choice><reg>каждого</reg><orig>каждаго</orig></choice>, пусть каж[дый из]ъ <choice><reg>нас</reg><orig>насъ</orig></choice> во имя Св. <choice><reg>Георгия</reg><orig>Георгiя</orig></choice> <choice><reg>наденет</reg><orig>надѣнетъ</orig></choice> на себя <choice><reg>отречения</reg><orig>отреченiя</orig></choice> <choice><reg>от</reg><orig>отъ</orig></choice> жизни и <choice><reg>полного</reg><orig>полнаго</orig></choice> <choice><reg>посвящения</reg><orig>посвященiя</orig></choice> себя [о]<choice><reg>бщего</reg><orig>бщаго</orig></choice>. — И <choice><reg>Гарнизон</reg><orig>Гарнизонъ</orig></choice> Севастополя <choice><reg>будет</reg><orig>будетъ</orig></choice> [не молча]ливой жертвой <choice><reg>неминуемого</reg><orig>неминуемаго</orig></choice> <choice><reg>падения</reg><orig>паденiя</orig></choice>, а великой несокрушимой общиной <choice><reg>героев</reg><orig>героевъ</orig></choice>, и Севас[тополь буде]<choice><reg>т</reg><orig>тъ</orig></choice> не <choice><reg>орудием</reg><orig>орудiемъ</orig></choice> нашего срама, a <choice><reg>орудие[м]</reg><orig>орудiе[мъ]</orig></choice> [з]<choice><reg>ащитников</reg><orig>ащитниковъ</orig></choice> его и славы нашего <choice><reg>вел[икого]</reg><orig>вел[икаго]</orig></choice> отече[ства] и мы <choice><reg>сокр[ушим]</reg><orig>сокр[ушимъ]</orig></choice> <choice><reg>авим</reg><orig>авимъ</orig></choice> свое.</p>
+
+<p class="center">————</p>
+
+<p class="left"><span class="opnumber">295</span> <span class="npnumber">296</span></p>
+
+</div> 
+</text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Заметки к вопросу о порядке и условиях освобождения</title>
+    <author> Толстой Л.Н. </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name> Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова </name>
+    </respStmt>
+    <respStmt>
+     <name> Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов </name>
+     <resp> Идея, постановка задач, руководство </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>Школа лингвистики НИУ ВШЭ</orgName></publisher>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+ лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author> Толстой Л.Н. </author>
+      <title level="a">Заметки к вопросу о порядке и условиях освобождения</title>
+     </analytic>
+     <monogr>
+      <title level="m"> Полное собрание сочинений. Серия первая "Произведения". Том 5 </title>
+      <imprint>
+       <pubPlace> Москва </pubPlace>
+       <publisher> Государственное издательство "Художественная литература" </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s"> Л.Н. Толстой. Полное собрание сочинений </title>
+      <biblScope unit="vol">5</biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1856">
+     1856 </date>
+    <rs type="Россия"> Россия </rs>
+   </creation>
+   <textClass>
+    <catRef target="#публицистика" type="sphere"/>
+    <catRef target="#публицистика.заметка" type="type"/>
+   </textClass>
+   <preparedness>finished</preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName>Писания, относящиеся к проекту освобождения яснополянских крестьян</cyclusName>
+   <orthographyType>old</orthographyType>
+   <versionNumber/>
+   <isFinished>finished</isFinished>
+   <isEdited>not edited</isEdited>
+   <p> Проект <title>Толстой.Digital </title> разрабатывается сотрудниками и студентами <orgName>
+     Высшей школы экономики </orgName> в сотрудничестве с <orgName> Государственным музеем Л.Н.
+     Толстого </orgName> . Источник текстов – <bibl> 90-томное собрание сочинений Л.Н.Толстого
+    </bibl> . Разметка основана на стандарте <ref target="http://www.tei-c.org">TEI (Text Encoding
+ Initiative) </ref>. </p>
+  </xenoData>
+ </teiHeader>
+ <text> <div class="section" id="h000">
+<h3 class="title_level3 center">* II. <br/>[ПИСАНИЯ, ОТНОСЯЩИЕСЯ К ПРОЕКТУ ОСВОБОЖДЕНИЯ ЯСНОПОЛЯНСКИХ КРЕСТЬЯН.]</h3></div>
+<div class="section" id="h000002">
+<h4 class="title_level4 Razradka">2. [Заметки к вопросу о порядке и условиях освобождения.]</h4>
+<div class="section">
+<h5 class="title_level5 center">[А]</h5>
+<p class="left"><choice><reg>Помещик</reg><orig>Помѣщикъ</orig></choice> <choice><reg>отделяет</reg><orig>отдѣляетъ</orig></choice> на крестьянскую общину <choice><reg>известную</reg><orig>извѣстную</orig></choice> часть земли, не <choice><reg>менее</reg><orig>менѣе</orig></choice> <choice><reg>назначенного</reg><orig>назначеннаго</orig></choice> <choice><reg>законом</reg><orig>закономъ</orig></choice> minimum’а по 4<sup>1</sup>/<sub>2</sub> <choice><reg>дес[ятин]</reg><orig>дес[ятинъ]</orig></choice> на тягло. Исключая <sup>1</sup><strong>/</strong><sub>2</sub> дес. на душу, который <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>отдает</reg><orig>отдаетъ</orig></choice> <choice><reg>бесплатно</reg><orig>безплатно</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> полную собственность <span class="opdelimiter">общины,</span><span class="opnumber">241</span> <span class="npnumber">242</span><span class="npdelimiter">за</span> остальную землю полагается справочная наемная <choice><reg>цена</reg><orig>цѣна</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> десятины, которую <choice><reg>уплачивает</reg><orig>уплачиваетъ</orig></choice> ежегодно община, и <choice><reg>сверх</reg><orig>сверхъ</orig></choice> того на то число <choice><reg>лет</reg><orig>лѣтъ</orig></choice>, которое необходимо для выкупа <choice><reg>из</reg><orig>изъ</orig></choice> залога <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>кредит[ном]</reg><orig>кредит[номъ]</orig></choice> <choice><reg>устан[овлении]</reg><orig>устан[овленiи]</orig></choice> <choice><reg>имения</reg><orig>имѣнiя</orig></choice>, <choice><reg>разделяется</reg><orig>раздѣляется</orig></choice> <choice><reg>местная</reg><orig>мѣстная</orig></choice> <choice><reg>ценность</reg><orig>цѣнность</orig></choice> десятины, и таковой <choice><reg>процент</reg><orig>процентъ</orig></choice> ежегодно <choice><reg>в</reg><orig>въ</orig></choice> уплату за собственность земли вносится крестьянами — по числу земли, наход[ящейся] <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>общине</reg><orig>общинѣ</orig></choice>. —
+
+</p>
+<p class="left">Крестьяне увольняются <choice><reg>от</reg><orig>отъ</orig></choice> <choice><reg>всех</reg><orig>всѣхъ</orig></choice> повинностей <choice><reg>помещику</reg><orig>помѣщику</orig></choice>. —
+
+</p>
+<p class="left"><choice><reg>Имение</reg><orig>Имѣнiе</orig></choice> не <choice><reg>может</reg><orig>можетъ</orig></choice> быть перезакладываемо. —
+
+</p>
+<p class="left">Сумма, выплачиваемая помѣщику, прямо платится въ Кредитное установленіе. Ежели не достаетъ оной, то часть долга остается на землѣ помѣщика, и онъ уплачиваетъ проценты съ нея. — Ежели она превышаетъ оную, то пом[ѣщикъ] гражданскимъ порядкомъ контракта вѣдается съ крестьянской общиной. —
+
+</p>
+<p class="left">Крестьяне <choice><reg>поступают</reg><orig>поступаютъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>ведение</reg><orig>веденiе</orig></choice> М[инистерства] <choice><reg>Г[осударственных]</reg><orig>Г[осударственныхъ]</orig></choice> <choice><reg>И[муществ]</reg><orig>И[муществъ]</orig></choice>.
+
+</p>
+<p class="left">Ежели Министерство <choice><reg>Государственных</reg><orig>Государственныхъ</orig></choice> <choice><reg>Имуществ</reg><orig>Имуществъ</orig></choice> несогласно весь <choice><reg>долг</reg><orig>долгъ</orig></choice> принять на <choice><reg>крестьян</reg><orig>крестьянъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> землею, то по <choice><reg>согласию</reg><orig>согласiю</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>Кредитным</reg><orig>Кредитнымъ</orig></choice> <choice><reg>установлением</reg><orig>установленiемъ</orig></choice> <choice><reg>разделяют</reg><orig>раздѣляютъ</orig></choice> <choice><reg>долг</reg><orig>долгъ</orig></choice>, частью на крестьянскую, частью на <choice><reg>помещичью</reg><orig>помѣщичью</orig></choice> землю. —
+
+</p>
+<p class="left"><choice><reg>Условие</reg><orig>Условiе</orig></choice> со стороны <choice><reg>крестьян</reg><orig>крестьянъ</orig></choice> должно быть добровольно. —
+
+</p>
+<p class="left"><choice><reg>Помещик</reg><orig>Помѣщикъ</orig></choice>, <choice><reg>в</reg><orig>въ</orig></choice> случае неуплаты <choice><reg>крестьян</reg><orig>крестьянъ</orig></choice>, <choice><reg>может</reg><orig>можетъ</orig></choice> по урочной <choice><reg>работе</reg><orig>работѣ</orig></choice> удовлетворять себя.
+
+</p>
+<p class="left">По <choice><reg>истечении</reg><orig>истеченiи</orig></choice> срока выкупа <choice><reg>из</reg><orig>изъ</orig></choice> <choice><reg>Кредитного</reg><orig>Кредитнаго</orig></choice> <choice><reg>установления</reg><orig>установленiя</orig></choice> крестьяне <choice><reg>с</reg><orig>съ</orig></choice> землей свободны.
+
+</p>
+</div>
+<div class="section">
+<h5 class="title_level5 center">[Б]</h5>
+<p class="left"><choice><reg>Пом[ещик]</reg><orig>Пом[ѣщикъ]</orig></choice> 1) <choice><reg>освобождает</reg><orig>освобождаетъ</orig></choice> <choice><reg>крест[ьян]</reg><orig>крест[ьянъ]</orig></choice> и <choice><reg>д[воровых]</reg><orig>д[воровыхъ]</orig></choice> <choice><reg>от</reg><orig>отъ</orig></choice> <choice><reg>всех</reg><orig>всѣхъ</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>себе</reg><orig>себѣ</orig></choice> повинностей.
+
+</p>
+<p class="left">2) <choice><reg>Отделяет</reg><orig>Отдѣляетъ</orig></choice> <sup>1</sup>/<sub>2</sub> дес. на душу <choice><reg>бесплатно</reg><orig>безплатно</orig></choice>, отдавая ее [<choice><reg>в</reg><orig>въ</orig></choice>] полную собств[енность] всей кресть[янской] <choice><reg>общине</reg><orig>общинѣ</orig></choice>.
+
+</p>
+<p class="left">3) <choice><reg>Отделяет</reg><orig>Отдѣляетъ</orig></choice> крестьянской <choice><reg>общине</reg><orig>общинѣ</orig></choice> не <choice><reg>менее</reg><orig>менѣе</orig></choice> 4<sup>1</sup>/<sub>2</sub> дес. на тягло, или ту землю, которой они <choice><reg>в</reg><orig>въ</orig></choice> настоящее время пользуются, на <choice><reg>следующих</reg><orig>слѣдующихъ</orig></choice> <choice><reg>условиях</reg><orig>условiяхъ</orig></choice>, ежели крестьянская община на то <choice><reg>будет</reg><orig>будетъ</orig></choice> согласна:
+
+</p>
+<p class="left">а) община <choice><reg>платит</reg><orig>платитъ</orig></choice> <choice><reg>помещику</reg><orig>помѣщику</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>продолжении</reg><orig>продолженiи</orig></choice> <choice><reg>известного</reg><orig>извѣстнаго</orig></choice> срока наемную справочную плату ежегодно за каждую десятину;
+
+</p>
+<p class="left">в) <choice><reg>сверх</reg><orig>сверхъ</orig></choice> того <choice><reg>платит</reg><orig>платитъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> каждой десятины <choice><reg>процент</reg><orig>процентъ</orig></choice> <choice><reg>погашения</reg><orig>погашенiя</orig></choice><note n="n209"><div class="section" id="n209"><h2><a href="#backn209">209</a></h2><p> <em>Зачеркнуто:</em> на 30 или др</p></div></note></p>
+<p class="left">4) <choice><reg>Имение</reg><orig>Имѣнiе</orig></choice> <choice><reg>поступает</reg><orig>поступаетъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>ведение</reg><orig>вѣденiе</orig></choice> <choice><reg>Государственных</reg><orig>Государственныхъ</orig></choice> <choice><reg>имуществ</reg><orig>имуществъ</orig></choice>.
+
+</p>
+<p class="left">5) По <choice><reg>истечении</reg><orig>истеченiи</orig></choice> <choice><reg>означенного</reg><orig>означеннаго</orig></choice> числа <choice><reg>лет</reg><orig>лѣтъ</orig></choice> крестьяне<note n="n210"><div class="section" id="n210"><h2><a href="#backn210">210</a></h2><p> <em>Зачеркнуто:</em> <choice><reg>получают</reg><orig>получаютъ</orig></choice> полную свободу и</p></div></note><span class="opdelimiter">освобождаются</span><span class="opnumber">242</span> <span class="npnumber">243</span><span class="npdelimiter"><choice><reg>от</reg><orig>отъ</orig></choice></span> <choice><reg>всех</reg><orig>всѣхъ</orig></choice> обязанностей <choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>помещику</reg><orig>помѣщику</orig></choice> и <choice><reg>получают</reg><orig>получаютъ</orig></choice> полную собственность <choice><reg>отделенной</reg><orig>отдѣленной</orig></choice> <choice><reg>им</reg><orig>имъ</orig></choice> земли.
+
+</p>
+<p class="left">6) <choice><reg>В</reg><orig>Въ</orig></choice> <choice><reg>имении</reg><orig>имѣнiи</orig></choice> <choice><reg>заложенном</reg><orig>заложенномъ</orig></choice> ежели М[инистерство] <choice><reg>Г[осударственных]</reg><orig>Г[осударственныхъ]</orig></choice> <choice><reg>И[муществ]</reg><orig>И[муществъ]</orig></choice> <choice><reg>найдет</reg><orig>найдетъ</orig></choice> <choice><reg>достат[очным]</reg><orig>достат[очнымъ]</orig></choice> <choice><reg>обезпечение</reg><orig>обезпеченiе</orig></choice> крест[ьянской] земли за <choice><reg>долг</reg><orig>долгъ</orig></choice>, принимаемый <choice><reg>им</reg><orig>имъ</orig></choice> на себя, и ежегодная плата равняется или <choice><reg>превышает</reg><orig>превышаетъ</orig></choice> плату К[редитному] <choice><reg>у[чреждению]</reg><orig>у[чрежденiю]</orig></choice>, то оно<note n="n211"><div class="section" id="n211"><h2><a href="#backn211">211</a></h2><p> <em>В подлиннике:</em> <choice><reg>он</reg><orig>онъ</orig></choice></p></div></note><note n="n212"><div class="section" id="n212"><h2><a href="#backn212">212</a></h2><p> <em>Первоначально начало этого параграфа было изложено следующим образом:</em> Ежели общая сумма платежа <choice><reg>помещику</reg><orig>помѣщику</orig></choice> <choice><reg>превышает</reg><orig>превышаетъ</orig></choice> или равняется <choice><reg>сумме</reg><orig>суммѣ</orig></choice> <choice><reg>процентов</reg><orig>процентовъ</orig></choice> долга и <choice><reg>процентов</reg><orig>процентовъ</orig></choice> <choice><reg>погашения</reg><orig>погашенiя</orig></choice>, <choice><reg>платимых</reg><orig>платимыхъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> Кредитное <choice><reg>установление</reg><orig>установленiе</orig></choice>, то <choice><reg>пом[ещик]</reg><orig>пом[ѣщикъ]</orig></choice> предлагает М[инистерству] <choice><reg>Г[осударственных]</reg><orig>Г[осударственныхъ]</orig></choice> <choice><reg>И[муществ]</reg><orig>И[муществъ]</orig></choice> взять <choice><reg>в</reg><orig>въ</orig></choice> свое <choice><reg>ведение</reg><orig>вѣденiе</orig></choice> <choice><reg>имение</reg><orig>имѣнiе</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>долгом</reg><orig>долгомъ</orig></choice> <choice><reg>Сов[ету]</reg><orig>Сов[ѣту]</orig></choice> Кред. устан. и <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>первом</reg><orig>первомъ</orig></choice> <choice><reg>случае</reg><orig>случаѣ</orig></choice> о превышающей <choice><reg>плате</reg><orig>платѣ</orig></choice> [<choice><reg>может</reg><orig>можетъ</orig></choice>] <choice><reg>ведаться</reg><orig>вѣдаться</orig></choice> <choice><reg>гражданским</reg><orig>гражданскимъ</orig></choice> <choice><reg>судом</reg><orig>судомъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> крестьянами.</p></div></note></p>
+<p class="left">7) Для уплаты <choice><reg>помещику</reg><orig>помѣщику</orig></choice> <choice><reg>крестьянского</reg><orig>крестьянскаго</orig></choice> долга должна быть утверждена плата за урочную работу, которой крестьяне <choice><reg>могут</reg><orig>могутъ</orig></choice> по взаимному <choice><reg>согласию</reg><orig>согласiю</orig></choice> удовлетворять <choice><reg>помещика</reg><orig>помѣщика</orig></choice> и которую, <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>случае</reg><orig>случаѣ</orig></choice> <choice><reg>недоимок</reg><orig>недоимокъ</orig></choice>, <choice><reg>имеет</reg><orig>имѣетъ</orig></choice> право требовать <choice><reg>помещик</reg><orig>помѣщикъ</orig></choice>.
+
+</p>
+<p class="left">8) Дворовые <choice><reg>вступают</reg><orig>вступаютъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> общину; но земли <choice><reg>сверх</reg><orig>сверхъ</orig></choice> той, которая дается <choice><reg>крестьянам</reg><orig>крестьянамъ</orig></choice>, на <choice><reg>них</reg><orig>нихъ</orig></choice> не <choice><reg>рассчитывается</reg><orig>разсчитывается</orig></choice>. — Плата <choice><reg>их</reg><orig>ихъ</orig></choice> за <choice><reg>выкуп</reg><orig>выкупъ</orig></choice> земли <choice><reg>определится</reg><orig>опредѣлится</orig></choice> общиной. —
+
+</p>
+</div>
+</div>
+ </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Дядюшкино благословление.</title>
+    <author> Толстой Л.Н. </author>
+    <respStmt>
+     <resp>подготовка TEI/XML </resp>
+     <name> Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова </name>
+    </respStmt>
+    <respStmt>
+     <name> Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов </name>
+     <resp> Идея, постановка задач, руководство </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>Школа лингвистики НИУ ВШЭ</orgName></publisher>
+    <availability>
+     <p>Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+      лицензии Creative Commons Attribution Share-Alike (cc by-sa) </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author> Толстой Л.Н. </author>
+      <title level="a">Дядюшкино благословление.</title>
+     </analytic>
+     <monogr>
+      <title level="m"> Полное собрание сочинений. Серия первая "Произведения". Том 7 </title>
+      <imprint>
+       <pubPlace> Москва </pubPlace>
+       <publisher> Государственное издательство "Художественная литература" </publisher>
+       <date when="1936" />
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s"> Л.Н. Толстой. Полное собрание сочинений </title>
+      <biblScope unit="vol">7</biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml" />
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1856">
+     1856 </date>
+    <rs type="Россия"> Россия </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere" />
+    <catRef target="#художественная.комедия" type="type" />
+   </textClass>
+   <preparedness>not finished</preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName />
+   <orthographyType>old</orthographyType>
+   <versionNumber />
+   <isFinished>not finished</isFinished>
+   <isEdited>not edited</isEdited>
+   <p> Проект <title>Толстой.Digital </title> разрабатывается сотрудниками и студентами <orgName>
+     Высшей школы экономики </orgName> в сотрудничестве с <orgName> Государственным музеем Л.Н.
+     Толстого </orgName> . Источник текстов – <bibl> 90-томное собрание сочинений Л.Н.Толстого
+    </bibl> . Разметка основана на стандарте <ref target="http://www.tei-c.org">TEI (Text Encoding
+     Initiative) </ref>. </p>
+  </xenoData>
+ </teiHeader>
+ <text> 
+<div class="section" id="h000012">
+<h1 class="center"><strong>НЕОПУБЛИКОВАННОЕ, НЕОТДЕЛАННОЕ И НЕОКОНЧЕННОЕ</strong></h1>
+</div>
+<div class="section" id="h000012019">
+<h2 class="title_level1 center">ДРAMAТИЧЕСКИЕ ПРОИЗВЕДЕНИЯ</h2>
+</div>
+<div class="section" id="h000012019004">
+<h3 class="title_level2 center">* ДЯДЮШКИНО <choice><reg>БЛАГОСЛОВЕНИE</reg><orig>БЛАГОСЛОВЕНIE</orig></choice>. </h3>
+<div>
+<p class="center"><choice><reg>Комедия</reg><orig>Комедія</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>2-х</reg><orig>2-хъ</orig></choice> <choice><reg>действиях</reg><orig>дѣйствіяхъ</orig></choice>. </p>
+<p class="center"><choice><reg>Действие</reg><orig>Дѣйствіе</orig></choice> <choice><reg>происходит</reg><orig>происходитъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>Москве</reg><orig>Москвѣ</orig></choice>. </p>
+<p class="center"><choice><reg>ДЕЙСТВУЮЩИЕ</reg><orig>ДѢЙСТВУЮЩIЯ</orig></choice> ЛИЦА. </p>
+<p class="left"><span class="Razradka">1) <choice><reg>Лидие</reg><orig>Лидія</orig></choice> Никаноровна <choice><reg>Енисеева</reg><orig>Енисѣева</orig></choice> </span>, за 30 <choice><reg>лет</reg><orig>лѣтъ</orig></choice>, <choice><reg>одетая</reg><orig>одѣтая</orig></choice> по <choice><reg>последней</reg><orig>послѣдней</orig></choice> крайней <choice><reg>моде</reg><orig>модѣ</orig></choice>, всегда <choice><reg>говорит</reg><orig>говоритъ</orig></choice> по французски и <choice><reg>курит</reg><orig>куритъ</orig></choice> сигары. </p>
+<p class="left"><span class="Razradka">2) <choice><reg>Петр</reg><orig>Петръ</orig></choice> <choice><reg>Федорыч</reg><orig>Федорычъ</orig></choice> <choice><reg>Енисеев</reg><orig>Енисѣевъ</orig></choice> </span>, <choice><reg>её</reg><orig>ея</orig></choice> <choice><reg>муж</reg><orig>мужъ</orig></choice>, <choice><reg>за-сорок</reg><orig>за-сорокъ</orig></choice>, <choice><reg>одет</reg><orig>одѣтъ</orig></choice> модно и <choice><reg>умеренно</reg><orig>умѣренно</orig></choice>, толстый, добродушный <choice><reg>холерик</reg><orig>холерикъ</orig></choice>. </p>
+<p class="left"><span class="Razradka">3) Jean <choice><reg>Мослоский</reg><orig>Мослоскій</orig></choice> </span>,<note n="n190"><div class="section" id="n190"><h2><a href="index.xhtml#backn190">190</a></h2><p class="left"> <em>Зачеркнуто</em>: невысокой</p></div></note><choice><reg>лет</reg><orig>лѣтъ</orig></choice>, <choice><reg>нигде</reg><orig>нигдѣ</orig></choice> не <choice><reg>кончил</reg><orig>кончилъ</orig></choice> курса, очень модно <choice><reg>цветно</reg><orig>цвѣтно</orig></choice> <choice><reg>одет</reg><orig>одѣтъ</orig></choice>, <choice><reg>большие</reg><orig>большіе</orig></choice> волоса, стеклушко <choice><reg>в</reg><orig>въ</orig></choice> глазу, <choice><reg>любовник</reg><orig>любовникъ</orig></choice> <choice><reg>Лидии</reg><orig>Лидіи</orig></choice>. </p>
+<p class="left"><span class="Razradka">4) <choice><reg>Семен</reg><orig>Семенъ</orig></choice> <choice><reg>Николаевич</reg><orig>Николаевичъ</orig></choice> </span><note n="n191"><div class="section" id="n191"><h2><a href="index.xhtml#backn191">191</a></h2><p class="left"> <em>Переправлено из:</em> Никитичъ</p></div></note><span class="Razradka"><choice><reg>Кляксин</reg><orig>Кляксинъ</orig></choice> </span>, <choice><reg>под</reg><orig>подъ</orig></choice> 60 <choice><reg>лет</reg><orig>лѣтъ</orig></choice>, значительное лицо, скромный, <choice><reg>самоуверенный</reg><orig>самоувѣренный</orig></choice> придворный <choice><reg>старичок</reg><orig>старичокъ</orig></choice>, <choice><reg>с</reg><orig>съ</orig></choice> гладко обстриженными <choice><reg>седыми</reg><orig>сѣдыми</orig></choice> волосами, дядя и <choice><reg>любовник</reg><orig>любовникъ</orig></choice> <choice><reg>Лидии</reg><orig>Лидіи</orig></choice>. </p>
+<p class="left"><span class="Razradka">5) Князь Шерваншидзе</span>, 19 <choice><reg>лет</reg><orig>лѣтъ</orig></choice>, очень <choice><reg>хорош</reg><orig>хорошъ</orig></choice> собой, <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>грузинском</reg><orig>грузинскомъ</orig></choice> <choice><reg>костюме</reg><orig>костюмѣ</orig></choice>, плохо <choice><reg>говорит</reg><orig>говоритъ</orig></choice> по Русски, <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>особенным</reg><orig>особеннымъ</orig></choice> <choice><reg>грузинским</reg><orig>грузинскимъ</orig></choice> <choice><reg>акцентом</reg><orig>акцентомъ</orig></choice> на <choice><reg>гласные</reg><orig>гласныя</orig></choice>. </p>
+<p class="left"><span class="Razradka">6) Ольга Михайловна</span>, 16 <choice><reg>лет</reg><orig>лѣтъ</orig></choice>, только что <choice><reg>приехавшая</reg><orig>пріѣхавшая</orig></choice> <choice><reg>из</reg><orig>изъ</orig></choice> деревни родственница Петра Федоровича. </p>
+<p class="left"><span class="Razradka">7) <choice><reg>Анатолий</reg><orig>Анатолій</orig></choice> <choice><reg>Никанорович</reg><orig>Никаноровичъ</orig></choice> <choice><reg>Лацкан</reg><orig>Лацканъ</orig></choice> </span>, <choice><reg>брат</reg><orig>братъ</orig></choice> <choice><reg>Лидии</reg><orig>Лидіи</orig></choice>, <choice><reg>жених</reg><orig>женихъ</orig></choice> Ольги, 25 <choice><reg>лет</reg><orig>лѣтъ</orig></choice>, красивый <choice><reg>пехотный</reg><orig>пѣхотный</orig></choice> <choice><reg>офицер</reg><orig>офицеръ</orig></choice>, <choice><reg>с</reg><orig>съ</orig></choice> длинными волосами <em>и</em><choice><reg>лорнетом</reg><orig>лорнетомъ</orig></choice>. </p>
+<p class="left"><span class="Razradka">8) Анна Никаноровна <choice><reg>Лацкан</reg><orig>Лацканъ</orig></choice> </span>, сестра его и <choice><reg>Лидии</reg><orig>Лидіи</orig></choice>, 22 <choice><reg>лет</reg><orig>лѣтъ</orig></choice>, <choice><reg>девица</reg><orig>дѣвица</orig></choice>. </p>
+<p class="left"><span class="Razradka">9) Катерина Федотовна</span>, <choice><reg>крепостная</reg><orig>крѣпостная</orig></choice> Ольги, 40 <choice><reg>лет</reg><orig>лѣтъ</orig></choice>, половина горничная, половина нянюшка. </p>
+<p class="left"><span class="Razradka">10) <choice><reg>Граф</reg><orig>Графъ</orig></choice> <choice><reg>Кукшев</reg><orig>Кукшевъ</orig></choice> </span>, старый <choice><reg>холостяк</reg><orig>холостякъ</orig></choice>, 60 <choice><reg>лет</reg><orig>лѣтъ</orig></choice>. </p>
+<p class="left"><span class="opnumber">169</span> <span class="npnumber">170</span></p>
+</div>
+</div>
+<div class="section" id="h000012019004002">
+<h4 class="title_level3 center"><choice><reg>ДЕЙСТВИЕ</reg><orig>ДѢЙСТВІЕ</orig></choice> I. </h4>
+<p class="left"><choice><reg>Театр</reg><orig>Театръ</orig></choice> <choice><reg>представляет</reg><orig>представляетъ</orig></choice> <choice><reg>будуар</reg><orig>будуаръ</orig></choice> <choice><reg>Лидии</reg><orig>Лидіи</orig></choice>. На право и <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>середине</reg><orig>серединѣ</orig></choice> двери. </p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> I. </p>
+<p class="left"><choice><reg>Лидие</reg><orig>Лидія</orig></choice> и Мослосской <choice><reg>говорят</reg><orig>говорятъ</orig></choice> о любви. <choice><reg>Лидие</reg><orig>Лидія</orig></choice> <choice><reg>говорит</reg><orig>говоритъ</orig></choice>, что она его не <choice><reg>любит</reg><orig>любитъ</orig></choice> больше, <choice><reg>Жорж</reg><orig>Жоржъ</orig></choice> <choice><reg>Занд</reg><orig>Зандъ</orig></choice>, надо быть откровенной, она <choice><reg>любит</reg><orig>любитъ</orig></choice> <choice><reg>Грузинского</reg><orig>Грузинскаго</orig></choice> Князя. <choice><reg>Он</reg><orig>Онъ</orig></choice> <choice><reg>ревнует</reg><orig>ревнуетъ</orig></choice> уже <choice><reg>к</reg><orig>къ</orig></choice> Старику. </p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> II. </p>
+<p class="left"><choice><reg>Входит</reg><orig>Входитъ</orig></choice> Ольга <choice><reg>с</reg><orig>съ</orig></choice> Катериной <choice><reg>Федотовной</reg><orig>Ѳедотовной</orig></choice>, ее <choice><reg>срамят</reg><orig>срамятъ</orig></choice> за <choice><reg>костюм</reg><orig>костюмъ</orig></choice>, <choice><reg>хотят</reg><orig>хотятъ</orig></choice> стричь, она горячится и <choice><reg>уходит</reg><orig>уходитъ</orig></choice>. Они <choice><reg>продолжают</reg><orig>продолжаютъ</orig></choice> говорить о любви и ревности <choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>Ольге</reg><orig>Ольгѣ</orig></choice>. </p>
+<p class="center"><choice><reg>Я[ВЛЕНИЕ]</reg><orig>Я[ВЛЕНІЕ]</orig></choice> III. </p>
+<p class="left"><choice><reg>Входит</reg><orig>Входитъ</orig></choice> <choice><reg>муж</reg><orig>мужъ</orig></choice>. <choice><reg>Он</reg><orig>Онъ</orig></choice> <choice><reg>говорит</reg><orig>говоритъ</orig></choice>, что <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>нынешнем</reg><orig>нынѣшнемъ</orig></choice> <choice><reg>веке</reg><orig>вѣкѣ</orig></choice> это <choice><reg>так</reg><orig>такъ</orig></choice>, <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>понимает</reg><orig>понимаетъ</orig></choice>, но <choice><reg>зачем</reg><orig>зачѣмъ</orig></choice> неглижировать старика, <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>нужен</reg><orig>нуженъ</orig></choice>. — <choice><reg>Лидие</reg><orig>Лидія</orig></choice> <choice><reg>говорит</reg><orig>говоритъ</orig></choice>, что <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>прав</reg><orig>правъ</orig></choice>, что <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>лучший</reg><orig>лучшій</orig></choice> <choice><reg>её</reg><orig>ея</orig></choice> <choice><reg>друг</reg><orig>другъ</orig></choice>, но все таки она <choice><reg>страдает</reg><orig>страдаетъ</orig></choice> и <choice><reg>от</reg><orig>отъ</orig></choice> любви <choice><reg>к</reg><orig>къ</orig></choice> Грузинскому Князю и <choice><reg>от</reg><orig>отъ</orig></choice> ревности. <choice><reg>Так</reg><orig>Такъ</orig></choice> выдать ее <choice><reg>замуж</reg><orig>замужъ</orig></choice> за брата, <choice><reg>брат</reg><orig>братъ</orig></choice> <choice><reg>дурак</reg><orig>дуракъ</orig></choice>, только <choice><reg>хочет</reg><orig>хочетъ</orig></choice> жениться, она тоже влюблена, кажется. <choice><reg>Притом</reg><orig>Притомъ</orig></choice> же <choice><reg>вместе</reg><orig>вмѣстѣ</orig></choice> <choice><reg>ехать</reg><orig>ѣхать</orig></choice> за границу, <choice><reg>их</reg><orig>ихъ</orig></choice> <choice><reg>дела</reg><orig>дѣла</orig></choice> плохи. </p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> IV. </p>
+<p class="left"><choice><reg>Приезжает</reg><orig>Пріѣзжаетъ</orig></choice> <choice><reg>Лацкан</reg><orig>Лацканъ</orig></choice>, <choice><reg>над</reg><orig>надъ</orig></choice> <choice><reg>ним</reg><orig>нимъ</orig></choice> <choice><reg>смеются</reg><orig>смѣются</orig></choice>, <choice><reg>фыркают</reg><orig>фыркаютъ</orig></choice> и <choice><reg>говорят</reg><orig>говорятъ</orig></choice> ему, <choice><reg>чтоб</reg><orig>чтобъ</orig></choice> <choice><reg>он</reg><orig>онъ</orig></choice> женился. <choice><reg>Он</reg><orig>Онъ</orig></choice> <choice><reg>согласен</reg><orig>согласенъ</orig></choice>, они <choice><reg>ходят</reg><orig>ходятъ</orig></choice> по <choice><reg>зале</reg><orig>залѣ</orig></choice>. </p>
+<p class="center"><choice><reg>ЯВЛЕНИE</reg><orig>ЯВЛЕНIE</orig></choice> V. </p>
+<p class="left">&lt;<choice><reg>Их</reg><orig>Ихъ</orig></choice> <choice><reg>оставляют</reg><orig>оставляютъ</orig></choice> <choice><reg>одних</reg><orig>однихъ</orig></choice>, <choice><reg>он</reg><orig>онъ</orig></choice> открывается <choice><reg>в</reg><orig>въ</orig></choice> любви.&gt; </p>
+<p class="left"><choice><reg>Приезжает</reg><orig>Пріѣзжаетъ</orig></choice> Т., <choice><reg>зол</reg><orig>золъ</orig></choice>, <choice><reg>ругает</reg><orig>ругаетъ</orig></choice> М., <choice><reg>муж</reg><orig>мужъ</orig></choice> <choice><reg>их</reg><orig>ихъ</orig></choice> <choice><reg>успокаивает</reg><orig>успокаиваетъ</orig></choice>, <choice><reg>упрекает</reg><orig>упрекаетъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>стороне</reg><orig>сторонѣ</orig></choice> барышню, <choice><reg>дает</reg><orig>даетъ</orig></choice> ей <choice><reg>денег</reg><orig>денегъ</orig></choice>, <choice><reg>говорит</reg><orig>говоритъ</orig></choice> <choice><reg>он</reg><orig>онъ</orig></choice>, хотя только знать. </p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> VI. </p>
+<p class="left"><choice><reg>Лацкан</reg><orig>Лацканъ</orig></choice> <choice><reg>объявляет</reg><orig>объявляетъ</orig></choice>, что <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>сделал</reg><orig>сдѣлалъ</orig></choice> <choice><reg>предлож[ение]</reg><orig>предлож[еніе]</orig></choice>, <choice><reg>все</reg><orig>всѣ</orig></choice> <choice><reg>поздравляют</reg><orig>поздравляютъ</orig></choice>, она должна <choice><reg>ехать</reg><orig>ѣхать</orig></choice> <choice><reg>к</reg><orig>къ</orig></choice> <choice><reg>дяде</reg><orig>дядѣ</orig></choice> за <choice><reg>благослов[ением]</reg><orig>благослов[еніемъ]</orig></choice>. </p>
+<p class="center">ЯВЛЕНИЕ VII. </p>
+<p class="left"><choice><reg>Входит</reg><orig>Входитъ</orig></choice> <choice><reg>Грузинский</reg><orig>Грузинскій</orig></choice> Князь, <choice><reg>Лидие</reg><orig>Лидія</orig></choice> <choice><reg>выгоняет</reg><orig>выгоняетъ</orig></choice> <choice><reg>всех</reg><orig>всѣхъ</orig></choice> и <choice><reg>хочет</reg><orig>хочетъ</orig></choice> объяснять ему <choice><reg>Жорж</reg><orig>Жоржъ</orig></choice> <choice><reg>Занд</reg><orig>Зандъ</orig></choice> и что О[льга] <choice><reg>выходит</reg><orig>выходитъ</orig></choice> <choice><reg>замуж</reg><orig>замужъ</orig></choice>, <choice><reg>он</reg><orig>онъ</orig></choice> &lt;ее <choice><reg>бьет</reg><orig>бьетъ</orig></choice> <choice><reg>её</reg><orig>ея</orig></choice> <choice><reg>оружием</reg><orig>оружіемъ</orig></choice> и&gt; <choice><reg>говорит</reg><orig>говоритъ</orig></choice>: она <choice><reg>мне</reg><orig>мнѣ</orig></choice> мила и вы противная, <choice><reg>2-х</reg><orig>2-хъ</orig></choice> <choice><reg>женщин</reg><orig>женщинъ</orig></choice> нельзя любить. </p>
+</div>
+<div class="section" id="h000012019004003">
+<h4 class="title_level3 center"><choice><reg>ДЕЙСТВИЕ</reg><orig>ДѢЙСТВИЕ</orig></choice> II. </h4>
+<p class="center"><choice><reg>Я[ВЛЕНИЕ]</reg><orig>Я[ВЛЕНIЕ]</orig></choice> I. </p>
+<p class="left">Деревня Графа. <choice><reg>Он</reg><orig>Онъ</orig></choice> <choice><reg>пьет</reg><orig>пьетъ</orig></choice> чай, <choice><reg>приходит</reg><orig>приходитъ</orig></choice> Катерина <choice><reg>Федотовна</reg><orig>Ѳедотовна</orig></choice>. <choice><reg>Он</reg><orig>Онъ</orig></choice> ей <choice><reg>говорит</reg><orig>говоритъ</orig></choice>, что скверно, она сама не <choice><reg>знает</reg><orig>знаетъ</orig></choice>, <choice><reg>как</reg><orig>какъ</orig></choice> это <span class="opdelimiter">случилось.</span><span class="opnumber">170</span></p>
+<p class="center"><span class="npnumber">171</span><span class="npdelimiter">Я[ВЛЕНІЕ]</span> ІІ.</p>
+<p class="left">Ольга гордо <choice><reg>говорит</reg><orig>говоритъ</orig></choice>, что она <choice><reg>любит</reg><orig>любитъ</orig></choice> <choice><reg>портрет</reg><orig>портретъ</orig></choice>, <choice><reg>он</reg><orig>онъ</orig></choice> <choice><reg>груб</reg><orig>грубъ</orig></choice>. <choice><reg>Зачем</reg><orig>Зачѣмъ</orig></choice> ты <choice><reg>приехала</reg><orig>пріѣхала</orig></choice> — благословенье <choice><reg>вздор</reg><orig>вздоръ</orig></choice>, деньги, она горячится: <choice><reg>говорит</reg><orig>говоритъ</orig></choice>, что всё кончено. — <choice><reg>Он</reg><orig>Онъ</orig></choice> раскаивается, <choice><reg>успокаивает</reg><orig>успокаиваетъ</orig></choice> ее, она <choice><reg>говорит</reg><orig>говоритъ</orig></choice>, что, кажется, влюблена. </p>
+<p class="center"><choice><reg>Я[ВЛЕНИЕ]</reg><orig>Я[ВЛЕНІЕ]</orig></choice> III. </p>
+<p class="left">Катерина <choice><reg>Федотовна</reg><orig>Ѳедотовна</orig></choice> <choice><reg>успокаивает</reg><orig>успокаиваетъ</orig></choice> ее лесть[ю]. </p>
+<p class="center"><choice><reg>ЯВЛЕНИЕ</reg><orig>ЯВЛЕНІЕ</orig></choice> IV. </p>
+<p class="left">Она <choice><reg>очаровывает</reg><orig>очаровываетъ</orig></choice> Графа, <choice><reg>решается</reg><orig>рѣшается</orig></choice> испытать его. </p>
+</div>
+<div class="section" id="h000012019004004">
+<h4 class="title_level3 center"><choice><reg>ДЪЙСТВИе</reg><orig>ДЪЙСТВИЕ</orig></choice> III. </h4>
+<p class="left"><choice><reg>Будуар</reg><orig>Будуаръ</orig></choice> <choice><reg>Лидии</reg><orig>Лидіи</orig></choice>, <choice><reg>муж</reg><orig>мужъ</orig></choice>, 2 любовника и <choice><reg>Лацкан</reg><orig>Лацканъ</orig></choice> <choice><reg>в</reg><orig>въ</orig></choice> уголку, она печальна, Князь <choice><reg>обещался</reg><orig>обѣщался</orig></choice> <choice><reg>приехать</reg><orig>пріѣхать</orig></choice>. &lt;Пр&gt; <choice><reg>говорит</reg><orig>говоритъ</orig></choice> о <choice><reg>приезде</reg><orig>пріѣздѣ</orig></choice> Ольги; <choice><reg>муж</reg><orig>мужъ</orig></choice> <choice><reg>был</reg><orig>былъ</orig></choice> у нее и <choice><reg>рассказывает</reg><orig>разсказываетъ</orig></choice>, что она ничего не сказала о <choice><reg>деньгах</reg><orig>деньгахъ</orig></choice>. Она <choice><reg>приходит</reg><orig>приходитъ</orig></choice> холодна, <choice><reg>молчит</reg><orig>молчитъ</orig></choice> о <choice><reg>деньгах</reg><orig>деньгахъ</orig></choice>, <choice><reg>в</reg><orig>въ</orig></choice> <choice><reg>стороне</reg><orig>сторонѣ</orig></choice> <choice><reg>говорят</reg><orig>говорятъ</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> <choice><reg>Лацканом</reg><orig>Лацканомъ</orig></choice> о <choice><reg>поцелуях</reg><orig>поцѣлуяхъ</orig></choice>, — допытываются о <choice><reg>деньгах</reg><orig>деньгахъ</orig></choice>, холодность. — <choice><reg>Приходит</reg><orig>Приходитъ</orig></choice> <choice><reg>Грузинский</reg><orig>Грузинскій</orig></choice> Князь, волочится за Ольгой, <choice><reg>Лидие</reg><orig>Лидія</orig></choice> <choice><reg>с</reg><orig>съ</orig></choice> ней ссорится, <choice><reg>говорит</reg><orig>говоритъ</orig></choice> о <choice><reg>женихе</reg><orig>женихѣ</orig></choice>. Ольга и Князь <choice><reg>бьют</reg><orig>бьютъ</orig></choice> ее ее <choice><reg>оружием</reg><orig>оружіемъ</orig></choice>. &lt;<choice><reg>Старик</reg><orig>Старикъ</orig></choice> <choice><reg>увлекает</reg><orig>увлекаетъ</orig></choice> ее и <choice><reg>всех</reg><orig>всѣхъ</orig></choice>. <choice><reg>Муж</reg><orig>Мужъ</orig></choice> остается <choice><reg>с</reg><orig>съ</orig></choice> Ольгой, <choice><reg>спрашивает</reg><orig>спрашиваетъ</orig></choice>, отчего она <choice><reg>переменилась</reg><orig>перемѣнилась</orig></choice>, о <choice><reg>деньгах</reg><orig>деньгахъ</orig></choice>, она <choice><reg>говорит</reg><orig>говоритъ</orig></choice> ему.&gt; <choice><reg>Лидие</reg><orig>Лидія</orig></choice> злится, <choice><reg>говорит</reg><orig>говоритъ</orig></choice> о <choice><reg>деньгах</reg><orig>деньгахъ</orig></choice>, сцена. — <choice><reg>Грузинский</reg><orig>Грузинскій</orig></choice> Князь <choice><reg>предлагает</reg><orig>предлагаетъ</orig></choice> свою руку, она <choice><reg>гонит</reg><orig>гонитъ</orig></choice> его. </p>
+<p class="center"><choice><reg>Конец</reg><orig>Конецъ</orig></choice> </p>
+<p class="left"><span class="opnumber">171</span> <span class="npnumber">172</span></p>
+</div>
+ </text>
+</TEI>
