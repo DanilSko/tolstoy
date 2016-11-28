@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     [План «Юности»]
+    </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>
+      подготовка TEI/XML
+     </resp>
+     <name>
+      Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      Школа лингвистики НИУ ВШЭ
+     </orgName>
+    </publisher>
+    <availability>
+     <p>
+      Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+      лицензии Creative Commons Attribution Share-Alike (cc by-sa)
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">
+       [План «Юности»]
+      </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 2
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       2
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1855">
+     1855
+    </date>
+    <rs type="Россия">
+     Россия
+    </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.план, конспект" type="type"/>
+   </textClass>
+   <preparedness>
+    not finished
+   </preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType/>
+   <versionNumber>
+    ver4
+   </versionNumber>
+   <isFinished>
+    not finished
+   </isFinished>
+   <isEdited>
+    edited
+   </isEdited>
+   <p>
+    Проект
+    <title>
+     Толстой.Digital
+    </title>
+    разрабатывается сотрудниками и студентами
+    <orgName>
+     Высшей школы экономики
+    </orgName>
+    в сотрудничестве с
+    <orgName>
+     Государственным музеем Л.Н.
+     Толстого
+    </orgName>
+    . Источник текстов –
+    <bibl>
+     90-томное собрание сочинений Л.Н.Толстого
+    </bibl>
+    . Разметка основана на стандарте
+    <ref target="http://www.tei-c.org">
+     TEI (Text Encoding
+     Initiative)
+    </ref>
+    .
+   </p>
+  </xenoData>
+ </teiHeader>
+ <text>
+  <div rend="section" xml:id="h000012005">
+   <head rend="center">
+    V.
+    <lb/>
+    ** ПЛАН «ЮНОСТИ».
+   </head>
+   <p rend="center">
+    <hi rend="Razradka">
+     План «Юности».
+    </hi>
+    —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     1-я гл. Выставляютъ окна
+    </hi>
+    . Недовольство собой, желаніе чего-то, усовершенствованіе, дѣланіе гимнастики. 2-я глава. Хоръ. Страстная пятница. Суета, невыдержанность впечатлѣнія, тщеславіе, страхъ грѣха.
+    <note n="n125">
+     <div rend="section footnote" xml:id="n125">
+      <head>
+       <ref target="#backn125">
+        125
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Со слов:
+       </hi>
+       2-я глава. Хоръ.
+       <hi rend="em">
+        было зачеркнуто, потом восстановлено
+       </hi>
+       .
+      </p>
+     </div>
+    </note>
+    <hi rend="em">
+     Обњдъ въ страстную пятницу
+    </hi>
+    . Взглядъ на все семейство съ точки зрѣнія добродѣтели и сч с ія, планы. 3
+    <hi rend="em">
+     -я глава. Исповњдъ.
+    </hi>
+    Набожность, страхъ Бога, раскаяніе и &lt;надежда&gt; убѣжденіе въ будущемъ вѣчномъ совершенствѣ. 4 &lt;
+    <hi rend="em">
+     Причастіе&gt; Экзамены
+    </hi>
+    &lt;разочарованье&gt;, тщеславіе, суета и слишкомъ много желаній. Экзамены хуже выдерживаю отъ того, что желаю слишкомъ много хорошаго. —5) Несправедливость. 6) Семейство Нехлюдовыхъ. Самостоят. дружба. 7) Прогулки. Самостоятельность въ жизни, деньги. —8) Поѣздка въ деревню. — &lt;Бѣдное&gt; Чувство состраданія мужикамъ. Планы. 9) Семейныя отношенія, наблюденія. Свобода, веселье и безпечность. 10) Мачеха. Мы стыдимся за нее въ молодости, сильно и пагубно чувство тщеславія. &lt;11)&gt; Сосѣди, удовольствія. Жестокость Володи, къ кот. я самъ не знаю, что дѣлаю. 12) Судебныя дѣла, отецъ падаетъ. — 12) Сѣнокосъ, планы, музыка, дневникъ Фр[анклиновъ] журналъ. 13) Университетъ. Сужденія о Математикѣ и наукахъ. 14) Концертъ. Дмитрій тоже тщеславенъ, и я расхожусь немного съ нимъ. 15) Катенька выходитъ за мужъ за артиста [
+    <hi rend="em">
+     1 неразобр
+    </hi>
+    ]
+    <hi rend="em">
+     .
+    </hi>
+    16) Корнаковы &lt;деньги, долги, игра.&gt; Игра отца. 17) &lt;Кн[язь] Ив[анъ] Ив[ановичъ]&gt; Переходъ во второй курсъ, свѣтскость. 18) Напущен[ная] любовь. У Ив. Ив. 19) Не выдержалъ экзамена. 20) Кутежи, игра, деньги. 21) Отецъ даетъ свободу. 22) Стеченіе несчастій. 23) Опоминаюсь и въ деревню съ планами составленія философіи и помѣщичества, которые въ себѣ ничего не имѣютъ, кромѣ тоски. Меня сбиваютъ, я иду юнкеромъ.
+    <note n="n126">
+     <div rend="section footnote" xml:id="n126">
+      <head>
+       <ref target="#backn126">
+        126
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Со слов
+       </hi>
+       : которые в себѣ
+       <hi rend="em">
+        написано карандашом
+       </hi>
+       .
+      </p>
+     </div>
+    </note>
+   </p>
+   <p rend="center">
+    ————
+   </p>
+   <p rend="left pages2">
+    <hi rend="opnumber">
+     297
+    </hi>
+    <hi rend="npnumber">
+     298
+    </hi>
+   </p>
+  </div>
+ </text>
+</TEI>
