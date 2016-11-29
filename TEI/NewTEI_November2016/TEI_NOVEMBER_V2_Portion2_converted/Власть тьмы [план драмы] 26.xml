@@ -1,0 +1,1423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Власть тьмы [план драмы]
+    </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>
+      подготовка TEI/XML
+     </resp>
+     <name>
+      Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      Школа лингвистики НИУ ВШЭ
+     </orgName>
+    </publisher>
+    <availability>
+     <p>
+      Тексты и метатекстовая разметка доступны для свободного использования и распространения по
+ лицензии Creative Commons Attribution Share-Alike (cc by-sa)
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">
+       Власть тьмы [план драмы]
+      </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 26
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="1936"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       26
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1886">
+     1886
+    </date>
+    <rs type="country">
+     Россия
+    </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.драма" type="type"/>
+   </textClass>
+   <preparedness>
+    not finished
+   </preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType/>
+   <versionNumber/>
+   <isFinished>
+    not finished
+   </isFinished>
+   <isEdited>
+    not edited
+   </isEdited>
+   <p>
+    Проект
+    <title>
+     Толстой.Digital
+    </title>
+    разрабатывается сотрудниками и студентами
+    <orgName>
+     Высшей школы экономики
+    </orgName>
+    в сотрудничестве с
+    <orgName>
+     Государственным музеем Л.Н.
+     Толстого
+    </orgName>
+    . Источник текстов –
+    <bibl>
+     90-томное собрание сочинений Л.Н.Толстого
+    </bibl>
+    . Разметка основана на стандарте
+    <ref target="http://www.tei-c.org">
+     TEI (Text Encoding
+ Initiative)
+    </ref>
+    .
+   </p>
+   <fullBibliographicDescription>
+    "Полное собрание сочинений Л.Н. Толстого в 90 томах. Государственное издательство ""Художественная литература"", 1928-1958. Серия первая ""Произведения"". Том 26, Москва, 1936."
+   </fullBibliographicDescription>
+  </xenoData>
+ </teiHeader>
+ <text>
+  <div rend="section" xml:id="h000013">
+   <head rend="center">
+    <hi rend="strong">
+     НЕОПУБЛИКОВАННОЕ, НЕОТДЕЛАННОЕ И НЕОКОНЧЕННОЕ
+    </hi>
+    <lb/>
+    <lb/>
+    <hi rend="strong">
+     1886—1889
+    </hi>
+   </head>
+  </div>
+  <div rend="section" xml:id="h000013010">
+   <head rend="center">
+    «ВЛАСТЬ ТЬМЫ».
+   </head>
+  </div>
+  <div rend="section" xml:id="h000013010001">
+   <head rend="center">
+    [ПЛАН ДРАМЫ.]
+   </head>
+   <p rend="center">
+    1
+    <choice>
+     <reg>
+      Д[ействие]
+     </reg>
+     <orig>
+      Д[ѣйствiе]
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    1 с[цена].
+    <choice>
+     <reg>
+      Петр
+     </reg>
+     <orig>
+      Петръ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      старик
+     </reg>
+     <orig>
+      старикъ
+     </orig>
+    </choice>
+    на печи. Акулина
+    <choice>
+     <reg>
+      жалеет
+     </reg>
+     <orig>
+      жалѣетъ
+     </orig>
+    </choice>
+    отца. Аксинья и
+    <choice>
+     <reg>
+      Влас
+     </reg>
+     <orig>
+      Власъ
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    2 с[цена]. Катерина, мать Вл[аса]. Видать, счастье для сына —
+    <choice>
+     <reg>
+      помрет
+     </reg>
+     <orig>
+      помретъ
+     </orig>
+    </choice>
+    .
+    <choice>
+     <reg>
+      Приехал
+     </reg>
+     <orig>
+      Прiѣхалъ
+     </orig>
+    </choice>
+    снимать сына — женить. Не ходи.
+   </p>
+   <p rend="left">
+    3 с[цена].
+    <choice>
+     <reg>
+      Аким
+     </reg>
+     <orig>
+      Акимъ
+     </orig>
+    </choice>
+    Петра,
+    <choice>
+     <reg>
+      слезает
+     </reg>
+     <orig>
+      слѣзаетъ
+     </orig>
+    </choice>
+    .
+    <choice>
+     <reg>
+      Петр
+     </reg>
+     <orig>
+      Петръ
+     </orig>
+    </choice>
+    не
+    <choice>
+     <reg>
+      пускает
+     </reg>
+     <orig>
+      пускаетъ
+     </orig>
+    </choice>
+    . Акс[инья].
+    <choice>
+     <reg>
+      Как
+     </reg>
+     <orig>
+      Какъ
+     </orig>
+    </choice>
+    хочешь.
+    <choice>
+     <reg>
+      Молчит
+     </reg>
+     <orig>
+      Молчитъ
+     </orig>
+    </choice>
+    .
+    <choice>
+     <reg>
+      Уходит
+     </reg>
+     <orig>
+      Уходитъ
+     </orig>
+    </choice>
+    . А[ксинья].
+   </p>
+   <p rend="left">
+    4-я сцена.
+    <choice>
+     <reg>
+      П[етр]
+     </reg>
+     <orig>
+      П[етръ]
+     </orig>
+    </choice>
+    на печь.
+    <choice>
+     <reg>
+      Ак[им]
+     </reg>
+     <orig>
+      Ак[имъ]
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      увещевает
+     </reg>
+     <orig>
+      увѣщеваетъ
+     </orig>
+    </choice>
+    , не
+    <choice>
+     <reg>
+      согрешил
+     </reg>
+     <orig>
+      согрѣшилъ
+     </orig>
+    </choice>
+    ли? —
+    <choice>
+     <reg>
+      В[лас]
+     </reg>
+     <orig>
+      В[ласъ]
+     </orig>
+    </choice>
+    отказывается.
+    <choice>
+     <reg>
+      Речь
+     </reg>
+     <orig>
+      Рѣчь
+     </orig>
+    </choice>
+    о
+    <choice>
+     <reg>
+      беде
+     </reg>
+     <orig>
+      бѣдѣ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      от
+     </reg>
+     <orig>
+      отъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      прелюбодеяния
+     </reg>
+     <orig>
+      прелюбодѣянiя
+     </orig>
+    </choice>
+    .
+    <choice>
+     <reg>
+      А[ким]
+     </reg>
+     <orig>
+      А[кимъ]
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      хвалит
+     </reg>
+     <orig>
+      хвалитъ
+     </orig>
+    </choice>
+    Власа.
+   </p>
+   <p rend="left">
+    5-я. Акс[инья] жалуется. Наскучило все возит[ь]ся. Сонные порошки.
+   </p>
+   <p rend="left">
+    6-я.
+    <choice>
+     <reg>
+      ‹Девка
+     </reg>
+     <orig>
+      ‹Дѣвка
+     </orig>
+    </choice>
+    Марина,
+    <choice>
+     <reg>
+      упрекает
+     </reg>
+     <orig>
+      упрекаетъ
+     </orig>
+    </choice>
+    ,
+    <choice>
+     <reg>
+      плачет
+     </reg>
+     <orig>
+      плачетъ
+     </orig>
+    </choice>
+    и
+    <choice>
+     <reg>
+      уходит
+     </reg>
+     <orig>
+      уходитъ
+     </orig>
+    </choice>
+    . Не даетъ›
+    <choice>
+     <reg>
+      тебе
+     </reg>
+     <orig>
+      тебѣ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      Б[ог]
+     </reg>
+     <orig>
+      Б[огъ]
+     </orig>
+    </choice>
+    счастья.
+   </p>
+   <p rend="left">
+    2
+    <choice>
+     <reg>
+      Д[ействие]
+     </reg>
+     <orig>
+      Д[ѣйствiе]
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    1-я.
+    <choice>
+     <reg>
+      Петр
+     </reg>
+     <orig>
+      Петръ
+     </orig>
+    </choice>
+    .
+    <choice>
+     <reg>
+      Подают
+     </reg>
+     <orig>
+      Подаютъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      в
+     </reg>
+     <orig>
+      въ
+     </orig>
+    </choice>
+    чаю
+    <choice>
+     <reg>
+      яд
+     </reg>
+     <orig>
+      ядъ
+     </orig>
+    </choice>
+    . Она все
+    <choice>
+     <reg>
+      обдумает
+     </reg>
+     <orig>
+      обдумаетъ
+     </orig>
+    </choice>
+    .
+    <choice>
+     <reg>
+      Влас
+     </reg>
+     <orig>
+      Власъ
+     </orig>
+    </choice>
+    , живи. Акулина
+    <choice>
+     <reg>
+      растет
+     </reg>
+     <orig>
+      растетъ
+     </orig>
+    </choice>
+    .
+    <choice>
+     <reg>
+      Уходит
+     </reg>
+     <orig>
+      Уходитъ
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    2 с[цена]. Кат[ерина], Акс[инья]. Все шито-крыто, и
+    <choice>
+     <reg>
+      так
+     </reg>
+     <orig>
+      такъ
+     </orig>
+    </choice>
+    бы
+    <choice>
+     <reg>
+      помер
+     </reg>
+     <orig>
+      померъ
+     </orig>
+    </choice>
+    . При
+    <choice>
+     <reg>
+      нем
+     </reg>
+     <orig>
+      немъ
+     </orig>
+    </choice>
+    не говори,
+    <choice>
+     <reg>
+      он
+     </reg>
+     <orig>
+      онъ
+     </orig>
+    </choice>
+    дурашный, мягкослезый.
+   </p>
+   <p rend="left">
+    3-я.
+    <choice>
+     <reg>
+      Гуляют
+     </reg>
+     <orig>
+      Гуляютъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      с
+     </reg>
+     <orig>
+      съ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      Власом
+     </reg>
+     <orig>
+      Власомъ
+     </orig>
+    </choice>
+    . Чай, водка.
+   </p>
+   <p rend="left">
+    4-я. Акул[ина]. Прощаться
+    <choice>
+     <reg>
+      зачал
+     </reg>
+     <orig>
+      зачалъ
+     </orig>
+    </choice>
+    .
+    <choice>
+     <reg>
+      Влас
+     </reg>
+     <orig>
+      Власъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      отходит
+     </reg>
+     <orig>
+      отходитъ
+     </orig>
+    </choice>
+    ,
+    <choice>
+     <reg>
+      рыдает
+     </reg>
+     <orig>
+      рыдаетъ
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    5-я. Кат[ерина] Власа
+    <choice>
+     <reg>
+      уговаривает
+     </reg>
+     <orig>
+      уговариваетъ
+     </orig>
+    </choice>
+    жени[ться].
+   </p>
+   <p rend="left">
+    6.
+    <choice>
+     <reg>
+      Воет
+     </reg>
+     <orig>
+      Воетъ
+     </orig>
+    </choice>
+    и
+    <choice>
+     <reg>
+      заказывает
+     </reg>
+     <orig>
+      заказываетъ
+     </orig>
+    </choice>
+    домовище.
+   </p>
+   <p rend="left">
+    3
+    <choice>
+     <reg>
+      Д[ействие]
+     </reg>
+     <orig>
+      Д[ѣйствiе]
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    1 сцена. Акул[ина] и
+    <choice>
+     <reg>
+      Вл[ас]
+     </reg>
+     <orig>
+      Вл[асъ]
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      гуляют
+     </reg>
+     <orig>
+      гуляютъ
+     </orig>
+    </choice>
+    . Ак[улина]. Брось ее, и все
+    <choice>
+     <reg>
+      тут
+     </reg>
+     <orig>
+      тутъ
+     </orig>
+    </choice>
+    . Я за ней
+    <choice>
+     <reg>
+      дело
+     </reg>
+     <orig>
+      дѣло
+     </orig>
+    </choice>
+    знаю.
+    <choice>
+     <reg>
+      Рассказывает
+     </reg>
+     <orig>
+      Разсказываетъ
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    2 с[цена]. Акс[инья]. Ревность.
+    <choice>
+     <reg>
+      Он
+     </reg>
+     <orig>
+      Онъ
+     </orig>
+    </choice>
+    ее
+    <choice>
+     <reg>
+      попрекает
+     </reg>
+     <orig>
+      попрекаетъ
+     </orig>
+    </choice>
+    . А[ксинья]. Ты со мной была. Ак[улина]
+    <choice>
+     <reg>
+      вступает
+     </reg>
+     <orig>
+      вступаетъ
+     </orig>
+    </choice>
+    . Руготня.
+    <choice>
+     <reg>
+      Попрекает
+     </reg>
+     <orig>
+      Попрекаетъ
+     </orig>
+    </choice>
+    <hi rend="opdelimiter">
+     <choice>
+      <reg>
+       брюхом
+      </reg>
+      <orig>
+       брюхомъ
+      </orig>
+     </choice>
+     .
+    </hi>
+    <hi rend="opnumber">
+     533
+    </hi>
+   </p>
+   <p rend="left">
+    <hi rend="npnumber">
+     534
+    </hi>
+    <hi rend="npdelimiter">
+     3.
+    </hi>
+    Марина
+    <choice>
+     <reg>
+      с
+     </reg>
+     <orig>
+      съ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      отцом
+     </reg>
+     <orig>
+      отцомъ
+     </orig>
+    </choice>
+    .
+    <choice>
+     <reg>
+      Вл[ас]
+     </reg>
+     <orig>
+      Вл[асъ]
+     </orig>
+    </choice>
+    пьяный раскаивается. Запутали,
+    <choice>
+     <reg>
+      пропал
+     </reg>
+     <orig>
+      пропалъ
+     </orig>
+    </choice>
+    я.
+   </p>
+   <p rend="left">
+    4. Акс[инья]
+    <choice>
+     <reg>
+      с
+     </reg>
+     <orig>
+      съ
+     </orig>
+    </choice>
+    Акул[иной].
+    <choice>
+     <reg>
+      ‹Попрекает
+     </reg>
+     <orig>
+      ‹Попрекаетъ
+     </orig>
+    </choice>
+    беременностью) Ак[улину]. Я
+    <choice>
+     <reg>
+      хозяин
+     </reg>
+     <orig>
+      хозяинъ
+     </orig>
+    </choice>
+    . Покорять[ся]. Акс[инья]. Буду жить, не твоя
+    <choice>
+     <reg>
+      беда
+     </reg>
+     <orig>
+      бѣда
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="center">
+    4-е
+    <choice>
+     <reg>
+      Действ[ие]
+     </reg>
+     <orig>
+      Дѣйств[iе]
+     </orig>
+    </choice>
+    . Ночь.
+   </p>
+   <p rend="left">
+    1 сцена.
+    <choice>
+     <reg>
+      Вл[ас]
+     </reg>
+     <orig>
+      Вл[асъ]
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      сидит
+     </reg>
+     <orig>
+      сидитъ
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    2 с[цена]. Акс[инья]
+    <choice>
+     <reg>
+      входит
+     </reg>
+     <orig>
+      входитъ
+     </orig>
+    </choice>
+    : родила, поди неси.
+    <choice>
+     <reg>
+      Он
+     </reg>
+     <orig>
+      Онъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      покорен
+     </reg>
+     <orig>
+      покоренъ
+     </orig>
+    </choice>
+    &gt;.
+   </p>
+   <p rend="left">
+    3 сц[ена]. Акс[инья] одна.
+    <choice>
+     <reg>
+      Замуж
+     </reg>
+     <orig>
+      Замужъ
+     </orig>
+    </choice>
+    выдать,
+    <choice>
+     <reg>
+      сватают
+     </reg>
+     <orig>
+      сватаютъ
+     </orig>
+    </choice>
+    . Аниска.
+   </p>
+   <p rend="left">
+    4 сцена.
+    <choice>
+     <reg>
+      Убил
+     </reg>
+     <orig>
+      Убилъ
+     </orig>
+    </choice>
+    . Не
+    <choice>
+     <reg>
+      человек
+     </reg>
+     <orig>
+      человѣкъ
+     </orig>
+    </choice>
+    я теперь, себя убью. —
+    <choice>
+     <reg>
+      Успокаивает
+     </reg>
+     <orig>
+      Успокаиваетъ
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    5. Катер[ина] свахой.
+    <choice>
+     <reg>
+      Уж
+     </reg>
+     <orig>
+      Ужъ
+     </orig>
+    </choice>
+    хорошо. Отложить.
+   </p>
+   <p rend="left">
+    6.
+    <choice>
+     <reg>
+      Влас
+     </reg>
+     <orig>
+      Власъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      в
+     </reg>
+     <orig>
+      въ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      страхе
+     </reg>
+     <orig>
+      страхѣ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      виляет
+     </reg>
+     <orig>
+      виляетъ
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="center">
+    5-е
+    <choice>
+     <reg>
+      Д[ействие]
+     </reg>
+     <orig>
+      Д[ѣйствiе]
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    На
+    <choice>
+     <reg>
+      гумне
+     </reg>
+     <orig>
+      гумнѣ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      лежит
+     </reg>
+     <orig>
+      лежитъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      в
+     </reg>
+     <orig>
+      въ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      соломе
+     </reg>
+     <orig>
+      соломѣ
+     </orig>
+    </choice>
+    Аниска.
+   </p>
+   <p rend="left">
+    Марина. Свахой. Я не попрекать. Уйди, &lt;убью.
+    <choice>
+     <reg>
+      Идет
+     </reg>
+     <orig>
+      Идетъ
+     </orig>
+    </choice>
+    за ней&gt;.
+    <choice>
+     <reg>
+      Сейчас
+     </reg>
+     <orig>
+      Сейчасъ
+     </orig>
+    </choice>
+    приду. Аниска [,]
+    <choice>
+     <reg>
+      ударяет
+     </reg>
+     <orig>
+      ударяетъ
+     </orig>
+    </choice>
+    ее. И
+    <choice>
+     <reg>
+      идет
+     </reg>
+     <orig>
+      идетъ
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    1 сцена.
+    <choice>
+     <reg>
+      Сидят
+     </reg>
+     <orig>
+      Сидятъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      жених
+     </reg>
+     <orig>
+      женихъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      с
+     </reg>
+     <orig>
+      съ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      невестой
+     </reg>
+     <orig>
+      невѣстой
+     </orig>
+    </choice>
+    . Не [
+    <hi rend="em">
+     1 неразобр.
+    </hi>
+    ] везти
+    <choice>
+     <reg>
+      в
+     </reg>
+     <orig>
+      въ
+     </orig>
+    </choice>
+    церковь. Сваты, угощенье, намеки.
+   </p>
+   <p rend="left">
+    2) &lt;Марина
+    <choice>
+     <reg>
+      с
+     </reg>
+     <orig>
+      съ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      мужем
+     </reg>
+     <orig>
+      мужемъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      закрывает
+     </reg>
+     <orig>
+      закрываетъ
+     </orig>
+    </choice>
+    намеки.
+    <choice>
+     <reg>
+      Посылают
+     </reg>
+     <orig>
+      Посылаютъ
+     </orig>
+    </choice>
+    Аниску.&gt;
+   </p>
+   <p rend="left">
+    3)
+    <choice>
+     <reg>
+      Входит
+     </reg>
+     <orig>
+      Входитъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      Влас
+     </reg>
+     <orig>
+      Власъ
+     </orig>
+    </choice>
+    . Кается на
+    <choice>
+     <reg>
+      коленах
+     </reg>
+     <orig>
+      колѣнахъ
+     </orig>
+    </choice>
+    . — Вяжите меня.
+    <choice>
+     <reg>
+      Коготок
+     </reg>
+     <orig>
+      Коготокъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      увяз
+     </reg>
+     <orig>
+      увязъ
+     </orig>
+    </choice>
+    , и всей
+    <choice>
+     <reg>
+      птичке
+     </reg>
+     <orig>
+      птичкѣ
+     </orig>
+    </choice>
+    пропасть.
+   </p>
+   <p rend="left">
+    <choice>
+     <reg>
+      Конец
+     </reg>
+     <orig>
+      Конецъ
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    Лица: 1.
+    <choice>
+     <reg>
+      Петр
+     </reg>
+     <orig>
+      Петръ
+     </orig>
+    </choice>
+    домовитый, степенный
+    <choice>
+     <reg>
+      мужик
+     </reg>
+     <orig>
+      мужикъ
+     </orig>
+    </choice>
+    ,
+    <choice>
+     <reg>
+      дом
+     </reg>
+     <orig>
+      домъ
+     </orig>
+    </choice>
+    прежде всего, &lt;обстоятель[ный]&gt;.
+   </p>
+   <p rend="left">
+    2.
+    <choice>
+     <reg>
+      Аким
+     </reg>
+     <orig>
+      Акимъ
+     </orig>
+    </choice>
+    .
+    <choice>
+     <reg>
+      Бедняк
+     </reg>
+     <orig>
+      Бѣднякъ
+     </orig>
+    </choice>
+    , говорливый, &lt;ласковый, добрый&gt;, по божественному.
+   </p>
+   <p rend="left">
+    3) Катерина —
+    <choice>
+     <reg>
+      ведьма
+     </reg>
+     <orig>
+      вѣдьма
+     </orig>
+    </choice>
+    хитрая, хлопотница, скрытная и
+    <choice>
+     <reg>
+      всех
+     </reg>
+     <orig>
+      всѣхъ
+     </orig>
+    </choice>
+    <choice>
+     <reg>
+      видит
+     </reg>
+     <orig>
+      видитъ
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    4) Акс[инья]. &lt;
+    <choice>
+     <reg>
+      Тело
+     </reg>
+     <orig>
+      Тѣло
+     </orig>
+    </choice>
+    животное, чувственная, робка.&gt; Кокетка и не видящая дальше носа.
+   </p>
+   <p rend="left">
+    5)
+    <choice>
+     <reg>
+      Влас
+     </reg>
+     <orig>
+      Власъ
+     </orig>
+    </choice>
+    —
+    <choice>
+     <reg>
+      работник
+     </reg>
+     <orig>
+      работникъ
+     </orig>
+    </choice>
+    , щеголь, мягкосердечный и
+    <choice>
+     <reg>
+      забывающийся
+     </reg>
+     <orig>
+      забывающiйся
+     </orig>
+    </choice>
+    .
+   </p>
+   <p rend="left">
+    6) Акулина — грубое животное, чувственное и гордое.
+   </p>
+   <p rend="left">
+    7) &lt;Аниска
+    <choice>
+     <reg>
+      резвая
+     </reg>
+     <orig>
+      рѣзвая
+     </orig>
+    </choice>
+    , милая ласковая.&gt;
+   </p>
+   <p rend="left">
+    7) Марина
+    <choice>
+     <reg>
+      нежная
+     </reg>
+     <orig>
+      нѣжная
+     </orig>
+    </choice>
+    , &lt;добр[ая]&gt; покорная.
+   </p>
+  </div>
+ </text>
+</TEI>
