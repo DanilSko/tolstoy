@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     «Когда же, когда наконец перестану...»
+    </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>
+      подготовка TEI/XML
+     </resp>
+     <name>
+      Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      Школа лингвистики НИУ ВШЭ
+     </orgName>
+    </publisher>
+    <availability>
+     <p>
+      Тексты и метатекстовая разметка доступны для свободного использования и распространения по      лицензии Creative Commons Attribution Share-Alike (cc by-sa)
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">
+       «Когда же, когда наконец перестану...»
+      </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 1
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       1
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1854">
+     1854
+    </date>
+    <rs type="country">
+     Россия
+    </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.поэзия" type="type"/>
+   </textClass>
+   <preparedness>
+    not finished
+   </preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType>
+    old
+   </orthographyType>
+   <versionNumber/>
+   <isFinished>
+    not finished
+   </isFinished>
+   <isEdited>
+    not edited
+   </isEdited>
+   <p>
+    Проект
+    <title>
+     Толстой.Digital
+    </title>
+    разрабатывается сотрудниками и студентами
+    <orgName>
+     Высшей школы экономики
+    </orgName>
+    в сотрудничестве с
+    <orgName>
+     Государственным музеем Л.Н.     Толстого
+    </orgName>
+    . Источник текстов –
+    <bibl>
+     90-томное собрание сочинений Л.Н.Толстого
+    </bibl>
+    . Разметка основана на стандарте
+    <ref target="http://www.tei-c.org">
+     TEI (Text Encoding     Initiative)
+    </ref>
+    .
+   </p>
+   <fullBibliographicDescription>
+    "Л.Н. Толстой. Полное собрание сочинений. Серия первая ""Произведения"". Том 1. Государственное издательство ""Художественная литература"", Москва — 1935."
+   </fullBibliographicDescription>
+  </xenoData>
+ </teiHeader>
+ <text>
+  <p rend="center">
+   V.
+  </p>
+  <div rend="poem">
+   <div rend="stanza left">
+    <p rend="v">
+     Когда же, когда наконецъ перестану
+    </p>
+    <p rend="v">
+     Безъ цѣли и страсти свой вѣкъ проводить,
+    </p>
+    <p rend="v">
+     И въ сердцѣ глубокую чувствовать рану
+    </p>
+    <p rend="v">
+     И средства не знать какъ ее заживить?
+    </p>
+   </div>
+   <div rend="stanza left">
+    <p rend="v">
+     Кто сдѣлалъ ту рану, лишь вѣдаетъ Богъ
+    </p>
+    <p rend="v">
+     Но мучитъ меня отъ рожденья
+    </p>
+    <p rend="v">
+     Грядущей ничтожности горькій залогъ,
+    </p>
+    <p rend="v">
+     Томящая грусть и сомнѣнья.
+    </p>
+   </div>
+  </div>
+  <p rend="center">
+   ————
+  </p>
+  <p rend="center">
+   <pb n="303"/>
+  </p>
+ </text>
+</TEI>

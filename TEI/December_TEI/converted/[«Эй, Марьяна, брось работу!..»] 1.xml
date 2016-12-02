@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     [«Эй, Марьяна, брось работу!..»]
+    </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>
+      подготовка TEI/XML
+     </resp>
+     <name>
+      Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      Школа лингвистики НИУ ВШЭ
+     </orgName>
+    </publisher>
+    <availability>
+     <p>
+      Тексты и метатекстовая разметка доступны для свободного использования и распространения по      лицензии Creative Commons Attribution Share-Alike (cc by-sa)
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">
+       [«Эй, Марьяна, брось работу!..»]
+      </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 1
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       1
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1853">
+     1853
+    </date>
+    <rs type="country">
+     Россия
+    </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.поэзия" type="type"/>
+   </textClass>
+   <preparedness>
+    finished
+   </preparedness>
+   <settingDesc>
+    <time>
+     XIX век
+    </time>
+   </settingDesc>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType>
+    old
+   </orthographyType>
+   <versionNumber>
+    ver2
+   </versionNumber>
+   <isFinished>
+    finished
+   </isFinished>
+   <isEdited>
+    not edited
+   </isEdited>
+   <p>
+    Проект
+    <title>
+     Толстой.Digital
+    </title>
+    разрабатывается сотрудниками и студентами
+    <orgName>
+     Высшей школы экономики
+    </orgName>
+    в сотрудничестве с
+    <orgName>
+     Государственным музеем Л.Н.     Толстого
+    </orgName>
+    . Источник текстов –
+    <bibl>
+     90-томное собрание сочинений Л.Н.Толстого
+    </bibl>
+    . Разметка основана на стандарте
+    <ref target="http://www.tei-c.org">
+     TEI (Text Encoding     Initiative)
+    </ref>
+    .
+   </p>
+   <fullBibliographicDescription>
+    "Л.Н. Толстой. Полное собрание сочинений. Серия первая ""Произведения"". Том 1. Государственное издательство ""Художественная литература"", Москва — 1935."
+   </fullBibliographicDescription>
+  </xenoData>
+ </teiHeader>
+ <text>
+  <p rend="center">
+   III.
+  </p>
+  <div rend="poem">
+   <div rend="stanza left">
+    <p rend="v">
+     Эй, Марьяна, брось работу!
+    </p>
+    <p rend="v">
+     Слышишь, палятъ за горой:
+    </p>
+    <p rend="v">
+     Вѣрно наши изъ походу
+    </p>
+    <p rend="v">
+     Казаки идутъ домой.
+    </p>
+    <p rend="v">
+     Выходи же на мосточикъ
+    </p>
+    <p rend="v">
+     Съ хлѣбомъ солью ихъ встрѣчать.
+    </p>
+    <p rend="v">
+     <pb n="300"/>
+     Теперь будетъ твой побочинъ
+    </p>
+    <p rend="v">
+     Круглу ночь съ тобой гулять.
+    </p>
+    <p rend="v">
+     Красной шелковой сорочкой
+    </p>
+    <p rend="v">
+     Косу русую свяжи,
+    </p>
+    <p rend="v">
+     Вздѣнь чувяки съ оторочкой
+    </p>
+    <p rend="v">
+     И со стрѣлками чулки,
+    </p>
+    <p rend="v">
+     Вздѣнь подшейникъ и монисто
+    </p>
+    <p rend="v">
+     Изъ серебрянныхъ монетъ,
+    </p>
+    <p rend="v">
+     Прибери головку чисто
+    </p>
+    <p rend="v">
+     И надѣнь красный бешметъ.
+    </p>
+    <p rend="v">
+     Да скорѣе, молодица:
+    </p>
+    <p rend="v">
+     Вонъ навстрѣчу казакамъ
+    </p>
+    <p rend="v">
+     Съ чихиремъ ужъ вся станица
+    </p>
+    <p rend="v">
+     Собралася къ воротамъ.
+    </p>
+    <p rend="v">
+     Изъ подъ ручки на дорогу
+    </p>
+    <p rend="v">
+     Глядятъ пристально. Въ пыли
+    </p>
+    <p rend="v">
+     Вотъ ужъ видно, слава Богу,
+    </p>
+    <p rend="v">
+     Показалися значки;
+    </p>
+    <p rend="v">
+     Слышно пѣсню запѣваютъ:
+    </p>
+    <p rend="v">
+     «Да не по горамъ-горамъ»,
+    </p>
+    <p rend="v">
+     Кверху пульками стрѣляютъ,
+    </p>
+    <p rend="v">
+     Бьютъ плетьми по лошадямъ.
+    </p>
+    <p rend="v">
+     Передъ сотней ѣдетъ браво
+    </p>
+    <p rend="v">
+     Въ тонкомъ бѣломъ зипунѣ
+    </p>
+    <p rend="v">
+     Сотникъ Сехинъ; а направо
+    </p>
+    <p rend="v">
+     На игреневомъ конѣ
+    </p>
+    <p rend="v">
+     Грунинъ Ванька, вонъ Степанка,
+    </p>
+    <p rend="v">
+     Вонъ Малашкинъ Родіонъ.
+    </p>
+    <p rend="v">
+     — Твой побочинъ гдѣ жъ, Марьянка?
+    </p>
+    <p rend="v">
+     Что такъ сзади ѣдетъ онъ?
+    </p>
+    <p rend="v">
+     Али конь его хромаетъ?
+    </p>
+    <p rend="v">
+     Али, бедный, онъ ужъ пьянъ?
+    </p>
+    <p rend="v">
+     Да скажите же, кто знаетъ,
+    </p>
+    <p rend="v">
+     Гдѣ батяка Купріянъ?
+    </p>
+    <p rend="v">
+     — «Купріяшка душу Богу
+    </p>
+    <p rend="v">
+     Отдалъ», сотникъ ей сказалъ
+    </p>
+    <p rend="v">
+     И печально на дорогу
+    </p>
+    <p rend="v">
+     Головою указалъ.
+    </p>
+    <p rend="v">
+     У Марьянѣ сердце сжалось,
+    </p>
+    <p rend="v">
+     Оглянулася она:
+    </p>
+    <p rend="v">
+     Вслѣдъ за сотней подвигалась
+    </p>
+    <p rend="v">
+     Шагомъ конная арба.
+    </p>
+    <p rend="v">
+     На арбѣ покрытый буркой,
+    </p>
+    <p rend="v">
+     Трупъ убитого лежалъ,
+    </p>
+    <p rend="v">
+     Купріяшкина винтовка,
+    </p>
+    <p rend="v">
+     Его шашка и кинжалъ. —
+    </p>
+   </div>
+  </div>
+  <p rend="right right">
+   (Гадко). 1853, 16 апрѣля
+   <lb/>
+   Червленная.
+  </p>
+  <p rend="center">
+   <pb n="301"/>
+  </p>
+  <lb/>
+ </text>
+</TEI>
