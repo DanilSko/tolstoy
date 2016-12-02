@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     [«Он не мог ни уехать, ни оставаться...»]
+    </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>
+      подготовка TEI/XML
+     </resp>
+     <name>
+      Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      Школа лингвистики НИУ ВШЭ
+     </orgName>
+    </publisher>
+    <availability>
+     <p>
+      Тексты и метатекстовая разметка доступны для свободного использования и распространения по      лицензии Creative Commons Attribution Share-Alike (cc by-sa)
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">
+       [«Он не мог ни уехать, ни оставаться...»]
+      </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 5
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       5
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1858">
+     1858
+    </date>
+    <rs type="country">
+     Россия
+    </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.отрывок" type="type"/>
+   </textClass>
+   <preparedness>
+    not finished
+   </preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType>
+    old
+   </orthographyType>
+   <versionNumber/>
+   <isFinished>
+    not finished
+   </isFinished>
+   <isEdited>
+    not edited
+   </isEdited>
+   <p>
+    Проект
+    <title>
+     Толстой.Digital
+    </title>
+    разрабатывается сотрудниками и студентами
+    <orgName>
+     Высшей школы экономики
+    </orgName>
+    в сотрудничестве с
+    <orgName>
+     Государственным музеем Л.Н.     Толстого
+    </orgName>
+    . Источник текстов –
+    <bibl>
+     90-томное собрание сочинений Л.Н.Толстого
+    </bibl>
+    . Разметка основана на стандарте
+    <ref target="http://www.tei-c.org">
+     TEI (Text Encoding     Initiative)
+    </ref>
+    .
+   </p>
+   <fullBibliographicDescription>
+    "Л.Н. Толстой. Полное собрание сочинений. Серия первая ""Произведения"". Том 5. Государственное издательство «Художественная литература», Москва — 1935."
+   </fullBibliographicDescription>
+  </xenoData>
+ </teiHeader>
+ <text>
+  <div rend="section" xml:id="ref14">
+   <head rend="title_level3 center">
+    * V.
+    <lb/>
+    [ОТРЫВОК БЕЗ ЗАГЛАВИЯ.]
+   </head>
+   <p rend="left">
+    Онъ не могъ ни уѣхать, ни оставаться. Уѣхать не могъ, потому что денегъ не было и потому что безъ вечеровъ у Пушковыхъ ему не представлялась возможность жить. А каждый вечеръ онъ выходилъ отъ нихъ съ чувствомъ сосущей тоски и говорилъ себѣ: выжатъ, выжатъ апельсинъ. Тотъ самый апельсинатъ, который она ѣла при немъ. А оставаться не могъ, потому что столько было насплетничано и пересплетничано вокругъ него съ нею, и между имъ и ею были такія отношенія, которыя можно было только чувствовать, но не понимать. Она ли отказала ему, онъ ли ей? — Кто кого обманулъ
+    <note n="n177">
+     <div rend="section" xml:id="n177">
+      <head>
+       <ref target="#backn177">
+        177
+       </ref>
+      </head>
+      <p>
+       <hi rend="em">
+        Дальше зачеркнуто не до конца, а лишь по первым четырем буквам слово:
+       </hi>
+       разочаровалъ.
+      </p>
+     </div>
+    </note>
+    <add n="n178" stage="в подлиннике">
+     <p>
+      отношенія.
+     </p>
+    </add>
+   </p>
+  </div>
+ </text>
+</TEI>

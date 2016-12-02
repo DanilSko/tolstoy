@@ -1,0 +1,525 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Сказка
+    </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>
+      подготовка TEI/XML
+     </resp>
+     <name>
+      Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      Школа лингвистики НИУ ВШЭ
+     </orgName>
+    </publisher>
+    <availability>
+     <p>
+      Тексты и метатекстовая разметка доступны для свободного использования и распространения по      лицензии Creative Commons Attribution Share-Alike (cc by-sa)
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">
+       Сказка
+      </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 17
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="1936"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       17
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1873">
+     1873
+    </date>
+    <rs type="country">
+     Россия
+    </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.отрывок, сказка" type="type"/>
+   </textClass>
+   <preparedness>
+    not finished
+   </preparedness>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType/>
+   <versionNumber/>
+   <isFinished>
+    not finished
+   </isFinished>
+   <isEdited>
+    not edited
+   </isEdited>
+   <p>
+    Проект
+    <title>
+     Толстой.Digital
+    </title>
+    разрабатывается сотрудниками и студентами
+    <orgName>
+     Высшей школы экономики
+    </orgName>
+    в сотрудничестве с
+    <orgName>
+     Государственным музеем Л.Н.     Толстого
+    </orgName>
+    . Источник текстов –
+    <bibl>
+     90-томное собрание сочинений Л.Н.Толстого
+    </bibl>
+    . Разметка основана на стандарте
+    <ref target="http://www.tei-c.org">
+     TEI (Text Encoding     Initiative)
+    </ref>
+    .
+   </p>
+   <fullBibliographicDescription>
+    Л.Н. Толстой. Полное собрание сочинений. Серия первая «Произведения». Том 17. Государственное издательство «Художественная литература», Москва — 1936.
+   </fullBibliographicDescription>
+  </xenoData>
+ </teiHeader>
+ <text>
+  <div rend="section" xml:id="h000011">
+   <head rend="center">
+    <hi rend="strong">
+     НЕОПУБЛИКОВАННОЕ, НЕОТДЕЛАННОЕ
+    </hi>
+    <lb/>
+    <hi rend="strong">
+     И НЕОКОНЧЕННОЕ
+    </hi>
+   </head>
+  </div>
+  <div rend="section" xml:id="h000011001">
+   <head rend="center">
+    * СКАЗКА.
+   </head>
+   <p rend="left">
+    ...... и я потерялъ сознаніе. Когда я очнулся, я былъ уже не на пескѣ, не въ пустынѣ, а
+    <note n="n26">
+     <div rend="section" xml:id="n26">
+      <head>
+       <ref target="#backn26">
+        26
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зачеркнуто
+       </hi>
+       : &lt;подъ тѣнью кактуса подлѣ шалаша&gt; въ домѣ
+      </p>
+     </div>
+    </note>
+    на постелѣ между
+    <note n="n27">
+     <div rend="section" xml:id="n27">
+      <head>
+       <ref target="#backn27">
+        27
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       людьми
+      </p>
+     </div>
+    </note>
+    живыми существами. — Два
+    <note n="n28">
+     <div rend="section" xml:id="n28">
+      <head>
+       <ref target="#backn28">
+        28
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Переправлено из:
+       </hi>
+       Двѣ.
+       <hi rend="em">
+        Далее зачеркнуто
+       </hi>
+       : женщины одна молодая, другая старая
+      </p>
+     </div>
+    </note>
+    такія существа сидѣли на скамьѣ подлѣ меня — одно било масло въ бутыли, другое плело
+    <note n="n29">
+     <div rend="section" xml:id="n29">
+      <head>
+       <ref target="#backn29">
+        29
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       что
+      </p>
+     </div>
+    </note>
+    какое то торпище (?).
+    <note n="n30">
+     <div rend="section" xml:id="n30">
+      <head>
+       <ref target="#backn30">
+        30
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач:
+       </hi>
+       Мущина
+      </p>
+     </div>
+    </note>
+    Третье существо сидѣло у стола и что то дѣлало.
+    <note n="n31">
+     <div rend="section" xml:id="n31">
+      <head>
+       <ref target="#backn31">
+        31
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       Они
+      </p>
+     </div>
+    </note>
+    Увидавъ, что я очнулся, они переговорили что-то на неизвѣстномъ мнѣ языкѣ и дружелюбными знаками показали мнѣ, что я не долженъ ихъ бояться. Въ тотъ же день я всталъ и могъ
+    <note n="n32">
+     <div rend="section" xml:id="n32">
+      <head>
+       <ref target="#backn32">
+        32
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       пройти
+      </p>
+     </div>
+    </note>
+    ходить,
+    <note n="n33">
+     <div rend="section" xml:id="n33">
+      <head>
+       <ref target="#backn33">
+        33
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.
+       </hi>
+       : по комнатѣ
+      </p>
+     </div>
+    </note>
+    на другой день я
+    <note n="n34">
+     <div rend="section" xml:id="n34">
+      <head>
+       <ref target="#backn34">
+        34
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       уже могъ сойти съ лѣстницы и ходить по надворью
+      </p>
+     </div>
+    </note>
+    почувствовалъ еще болѣе силы и скоро совсѣмъ поправился. Я два года прожилъ въ этомъ городѣ неизвѣстной середины Африки, называемомъ городомъ Дюлей,
+    <note n="n35">
+     <div rend="section" xml:id="n35">
+      <head>
+       <ref target="#backn35">
+        35
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Переправлено из:
+       </hi>
+       людей
+      </p>
+     </div>
+    </note>
+    и успѣлъ
+    <note n="n36">
+     <div rend="section" xml:id="n36">
+      <head>
+       <ref target="#backn36">
+        36
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       изуч[ить]
+      </p>
+     </div>
+    </note>
+    узнать ихъ
+    <note n="n37">
+     <div rend="section" xml:id="n37">
+      <head>
+       <ref target="#backn37">
+        37
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       знак
+      </p>
+     </div>
+    </note>
+    языкъ, характеръ, образъ правленія и жизни и ихъ занятія. — Первое, что поразило меня въ жизни Дюлей, было необыкновенная плачевность и быстротечность ихъ жизни. Всѣ люди, которыхъ я видѣлъ, носили на себѣ очевиднѣйшіе зародыши смерти, и всѣ на моихъ глазахъ съ каждымъ днемъ, съ каждымъ часомъ, съ каждой минутой
+    <note n="n38">
+     <div rend="section" xml:id="n38">
+      <head>
+       <ref target="#backn38">
+        38
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       гни[ли]
+      </p>
+     </div>
+    </note>
+    таяли или, если по правдѣ сказать, гнили. Каждый день я замѣчалъ, какъ они морщились, калянѣли, вывѣтривались, изъ нихъ выпадали зубы, волоса, и они мерли, другіе
+    <note n="n39">
+     <div rend="section" xml:id="n39">
+      <head>
+       <ref target="#backn39">
+        39
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       не успѣвали даже
+      </p>
+     </div>
+    </note>
+    еще не вывѣтривались и не сгнивали, подрѣзывались иногда въ зародышѣ какой то невидимой рукой и мерли. Но всѣ Дюли несмотря на это очевидно
+    <pb n="136"/>
+    были лишены способности видѣть тотъ законъ смерти, подъ которымъ они были рождены, и наблюдали очень тонко многое постороннее, но не видѣли того, что они не живутъ, а только разными
+    <note n="n40">
+     <div rend="section" xml:id="n40">
+      <head>
+       <ref target="#backn40">
+        40
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зачеркнуто:
+       </hi>
+       способами
+      </p>
+     </div>
+    </note>
+    путями умираютъ. Когда я выучился ихъ языку, я нѣсколько разъ хотѣлъ обратить на это ихъ вниманіе, но на языкѣ ихъ не было для того настоящихъ словъ.
+    <note n="n41">
+     <div rend="section" xml:id="n41">
+      <head>
+       <ref target="#backn41">
+        41
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       &lt;Я&gt; Черезъ мѣсяцъ послѣ моего поселенія въ Дюлевскомъ городѣ, я помню въ одно воскресенье
+      </p>
+     </div>
+    </note>
+    Я прожилъ 18 лѣтъ среди этаго народа и сообразно съ предположеніями этно- и географовъ нашелъ этотъ народъ дикимъ, но въ противность общему поверхностному мнѣнію о дикости, я не нашелъ ихъ
+    <hi rend="em">
+     просто
+    </hi>
+    дикими, т. е. съ отсутствіемъ сложности жизни; но я нашелъ въ нихъ жизнь весьма сложную, возникшую изъ вѣковыхъ историческихъ условій. Дикими же я ихъ считаю потому, что несмотря на то, что нѣкоторыя матерьяльныя стороны жизни ихъ были весьма и весьма усложнены, у нихъ были только начатки понятій о наукѣ, о философіи, о религіи,
+    <note n="n42">
+     <div rend="section" xml:id="n42">
+      <head>
+       <ref target="#backn42">
+        42
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       отношеніяхъ людей
+      </p>
+     </div>
+    </note>
+    и начатки столь запутанные, кривотолковыя, что только съ большимъ трудомъ послѣ 10 лѣтъ жизни и изученія ихъ языка и нравовъ я сталъ понемногу понимать ихъ, и въ настоящемъ сочиненіи попытаюсь изложить ихъ, какъ они мнѣ открывались. —
+   </p>
+   <p rend="left">
+    1) Браки и семьи, 2) собственность, 3) суды, 4) администрация, 5) торговля и богатство, 6) обученіе, 7) наука, 8) религія. Дюли подраздѣляютъ себя на много различныхъ подраздѣленій, кастъ и сословій, имѣющія каждое свой отличительный знакъ.
+    <note n="n43">
+     <div rend="section" xml:id="n43">
+      <head>
+       <ref target="#backn43">
+        43
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       большей частью
+      </p>
+     </div>
+    </note>
+    Отличіе это состоитъ въ цвѣтѣ и количествѣ пуговицъ, которыя они носятъ на колпачкахъ. Но подраздѣленія эти не существенны. Одно настоящее подраздѣленіе есть слѣдующее: Дюли работающіе, т. е. производящіе что нибудь новое, посредствомъ труда, и дюли
+    <note n="n44">
+     <div rend="section" xml:id="n44">
+      <head>
+       <ref target="#backn44">
+        44
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        В подлиннике описка:
+       </hi>
+       люди
+      </p>
+     </div>
+    </note>
+    разрушающіе, уничтожающіе. — Первые преимущественно живутъ въ деревняхъ,
+    <note n="n45">
+     <div rend="section" xml:id="n45">
+      <head>
+       <ref target="#backn45">
+        45
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        В подлиннике описка:
+       </hi>
+       городахъ
+      </p>
+     </div>
+    </note>
+    вторые въ городахъ.
+    <note n="n46">
+     <div rend="section" xml:id="n46">
+      <head>
+       <ref target="#backn46">
+        46
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        В подлиннике описка:
+       </hi>
+       деревняхъ
+      </p>
+     </div>
+    </note>
+    Въ противность того, что можно бы ожидать, производ[ители] пользуются презрѣніемъ, a уничтожающіе — почетомъ и тѣмъ большимъ почетомъ, чѣмъ больше они уничтожаютъ. Отсюда стремленіе производи[телей] перейти въ разрядъ уничтожающихъ, вслѣдствіи того уменьшеніе производ[ителей].
+    <note n="n47">
+     <div rend="section" xml:id="n47">
+      <head>
+       <ref target="#backn47">
+        47
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Зач.:
+       </hi>
+       и вслѣдствiи того увеличение труда остающихся производит[елей]
+      </p>
+     </div>
+    </note>
+    Въ бесѣдѣ нашей я спросилъ, для чего такъ. Мнѣ отвѣчали: для того, чтобы потребителямъ лучше жить. Но которые скорѣе гніютъ? Потребители.
+   </p>
+   <p rend="center">
+    ————
+   </p>
+  </div>
+ </text>
+</TEI>

@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Солдатские разговоры
+    </title>
+    <author>
+     Толстой Л.Н.
+    </author>
+    <respStmt>
+     <resp>
+      подготовка TEI/XML
+     </resp>
+     <name>
+      Мария Картышева, Евгений Можаев, Даниил Скоринкин, Елена Сидорова
+     </name>
+    </respStmt>
+    <respStmt>
+     <name>
+      Анастасия Бонч-Осмоловская, Фёкла Толстая, Борис Орехов
+     </name>
+     <resp>
+      Идея, постановка задач, руководство
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      Школа лингвистики НИУ ВШЭ
+     </orgName>
+    </publisher>
+    <availability>
+     <p>
+      Тексты и метатекстовая разметка доступны для свободного использования и распространения по      лицензии Creative Commons Attribution Share-Alike (cc by-sa)
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <author>
+       Толстой Л.Н.
+      </author>
+      <title level="a">
+       Солдатские разговоры
+      </title>
+     </analytic>
+     <monogr>
+      <title level="m">
+       Полное собрание сочинений. Серия первая "Произведения". Том 4
+      </title>
+      <imprint>
+       <pubPlace>
+        Москва
+       </pubPlace>
+       <publisher>
+        Государственное издательство "Художественная литература"
+       </publisher>
+       <date when="1935"/>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       Л.Н. Толстой. Полное собрание сочинений
+      </title>
+      <biblScope unit="vol">
+       4
+      </biblScope>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <xi:include href="taxonomy.xml"/>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date when="1855">
+     1855
+    </date>
+    <rs type="country">
+     Россия
+    </rs>
+   </creation>
+   <textClass>
+    <catRef target="#художественная" type="sphere"/>
+    <catRef target="#художественная.отрывок" type="type"/>
+   </textClass>
+   <preparedness>
+    not finished
+   </preparedness>
+   <settingDesc>
+    <time>
+     XIX век
+    </time>
+   </settingDesc>
+  </profileDesc>
+  <xenoData>
+   <cyclusName/>
+   <orthographyType>
+    old
+   </orthographyType>
+   <versionNumber/>
+   <isFinished>
+    not finished
+   </isFinished>
+   <isEdited>
+    not edited
+   </isEdited>
+   <p>
+    Проект
+    <title>
+     Толстой.Digital
+    </title>
+    разрабатывается сотрудниками и студентами
+    <orgName>
+     Высшей школы экономики
+    </orgName>
+    в сотрудничестве с
+    <orgName>
+     Государственным музеем Л.Н.     Толстого
+    </orgName>
+    . Источник текстов –
+    <bibl>
+     90-томное собрание сочинений Л.Н.Толстого
+    </bibl>
+    . Разметка основана на стандарте
+    <ref target="http://www.tei-c.org">
+     TEI (Text Encoding     Initiative)
+    </ref>
+    .
+   </p>
+   <fullBibliographicDescription>
+    "Л.Н. Толстой. Полное собрание сочинений. Серия первая ""Произведения"". Том 4. Государственное издательство «Художественная литература», Москва — 1935."
+   </fullBibliographicDescription>
+  </xenoData>
+ </teiHeader>
+ <text>
+  <div rend="section" xml:id="h000013001006">
+   <head rend="center">
+    VI.
+    <lb/>
+    * [СОЛДАТСКИЕ РАЗГОВОРЫ.]
+    <note n="n76">
+     <div rend="section" xml:id="n76">
+      <head>
+       <ref target="index.xhtml#backn76">
+        76
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        Имена, названия и характеристики действующих лиц в рукописи Толстого не всегда выделены и подчеркнуты; поэтому курсив дополнен от редактора; р вно им же введен курсив и в ремарках автора.
+       </hi>
+      </p>
+     </div>
+    </note>
+   </head>
+   <p rend="left">
+    Разговоръ духовно-поэтическій — о мертвецахъ — о 24-мъ — о политикѣ — этнографія и географія — шуточный съ Васинымъ. —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Волковъ молодой розовый солдатикъ съ височками А[лександръ] I.
+    </hi>
+    — Я нынче сонъ видалъ, будто меня мать кашей кормила.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Кузъминъ бакенб[ардистъ], І-ый №.
+    </hi>
+    И что ни приснится! другой разъ летаешь.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     В[олковъ].
+    </hi>
+    И такъ будто хорошо, выше хатъ, меня разъ за ногу поймалъ солда[тъ] М[ельниковъ], а то офицеръ что-то хотѣлъ надо мной исдѣлать, я взялъ и улетѣлъ отъ него. —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Абросимовъ.
+    </hi>
+    И что это такое значитъ, братцы мои, что летаешь?
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     3-ій.
+    </hi>
+    Душа летаетъ. —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     4.
+    </hi>
+    Да, это точно.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Молчанье.
+    </hi>
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Молод[ой] и красивый солдатъ съ немного жидовской
+    </hi>
+    <note n="n77">
+     <div rend="section" xml:id="n77">
+      <head>
+       <ref target="index.xhtml#backn77">
+        77
+       </ref>
+      </head>
+      <p rend="left">
+       <hi rend="em">
+        См. Словарь трудных для понимания слов.
+       </hi>
+      </p>
+     </div>
+    </note>
+    <hi rend="em">
+     физіономіей.
+    </hi>
+    Куда же она летаитъ? —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     3-ій.
+    </hi>
+    Извѣстно въ кабакъ. Куда больше. —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Стар[ый] солд[атъ].
+    </hi>
+    А это, что точно все наши телѣса, а душа совсѣмъ особо; коли какія глупости, все присни[тся], вѣд[ь], теперь, что см[е]рти каждый часъ ждемъ, и ежели бы какая дѣвка пришл[а] сюда. —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     В[олков?].
+    </hi>
+    Я бъ ее въ балаганъ затащилъ.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Ст[арый солдат].
+    </hi>
+    Нѣтъ. Я бы теперь ни за что бы не сталъ.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     М[олодой солдатъ].
+    </hi>
+    Ну все бы побаловался. —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     В[олков?].
+    </hi>
+    А что, братцы, вѣдь, мы здѣсь всѣ скоро отслужимъ мѣсяцъ за годъ. Да вотъ Мел[ьн]икову [?] всег[о] 2 мѣсяца простоять и отпускъ, какъ замиренье будетъ.
+   </p>
+   <p rend="left">
+    <pb n="298"/>
+    <hi rend="em">
+     Ст[арый солдатъ].
+    </hi>
+    Кады замиренье, то, я чай, всѣхъ отпустятъ.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Ва[синъ?].
+    </hi>
+    Замиренье еще въ 56 году будетъ, еще нов[ый] Царь, чай, смотрѣть будетъ. —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Штуцерная пуля свистит и ударяетъ
+    </hi>
+    <add n="n78" stage="в подлиннике">
+     <p rend="left">
+      ударяя
+     </p>
+    </add>
+    <hi rend="em">
+     въ
+     <hi rend="sup">
+      1
+     </hi>
+     /
+     <hi rend="sub">
+      2
+     </hi>
+     арш. отъ молодаго.
+    </hi>
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Ст[apый].
+    </hi>
+    Вонъ еще до вечера чистая выйдетъ. —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Хохотъ. Свистъ и удар ядра.
+    </hi>
+   </p>
+   <p rend="left">
+    Вѣдь пополамъ разнесетъ.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     1
+    </hi>
+    )Я видалъ, клали, на возъ цѣлый.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     2
+    </hi>
+    )Ужъ арестанты насмѣются же дурно этакъ, голова о голову, и стучитъ. Мы намѣдни смотрѣли, народу много собралось, такъ арестанта духъ отбиваетъ, народъ за вѣтромъ, онъ разгоняетъ, взялъ колошматину, да какъ пуститъ по народъ, такъ гноемъ закидалъ. Всѣхъ бы васъ, говоритъ, сюда накласть. Ужъ его попъ началъ за эти слова.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Д.
+    </hi>
+    Чтожъ, въ отчаянности.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Политической.
+    </hi>
+    Развѣ у нихъ присяги нѣтъ? Вѣдь онъ бунтовщикъ?
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     В.
+    </hi>
+    Нѣтъ, онъ такой государство, значитъ.
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Про 24.
+    </hi>
+    Значитъ, видитъ, въ сапогъ затекло, — вижу падать надо, взялъ ударился оземь. —
+   </p>
+   <p rend="left">
+    <hi rend="em">
+     Этнограф[ія]. Въ Валахіи кругомъ приставки.
+    </hi>
+   </p>
+   <p rend="center">
+    ————
+   </p>
+   <p rend="left">
+    <pb n="299"/>
+   </p>
+  </div>
+ </text>
+</TEI>
