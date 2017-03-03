@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="429735" markupID="2123" OntoTechnologyVersion="2.6.3.36"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:Basic="http://www.abbyy.com/ns/Basic#" xmlns:TestOnto="http://www.abbyy.com/ns/TestOnto#" xmlns:BasicFact="http://www.abbyy.com/ns/BasicFact#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<BasicFact:Opinion rdf:nodeID="bnodeFFAE446D-82F1-46D7-81EC-B2EC30886AA4">
+		<BasicFact:speaker rdf:nodeID="bnode3F7D7575-36FB-421F-BC44-4D443444E961"/>
+		<BasicFact:text xml:lang="ru-RU">как бесконечно малая величина</BasicFact:text>
+	</BasicFact:Opinion>
+	<Basic:FactParticipant rdf:nodeID="bnode67A8E14D-EC5B-494A-9F7F-A0021BACF7FF">
+		<rdfs:label xml:lang="ru-RU">математик</rdfs:label>
+	</Basic:FactParticipant>
+	<BasicFact:Opinion rdf:nodeID="bnode94987F9B-EE84-4DF1-865C-475CC848AF45">
+		<BasicFact:speaker rdf:nodeID="bnode3F7D7575-36FB-421F-BC44-4D443444E961"/>
+		<BasicFact:text xml:lang="ru-RU">в совершенной недоступности причин</BasicFact:text>
+	</BasicFact:Opinion>
+	<Basic:FactParticipant rdf:nodeID="bnode06AEDC93-5E5B-4D8D-A4CB-F0F53BECA1C4">
+		<rdfs:label xml:lang="ru-RU">Ньютон</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnode7C255FC5-8D63-42F8-BBFC-851586945F33">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Отступая от понятия о причине, математика отыскивает закон, то есть свойства, общие всем неизвестным бесконечно малым элементам.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">математик</rdfs:label>
+	</TestOnto:PersonForViM>
+	<Basic:FactParticipant rdf:nodeID="bnode4FCEB7EC-79A8-43A8-8548-A1F951F739F7">
+		<rdfs:label xml:lang="ru-RU">человек</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnodeB6C1F8BF-9F02-4D1A-8258-C4EDBAE4B2DF">
+		<rdfs:label xml:lang="ru-RU">Ньютон</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode5F9DC2E7-C5EB-43E0-91C3-87A80FD100A5">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode3E9575FF-1D46-47B3-BC8A-640DCF0D88FB">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Для истории признание свободы людей как силы, могущей влиять на исторические события, то есть не подчиненной законам,- есть то же, что для астрономии признание свободной силы движения небесных сил.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_Quotation"/>
+		<TestOnto:speech_structure rdf:resource="http://www.abbyy.com/ns/TestOnto#SK_structure"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode5F9DC2E7-C5EB-43E0-91C3-87A80FD100A5"/>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">894</TestOnto:verb_lex_class>
+		<BasicFact:speaker rdf:nodeID="bnode5F9DC2E7-C5EB-43E0-91C3-87A80FD100A5"/>
+		<TestOnto:auth xml:lang="ru-RU">- есть то же, что для астрономии признание свободной силы движения небесных сил.</TestOnto:auth>
+		<TestOnto:adjectives xml:lang="ru-RU">историческое</TestOnto:adjectives>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">История рассматривает проявления свободы человека в связи с внешним миром во времени и в зависимости от причин, то есть определяет эту свободу законами разума, и потому история только настолько есть наука, насколько эта свобода определена этими законами.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">есть</TestOnto:speech_predicate>
+		<TestOnto:verbs xml:lang="ru-RU">влияет</TestOnto:verbs>
+		<TestOnto:speech_structure_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</TestOnto:speech_structure_number>
+		<BasicFact:text xml:lang="ru-RU">Для истории признание свободы людей как силы, могущей влиять на исторические события, то есть не подчиненной законам,</BasicFact:text>
+		<TestOnto:nouns xml:lang="ru-RU">закон</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">история</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">признание</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">свобода</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">сила</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">событие</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">человек</TestOnto:nouns>
+	</TestOnto:LNT_Speech>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode73E4EF66-6495-494F-9218-7FB3356B80CC">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Когда Ньютон высказал закон тяготения, он не сказал, что солнце или земля имеет свойство притягивать; он сказал, что всякое тело, от крупнейшего до малейшего, имеет свойство как бы притягивать одно другое, то есть, оставив в стороне вопрос о причине движения тел, он выразил свойство, общее всем телам, от бесконечно великих до бесконечно малых.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+		<BasicFact:speaker rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+		<BasicFact:text xml:lang="ru-RU">закон тяготения</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Хотя и в другой форме, но по тому же пути мышления шли и другие науки.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">высказал</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnode5D15DE52-0F98-4C72-B178-312497D46253">
+		<rdfs:label xml:lang="ru-RU">тела</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode5FECF5C5-BF91-445F-A21E-005135CA4ACB">
+		<rdfs:label xml:lang="ru-RU">Кеплер</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode3F7D7575-36FB-421F-BC44-4D443444E961">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">мы</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode7B0A887F-C0DE-462F-AFDC-696104D5822A">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Когда Ньютон высказал закон тяготения, он не сказал, что солнце или земля имеет свойство притягивать; он сказал, что всякое тело, от крупнейшего до малейшего, имеет свойство как бы притягивать одно другое, то есть, оставив в стороне вопрос о причине движения тел, он выразил свойство, общее всем телам, от бесконечно великих до бесконечно малых.</TestOnto:store_this_sentence>
+		<TestOnto:speech_comment_type rdf:resource="http://www.abbyy.com/ns/TestOnto#WithConjunctVerb"/>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">он сказал, что всякое тело, от крупнейшего до малейшего, имеет свойство как бы притягивать одно другое</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">то есть, оставив в стороне вопрос о причине движения тел, он выразил свойство, общее всем телам, от бесконечно великих до бесконечно малых</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:speaker_aux rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+		<BasicFact:speaker rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+		<BasicFact:text xml:lang="ru-RU"> солнце или земля имеет свойство притягивать</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Хотя и в другой форме, но по тому же пути мышления шли и другие науки.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">сказал</TestOnto:speech_predicate>
+		<TestOnto:store_comment_part xml:lang="ru-RU">он сказал, что всякое тело, от крупнейшего до малейшего, имеет свойство как бы притягивать одно другое</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">то есть, оставив в стороне вопрос о причине движения тел, он выразил свойство, общее всем телам, от бесконечно великих до бесконечно малых</TestOnto:store_comment_part>
+	</TestOnto:LNT_Speech>
+	<TestOnto:PersonForViM rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Если существует хоть одно свободно двигающееся тело, то не существует более законов Кеплера и Ньютона и не существует более никакого представления о движении небесных тел.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Когда Ньютон высказал закон тяготения, он не сказал, что солнце или земля имеет свойство притягивать; он сказал, что всякое тело, от крупнейшего до малейшего, имеет свойство как бы притягивать одно другое, то есть, оставив в стороне вопрос о причине движения тел, он выразил свойство, общее всем телам, от бесконечно великих до бесконечно малых.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Ньютон</rdfs:label>
+		<BasicEntity:surname xml:lang="ru-RU">Ньютон</BasicEntity:surname>
+	</TestOnto:PersonForViM>
+	<Basic:FactParticipant rdf:nodeID="bnode1131C191-43C5-43F5-9AFF-8422CC0F636D">
+		<rdfs:label xml:lang="ru-RU">человек</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnode0308C4CE-38E8-4269-BD50-D205F6E08848">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Если существует хоть одно свободно двигающееся тело, то не существует более законов Кеплера и Ньютона и не существует более никакого представления о движении небесных тел.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Кеплер</rdfs:label>
+		<BasicEntity:surname xml:lang="ru-RU">Кеплер</BasicEntity:surname>
+	</TestOnto:PersonForViM>
+	<Basic:FactParticipant rdf:nodeID="bnodeE74F1745-A54F-4673-A68D-44873990BFC0">
+		<rdfs:label xml:lang="ru-RU">наши</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnode2F2592FE-0425-485D-BB57-99E80FD89CD5">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Если существует один свободный поступок человека, то не существует ни одного исторического закона и никакого представления об исторических событиях.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">История рассматривает проявления свободы человека в связи с внешним миром во времени и в зависимости от причин, то есть определяет эту свободу законами разума, и потому история только настолько есть наука, насколько эта свобода определена этими законами.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">человек</rdfs:label>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode31C98185-42D4-4388-8DBF-4BD5AF360B92">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Когда Ньютон высказал закон тяготения, он не сказал, что солнце или земля имеет свойство притягивать; он сказал, что всякое тело, от крупнейшего до малейшего, имеет свойство как бы притягивать одно другое, то есть, оставив в стороне вопрос о причине движения тел, он выразил свойство, общее всем телам, от бесконечно великих до бесконечно малых.</TestOnto:store_this_sentence>
+		<TestOnto:speech_comment_type rdf:resource="http://www.abbyy.com/ns/TestOnto#WithConjunctVerb"/>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">Когда Ньютон высказал закон тяготения, он не сказал, что солнце или земля имеет свойство притягивать</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">то есть, оставив в стороне вопрос о причине движения тел, он выразил свойство, общее всем телам, от бесконечно великих до бесконечно малых</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:speaker_aux rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+		<BasicFact:speaker rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+		<BasicFact:text xml:lang="ru-RU"> всякое тело от крупнейшего до малейшего имеет свойство как бы притягивать одно другое</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Хотя и в другой форме, но по тому же пути мышления шли и другие науки.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">сказал</TestOnto:speech_predicate>
+		<TestOnto:store_comment_part xml:lang="ru-RU">Когда Ньютон высказал закон тяготения, он не сказал, что солнце или земля имеет свойство притягивать</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">то есть, оставив в стороне вопрос о причине движения тел, он выразил свойство, общее всем телам, от бесконечно великих до бесконечно малых</TestOnto:store_comment_part>
+	</TestOnto:LNT_Speech>
+	<Aux:TextAnnotations rdf:nodeID="bnodeEBF4ECB6-2C6A-44A1-9214-DBFF2D270192">
+		<Aux:document_text xml:lang="ru-RU">       История рассматривает проявления свободы человека в связи с внешним миром во времени и в зависимости от причин, то есть определяет эту свободу законами разума, и потому история только настолько есть наука, насколько эта свобода определена этими законами.       Для истории признание свободы людей как силы, могущей влиять на исторические события, то есть не подчиненной законам,- есть то же, что для астрономии признание свободной силы движения небесных сил.       Признание это уничтожает возможность существования законов, то есть какого бы то ни было знания. Если существует хоть одно свободно двигающееся тело, то не существует более законов Кеплера и Ньютона и не существует более никакого представления о движении небесных тел. Если существует один свободный поступок человека, то не существует ни одного исторического закона и никакого представления об исторических событиях.       Для истории существуют линии движения человеческих воль, один конец которых скрывается в неведомом, а на другом конце которых движется в пространстве во времени и в зависимости от причин сознание свободы людей в настоящем.       Чем более раздвигается перед нашими глазами это поприще движения, тем очевиднее законы этого движения. Уловить и определить эти законы составляет задачу истории.       С той точки зрения, с которой наука смотрит теперь на свой предмет, по тому пути, по которому она идет, отыскивая причины явлений в свободной воле людей, выражение законов для науки невозможно, ибо как бы мы ни ограничивали свободу людей, как только мы ее признали за силу, не подлежащую законам, существование закона невозможно.       Только ограничив эту свободу до бесконечности, то есть рассматривая ее как бесконечно малую величину, мы убедимся в совершенной недоступности причин, и тогда вместо отыскания причин история поставит своей задачей отыскание законов.       Отыскание этих законов уже давно начато, и те новые приемы мышления, которые должна усвоить себе история, вырабатываются одновременно с самоуничтожением, и которому, все дробя и дробя причины явлений, идет старая история.       По этому пути шли все науки человеческие. Придя к бесконечно малому, математика, точнейшая из наук, оставляет процесс дробления и приступает к новому процессу суммования неизвестных, бесконечно малых. Отступая от понятия о причине, математика отыскивает закон, то есть свойства, общие всем неизвестным бесконечно малым элементам.       Хотя и в другой форме, но по тому же пути мышления шли и другие науки. Когда Ньютон высказал закон тяготения, он не сказал, что солнце или земля имеет свойство притягивать; он сказал, что всякое тело, от крупнейшего до малейшего, имеет свойство как бы притягивать одно другое, то есть, оставив в стороне вопрос о причине движения тел, он выразил свойство, общее всем телам, от бесконечно великих до бесконечно малых. То же делают естественные науки: оставляя вопрос о причине, они отыскивают законы. На том же пути стоит и история. И если история имеет предметом изучения движения народов и человечества, а не описание эпизодов из жизни людей, то она должна, отстранив понятие причин, отыскивать законы, общие всем равным и неразрывно связанным между собою бесконечно малым элементам свободы.     </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode818FEA57-BA2B-4A44-8219-5E4D57ACA7BA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2F2592FE-0425-485D-BB57-99E80FD89CD5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode96A59283-D92A-41DF-972C-FB15371770ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1131C191-43C5-43F5-9AFF-8422CC0F636D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFE4531A9-7D93-4078-A1A7-AF1FF814158E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">387</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">391</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3E9575FF-1D46-47B3-BC8A-640DCF0D88FB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode78A0C99B-C5BA-4228-89BB-FAF31CAD6B09">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">653</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">660</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5FECF5C5-BF91-445F-A21E-005135CA4ACB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode78BA9DC4-79B5-4518-8425-EA49CF39A765">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">653</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">660</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0308C4CE-38E8-4269-BD50-D205F6E08848"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode707D7FA5-0680-40D6-B22D-F23671D3237B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">663</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">670</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFD2A01B4-E430-4AAE-B2F4-8958D8C8290F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">663</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">670</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode06AEDC93-5E5B-4D8D-A4CB-F0F53BECA1C4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE1A54673-4553-4366-9C64-92B2B58B6167">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">781</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">789</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FCEB7EC-79A8-43A8-8548-A1F951F739F7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6F1124A8-A36C-438E-9CDD-8CD0EDB7DFD2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">781</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">789</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2F2592FE-0425-485D-BB57-99E80FD89CD5"/>
+				<Aux:grouped_with rdf:nodeID="bnode818FEA57-BA2B-4A44-8219-5E4D57ACA7BA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode06AA6BEF-DDB9-4F77-AD19-6B8F40556593">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1154</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1160</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE74F1745-A54F-4673-A68D-44873990BFC0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFA32EC46-5433-4765-9396-DC3F5741A1BA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1684</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1696</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFFAE446D-82F1-46D7-81EC-B2EC30886AA4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode358D1CE3-D140-4A94-8365-5434A2DB9B89">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1731</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1733</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3F7D7575-36FB-421F-BC44-4D443444E961"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDD42CC7A-EC39-4DC2-968B-C08178879CF8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1734</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1742</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode94987F9B-EE84-4DF1-865C-475CC848AF45"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDC7E3667-19D2-47DC-9572-B3AA6D529367">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2327</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2337</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode67A8E14D-EC5B-494A-9F7F-A0021BACF7FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0E5E9F93-2AEB-46BF-AEDB-9F27CD06D2E2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2327</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2337</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7C255FC5-8D63-42F8-BBFC-851586945F33"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode50436124-69E4-43A5-94A7-1228A9E22FF4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2508</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2514</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB6C1F8BF-9F02-4D1A-8258-C4EDBAE4B2DF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCD55BD15-0286-4F80-B9B2-DEBB96A1825D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2508</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2514</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+				<Aux:grouped_with rdf:nodeID="bnode707D7FA5-0680-40D6-B22D-F23671D3237B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode09CD5CB0-F753-41CC-B5B8-2982C944A7DD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2515</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2523</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode73E4EF66-6495-494F-9218-7FB3356B80CC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5ED9A6E3-4BEB-4931-8E41-84D5A6F1A241">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2541</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2543</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB6C1F8BF-9F02-4D1A-8258-C4EDBAE4B2DF"/>
+				<Aux:grouped_with rdf:nodeID="bnode50436124-69E4-43A5-94A7-1228A9E22FF4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode33F2D38E-B8EC-4FFE-86E8-D9D22DD9C4C0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2541</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2543</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+				<Aux:grouped_with rdf:nodeID="bnode707D7FA5-0680-40D6-B22D-F23671D3237B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode30DDD4DC-B977-497F-971A-FB5EE81B778B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2547</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2553</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7B0A887F-C0DE-462F-AFDC-696104D5822A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE0090CBA-6BED-46A1-B6B5-DBC47EF2EDE1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2604</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2606</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB6C1F8BF-9F02-4D1A-8258-C4EDBAE4B2DF"/>
+				<Aux:grouped_with rdf:nodeID="bnode50436124-69E4-43A5-94A7-1228A9E22FF4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA84937E8-CD3B-4FD2-9625-CBFEF626FBD5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2604</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2606</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+				<Aux:grouped_with rdf:nodeID="bnode707D7FA5-0680-40D6-B22D-F23671D3237B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3F8053ED-649C-44B1-A61A-6D3A2C97E332">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2607</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2613</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode31C98185-42D4-4388-8DBF-4BD5AF360B92"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode323A9644-9456-4743-BB38-EA8E092D3B1A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2761</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2764</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D15DE52-0F98-4C72-B178-312497D46253"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBA7D1C24-808F-4A3D-9A33-DC465B9EB990">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2766</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2768</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2FFD81C3-6694-4146-B066-C9B825BD6AEA"/>
+				<Aux:grouped_with rdf:nodeID="bnode707D7FA5-0680-40D6-B22D-F23671D3237B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode73AD22A6-5B6F-4661-99CB-691EC1EBB82C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2766</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2768</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB6C1F8BF-9F02-4D1A-8258-C4EDBAE4B2DF"/>
+				<Aux:grouped_with rdf:nodeID="bnode50436124-69E4-43A5-94A7-1228A9E22FF4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="429719" markupID="2123" OntoTechnologyVersion="2.6.3.36"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:Basic="http://www.abbyy.com/ns/Basic#" xmlns:TestOnto="http://www.abbyy.com/ns/TestOnto#" xmlns:BasicFact="http://www.abbyy.com/ns/BasicFact#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<Basic:FactParticipant rdf:nodeID="bnodeD925E73D-9551-4935-AFC2-9881C154D1C8">
+		<rdfs:label xml:lang="ru-RU">Наполеон</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode5D1D11D8-DE4C-4AB7-866D-FD92D3493E0B"/>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode7ABBF5E6-CD70-4648-B773-6F44F07A0B23">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Единственное понятие, которое может объяснить движение паровоза, есть понятие силы, равной видимому движению.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnodeC89A2425-041B-4906-9FD9-83C563ADCF26"/>
+		<BasicFact:speaker rdf:nodeID="bnodeC89A2425-041B-4906-9FD9-83C563ADCF26"/>
+		<BasicFact:text xml:lang="ru-RU">движение паровоза</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Тот же, который объяснял движение паровоза относимым назад дымом, заметив, что объяснение о колесах не дает причины, взял первый попавшийся признак и, с своей стороны, выдал его за причину.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">объяснить</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<TestOnto:PersonForViM rdf:nodeID="bnode8CB9495E-AD9A-4F9F-A2C5-A170AE9A6226">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Для того чтобы его опровергнуть, надо, чтобы кто-нибудь доказал ему, что нет черта, или чтобы другой мужик объяснил, что не черт, а немец движет паровоз.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Мужик говорит: это черт движет его.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Мужик неопровержим.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Одни видят в нем силу, непосредственно присущую героям,- как мужик черта в паровозе; другие - силу, производную из других некоторых сил,- как движение колес; третьи - умственное влияние,- как относимый дым.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">мужик</rdfs:label>
+		<TestOnto:epithet_wider xml:lang="ru-RU">другой</TestOnto:epithet_wider>
+		<TestOnto:epithet_wider xml:lang="ru-RU">неопровержимый</TestOnto:epithet_wider>
+		<TestOnto:epithet xml:lang="ru-RU">неопровержимый</TestOnto:epithet>
+	</TestOnto:PersonForViM>
+	<Basic:FactParticipant rdf:nodeID="bnodeF3DBDCC2-6CC3-4BA6-897F-D2357DBA5CFE">
+		<rdfs:label xml:lang="ru-RU">мужик</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnodeE18C81B2-5B6A-417E-BE96-C0C361303B75">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode2C1307CF-F571-4F60-94D5-E69285B89FA1">
+		<rdfs:label xml:lang="ru-RU">мужик</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnodeA9270CF5-BF67-4564-A7C3-3FDABCBB7294">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Но точно так же, как сомнение в действительной стоимости бумажек возникнет или из того, что так как их делать легко, то начнут их делать много, или из того, что захотят взять за них золото,- точно так же возникает сомнение в действительном значении историй этого рода,- или из того, что их является слишком много, или из того, что кто-нибудь в простоте души спросит: какою же силой сделал это Наполеон? то есть захочет разменять ходячую бумажку на чистое золото действительного понятия.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Наполеон</rdfs:label>
+		<BasicEntity:firstname xml:lang="ru-RU">Наполеон</BasicEntity:firstname>
+		<TestOnto:store_individual rdf:resource="http://www.abbyy.com/ns/TestOnto#Napoleon_Bonaparte"/>
+	</TestOnto:PersonForViM>
+	<Basic:FactParticipant rdf:nodeID="bnode231A01EB-1496-4EE6-8A32-C8E57BA8EC10">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnode80EB2677-58F5-49EE-B35A-BA6F016E7DDA">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Для того чтобы его опровергнуть, надо, чтобы кто-нибудь доказал ему, что нет черта, или чтобы другой мужик объяснил, что не черт, а немец движет паровоз.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">немец</rdfs:label>
+	</TestOnto:PersonForViM>
+	<Basic:FactParticipant rdf:nodeID="bnode53AD5E35-729E-470D-B01A-554A7A1821B7">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">кто-нибудь</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnode6C894348-781E-48B5-9D66-A645AECD936B">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">До тех пор, пока пишутся истории отдельных лиц,- будь они Кесари, Александры или Лютеры и Вольтеры, а не история всех, без одного исключения всех людей, принимающих участие в событии,- нет никакой возможности описывать движение человечества без понятия о силе, заставляющей людей направлять свою деятельность к одной цели.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">ты</rdfs:label>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode576BC6E8-912F-4A77-90A9-1AB4B0E61A0F">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Но тот, который говорит, что причина есть движение колес, сам себя опровергает, ибо, если он вступил на почву анализа, он должен идти дальше и дальше: он должен объяснить причину движения колес.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode231A01EB-1496-4EE6-8A32-C8E57BA8EC10"/>
+		<BasicFact:speaker rdf:nodeID="bnode231A01EB-1496-4EE6-8A32-C8E57BA8EC10"/>
+		<BasicFact:text xml:lang="ru-RU">причина есть движение колес</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Только тогда из противоречий они увидят, что они оба не правы.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">говорит</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnodeB4555A43-B062-42B7-8BB9-924B70CB029B">
+		<rdfs:label xml:lang="ru-RU">немец</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode68C5B528-D087-4BB4-BBF4-2C91D9A9785F">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">он</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode4D23FDE9-9281-4FFC-806E-710040DCCF24">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Другой говорит, что паровоз идет оттого, что в нем движутся колеса.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode52663CA7-6FAE-4A17-8BF4-9C2A87B99E17"/>
+		<BasicFact:speaker rdf:nodeID="bnode52663CA7-6FAE-4A17-8BF4-9C2A87B99E17"/>
+		<BasicFact:text xml:lang="ru-RU">паровоз идет оттого что в нем движутся колеса</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Мужик говорит: это черт движет его.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">говорит</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode1D607F3A-3F0C-4D66-B23D-7D9D0C9ED1EB">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Тот же, который объяснял движение паровоза относимым назад дымом, заметив, что объяснение о колесах не дает причины, взял первый попавшийся признак и, с своей стороны, выдал его за причину.</TestOnto:store_this_sentence>
+		<TestOnto:speech_comment_type rdf:resource="http://www.abbyy.com/ns/TestOnto#WithParticiple"/>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnodeE18C81B2-5B6A-417E-BE96-C0C361303B75"/>
+		<BasicFact:speaker rdf:nodeID="bnodeE18C81B2-5B6A-417E-BE96-C0C361303B75"/>
+		<BasicFact:text xml:lang="ru-RU">движение паровоза относимым назад дымом</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">И до тех пор, пока он не придет к последней причине движения паровоза, к сжатому в паровике пару, он не будет иметь права остановиться в отыскивании причины.</TestOnto:store_left_sentence>
+		<TestOnto:store_comment_part xml:lang="ru-RU">заметив, что объяснение о колесах не дает причины</TestOnto:store_comment_part>
+		<TestOnto:speech_predicate xml:lang="ru-RU">объяснял</TestOnto:speech_predicate>
+		<TestOnto:store_with_participle_compart xml:lang="ru-RU">заметив, что объяснение о колесах не дает причины</TestOnto:store_with_participle_compart>
+	</TestOnto:LNT_Speech>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode30E13318-8D7A-4008-8DCC-CF95610C3AF0">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Для того чтобы его опровергнуть, надо, чтобы кто-нибудь доказал ему, что нет черта, или чтобы другой мужик объяснил, что не черт, а немец движет паровоз.</TestOnto:store_this_sentence>
+		<TestOnto:speech_comment_type rdf:resource="http://www.abbyy.com/ns/TestOnto#WithConjunctVerb"/>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">чтобы кто-нибудь доказал ему, что нет черта</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:speaker_aux rdf:nodeID="bnode8CB9495E-AD9A-4F9F-A2C5-A170AE9A6226"/>
+		<BasicFact:speaker rdf:nodeID="bnode8CB9495E-AD9A-4F9F-A2C5-A170AE9A6226"/>
+		<BasicFact:text xml:lang="ru-RU">не черт а немец движет паровоз</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Мужик неопровержим.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">объяснил</TestOnto:speech_predicate>
+		<TestOnto:store_comment_part xml:lang="ru-RU">чтобы кто-нибудь доказал ему, что нет черта</TestOnto:store_comment_part>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnodeDF23582F-A90B-4258-AF7F-E0E4396284C7">
+		<rdfs:label xml:lang="ru-RU">мужик</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnodeC89A2425-041B-4906-9FD9-83C563ADCF26">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">понятие</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode3B5B663A-2056-41B1-A1E2-4F358CCA48B6">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Но тот, который говорит, что причина есть движение колес, сам себя опровергает, ибо, если он вступил на почву анализа, он должен идти дальше и дальше: он должен объяснить причину движения колес.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode53AD5E35-729E-470D-B01A-554A7A1821B7"/>
+		<BasicFact:speaker rdf:nodeID="bnode53AD5E35-729E-470D-B01A-554A7A1821B7"/>
+		<BasicFact:text xml:lang="ru-RU">причину движения колес</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Только тогда из противоречий они увидят, что они оба не правы.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">объяснить</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnode52663CA7-6FAE-4A17-8BF4-9C2A87B99E17">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode0F9DEF86-BEB5-4B1A-9922-47762324CAE3">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Третий утверждает, что причина движения заключается в дыме, относимом ветром.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode68C5B528-D087-4BB4-BBF4-2C91D9A9785F"/>
+		<BasicFact:speaker rdf:nodeID="bnode68C5B528-D087-4BB4-BBF4-2C91D9A9785F"/>
+		<BasicFact:text xml:lang="ru-RU"> причина движения заключается в дыме относимом ветром</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Другой говорит, что паровоз идет оттого, что в нем движутся колеса.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">утверждает</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnode101F61EA-1D3F-4EF4-B90B-4BCF631D0A85">
+		<rdfs:label xml:lang="ru-RU">мужик</rdfs:label>
+	</Basic:FactParticipant>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBFA7CCE1-BB17-4CB8-BBF2-7521B2039121">
+		<Aux:document_text xml:lang="ru-RU">       Идет паровоз. Спрашивается, отчего он движется? Мужик говорит: это черт движет его. Другой говорит, что паровоз идет оттого, что в нем движутся колеса. Третий утверждает, что причина движения заключается в дыме, относимом ветром.       Мужик неопровержим. Для того чтобы его опровергнуть, надо, чтобы кто-нибудь доказал ему, что нет черта, или чтобы другой мужик объяснил, что не черт, а немец движет паровоз. Только тогда из противоречий они увидят, что они оба не правы. Но тот, который говорит, что причина есть движение колес, сам себя опровергает, ибо, если он вступил на почву анализа, он должен идти дальше и дальше: он должен объяснить причину движения колес. И до тех пор, пока он не придет к последней причине движения паровоза, к сжатому в паровике пару, он не будет иметь права остановиться в отыскивании причины. Тот же, который объяснял движение паровоза относимым назад дымом, заметив, что объяснение о колесах не дает причины, взял первый попавшийся признак и, с своей стороны, выдал его за причину.       Единственное понятие, которое может объяснить движение паровоза, есть понятие силы, равной видимому движению.       Единственное понятие, посредством которого может быть объяснено движение народов, есть понятие силы, равной всему движению народов.       Между тем под понятием этим разумеются различными историками совершенно различные и все не равные видимому движению силы. Одни видят в нем силу, непосредственно присущую героям,- как мужик черта в паровозе; другие - силу, производную из других некоторых сил,- как движение колес; третьи - умственное влияние,- как относимый дым.       До тех пор, пока пишутся истории отдельных лиц,- будь они Кесари, Александры или Лютеры и Вольтеры, а не история всех, без одного исключения всех людей, принимающих участие в событии,- нет никакой возможности описывать движение человечества без понятия о силе, заставляющей людей направлять свою деятельность к одной цели. И единственное известное историкам такое понятие есть власть.       Понятие это есть единственная ручка, посредством которой можно владеть материалом истории при теперешнем ее изложении, и тот, кто отломил бы эту ручку, как то сделал Бокль, не узнав другого приема обращения с историческим материалом, только лишил бы себя последней возможности обращаться с ним. Неизбежность понятия о власти для объяснения исторических явлений лучше всего доказывают сами общие историки и историки культуры, мнимо отрешающиеся от понятия о власти и неизбежно на каждом шагу употребляющие его.       Историческая наука до сих пор по отношению к вопросам человечества подобна обращающимся деньгам - ассигнациям и звонкой монете. Биографические и частные народные истории подобны ассигнациям. Они могут ходить и обращаться, удовлетворяя своему назначению, без вреда кому бы то ни было и даже с пользой, до тех пор пока не возникнет вопрос о том, чем они обеспечены. Стоит только забыть про вопрос о том, каким образом воля гeроев производит события, и истории Тьеров будут интересны, поучительны и, кроме того, будут иметь оттенок поэзии. Но точно так же, как сомнение в действительной стоимости бумажек возникнет или из того, что так как их делать легко, то начнут их делать много, или из того, что захотят взять за них золото,- точно так же возникает сомнение в действительном значении историй этого рода,- или из того, что их является слишком много, или из того, что кто-нибудь в простоте души спросит: какою же силой сделал это Наполеон? то есть захочет разменять ходячую бумажку на чистое золото действительного понятия.       Общие же историки и историки культуры подобны людям, которые, признав неудобство ассигнаций, решили бы вместо бумажки сделать звонкую монету из металла, не имеющего плотности золота. И монета действительно вышла бы звонкая, но только звонкая. Бумажка еще могла обманывать не знающих; а монета звонкая, но не ценная, не может обмануть никого. Так же как золото тогда только золоте, когда оно может быть употреблено не для одной мены, а и для дела, так же и общие историки только тогда будут золотом, когда они будут в силах ответить на существенный вопрос истории: что такое власть? Общие историки отвечают на этот вопрос противоречиво а историки культуры вовсе отстраняют его, отвечая на что-то совсем другое. И как жетоны, похожие на золото, могут быть только употребляемы между собранием людей согласившихся признавать их за золото, и между теми, которые не знают свойства золота, так и общие историки и историки культуры, не отвечая на существенные вопросы человечества, для каких-то своих целей служат ходячей монетою университетам и толпе читателей - охотников до серьезных книжек, как они это называют.     </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC16E371F-4501-47B9-A5E3-0A60326DB65A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDF23582F-A90B-4258-AF7F-E0E4396284C7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB243EFFA-D386-4B6F-935D-19FD93EBC1A6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8CB9495E-AD9A-4F9F-A2C5-A170AE9A6226"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA65BA159-46AB-40C9-921B-DFEE994063D0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4D23FDE9-9281-4FFC-806E-710040DCCF24"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode447B595E-5D98-4DC2-9849-E6EBD9A88DFA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode52663CA7-6FAE-4A17-8BF4-9C2A87B99E17"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode36A9AA7E-7E49-465B-AB19-3D2C0FD6BE4A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">176</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0F9DEF86-BEB5-4B1A-9922-47762324CAE3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB0224047-1DB0-4938-B687-44F5FB1D8888">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">243</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8CB9495E-AD9A-4F9F-A2C5-A170AE9A6226"/>
+				<Aux:grouped_with rdf:nodeID="bnodeB243EFFA-D386-4B6F-935D-19FD93EBC1A6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD374ABF3-8DB9-4255-BF58-F49A5B497862">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">243</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF3DBDCC2-6CC3-4BA6-897F-D2357DBA5CFE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode354508B8-170F-49B0-9C88-26D3180A1655">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">278</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode68C5B528-D087-4BB4-BBF4-2C91D9A9785F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA7964150-FEC4-4A7E-97D5-4DCF8C7EA9A0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">308</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53AD5E35-729E-470D-B01A-554A7A1821B7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1AF41015-421B-4DA1-B765-D1FAFD960EE7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">327</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode68C5B528-D087-4BB4-BBF4-2C91D9A9785F"/>
+				<Aux:grouped_with rdf:nodeID="bnode354508B8-170F-49B0-9C88-26D3180A1655"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode979286F0-3872-4BB7-8AF2-BDE962EADFD5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">364</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2C1307CF-F571-4F60-94D5-E69285B89FA1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode958A6726-45E8-4107-BECF-7BC041354B0C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">364</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8CB9495E-AD9A-4F9F-A2C5-A170AE9A6226"/>
+				<Aux:grouped_with rdf:nodeID="bnodeB243EFFA-D386-4B6F-935D-19FD93EBC1A6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAE760039-F6D8-4611-A83F-B26061EF7513">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">370</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">378</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30E13318-8D7A-4008-8DCC-CF95610C3AF0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4667A6C9-AA25-43DB-9E9F-4F892B3E5AAF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">395</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode80EB2677-58F5-49EE-B35A-BA6F016E7DDA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7D260B4C-E755-49BE-B1AD-A7542F920A99">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">395</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4555A43-B062-42B7-8BB9-924B70CB029B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode06B4A48D-1E2B-4369-B578-2A90E1D9A045">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">488</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">495</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode231A01EB-1496-4EE6-8A32-C8E57BA8EC10"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCE076AD4-29DE-4D74-983C-0D9080959328">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">503</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode576BC6E8-912F-4A77-90A9-1AB4B0E61A0F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDA6ED0E6-1CAB-40F4-95E0-8F304FD43A09">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">542</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode231A01EB-1496-4EE6-8A32-C8E57BA8EC10"/>
+				<Aux:grouped_with rdf:nodeID="bnode06B4A48D-1E2B-4369-B578-2A90E1D9A045"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1EDF3A0A-C550-4D8A-8E98-4BA9AD9AC418">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">570</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">572</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53AD5E35-729E-470D-B01A-554A7A1821B7"/>
+				<Aux:grouped_with rdf:nodeID="bnodeA7964150-FEC4-4A7E-97D5-4DCF8C7EA9A0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2D86701D-DC39-4BC6-9910-1CF1ACAB654E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">599</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">601</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53AD5E35-729E-470D-B01A-554A7A1821B7"/>
+				<Aux:grouped_with rdf:nodeID="bnodeA7964150-FEC4-4A7E-97D5-4DCF8C7EA9A0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA04CD3A8-CDC0-48B2-88E4-C815C24120D8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">631</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">633</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53AD5E35-729E-470D-B01A-554A7A1821B7"/>
+				<Aux:grouped_with rdf:nodeID="bnodeA7964150-FEC4-4A7E-97D5-4DCF8C7EA9A0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode11985BB9-D66C-4024-BB9D-D3C4B038507C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">641</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">650</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3B5B663A-2056-41B1-A1E2-4F358CCA48B6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDED11E89-B5AF-4BA1-B4BB-32EA7B49F7B5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">694</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">696</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode231A01EB-1496-4EE6-8A32-C8E57BA8EC10"/>
+				<Aux:grouped_with rdf:nodeID="bnode06B4A48D-1E2B-4369-B578-2A90E1D9A045"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode14C6E8CB-4689-41AB-858A-2BC4FC2A0293">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">773</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">775</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode231A01EB-1496-4EE6-8A32-C8E57BA8EC10"/>
+				<Aux:grouped_with rdf:nodeID="bnode06B4A48D-1E2B-4369-B578-2A90E1D9A045"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6853EFEC-7EC6-4872-9CAE-806C659B24BC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">841</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">848</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE18C81B2-5B6A-417E-BE96-C0C361303B75"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0E851900-0231-436E-A4A2-792CBED97C05">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">849</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">857</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1D607F3A-3F0C-4D66-B23D-7D9D0C9ED1EB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4B47247E-58CB-4C33-9B6B-E78AA7A4AB82">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">986</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">991</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE18C81B2-5B6A-417E-BE96-C0C361303B75"/>
+				<Aux:grouped_with rdf:nodeID="bnode6853EFEC-7EC6-4872-9CAE-806C659B24BC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9A9D78CC-BF1C-4D87-B547-EE148D3FF4F6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1042</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1049</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC89A2425-041B-4906-9FD9-83C563ADCF26"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode13368A5E-C252-475B-B530-CC367CB5D826">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1051</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1058</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC89A2425-041B-4906-9FD9-83C563ADCF26"/>
+				<Aux:grouped_with rdf:nodeID="bnode9A9D78CC-BF1C-4D87-B547-EE148D3FF4F6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode68C61B07-05E5-42BE-BAC5-F04FB350A20D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1065</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1074</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7ABBF5E6-CD70-4648-B773-6F44F07A0B23"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA92FE192-0846-42CD-9E76-ED470F1B12D8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1466</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1471</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8CB9495E-AD9A-4F9F-A2C5-A170AE9A6226"/>
+				<Aux:grouped_with rdf:nodeID="bnodeB243EFFA-D386-4B6F-935D-19FD93EBC1A6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7ABEAF26-03E1-4380-93D7-58BC1D2680AC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1466</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1471</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode101F61EA-1D3F-4EF4-B90B-4BCF631D0A85"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9EEA8535-14C4-420A-8CBE-1BB0862D7304">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2135</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2138</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D1D11D8-DE4C-4AB7-866D-FD92D3493E0B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode76C3F871-A9B6-479B-8E5E-0AD55D7DCE57">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2259</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2263</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D1D11D8-DE4C-4AB7-866D-FD92D3493E0B"/>
+				<Aux:grouped_with rdf:nodeID="bnode9EEA8535-14C4-420A-8CBE-1BB0862D7304"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7061DCD1-E2D0-424C-8E0C-2565AAC2579C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3455</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3463</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD925E73D-9551-4935-AFC2-9881C154D1C8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6138276E-C4A5-43CE-B903-CF1D42E6378C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3455</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3463</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA9270CF5-BF67-4564-A7C3-3FDABCBB7294"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

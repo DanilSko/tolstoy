@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="429646" markupID="2123" OntoTechnologyVersion="2.6.3.36"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:Basic="http://www.abbyy.com/ns/Basic#" xmlns:TestOnto="http://www.abbyy.com/ns/TestOnto#" xmlns:BasicFact="http://www.abbyy.com/ns/BasicFact#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<Basic:FactParticipant rdf:nodeID="bnodeE052F7C9-DF60-4889-A9F1-F7AB4F9F7446">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">механика</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode5F281D62-1924-4FEE-ABED-4ECB2F2FA69C">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Правило это говорит, что атакующий должен сосредоточивать свои войска с тем, чтобы в момент боя быть сильнее противника.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode146C6E99-8595-4C4B-A269-57DA8E5F184F"/>
+		<BasicFact:speaker rdf:nodeID="bnode146C6E99-8595-4C4B-A269-57DA8E5F184F"/>
+		<BasicFact:text xml:lang="ru-RU"> атакующий должен сосредоточивать свои войска с тем, чтобы в момент боя быть сильнее противника</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Между тем такого рода война не только не подходит ни под какие правила, но прямо противоположна известному и признанному за непогрешимое тактическому правилу.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">говорит</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnode146C6E99-8595-4C4B-A269-57DA8E5F184F">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">правило</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnode189C71F1-D6A2-425D-BA86-0B3B90BE7A10">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Правило это говорит, что атакующий должен сосредоточивать свои войска с тем, чтобы в момент боя быть сильнее противника.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">противник</rdfs:label>
+	</TestOnto:PersonForViM>
+	<BasicFact:Opinion rdf:nodeID="bnodeE2DF1BE8-0046-4DB6-B426-95958D9C9BC3">
+		<BasicFact:speaker rdf:nodeID="bnode5B4D651F-23B5-48C1-A9AD-9130D587DD56"/>
+		<BasicFact:text xml:lang="ru-RU"> назвав ее так объяснили ее значение</BasicFact:text>
+	</BasicFact:Opinion>
+	<TestOnto:PersonForViM rdf:nodeID="bnode31C27C33-A74C-4634-97DD-B0A3C13F8BF7">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Говоря это, военная наука подобна той механике, которая, основываясь на рассмотрении сил только по отношению к их массам, сказала бы, что силы равны или не равны между собою, потому что равны или не равны их массы.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">я</rdfs:label>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode750E47E9-F59D-4077-BE4E-9DF90BD92E7F">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Военная наука говорит, что чем больше войска, тем больше силы.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode97CCDFCA-ED00-4ED2-BC2E-BD5D192E0D24"/>
+		<BasicFact:speaker rdf:nodeID="bnode97CCDFCA-ED00-4ED2-BC2E-BD5D192E0D24"/>
+		<BasicFact:text xml:lang="ru-RU"> чем больше войска тем больше силы</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Противоречие это происходит оттого, что военная наука принимает силу войск тождественною с их числительностию.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">говорит</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnode97CCDFCA-ED00-4ED2-BC2E-BD5D192E0D24">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">наука</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_Speech rdf:nodeID="bnodeB051C5ED-9E13-46D5-9875-72D8D47E29E8">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Говоря это, военная наука подобна той механике, которая, основываясь на рассмотрении сил только по отношению к их массам, сказала бы, что силы равны или не равны между собою, потому что равны или не равны их массы.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode31C27C33-A74C-4634-97DD-B0A3C13F8BF7"/>
+		<BasicFact:speaker rdf:nodeID="bnode31C27C33-A74C-4634-97DD-B0A3C13F8BF7"/>
+		<BasicFact:text xml:lang="ru-RU"> военная наука подобна той механике которая основываясь на рассмотрении сил только по отношению к их массам сказала бы что силы равны или не равны между собою потому что равны или не равны их массы</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Les gros bataillons ont toujours raisonl.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">Говоря</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnode5B4D651F-23B5-48C1-A9AD-9130D587DD56">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">русские</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode86F67E96-896B-424B-A211-35A34FC3DA5E">
+		<rdfs:label xml:lang="ru-RU">полководец</rdfs:label>
+	</Basic:FactParticipant>
+	<BasicFact:SpeechActivity rdf:nodeID="bnode2888740B-3C32-450B-A19A-C861DAE1A41B">
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<BasicFact:speaker rdf:nodeID="bnodeE052F7C9-DF60-4889-A9F1-F7AB4F9F7446"/>
+		<BasicFact:text xml:lang="ru-RU"> силы равны или не равны между собою потому что равны или не равны их массы</BasicFact:text>
+	</BasicFact:SpeechActivity>
+	<TestOnto:PersonForViM rdf:nodeID="bnodeD2B78217-0EDF-48A7-8A6A-FDBDCF965300">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Задача эта возможна только тогда, когда мы перестанем произвольно подставлять вместо значения всего неизвестного  X те условия, при которых проявляется сила, как-то: распоряжения полководца, вооружение и т. д., принимая их за значение множителя, а признаем это неизвестное во всей его цельности, то есть как большее или меньшее желание драться и подвергать себя опасности.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">полководец</rdfs:label>
+	</TestOnto:PersonForViM>
+	<Aux:TextAnnotations rdf:nodeID="bnode8AB6D42E-C03B-4E4C-A148-535D93BAF17E">
+		<Aux:document_text xml:lang="ru-RU">       Одним из самых осязательных и выгодных отступлений от так называемых правил войны есть действие разрозненных людей против людей, жмущихся в кучу. Такого рода действия всегда проявляются в войне, принимающей народный характер. Действия эти состоят в том, что, вместо того чтобы становиться толпой против толпы, люди расходятся врозь, нападают поодиночке и тотчас же бегут, когда на них нападают большими силами, а потом опять нападают, когда представляется случай. Это делали гверильясы в Испании; это делали горцы на Кавказе; это делали русские в 1812-м году.       Войну такого рода назвали партизанскою и полагали, что, назвав ее так, объяснили ее значение. Между тем такого рода война не только не подходит ни под какие правила, но прямо противоположна известному и признанному за непогрешимое тактическому правилу. Правило это говорит, что атакующий должен сосредоточивать свои войска с тем, чтобы в момент боя быть сильнее противника.       Партизанская война (всегда успешная, как показывает история) прямо противуположна этому правилу.       Противоречие это происходит оттого, что военная наука принимает силу войск тождественною с их числительностию. Военная наука говорит, что чем больше войска, тем больше силы. Les gros bataillons ont toujours raisonl.       Говоря это, военная наука подобна той механике, которая, основываясь на рассмотрении сил только по отношению к их массам, сказала бы, что силы равны или не равны между собою, потому что равны или не равны их массы.       Сила (количество движения) есть произведение из массы на скорость.       В военном деле сила войска есть также произведение из массы на что-то такое, на какое-то неизвестное х.       Военная наука, видя в истории бесчисленное количество примеров того, что масса войск не совпадает с силой, что малые отряды побеждают большие, смутно признает существование этого неизвестного множителя и старается отыскать его то в геометрическом построении, то в вооружении, то - самое обыкновенное - в гениальности полководцев. Но подстановление всех этих значений множителя не доставляет результатов, согласных с историческими фактами.       А между тем стоит только отрешиться от установившегося, в угоду героям, ложного взгляда на действительность распоряжений высших властей во время войны для того, чтобы отыскать этот неизвестный х.       X этот есть дух войска, то есть большее или меньшее желание драться и подвергать себя опасностям всех людей, составляющих войско, совершенно независимо от того, дерутся ли люди под командой гениев или не гениев, в трех или двух линиях, дубинами или ружьями, стреляющими тридцать раз в минуту. Люди, имеющие наибольшее желание драться, всегда поставят себя и в наивыгоднейшие условия для драки.       Дух войска - есть множитель на массу, дающий произведение силы. Определить и выразить значение духа войска, этого неизвестного множителя, есть задача науки.       Задача эта возможна только тогда, когда мы перестанем произвольно подставлять вместо значения всего неизвестного  X те условия, при которых проявляется сила, как-то: распоряжения полководца, вооружение и т. д., принимая их за значение множителя, а признаем это неизвестное во всей его цельности, то есть как большее или меньшее желание драться и подвергать себя опасности. Тогда только, выражая уравнениями известные исторические факты, из сравнения относительного значения этого неизвестного можно надеяться на определение самого неизвестного.       Десять человек, батальонов или дивизий, сражаясь с пятнадцатью человеками, батальонами или дивизиями, победили пятнадцать, то есть убили и забрали в плен всех без остатка и сами потеряли четыре; стало быть, уничтожились с одной стороны четыре, с другой стороны пятнадцать. Следовательно, четыре были равны пятнадцати, и, следовательно, 4x=15y. Следовательно, x:y=15:4. Уравнение это не дает значения неизвестного, но оно дает отношение между двумя неизвестными. И из подведения под таковые уравнения исторических различно взятых единиц (сражений, кампаний, периодов войн) получатся ряды чисел, в которых должны существовать и могут быть открыты законы.       Тактическое правило о том, что надо действовать массами при наступлении и разрозненно при отступления, бессознательно подтверждает только ту истину, что сила войска зависит от его духа. Для того чтобы вести людей под ядра, нужно больше дисциплины, достигаемой только движением в массах, чем для того, чтобы отбиваться от нападающих. Но правило это, при котором упускается из вида дух войска, беспрестанно оказывается неверным и в особенности поразительно противоречит действительности там, где является сильный подъем или упадок духа войска,- во всех народных войнах.       Французы, отступая в 1812-м году, хотя и должны бы защищаться отдельно, по тактике, жмутся в кучу, потому что дух войска упал так, что только масса сдерживает войско вместе. Русские, напротив, по тактике должны бы были нападать массой, на деле же раздробляются, потому что дух поднят так, что отдельные лица бьют без приказания французов и не нуждаются в принуждении для того, чтобы подвергать себя трудам и опасностям.     </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode25191284-C90D-4E3E-B0CF-EE455C13FCE6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">544</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">551</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5B4D651F-23B5-48C1-A9AD-9130D587DD56"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6EC4BBBB-3AAB-47B3-915E-AE1E91333E90">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">614</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">622</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE2DF1BE8-0046-4DB6-B426-95958D9C9BC3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF8A5CDD5-0381-4412-855B-5A73AE4C16EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">826</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">833</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode146C6E99-8595-4C4B-A269-57DA8E5F184F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC8911211-574B-4C56-8C58-DDC6374654D1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">838</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">845</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5F281D62-1924-4FEE-ABED-4ECB2F2FA69C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA6E0FBF5-203E-4141-B8DE-67FB6DE391C8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">935</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">945</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode189C71F1-D6A2-425D-BA86-0B3B90BE7A10"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE2492069-9E60-4966-A693-34697A335E4F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1175</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1180</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode97CCDFCA-ED00-4ED2-BC2E-BD5D192E0D24"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC4735CEF-0070-41FD-8B41-08529402EF7C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1181</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1188</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode750E47E9-F59D-4077-BE4E-9DF90BD92E7F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4AA22A2B-357A-4930-BE17-D78B1FC1ECA7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1278</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1284</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB051C5ED-9E13-46D5-9875-72D8D47E29E8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0ED77D61-826A-463F-9440-2F5B3FED707C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1316</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1324</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE052F7C9-DF60-4889-A9F1-F7AB4F9F7446"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDF345B7C-2EC8-42F3-A541-7760675BFBC0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1326</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1333</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE052F7C9-DF60-4889-A9F1-F7AB4F9F7446"/>
+				<Aux:grouped_with rdf:nodeID="bnode0ED77D61-826A-463F-9440-2F5B3FED707C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCB597E41-F267-426A-B53C-40EAAFF7945D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1400</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1407</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2888740B-3C32-450B-A19A-C861DAE1A41B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode94C0268B-45D9-4EDE-A0F2-B4AFB676AD03">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3071</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3081</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD2B78217-0EDF-48A7-8A6A-FDBDCF965300"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8E5D6394-783D-487C-9E41-1F404CDE458F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3071</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3081</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode86F67E96-896B-424B-A211-35A34FC3DA5E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode313FCF27-7586-4531-AB52-A502EB5BB5A0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3173</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3176</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD2B78217-0EDF-48A7-8A6A-FDBDCF965300"/>
+				<Aux:grouped_with rdf:nodeID="bnode94C0268B-45D9-4EDE-A0F2-B4AFB676AD03"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD5FA5E12-AFEE-46A1-9802-A723DF844A69">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3173</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3176</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode86F67E96-896B-424B-A211-35A34FC3DA5E"/>
+				<Aux:grouped_with rdf:nodeID="bnode8E5D6394-783D-487C-9E41-1F404CDE458F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

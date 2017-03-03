@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="429716" markupID="2123" OntoTechnologyVersion="2.6.3.36"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:Basic="http://www.abbyy.com/ns/Basic#" xmlns:TestOnto="http://www.abbyy.com/ns/TestOnto#" xmlns:BasicFact="http://www.abbyy.com/ns/BasicFact#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<Basic:FactParticipant rdf:nodeID="bnodeFD88E2E4-1519-4B38-A415-D591B2A0010D">
+		<rdfs:label xml:lang="ru-RU">гений</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode92007A63-CBC4-4625-922A-770F4A85636A">
+		<rdfs:label xml:lang="ru-RU">семя</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode1631819C-8104-4942-A349-59A747936076">
+		<rdfs:label xml:lang="ru-RU">гений</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode664896DD-3C4D-4FFD-A854-2B7E3139E1FF">
+		<rdfs:label xml:lang="ru-RU">Александр</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode09AD3E43-71D5-4F53-8C8A-E438F1EB824E">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">бараны</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode7C839CA0-2FDE-4A7C-B0D7-24656AA7CD97">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">'Случай сделал положение; гений воспользовался им',- говорит история.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_Quotation"/>
+		<TestOnto:speech_structure rdf:resource="http://www.abbyy.com/ns/TestOnto#SK_structure"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode86680974-B127-4EF3-B21B-A56D289668DD"/>
+		<TestOnto:persons rdf:nodeID="bnodeCE37F79D-8719-40DF-9357-9FE5D2C74DFC"/>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">635</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">737</TestOnto:verb_lex_class>
+		<BasicFact:speaker rdf:nodeID="bnode86680974-B127-4EF3-B21B-A56D289668DD"/>
+		<TestOnto:auth xml:lang="ru-RU">'Случай сделал положение; гений воспользовался им',- говорит история</TestOnto:auth>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Потому что это так случилось.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">говорит</TestOnto:speech_predicate>
+		<TestOnto:verbs xml:lang="ru-RU">воспользуется</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">сделанным</TestOnto:verbs>
+		<TestOnto:speech_structure_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6</TestOnto:speech_structure_number>
+		<BasicFact:text xml:lang="ru-RU">'Случай сделал положение; гений воспользовался им'</BasicFact:text>
+		<TestOnto:nouns xml:lang="ru-RU">гений</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">положение</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">случай</TestOnto:nouns>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnode5741D4D4-EFD1-4C25-898E-5449E8FFA5CD">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode4DF8F480-2F43-428F-9B1D-7467C1F68F8F">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Я не знаю, почему происходит такое-то явление; думаю, что не могу знать; потому не хочу знать и говорю: случай.</TestOnto:store_this_sentence>
+		<TestOnto:speech_comment_type rdf:resource="http://www.abbyy.com/ns/TestOnto#WithConjunctVerb"/>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">Я не знаю, почему происходит такое-то явление</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">думаю, что не могу знать</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">потому не хочу знать</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:speaker_aux rdf:nodeID="bnode0B2BFB84-2DB2-468C-B938-4F4EF6BA7F66"/>
+		<BasicFact:speaker rdf:nodeID="bnode0B2BFB84-2DB2-468C-B938-4F4EF6BA7F66"/>
+		<BasicFact:text xml:lang="ru-RU">Я не знаю, почему происходит такое-то явление</BasicFact:text>
+		<BasicFact:text xml:lang="ru-RU">думаю, что не могу знать</BasicFact:text>
+		<BasicFact:text xml:lang="ru-RU">потому не хочу знать</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Слова эти только обозначают известную степень понимания явлений.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">говорю</TestOnto:speech_predicate>
+		<TestOnto:store_comment_part xml:lang="ru-RU">Я не знаю, почему происходит такое-то явление</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">думаю, что не могу знать</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">потому не хочу знать</TestOnto:store_comment_part>
+	</TestOnto:LNT_Speech>
+	<TestOnto:PersonForViM rdf:nodeID="bnodeCE37F79D-8719-40DF-9357-9FE5D2C74DFC">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">'Случай сделал положение; гений воспользовался им',- говорит история.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Для стада баранов тот баран, который каждый вечер отгоняется овчаром в особый денник к корму и становится вдвое толще других, должен казаться гением.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Ежели они и не будут знать, для какой цели он откармливался, то, по крайней мере, они будут знать, что все случившееся с бараном случилось не нечаянно, и им уже не будет нужды в понятии ни о случае, ни о гении.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Если допустить, как то делают историки, что великие люди ведут человечество к достижению известных целей, состоящих или в величии России или Франции, или в равновесии Европы, или в разнесении идей революции, или в общем прогрессе, или в чем бы то ни было, то невозможно объяснить явлений истории без понятий о случае и о гении.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Только отрешившись от знаний близкой, понятной цели и признав, что конечная цель нам недоступна, мы увидим последовательность и целесообразность в жизни исторических лиц; нам откроется причина того несоразмерного с общечеловеческими свойствами действия, которое они производят, и не нужны будут нам слова случай и гений.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">гений</rdfs:label>
+		<TestOnto:epithet_wider xml:lang="ru-RU">нам нужный</TestOnto:epithet_wider>
+		<TestOnto:epithet xml:lang="ru-RU">нам нужный</TestOnto:epithet>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_Speech rdf:nodeID="bnodeF73BA2E4-46B7-4280-9AC4-DA33854330E5">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Если допустить, как то делают историки, что великие люди ведут человечество к достижению известных целей, состоящих или в величии России или Франции, или в равновесии Европы, или в разнесении идей революции, или в общем прогрессе, или в чем бы то ни было, то невозможно объяснить явлений истории без понятий о случае и о гении.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnodeCED9818D-A195-4CE5-A5CE-7896AC0C6166"/>
+		<BasicFact:speaker rdf:nodeID="bnodeCED9818D-A195-4CE5-A5CE-7896AC0C6166"/>
+		<BasicFact:text xml:lang="ru-RU">явлений истории</BasicFact:text>
+		<TestOnto:speech_predicate xml:lang="ru-RU">объяснить</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<TestOnto:LNT_Speech rdf:nodeID="bnodeDB5CAB96-C05A-4844-9BAF-D093BCAE182A">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Стоит только признать, что цель волнений европейских народов нам неизвестна, а известны только факты, состоящие в убийствах, сначала во Франции, потом в Италии, в Африке, в Пруссии, в Австрии, в Испании, в России, и что движения с запада на восток и с востока на запад составляют сущность и цель этих событий, и нам не только не нужно будет видеть исключительность и гениальность в характерах Наполеона и Александра, но нельзя будет представить себе эти лица иначе, как такими же людьми, как и все остальные; и не только не нужно будет объяснять случайностию тех мелких событий, которые сделали этих людей тем, чем</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode5741D4D4-EFD1-4C25-898E-5449E8FFA5CD"/>
+		<BasicFact:speaker rdf:nodeID="bnode5741D4D4-EFD1-4C25-898E-5449E8FFA5CD"/>
+		<BasicFact:text xml:lang="ru-RU">тех мелких событий, которые сделали этих людей тем</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Только отрешившись от знаний близкой, понятной цели и признав, что конечная цель нам недоступна, мы увидим последовательность и целесообразность в жизни исторических лиц; нам откроется причина того несоразмерного с общечеловеческими свойствами действия, которое они производят, и не нужны будут нам слова случай и гений.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">объяснять</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<BasicFact:Opinion rdf:nodeID="bnode5D070853-01D6-452B-BFA8-08B5F2BCE680">
+		<BasicFact:speaker rdf:nodeID="bnode0B2BFB84-2DB2-468C-B938-4F4EF6BA7F66"/>
+		<BasicFact:text xml:lang="ru-RU"> не могу знать</BasicFact:text>
+	</BasicFact:Opinion>
+	<TestOnto:LNT_SyntSiblings rdf:nodeID="bnode229F8DB7-C0CF-4AA6-BE91-E51C4B685AA0">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Napoleon_Bonaparte"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Tsar_Alexander_I_of_Russia"/>
+	</TestOnto:LNT_SyntSiblings>
+	<TestOnto:LNT_CooccurenceSameSentence rdf:nodeID="bnode1B377163-ED77-4077-8234-7BE24B0FF05C">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Napoleon_Bonaparte"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Tsar_Alexander_I_of_Russia"/>
+	</TestOnto:LNT_CooccurenceSameSentence>
+	<TestOnto:PersonForViM rdf:nodeID="bnode0B2BFB84-2DB2-468C-B938-4F4EF6BA7F66">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Отрешившись от знания конечной цели, мы ясно поймем, что точно так же, как ни к одному растению нельзя придумать других, более соответственных ему, цвета и семени, чем те, которые оно производит, точно так же невозможно придумать других двух людей, со всем их прошедшим, которое соответствовало бы до такой степени, до таких мельчайших подробностей тому назначению, которое им предлежало исполнить.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Я вижу силу, производящую несоразмерное с общечеловеческими свойствами действие; не понимаю, почему это происходит, и говорю: гений.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Я не знаю, почему происходит такое-то явление; думаю, что не могу знать; потому не хочу знать и говорю: случай.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">я</rdfs:label>
+	</TestOnto:PersonForViM>
+	<Basic:FactParticipant rdf:nodeID="bnode8062A9D7-7804-4E13-8645-B108B6A75F2C">
+		<rdfs:label xml:lang="ru-RU">я</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnodeF2E259C8-4FD2-4E7F-988E-492802F6225A">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Стоит только признать, что цель волнений европейских народов нам неизвестна, а известны только факты, состоящие в убийствах, сначала во Франции, потом в Италии, в Африке, в Пруссии, в Австрии, в Испании, в России, и что движения с запада на восток и с востока на запад составляют сущность и цель этих событий, и нам не только не нужно будет видеть исключительность и гениальность в характерах Наполеона и Александра, но нельзя будет представить себе эти лица иначе, как такими же людьми, как и все остальные; и не только не нужно будет объяснять случайностию тех мелких событий, которые сделали этих людей тем, чем</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Наполеон</rdfs:label>
+		<BasicEntity:firstname xml:lang="ru-RU">Наполеон</BasicEntity:firstname>
+		<TestOnto:store_individual rdf:resource="http://www.abbyy.com/ns/TestOnto#Napoleon_Bonaparte"/>
+	</TestOnto:PersonForViM>
+	<Basic:FactParticipant rdf:nodeID="bnodeFA997249-2FF0-4EAB-970D-5F0D4AA0027C"/>
+	<Basic:FactParticipant rdf:nodeID="bnode981B4564-0ABC-4998-B2F8-143942714EAC">
+		<rdfs:label xml:lang="ru-RU">Наполеон</rdfs:label>
+	</Basic:FactParticipant>
+	<BasicFact:Opinion rdf:nodeID="bnode644AA894-1DDF-407E-A4AD-E92523E3EA16">
+		<BasicFact:speaker rdf:nodeID="bnode09AD3E43-71D5-4F53-8C8A-E438F1EB824E"/>
+		<BasicFact:text xml:lang="ru-RU"> все что делается с ними происходит только для достижения их бараньих целей</BasicFact:text>
+	</BasicFact:Opinion>
+	<Basic:FactParticipant rdf:nodeID="bnodeCED9818D-A195-4CE5-A5CE-7896AC0C6166">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode2066D4E6-544B-4026-931F-996A2BB949AE">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Я вижу силу, производящую несоразмерное с общечеловеческими свойствами действие; не понимаю, почему это происходит, и говорю: гений.</TestOnto:store_this_sentence>
+		<TestOnto:speech_comment_type rdf:resource="http://www.abbyy.com/ns/TestOnto#WithConjunctVerb"/>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">Я вижу силу, производящую несоразмерное с общечеловеческими свойствами действие</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">не понимаю, почему это происходит</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:speaker_aux rdf:nodeID="bnode0B2BFB84-2DB2-468C-B938-4F4EF6BA7F66"/>
+		<BasicFact:speaker rdf:nodeID="bnode0B2BFB84-2DB2-468C-B938-4F4EF6BA7F66"/>
+		<BasicFact:text xml:lang="ru-RU">Я вижу силу, производящую несоразмерное с общечеловеческими свойствами действие</BasicFact:text>
+		<BasicFact:text xml:lang="ru-RU">не понимаю, почему это происходит</BasicFact:text>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Я не знаю, почему происходит такое-то явление; думаю, что не могу знать; потому не хочу знать и говорю: случай.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">говорю</TestOnto:speech_predicate>
+		<TestOnto:store_comment_part xml:lang="ru-RU">Я вижу силу, производящую несоразмерное с общечеловеческими свойствами действие</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">не понимаю, почему это происходит</TestOnto:store_comment_part>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnode86680974-B127-4EF3-B21B-A56D289668DD">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">история</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode1A7E7323-D287-42A7-AC3C-52B09459A8CC">
+		<rdfs:label xml:lang="ru-RU">лица</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode2C9F89DE-9D2D-4680-B575-9FDFE4098EEE">
+		<rdfs:label xml:lang="ru-RU">баран</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnodeFC38506A-5DD1-40A4-BF65-09DC4B376F79">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Стоит только признать, что цель волнений европейских народов нам неизвестна, а известны только факты, состоящие в убийствах, сначала во Франции, потом в Италии, в Африке, в Пруссии, в Австрии, в Испании, в России, и что движения с запада на восток и с востока на запад составляют сущность и цель этих событий, и нам не только не нужно будет видеть исключительность и гениальность в характерах Наполеона и Александра, но нельзя будет представить себе эти лица иначе, как такими же людьми, как и все остальные; и не только не нужно будет объяснять случайностию тех мелких событий, которые сделали этих людей тем, чем</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Александр</rdfs:label>
+		<BasicEntity:firstname xml:lang="ru-RU">Александр</BasicEntity:firstname>
+		<TestOnto:store_individual rdf:resource="http://www.abbyy.com/ns/TestOnto#Tsar_Alexander_I_of_Russia"/>
+	</TestOnto:PersonForViM>
+	<Aux:TextAnnotations rdf:nodeID="bnode6E7B0388-2088-4968-9AE2-3195D8152D35">
+		<Aux:document_text xml:lang="ru-RU">       Если допустить, как то делают историки, что великие люди ведут человечество к достижению известных целей, состоящих или в величии России или Франции, или в равновесии Европы, или в разнесении идей революции, или в общем прогрессе, или в чем бы то ни было, то невозможно объяснить явлений истории без понятий о случае и о гении.       Если цель европейских войн начала нынешнего столетия состояла в величии России, то эта цель могла быть достигнута без всех предшествовавших войн и без нашествия. Если цель - величие Франции, то эта цель могла быть достигнута и без революции, и без империи. Если цель - распространение идей, то книгопечатание исполнило бы это гораздо лучше, чем солдаты. Если цель - прогресс цивилизации, то весьма легко предположить, что, кроме истребления людей и их богатств, есть другие более целесообразные пути для распространения цивилизации.       Почему же это случилось так, а не иначе?       Потому что это так случилось. 'Случай сделал положение; гений воспользовался им',- говорит история.       Но что такое случай? Что такое гений?       Слова случай и гений не обозначают ничего действительно существующего и потому не могут быть определены. Слова эти только обозначают известную степень понимания явлений. Я не знаю, почему происходит такое-то явление; думаю, что не могу знать; потому не хочу знать и говорю: случай. Я вижу силу, производящую несоразмерное с общечеловеческими свойствами действие; не понимаю, почему это происходит, и говорю: гений.       Для стада баранов тот баран, который каждый вечер отгоняется овчаром в особый денник к корму и становится вдвое толще других, должен казаться гением. И то обстоятельство, что каждый вечер именно этот самый баран попадает не в общую овчарню, а в особый денник к овсу, и что этот, именно этот самый баран, облитый жиром, убивается на мясо, должно представляться поразительным соединением гениальности с целым рядом необычайных случайностей.       Но баранам стоит только перестать думать, что все, что делается с ними, происходит только для достижения их бараньих целей; стоит допустить, что происходящие с ними события могут иметь и непонятные для них цели,- и они тотчас же увидят единство, последовательность в том, что происходит с откармливаемым бараном. Ежели они и не будут знать, для какой цели он откармливался, то, по крайней мере, они будут знать, что все случившееся с бараном случилось не нечаянно, и им уже не будет нужды в понятии ни о случае, ни о гении.       Только отрешившись от знаний близкой, понятной цели и признав, что конечная цель нам недоступна, мы увидим последовательность и целесообразность в жизни исторических лиц; нам откроется причина того несоразмерного с общечеловеческими свойствами действия, которое они производят, и не нужны будут нам слова случай и гений.       Стоит только признать, что цель волнений европейских народов нам неизвестна, а известны только факты, состоящие в убийствах, сначала во Франции, потом в Италии, в Африке, в Пруссии, в Австрии, в Испании, в России, и что движения с запада на восток и с востока на запад составляют сущность и цель этих событий, и нам не только не нужно будет видеть исключительность и гениальность в характерах Наполеона и Александра, но нельзя будет представить себе эти лица иначе, как такими же людьми, как и все остальные; и не только не нужно будет объяснять случайностию тех мелких событий, которые сделали этих людей тем, чем они были, но будет ясно, что все эти мелкие события были необходимы. Отрешившись от знания конечной цели, мы ясно поймем, что точно так же, как ни к одному растению нельзя придумать других, более соответственных ему, цвета и семени, чем те, которые оно производит, точно так же невозможно придумать других двух людей, со всем их прошедшим, которое соответствовало бы до такой степени, до таких мельчайших подробностей тому назначению, которое им предлежало исполнить.     </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode05F4A472-F57E-4F6F-BC87-9E794EA50689">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">277</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF73BA2E4-46B7-4280-9AC4-DA33854330E5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1180C7C2-97C8-47BB-B1F8-D382AC0862A9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE37F79D-8719-40DF-9357-9FE5D2C74DFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA53258DA-9DFE-48BB-B8E4-5B4DDF34D2A4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">983</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">988</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFD88E2E4-1519-4B38-A415-D591B2A0010D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4FB8262D-08F8-4F83-AAE2-9BB41A483155">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">983</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">988</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE37F79D-8719-40DF-9357-9FE5D2C74DFC"/>
+				<Aux:grouped_with rdf:nodeID="bnode1180C7C2-97C8-47BB-B1F8-D382AC0862A9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDDC06DF9-BF22-4E6D-B0C9-B210AC278FB2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1017</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7C839CA0-2FDE-4A7C-B0D7-24656AA7CD97"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDFE17FE2-683D-47AC-AAE7-97525F1BC754">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1018</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1025</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode86680974-B127-4EF3-B21B-A56D289668DD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFD75CFE1-CEC0-409B-A2F2-71AD867B5363">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1247</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1248</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0B2BFB84-2DB2-468C-B938-4F4EF6BA7F66"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode14AA4E87-FF80-44B0-A884-6135D9B9C1DE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1247</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1248</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8062A9D7-7804-4E13-8645-B108B6A75F2C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode39A66C05-9979-4490-9395-1461745C8575">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1294</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1299</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D070853-01D6-452B-BFA8-08B5F2BCE680"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode276C8099-18B3-4417-BAFB-1B566244018A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1343</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1349</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4DF8F480-2F43-428F-9B1D-7467C1F68F8F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode81FEF804-09C8-486C-BC27-3DF7FFFE19FA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1359</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1360</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8062A9D7-7804-4E13-8645-B108B6A75F2C"/>
+				<Aux:grouped_with rdf:nodeID="bnode14AA4E87-FF80-44B0-A884-6135D9B9C1DE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCA609A69-1D35-4C56-AEA8-A0AB7B485940">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1359</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1360</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0B2BFB84-2DB2-468C-B938-4F4EF6BA7F66"/>
+				<Aux:grouped_with rdf:nodeID="bnodeFD75CFE1-CEC0-409B-A2F2-71AD867B5363"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEE3522D2-0A53-4A75-B40E-A9A1DE8C7F4C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1477</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1483</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2066D4E6-544B-4026-931F-996A2BB949AE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB0DCCC38-FC45-4057-AA5D-4D4F7BA93F9C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1640</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1646</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE37F79D-8719-40DF-9357-9FE5D2C74DFC"/>
+				<Aux:grouped_with rdf:nodeID="bnode1180C7C2-97C8-47BB-B1F8-D382AC0862A9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7446977E-0969-4EEC-ABDE-9DB0FE4CFF9B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1795</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1800</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2C9F89DE-9D2D-4680-B575-9FDFE4098EEE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8606BBF5-075A-4521-9941-5BF167AB8FAA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1953</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09AD3E43-71D5-4F53-8C8A-E438F1EB824E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3F301CF2-2F45-4E58-A0B6-D1BAD41B8EE0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1977</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1983</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode644AA894-1DDF-407E-A4AD-E92523E3EA16"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFD265F76-2A95-45A9-8123-0D254CE194F8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2009</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09AD3E43-71D5-4F53-8C8A-E438F1EB824E"/>
+				<Aux:grouped_with rdf:nodeID="bnode8606BBF5-075A-4521-9941-5BF167AB8FAA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC6C0A561-F8B0-4742-B271-2E33FB4A6408">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2103</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2107</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09AD3E43-71D5-4F53-8C8A-E438F1EB824E"/>
+				<Aux:grouped_with rdf:nodeID="bnode8606BBF5-075A-4521-9941-5BF167AB8FAA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7C94E499-8665-4A58-9911-9CCBE531AB56">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2145</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2148</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09AD3E43-71D5-4F53-8C8A-E438F1EB824E"/>
+				<Aux:grouped_with rdf:nodeID="bnode8606BBF5-075A-4521-9941-5BF167AB8FAA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4A4BE93A-9271-422D-8888-0C733D03B84D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2158</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2161</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09AD3E43-71D5-4F53-8C8A-E438F1EB824E"/>
+				<Aux:grouped_with rdf:nodeID="bnode8606BBF5-075A-4521-9941-5BF167AB8FAA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD25FAFE1-ABF3-4F73-86B3-5A9E9FDF4BFE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2262</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2265</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09AD3E43-71D5-4F53-8C8A-E438F1EB824E"/>
+				<Aux:grouped_with rdf:nodeID="bnode8606BBF5-075A-4521-9941-5BF167AB8FAA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF9321E1A-0B9F-451F-B684-9B1E2065C186">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2338</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2341</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09AD3E43-71D5-4F53-8C8A-E438F1EB824E"/>
+				<Aux:grouped_with rdf:nodeID="bnode8606BBF5-075A-4521-9941-5BF167AB8FAA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEB0D5C25-247A-49D6-ADD7-9DC439E03A79">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2410</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2412</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09AD3E43-71D5-4F53-8C8A-E438F1EB824E"/>
+				<Aux:grouped_with rdf:nodeID="bnode8606BBF5-075A-4521-9941-5BF167AB8FAA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode009BA525-AAC5-46A7-BD25-3F90D6583A37">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2460</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2465</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE37F79D-8719-40DF-9357-9FE5D2C74DFC"/>
+				<Aux:grouped_with rdf:nodeID="bnode1180C7C2-97C8-47BB-B1F8-D382AC0862A9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF3A2612F-B10B-4DF8-9A85-053B0A664A7B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2787</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2792</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1631819C-8104-4942-A349-59A747936076"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEBD6473C-43F1-45A5-9B46-39953CE7ABD5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2787</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2792</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE37F79D-8719-40DF-9357-9FE5D2C74DFC"/>
+				<Aux:grouped_with rdf:nodeID="bnode1180C7C2-97C8-47BB-B1F8-D382AC0862A9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6F9176B7-2147-4870-9B2A-35A524434DEC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3193</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3202</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF2E259C8-4FD2-4E7F-988E-492802F6225A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCBAB32D1-33A2-4700-B9AD-06D346DC8D69">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3193</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3202</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode981B4564-0ABC-4998-B2F8-143942714EAC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB34C14B9-63A7-406C-864D-012EEE8C79ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3193</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3202</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode229F8DB7-C0CF-4AA6-BE91-E51C4B685AA0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8C1972A2-62CA-4811-B344-7C899CEF186D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3193</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3202</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1B377163-ED77-4077-8234-7BE24B0FF05C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCCA1C5AF-0F43-4E23-BA3B-32BDFDE4BE1F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3205</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3215</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode664896DD-3C4D-4FFD-A854-2B7E3139E1FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode736F12C8-E3E4-4E83-BBF5-749A52EC3C7A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3205</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3215</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFC38506A-5DD1-40A4-BF65-09DC4B376F79"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeACB5E6B6-F03A-40A7-A751-BBC619B83CE7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3205</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3215</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1B377163-ED77-4077-8234-7BE24B0FF05C"/>
+				<Aux:grouped_with rdf:nodeID="bnode8C1972A2-62CA-4811-B344-7C899CEF186D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode70C4EE34-F5D4-49D5-93CB-18BD8861CB5A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3205</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3215</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode229F8DB7-C0CF-4AA6-BE91-E51C4B685AA0"/>
+				<Aux:grouped_with rdf:nodeID="bnodeB34C14B9-63A7-406C-864D-012EEE8C79ED"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD5DAD569-D38D-496D-B9CC-B11DC4F85F97">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3245</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3249</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFA997249-2FF0-4EAB-970D-5F0D4AA0027C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3EA20360-2D07-43A4-A5EA-DA24FCA4D25D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3254</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3258</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A7E7323-D287-42A7-AC3C-52B09459A8CC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC1E433A4-5B9B-4FC3-BF36-BD8F8D95F0AF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3336</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3345</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB5CAB96-C05A-4844-9BAF-D093BCAE182A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2ED86ECD-E0D9-4108-BA92-FC47722CD8DB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3640</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3646</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode92007A63-CBC4-4625-922A-770F4A85636A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

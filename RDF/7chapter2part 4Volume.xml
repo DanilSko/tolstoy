@@ -1,0 +1,1200 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="429665" markupID="2123" OntoTechnologyVersion="2.6.3.36"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:Basic="http://www.abbyy.com/ns/Basic#" xmlns:TestOnto="http://www.abbyy.com/ns/TestOnto#" xmlns:BasicFact="http://www.abbyy.com/ns/BasicFact#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<TestOnto:PersonForViM rdf:nodeID="bnode914FF108-C8C6-45E9-945C-BDA435B7E055">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Бесчисленное количество свободных сил (ибо нигде человек не бывает свободнее, как во время сражения, где дело идет о жизни и смерти) влияет на направление сражения, и это направление никогда не может быть известно вперед и никогда не совпадает с направлением какой-нибудь одной силы.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">человек</rdfs:label>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_SyntSiblings rdf:nodeID="bnode5050E6B5-D6E5-4F01-8011-57A79D2175B4">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Miloradovich"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+	</TestOnto:LNT_SyntSiblings>
+	<TestOnto:LNT_CooccurenceSameSentence rdf:nodeID="bnode979F5BFD-D80F-4F67-95D7-A66FBD61BDF7">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Miloradovich"/>
+	</TestOnto:LNT_CooccurenceSameSentence>
+	<TestOnto:PersonForViM rdf:nodeID="bnodeA37326F7-3C76-4AAA-93CF-02C6C40B45E9">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Вот просят наступления, предлагают разные проекты, а чуть приступишь к делу, ничего не готово, и предупрежденный неприятель берет свои меры.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Время не упущено, ваша светлость, неприятель не ушел.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">ты</rdfs:label>
+	</TestOnto:PersonForViM>
+	<TestOnto:PersonForViM rdf:nodeID="bnode2ED8450B-0AE5-40DB-89CE-0BFE0C979837">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Это он на мой счет забавляется,- тихо сказал Ермолов, толкнув коленкой Раевского, стоявшего подле него.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Раевский</rdfs:label>
+		<BasicEntity:surname xml:lang="ru-RU">Раевский</BasicEntity:surname>
+		<TestOnto:store_individual rdf:resource="http://www.abbyy.com/ns/TestOnto#Raevsky"/>
+	</TestOnto:PersonForViM>
+	<BasicFact:Opinion rdf:nodeID="bnodeBF7D55BD-2720-4D06-9B94-433163C055E8">
+		<BasicFact:speaker rdf:nodeID="bnode2E4DE773-B14B-449B-B78D-1C109BD7C0FB"/>
+		<BasicFact:text xml:lang="ru-RU"> у них войны</BasicFact:text>
+		<BasicFact:text xml:lang="ru-RU">и сражения исполняются по вперед определенному плану</BasicFact:text>
+	</BasicFact:Opinion>
+	<TestOnto:LNT_Speech rdf:nodeID="bnodeA8222FDE-2945-4E70-A549-1BB290038F3A">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Вот просят наступления, предлагают разные проекты, а чуть приступишь к делу, ничего не готово, и предупрежденный неприятель берет свои меры.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_Quotation"/>
+		<TestOnto:speech_structure rdf:resource="http://www.abbyy.com/ns/TestOnto#S_structure"/>
+		<TestOnto:persons rdf:nodeID="bnodeA37326F7-3C76-4AAA-93CF-02C6C40B45E9"/>
+		<TestOnto:persons rdf:nodeID="bnodeEDB12A73-F44E-4566-8587-469279F1B600"/>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">894</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2026</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2189</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8464</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110513</TestOnto:verb_lex_class>
+		<BasicFact:speaker rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+		<BasicFact:listener rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+		<TestOnto:adjectives xml:lang="ru-RU">готовое</TestOnto:adjectives>
+		<TestOnto:adjectives xml:lang="ru-RU">разный</TestOnto:adjectives>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Когда Кутузову доложили, что в тылу французов, где, по донесениям казаков, прежде никого не было, теперь было два батальона поляков, он покосился назад на Ермолова (он с ним не говорил еще со вчерашнего дня).</TestOnto:store_left_sentence>
+		<TestOnto:verbs xml:lang="ru-RU">браться</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">предлагаться</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">приступишь</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">проситься</TestOnto:verbs>
+		<BasicFact:text xml:lang="ru-RU">- Вот просят наступления, предлагают разные проекты, а чуть приступишь к делу, ничего не готово, и предупрежденный неприятель берет свои меры.</BasicFact:text>
+		<TestOnto:nouns xml:lang="ru-RU">Вот</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">дело</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">мера</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">наступление</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">неприятель</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">проект</TestOnto:nouns>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnode34A535FB-FF6A-4D07-ABE9-1DDA9E572446">
+		<rdfs:label xml:lang="ru-RU">ваша</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode3AB3C949-BEC1-43C8-9D35-A42404E2EFC4">
+		<rdfs:label xml:lang="ru-RU">светлости</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnodeB2A614DE-E3F4-4275-AC6B-27CA913569CA">
+		<rdfs:label xml:lang="ru-RU">Кутузов</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnode4BD790AD-149C-42F9-9DD4-CE93A0649E88">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Время не упущено, ваша светлость, неприятель не ушел.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">светлости</rdfs:label>
+		<TestOnto:epithet_wider xml:lang="ru-RU">ваша</TestOnto:epithet_wider>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_CooccurenceSameSentence rdf:nodeID="bnodeE9B09D12-0F32-4DBD-A11C-068343BFF29D">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Yermolov"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Raevsky"/>
+	</TestOnto:LNT_CooccurenceSameSentence>
+	<Basic:FactParticipant rdf:nodeID="bnodeCB5C0F31-FB23-4213-AAF7-914750869092">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/TestOnto#PersonForViM"/>
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">Милорадович</rdfs:label>
+		<TestOnto:store_individual rdf:resource="http://www.abbyy.com/ns/TestOnto#Miloradovich"/>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_SyntSiblings rdf:nodeID="bnodeE9C3F524-A6D5-4001-BB43-349FE1354A38">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Yermolov"/>
+	</TestOnto:LNT_SyntSiblings>
+	<Basic:FactParticipant rdf:nodeID="bnodeE632ACB3-CDE3-497D-BE15-766C88B0A71B">
+		<rdfs:label xml:lang="ru-RU">Ермолов</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnodeA4813230-ECBD-4E18-8B61-50323FB80CF9">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">При самом малом напряжении, при величайшей путанице и при самой ничтожной потере были приобретены самые большие результаты во всю кампанию, был сделан переход от отступления к наступлению, была обличена слабость французов и был дан тот толчок, которого только и ожидало наполеоновское войско для начатия бегства.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Наполеон</rdfs:label>
+		<BasicEntity:firstname xml:lang="ru-RU">Наполеон</BasicEntity:firstname>
+		<TestOnto:store_individual rdf:resource="http://www.abbyy.com/ns/TestOnto#Napoleon_Bonaparte"/>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode22B84196-13D3-4B7A-8A79-643CE2E4A2E7">
+		<TestOnto:nouns xml:lang="ru-RU">генерал</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">офицер</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">сражение</TestOnto:nouns>
+		<TestOnto:speech_comment_type rdf:nodeID="bnode551FA77F-0599-40E2-BE77-0D2C8DDC125F"/>
+		<TestOnto:speech_comment_type rdf:resource="http://www.abbyy.com/ns/TestOnto#WithConjunctVerb"/>
+		<TestOnto:speech_comment_type rdf:resource="http://www.abbyy.com/ns/TestOnto#WithParticiple"/>
+		<TestOnto:auth xml:lang="ru-RU">- точно так же, как и говорят теперь, давая чувствовать, что кто-то там глупый делает так, навыворот, а мы бы не так сделали.</TestOnto:auth>
+		<TestOnto:verbs xml:lang="ru-RU">говориться</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">делаться</TestOnto:verbs>
+		<BasicFact:speaker rdf:nodeID="bnode69A62ED2-9C47-4439-9A85-C2E88AD13BC3"/>
+		<TestOnto:store_with_participle_compart xml:lang="ru-RU">давая чувствовать, что кто-то там глупый делает так, навыворот</TestOnto:store_with_participle_compart>
+		<TestOnto:speech_predicate xml:lang="ru-RU">говорят</TestOnto:speech_predicate>
+		<TestOnto:speech_predicate xml:lang="ru-RU">сделали</TestOnto:speech_predicate>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">а мы бы не так сделали</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:store_with_conjunct_verb_compart xml:lang="ru-RU">точно так же, как и говорят теперь, давая чувствовать, что кто-то там глупый делает так, навыворот</TestOnto:store_with_conjunct_verb_compart>
+		<TestOnto:adjectives xml:lang="ru-RU">Тарутинское</TestOnto:adjectives>
+		<TestOnto:adjectives xml:lang="ru-RU">русский</TestOnto:adjectives>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Вследствие этого сражения Кутузов получил алмазный знак, Бенигсен тоже алмазы и сто тысяч рублей, другие, по чинам соответственно, получили тоже много приятного, и после этого сражения сделаны еще новые перемещения в штабе.</TestOnto:store_left_sentence>
+		<TestOnto:store_with_adv_modifier_comment xml:lang="ru-RU">не так</TestOnto:store_with_adv_modifier_comment>
+		<TestOnto:store_with_adv_modifier_comment xml:lang="ru-RU">точно так же</TestOnto:store_with_adv_modifier_comment>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">'Вот как у нас всегда делается, все навыворот!' - говорили после Тарутинского сражения русские офицеры и генералы,- точно так же, как и говорят теперь, давая чувствовать, что кто-то там глупый делает так, навыворот, а мы бы не так сделали.</TestOnto:store_this_sentence>
+		<BasicFact:text xml:lang="ru-RU">'Вот как у нас всегда делается, все навыворот!' - говорили после Тарутинского сражения русские офицеры и генералы,</BasicFact:text>
+		<TestOnto:adverbs xml:lang="ru-RU">навыворот</TestOnto:adverbs>
+		<TestOnto:speech_structure rdf:resource="http://www.abbyy.com/ns/TestOnto#SK_structure"/>
+		<TestOnto:speech_structure_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</TestOnto:speech_structure_number>
+		<TestOnto:speaker_aux rdf:nodeID="bnode69A62ED2-9C47-4439-9A85-C2E88AD13BC3"/>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34615</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129080</TestOnto:verb_lex_class>
+		<TestOnto:store_comment_part xml:lang="ru-RU">а мы бы не так сделали</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">давая чувствовать, что кто-то там глупый делает так, навыворот</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">не так</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">точно так же</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">точно так же, как и говорят теперь, давая чувствовать, что кто-то там глупый делает так, навыворот</TestOnto:store_comment_part>
+		<TestOnto:exclamatory_sentences xml:lang="ru-RU">Вот как у нас всегда делается, все навыворот!</TestOnto:exclamatory_sentences>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_Quotation"/>
+	</TestOnto:LNT_Speech>
+	<TestOnto:LNT_SyntSiblings rdf:nodeID="bnode90097CAD-D707-4AF9-8D86-E04B350C301A">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Yermolov"/>
+	</TestOnto:LNT_SyntSiblings>
+	<TestOnto:SpeechAuthCommentType rdf:nodeID="bnode551FA77F-0599-40E2-BE77-0D2C8DDC125F"/>
+	<TestOnto:PersonForViM rdf:nodeID="bnode5C040184-8792-4B50-A678-4DCECE870B2F">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Все сраженье состояло только в том, что сделали казаки Орлова-Денисова; остальные войска лишь напрасно потеряли несколько сот людей.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Орлов-Денисов</rdfs:label>
+		<BasicEntity:surname xml:lang="ru-RU">Орлов-Денисов</BasicEntity:surname>
+		<TestOnto:store_individual rdf:resource="http://www.abbyy.com/ns/TestOnto#Vasily__Vasska__Denisov"/>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_CooccurenceSameSentence rdf:nodeID="bnode7AC19524-D560-437F-8EFA-7B4620DE3467">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Yermolov"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+	</TestOnto:LNT_CooccurenceSameSentence>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode711FD5D3-7A59-47A4-8103-45C769F311AF">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Это он на мой счет забавляется,- тихо сказал Ермолов, толкнув коленкой Раевского, стоявшего подле него.</TestOnto:store_this_sentence>
+		<TestOnto:speech_comment_type rdf:nodeID="bnode551FA77F-0599-40E2-BE77-0D2C8DDC125F"/>
+		<TestOnto:speech_comment_type rdf:resource="http://www.abbyy.com/ns/TestOnto#WithParticiple"/>
+		<TestOnto:speech_structure rdf:resource="http://www.abbyy.com/ns/TestOnto#SK_structure"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+		<TestOnto:persons rdf:nodeID="bnodeDB0CEFE2-34C1-4281-B670-4804986C45F2"/>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57662</TestOnto:verb_lex_class>
+		<BasicFact:speaker rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Он понял, что для него гроза прошла и что Кутузов ограничится этим намеком.</TestOnto:store_left_sentence>
+		<TestOnto:verbs xml:lang="ru-RU">забавляться</TestOnto:verbs>
+		<TestOnto:store_comment_part xml:lang="ru-RU">стоявшего подле него</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">тихо</TestOnto:store_comment_part>
+		<TestOnto:store_comment_part xml:lang="ru-RU">толкнув коленкой Раевского</TestOnto:store_comment_part>
+		<TestOnto:speech_structure_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</TestOnto:speech_structure_number>
+		<BasicFact:text xml:lang="ru-RU">Это он на мой счет забавляется,</BasicFact:text>
+		<TestOnto:nouns xml:lang="ru-RU">счет</TestOnto:nouns>
+		<BasicFact:listener rdf:nodeID="bnode2ED8450B-0AE5-40DB-89CE-0BFE0C979837"/>
+		<TestOnto:auth xml:lang="ru-RU">- тихо сказал Ермолов, толкнув коленкой Раевского, стоявшего подле него.</TestOnto:auth>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_Quotation"/>
+		<TestOnto:store_with_adv_modifier_comment xml:lang="ru-RU">тихо</TestOnto:store_with_adv_modifier_comment>
+		<TestOnto:speech_predicate xml:lang="ru-RU">сказал</TestOnto:speech_predicate>
+		<TestOnto:store_with_participle_compart xml:lang="ru-RU">стоявшего подле него</TestOnto:store_with_participle_compart>
+		<TestOnto:store_with_participle_compart xml:lang="ru-RU">толкнув коленкой Раевского</TestOnto:store_with_participle_compart>
+	</TestOnto:LNT_Speech>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode82319031-D226-42A0-B4B8-1BC03DBECB3F">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Время не упущено, ваша светлость, неприятель не ушел.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_Quotation"/>
+		<TestOnto:speech_structure rdf:resource="http://www.abbyy.com/ns/TestOnto#S_structure"/>
+		<TestOnto:persons rdf:nodeID="bnodeA37326F7-3C76-4AAA-93CF-02C6C40B45E9"/>
+		<TestOnto:persons rdf:nodeID="bnodeEDB12A73-F44E-4566-8587-469279F1B600"/>
+		<TestOnto:persons rdf:nodeID="bnode4BD790AD-149C-42F9-9DD4-CE93A0649E88"/>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3568</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26125</TestOnto:verb_lex_class>
+		<BasicFact:speaker rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+		<BasicFact:listener rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Вскоре после этого Ермолов выдвинулся вперед к Кутузову и почтительно доложил:</TestOnto:store_left_sentence>
+		<TestOnto:verbs xml:lang="ru-RU">уйдет</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">упущенным</TestOnto:verbs>
+		<BasicFact:text xml:lang="ru-RU">- Время не упущено, ваша светлость, неприятель не ушел. Если прикажете наступать? А то гвардия и дыма не увидит.</BasicFact:text>
+		<TestOnto:nouns xml:lang="ru-RU">время</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">неприятель</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">светлость</TestOnto:nouns>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnodeC2A2289E-D15A-485A-9E85-C40A2EA52D89">
+		<rdfs:label xml:lang="ru-RU">неприятель</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_CooccurenceSameSentence rdf:nodeID="bnode2F9EF0A0-EA88-406E-8EBF-83E31C5A93F8">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Yermolov"/>
+	</TestOnto:LNT_CooccurenceSameSentence>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode6B1361E6-7305-456A-AA9A-2B66CA852537">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Когда Кутузову доложили, что в тылу французов, где, по донесениям казаков, прежде никого не было, теперь было два батальона поляков, он покосился назад на Ермолова (он с ним не говорил еще со вчерашнего дня).</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_ReportedSpeech"/>
+		<BasicFact:text xml:lang="ru-RU"> в тылу французов где по донесениям казаков прежде никого не было теперь было два батальона поляков</BasicFact:text>
+		<BasicFact:listener rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">- Не умели утром взять живьем Мюрата и прийти вовремя на место: теперь нечего делать! - отвечал он другому.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">доложили</TestOnto:speech_predicate>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnodeD21748F1-1FC5-438B-91BA-5C4C9D753AB8">
+		<rdfs:label xml:lang="ru-RU">Ермолов</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode4150950D-09CE-4D3C-A3A8-55BC49F71818">
+		<rdfs:label xml:lang="ru-RU">неприятель</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode87C7ED3E-CE85-46D5-AE60-9F93BF46C3D5">
+		<rdfs:label xml:lang="ru-RU">человек</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode4EB80B8F-BC29-4897-8939-C8D280DD2FD0">
+		<rdfs:label xml:lang="ru-RU">Кутузов</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode60B4F865-468A-487E-AC29-66702908AF30">
+		<rdfs:label xml:lang="ru-RU">Ермолов</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_CooccurenceSameSentence rdf:nodeID="bnodeAB33B6D0-09C4-4831-9E4E-7D0AD8B89A13">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Joachim_Murat"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+	</TestOnto:LNT_CooccurenceSameSentence>
+	<TestOnto:LNT_CooccurenceSameSentence rdf:nodeID="bnode234CAB43-D251-4918-A628-D65D92D3365F">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Yermolov"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+	</TestOnto:LNT_CooccurenceSameSentence>
+	<Basic:FactParticipant rdf:nodeID="bnodeDD160FE8-339C-489F-911D-95FE3D5073CF">
+		<rdfs:label xml:lang="ru-RU">глаза</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnodeB74D5B05-A108-47B0-AAF6-19C21691161D">
+		<rdfs:label xml:lang="ru-RU">Кутузов</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode42E82C08-5F23-4F8B-AFE7-3ADB84BA8AC9">
+		<rdfs:label xml:lang="ru-RU">Ермолов</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_SyntSiblings rdf:nodeID="bnodeADC80BAC-2E3F-41D4-BAB1-3390DB84F465">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Yermolov"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Raevsky"/>
+	</TestOnto:LNT_SyntSiblings>
+	<Basic:FactParticipant rdf:nodeID="bnode2E4DE773-B14B-449B-B78D-1C109BD7C0FB">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">мы</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnode5F4DEB1D-628A-44AD-83CB-872D9E28EE86">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Не умели утром взять живьем Мюрата и прийти вовремя на место: теперь нечего делать! - отвечал он другому.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Кутузов ничего не сказал, но когда ему донесли, что войска Мюрата отступают, он приказал наступленье; но через каждые сто шагов останавливался на три четверти часа.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Мюрат</rdfs:label>
+		<BasicEntity:firstname xml:lang="ru-RU">Мюрат</BasicEntity:firstname>
+		<TestOnto:store_individual rdf:resource="http://www.abbyy.com/ns/TestOnto#Joachim_Murat"/>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_CooccurenceSameSentence rdf:nodeID="bnode96D85C40-8F3C-4E76-8C32-4582CC2B8627">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Raevsky"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Yermolov"/>
+	</TestOnto:LNT_CooccurenceSameSentence>
+	<Basic:FactParticipant rdf:nodeID="bnode8D92BE16-B34B-4181-83FC-6DD83586237B">
+		<rdfs:label xml:lang="ru-RU">Кутузов</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Это он на мой счет забавляется,- тихо сказал Ермолов, толкнув коленкой Раевского, стоявшего подле него.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Вскоре после этого Ермолов выдвинулся вперед к Кутузову и почтительно доложил:</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Ермолов прищурил глаза и слегка улыбнулся, услыхав эти слова.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Когда Кутузову доложили, что в тылу французов, где, по донесениям казаков, прежде никого не было, теперь было два батальона поляков, он покосился назад на Ермолова (он с ним не говорил еще со вчерашнего дня).</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Он понял, что для него гроза прошла и что Кутузов ограничится этим намеком.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Ермолов</rdfs:label>
+		<BasicEntity:surname xml:lang="ru-RU">Ермолов</BasicEntity:surname>
+		<TestOnto:store_individual rdf:resource="http://www.abbyy.com/ns/TestOnto#Yermolov"/>
+	</TestOnto:PersonForViM>
+	<Basic:FactParticipant rdf:nodeID="bnode1CC3D0B9-A7D0-4DC7-AC43-AB76E32FBE55">
+		<rdfs:label xml:lang="ru-RU">Раевский</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode7655C80C-787C-4635-9E81-40A30E7EBDBB">
+		<rdfs:label xml:lang="ru-RU">Кутузов</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnode69A62ED2-9C47-4439-9A85-C2E88AD13BC3">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<rdfs:label xml:lang="ru-RU">мы</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnodeE2123E06-F33B-4C54-BF78-32B2F1090A76">
+		<rdfs:label xml:lang="ru-RU">Кутузов</rdfs:label>
+	</Basic:FactParticipant>
+	<Basic:FactParticipant rdf:nodeID="bnodeF32A7412-1E1D-4AC4-B05B-538FFAFB311D">
+		<rdfs:label xml:lang="ru-RU">Мюрат</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:LNT_CooccurenceSameSentence rdf:nodeID="bnode56F78831-3056-4AD1-BE22-89349074AB97">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Joachim_Murat"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+	</TestOnto:LNT_CooccurenceSameSentence>
+	<TestOnto:PersonForViM rdf:nodeID="bnodeDB0CEFE2-34C1-4281-B670-4804986C45F2">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Это он на мой счет забавляется,- тихо сказал Ермолов, толкнув коленкой Раевского, стоявшего подле него.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">я</rdfs:label>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_CooccurenceSameSentence rdf:nodeID="bnode8163E64C-604A-4B85-AEF4-A6E6E0500100">
+		<TestOnto:left_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+		<TestOnto:right_side rdf:resource="http://www.abbyy.com/ns/TestOnto#Joachim_Murat"/>
+	</TestOnto:LNT_CooccurenceSameSentence>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode01BA3B5D-B6B2-4A91-AA43-B6767EDD8C50">
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_Quotation"/>
+		<TestOnto:speech_structure rdf:resource="http://www.abbyy.com/ns/TestOnto#SK_structure"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+		<TestOnto:persons rdf:nodeID="bnode5F4DEB1D-628A-44AD-83CB-872D9E28EE86"/>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">635</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2026</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26125</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110647</TestOnto:verb_lex_class>
+		<BasicFact:speaker rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+		<TestOnto:auth xml:lang="ru-RU">- отвечал он другому.</TestOnto:auth>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">- У вас все на языке атаковать, а не видите, что мы не умеем делать сложных маневров,- сказал он Милорадовичу, просившемуся вперед.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">отвечал</TestOnto:speech_predicate>
+		<TestOnto:verbs xml:lang="ru-RU">взятым</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">делаться</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">придет</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">умеет</TestOnto:verbs>
+		<TestOnto:adverbs xml:lang="ru-RU">вовремя</TestOnto:adverbs>
+		<TestOnto:adverbs xml:lang="ru-RU">живьем</TestOnto:adverbs>
+		<TestOnto:speech_structure_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</TestOnto:speech_structure_number>
+		<BasicFact:text xml:lang="ru-RU">Не умели утром взять живьем Мюрата и прийти вовремя на место: теперь нечего делать!</BasicFact:text>
+		<TestOnto:nouns xml:lang="ru-RU">Мюрат</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">место</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">утро</TestOnto:nouns>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Не умели утром взять живьем Мюрата и прийти вовремя на место: теперь нечего делать! - отвечал он другому.</TestOnto:store_this_sentence>
+		<TestOnto:exclamatory_sentences xml:lang="ru-RU">Не умели утром взять живьем Мюрата и прийти вовремя на место: теперь нечего делать!</TestOnto:exclamatory_sentences>
+	</TestOnto:LNT_Speech>
+	<Basic:FactParticipant rdf:nodeID="bnode1B0E33FA-0A11-42AB-8A14-879291A3B021">
+		<rdfs:label xml:lang="ru-RU">Кутузов</rdfs:label>
+	</Basic:FactParticipant>
+	<TestOnto:PersonForViM rdf:nodeID="bnodeEDB12A73-F44E-4566-8587-469279F1B600">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Вот просят наступления, предлагают разные проекты, а чуть приступишь к делу, ничего не готово, и предупрежденный неприятель берет свои меры.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Время не упущено, ваша светлость, неприятель не ушел.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">неприятель</rdfs:label>
+		<TestOnto:epithet_wider xml:lang="ru-RU">предупредивший неприятель</TestOnto:epithet_wider>
+	</TestOnto:PersonForViM>
+	<TestOnto:LNT_Speech rdf:nodeID="bnode11133E69-2C30-46AF-AAD4-8F936734EADE">
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- У вас все на языке атаковать, а не видите, что мы не умеем делать сложных маневров,- сказал он Милорадовичу, просившемуся вперед.</TestOnto:store_this_sentence>
+		<BasicFact:type rdf:resource="http://www.abbyy.com/ns/BasicFact#TOS_Quotation"/>
+		<TestOnto:speech_structure rdf:resource="http://www.abbyy.com/ns/TestOnto#SK_structure"/>
+		<TestOnto:speaker_aux rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">635</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">755</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">894</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59421</TestOnto:verb_lex_class>
+		<TestOnto:verb_lex_class rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110647</TestOnto:verb_lex_class>
+		<BasicFact:speaker rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+		<TestOnto:adjectives xml:lang="ru-RU">сложный</TestOnto:adjectives>
+		<TestOnto:store_left_sentence xml:lang="ru-RU">Кутузов молча ехал на своей серенькой лошадке, лениво отвечая на предложения атаковать.</TestOnto:store_left_sentence>
+		<TestOnto:speech_predicate xml:lang="ru-RU">сказал</TestOnto:speech_predicate>
+		<TestOnto:verbs xml:lang="ru-RU">атаковаться</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">видеться</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">делаться</TestOnto:verbs>
+		<TestOnto:verbs xml:lang="ru-RU">умею</TestOnto:verbs>
+		<TestOnto:speech_structure_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</TestOnto:speech_structure_number>
+		<BasicFact:text xml:lang="ru-RU">У вас все на языке атаковать, а не видите, что мы не умеем делать сложных маневров,</BasicFact:text>
+		<TestOnto:nouns xml:lang="ru-RU">маневр</TestOnto:nouns>
+		<TestOnto:nouns xml:lang="ru-RU">язык</TestOnto:nouns>
+		<BasicFact:listener rdf:nodeID="bnodeCB5C0F31-FB23-4213-AAF7-914750869092"/>
+		<TestOnto:auth xml:lang="ru-RU">- сказал он Милорадовичу, просившемуся вперед.</TestOnto:auth>
+	</TestOnto:LNT_Speech>
+	<TestOnto:PersonForViM rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/Basic#Speech_authorRole"/>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- Не умели утром взять живьем Мюрата и прийти вовремя на место: теперь нечего делать! - отвечал он другому.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">- У вас все на языке атаковать, а не видите, что мы не умеем делать сложных маневров,- сказал он Милорадовичу, просившемуся вперед.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Вскоре после этого Ермолов выдвинулся вперед к Кутузову и почтительно доложил:</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Вследствие этого сражения Кутузов получил алмазный знак, Бенигсен тоже алмазы и сто тысяч рублей, другие, по чинам соответственно, получили тоже много приятного, и после этого сражения сделаны еще новые перемещения в штабе.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Когда Кутузову доложили, что в тылу французов, где, по донесениям казаков, прежде никого не было, теперь было два батальона поляков, он покосился назад на Ермолова (он с ним не говорил еще со вчерашнего дня).</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Кутузов молча ехал на своей серенькой лошадке, лениво отвечая на предложения атаковать.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Кутузов ничего не сказал, но когда ему донесли, что войска Мюрата отступают, он приказал наступленье; но через каждые сто шагов останавливался на три четверти часа.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Между тем с фронта другая колонна должна была напасть на французов, но при этой колонне был Кутузов.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Он знал хорошо, что ничего, кроме путаницы, не выйдет из этого против его воли начатого сражения, и, насколько то было в его власти, удерживал войска.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Он не двигался.</TestOnto:store_this_sentence>
+		<TestOnto:store_this_sentence xml:lang="ru-RU">Он понял, что для него гроза прошла и что Кутузов ограничится этим намеком.</TestOnto:store_this_sentence>
+		<rdfs:label xml:lang="ru-RU">Кутузов</rdfs:label>
+		<BasicEntity:surname xml:lang="ru-RU">Кутузов</BasicEntity:surname>
+		<TestOnto:store_individual rdf:resource="http://www.abbyy.com/ns/TestOnto#Mikhail_Ilarionovich_Kutuzov"/>
+	</TestOnto:PersonForViM>
+	<Aux:TextAnnotations rdf:nodeID="bnode4570E868-FC40-4EE6-A780-D51F9EEB1457">
+		<Aux:document_text xml:lang="ru-RU">       Между тем с фронта другая колонна должна была напасть на французов, но при этой колонне был Кутузов. Он знал хорошо, что ничего, кроме путаницы, не выйдет из этого против его воли начатого сражения, и, насколько то было в его власти, удерживал войска. Он не двигался.       Кутузов молча ехал на своей серенькой лошадке, лениво отвечая на предложения атаковать.       - У вас все на языке атаковать, а не видите, что мы не умеем делать сложных маневров,- сказал он Милорадовичу, просившемуся вперед.       - Не умели утром взять живьем Мюрата и прийти вовремя на место: теперь нечего делать! - отвечал он другому.       Когда Кутузову доложили, что в тылу французов, где, по донесениям казаков, прежде никого не было, теперь было два батальона поляков, он покосился назад на Ермолова (он с ним не говорил еще со вчерашнего дня).       - Вот просят наступления, предлагают разные проекты, а чуть приступишь к делу, ничего не готово, и предупрежденный неприятель берет свои меры.       Ермолов прищурил глаза и слегка улыбнулся, услыхав эти слова. Он понял, что для него гроза прошла и что Кутузов ограничится этим намеком.       - Это он на мой счет забавляется,- тихо сказал Ермолов, толкнув коленкой Раевского, стоявшего подле него.       Вскоре после этого Ермолов выдвинулся вперед к Кутузову и почтительно доложил:       - Время не упущено, ваша светлость, неприятель не ушел. Если прикажете наступать? А то гвардия и дыма не увидит.       Кутузов ничего не сказал, но когда ему донесли, что войска Мюрата отступают, он приказал наступленье; но через каждые сто шагов останавливался на три четверти часа.       Все сраженье состояло только в том, что сделали казаки Орлова-Денисова; остальные войска лишь напрасно потеряли несколько сот людей.       Вследствие этого сражения Кутузов получил алмазный знак, Бенигсен тоже алмазы и сто тысяч рублей, другие, по чинам соответственно, получили тоже много приятного, и после этого сражения сделаны еще новые перемещения в штабе.       'Вот как у нас всегда делается, все навыворот!' - говорили после Тарутинского сражения русские офицеры и генералы,- точно так же, как и говорят теперь, давая чувствовать, что кто-то там глупый делает так, навыворот, а мы бы не так сделали. Но люди, говорящие так, или не знают дела, про которое говорят, или умышленно обманывают себя. Всякое сражение - Тарутинское, Бородинское, Аустерлицкое - всякое совершается не так, как предполагали его распорядители. Это есть существенное условие.       Бесчисленное количество свободных сил (ибо нигде человек не бывает свободнее, как во время сражения, где дело идет о жизни и смерти) влияет на направление сражения, и это направление никогда не может быть известно вперед и никогда не совпадает с направлением какой-нибудь одной силы.       Ежели многие, одновременно и разнообразно направленные силы действуют на какое-нибудь тело, то направление движения этого тела не может совпадать ни с одной из сил; а будет всегда среднее, кратчайшее направление, то, что в механике выражается диагональю параллелограмма сил.       Ежели в описаниях историков, в особенности французских, мы находим, что у них войны и сражения исполняются по вперед определенному плану, то единственный вывод, который мы можем сделать из этого, состоит в том, что описания эти не верны.       Тарутинское сражение, очевидно, не достигло той цели, которую имел в виду Толь: по порядку ввести по диспозиции в дело войска, и той, которую мог иметь граф Орлов: взять в плен Мюрата, или цели истребления мгновенно всего корпуса, которую могли иметь Бенигсен и другие лица, или цели офицера, желавшего попасть в дело и отличиться, или казака, который хотел приобрести больше добычи, чем он приобрел, и т. д. Но, если целью было то, что действительно совершилось, и то, что для всех русских людей тогда было общим желанием (изгнание французов из России и истребление их армии), то будет совершенно ясно, что Тарутинское сражение, именно вследствие его несообразностей, было то самое, что было нужно в тот период кампании. Трудно и невозможно придумать какой-нибудь исход этого сражения, более целесообразный, чем тот, который оно имело. При самом малом напряжении, при величайшей путанице и при самой ничтожной потере были приобретены самые большие результаты во всю кампанию, был сделан переход от отступления к наступлению, была обличена слабость французов и был дан тот толчок, которого только и ожидало наполеоновское войско для начатия бегства.     </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0CE46576-7BD7-4D95-AA71-C3FEB5286151">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1B0E33FA-0A11-42AB-8A14-879291A3B021"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode580CA545-30F8-4479-A310-A49B13D55742">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE009AEBB-3440-4FCB-BDE8-6E5E05731F71">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1B0E33FA-0A11-42AB-8A14-879291A3B021"/>
+				<Aux:grouped_with rdf:nodeID="bnode0CE46576-7BD7-4D95-AA71-C3FEB5286151"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode745E3FC6-FF30-4688-AC28-2E9019447F91">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">178</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1B0E33FA-0A11-42AB-8A14-879291A3B021"/>
+				<Aux:grouped_with rdf:nodeID="bnode0CE46576-7BD7-4D95-AA71-C3FEB5286151"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode194B73D8-E1D3-47CA-98FD-A5CC06F22765">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">178</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode46FD220A-88FF-4BF3-BA11-45E4FB306D1F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE5A95DBB-CA5C-4AF2-9610-46D4A70FC061">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1B0E33FA-0A11-42AB-8A14-879291A3B021"/>
+				<Aux:grouped_with rdf:nodeID="bnode0CE46576-7BD7-4D95-AA71-C3FEB5286151"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2A761F54-B7DD-4756-A7FE-DDFF188AE0B2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3434F08C-1B3C-4FE5-B5CC-F9AD7ED33A6A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1B0E33FA-0A11-42AB-8A14-879291A3B021"/>
+				<Aux:grouped_with rdf:nodeID="bnode0CE46576-7BD7-4D95-AA71-C3FEB5286151"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA28275BA-2358-4BB6-ABF7-9C40AB440696">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4961A32C-44BA-41D1-B4A0-4589D5D3EE42">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7655C80C-787C-4635-9E81-40A30E7EBDBB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1282CC6C-F191-4E31-BE6B-960F5AB2C099">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">303</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">308</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7655C80C-787C-4635-9E81-40A30E7EBDBB"/>
+				<Aux:grouped_with rdf:nodeID="bnode4961A32C-44BA-41D1-B4A0-4589D5D3EE42"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF414B523-1D25-4002-AA89-90C28B436EA5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">303</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">308</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode912C50C4-01D7-4528-B11D-6F972B46F357">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">468</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11133E69-2C30-46AF-AAD4-8F936734EADE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode95CD7706-7A38-4F6B-A749-75ADA8F4EB6E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5050E6B5-D6E5-4F01-8011-57A79D2175B4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9920C00A-63B0-42F5-A4AC-702CCDC8F233">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">471</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7655C80C-787C-4635-9E81-40A30E7EBDBB"/>
+				<Aux:grouped_with rdf:nodeID="bnode4961A32C-44BA-41D1-B4A0-4589D5D3EE42"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD23AD1CB-3559-4ED0-8A0A-8322BA3DA9A1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode979F5BFD-D80F-4F67-95D7-A66FBD61BDF7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6639954E-4401-4C91-9300-0D3E6AA75543">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">471</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode97C49BD8-7FF2-4467-92F0-7B635AA60E11">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">472</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCB5C0F31-FB23-4213-AAF7-914750869092"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1447A1A3-A76D-4CB7-908C-89D85FEAB7AE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">543</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">549</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF32A7412-1E1D-4AC4-B05B-538FFAFB311D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4D8C40E0-8E56-401B-9A1D-DD378B005BB3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">543</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">549</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5F4DEB1D-628A-44AD-83CB-872D9E28EE86"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode81EB91B7-D0A1-4C91-A74A-8AC1C451F346">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">543</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">549</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode56F78831-3056-4AD1-BE22-89349074AB97"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA4A53D22-7FA9-45D0-B3F7-0C9359060D7B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">601</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">608</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode01BA3B5D-B6B2-4A91-AA43-B6767EDD8C50"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB9391039-50B8-43EC-8F70-BD7BBAA0743C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">609</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">611</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7655C80C-787C-4635-9E81-40A30E7EBDBB"/>
+				<Aux:grouped_with rdf:nodeID="bnode4961A32C-44BA-41D1-B4A0-4589D5D3EE42"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode19079006-4AD5-4C3B-A62C-C77633C263A1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">609</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">611</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode56F78831-3056-4AD1-BE22-89349074AB97"/>
+				<Aux:grouped_with rdf:nodeID="bnode81EB91B7-D0A1-4C91-A74A-8AC1C451F346"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB9776E0D-211A-4776-B369-FBF892054AFC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">609</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">611</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode99813489-A8DA-4819-8208-3AE6711B9645">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">633</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">641</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB2A614DE-E3F4-4275-AC6B-27CA913569CA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAF64A050-AFD1-4567-9C30-C584AFFA91CF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">633</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">641</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode933F1DBC-51D3-4FE8-886C-CA01B9846BF3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">633</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">641</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2F9EF0A0-EA88-406E-8EBF-83E31C5A93F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0CBEEC6F-A35F-460A-9ABB-649D0F7231B2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">642</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">650</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B1361E6-7305-456A-AA9A-2B66CA852537"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8EE006AD-1362-4B68-B450-56514FDFE875">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">760</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">762</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2F9EF0A0-EA88-406E-8EBF-83E31C5A93F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7D2B980A-0056-4BD8-9D6E-092BFAAF14DA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">760</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">762</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE9C3F524-A6D5-4001-BB43-349FE1354A38"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode024804E3-ED03-4E23-B8C4-3CDCA5B719BB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">760</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">762</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBE4B0650-2485-4FCF-BEA7-E4498A09E769">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">760</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">762</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB2A614DE-E3F4-4275-AC6B-27CA913569CA"/>
+				<Aux:grouped_with rdf:nodeID="bnode99813489-A8DA-4819-8208-3AE6711B9645"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF5E7DECB-1D7A-4704-9063-027AA988975E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">782</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">790</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE9C3F524-A6D5-4001-BB43-349FE1354A38"/>
+				<Aux:grouped_with rdf:nodeID="bnode7D2B980A-0056-4BD8-9D6E-092BFAAF14DA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode41D63FD4-F555-4794-9935-27136B80797D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">782</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">790</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD21748F1-1FC5-438B-91BA-5C4C9D753AB8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode119A274E-0384-4802-ABD1-FCE1E15A347D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">782</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">790</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCDC00718-3FEA-493C-96A1-70428C849248">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">782</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">790</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2F9EF0A0-EA88-406E-8EBF-83E31C5A93F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode07189BE8-4FFB-461A-8E18-BCAD32C2D45B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">792</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">794</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+				<Aux:grouped_with rdf:nodeID="bnode119A274E-0384-4802-ABD1-FCE1E15A347D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA422992C-0464-4AEC-B545-91311F513422">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">792</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">794</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2F9EF0A0-EA88-406E-8EBF-83E31C5A93F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8548FC44-89BE-44A6-A5F9-B073823FE716">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">792</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">794</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD21748F1-1FC5-438B-91BA-5C4C9D753AB8"/>
+				<Aux:grouped_with rdf:nodeID="bnode41D63FD4-F555-4794-9935-27136B80797D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2E16BF84-8ABA-48BB-9B92-9AEAF4B390F3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">957</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">967</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEDB12A73-F44E-4566-8587-469279F1B600"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8E219C28-7AD1-42D9-95BA-4D765484027A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">957</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">967</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC2A2289E-D15A-485A-9E85-C40A2EA52D89"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode22126369-B26B-440D-B771-08D664BD06D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">974</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">978</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC2A2289E-D15A-485A-9E85-C40A2EA52D89"/>
+				<Aux:grouped_with rdf:nodeID="bnode8E219C28-7AD1-42D9-95BA-4D765484027A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode260FEAB3-8D24-4277-8995-92FA254732FD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">974</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">978</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEDB12A73-F44E-4566-8587-469279F1B600"/>
+				<Aux:grouped_with rdf:nodeID="bnode2E16BF84-8ABA-48BB-9B92-9AEAF4B390F3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode66215440-8020-4460-8024-6F4EB85B2E7C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">991</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">998</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE632ACB3-CDE3-497D-BE15-766C88B0A71B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD2400352-1676-465C-95BD-C92C8DE292F9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">991</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">998</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+				<Aux:grouped_with rdf:nodeID="bnode119A274E-0384-4802-ABD1-FCE1E15A347D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF01E9EBF-4808-448D-9224-50037FFB2EEA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1008</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1013</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDD160FE8-339C-489F-911D-95FE3D5073CF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF8A954E3-410C-4B07-84D6-CCF3ED420796">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1053</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1055</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE632ACB3-CDE3-497D-BE15-766C88B0A71B"/>
+				<Aux:grouped_with rdf:nodeID="bnode66215440-8020-4460-8024-6F4EB85B2E7C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode54C38819-D5F6-411B-9FE9-1315A876B8C4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1053</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1055</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+				<Aux:grouped_with rdf:nodeID="bnode119A274E-0384-4802-ABD1-FCE1E15A347D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode86BB2FAD-B40D-46D9-8CD0-972338FD4D2A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1053</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1055</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7AC19524-D560-437F-8EFA-7B4620DE3467"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode235A7477-6DF7-40D5-AFF7-E0F11A020CC6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1071</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1075</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+				<Aux:grouped_with rdf:nodeID="bnode119A274E-0384-4802-ABD1-FCE1E15A347D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBF6D7D05-6857-465E-8386-E736A358B3BC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1071</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1075</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7AC19524-D560-437F-8EFA-7B4620DE3467"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB777BC34-029C-4D1F-95D6-C8FB2E46D26C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1071</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1075</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE632ACB3-CDE3-497D-BE15-766C88B0A71B"/>
+				<Aux:grouped_with rdf:nodeID="bnode66215440-8020-4460-8024-6F4EB85B2E7C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode78A7B413-A946-4761-9FBA-DBC491E9D680">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1095</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1102</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7AC19524-D560-437F-8EFA-7B4620DE3467"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFDFF2D8D-C96A-4678-B140-96E38582ED4B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1095</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1102</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7EE61C3A-41F6-4996-B9C7-7268E5B8D7C7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1095</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1102</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB74D5B05-A108-47B0-AAF6-19C21691161D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF6D33DFA-8DBC-4E1C-8C68-BB196CDDF18F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1141</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1143</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE9B09D12-0F32-4DBD-A11C-068343BFF29D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1922AD02-C4D0-4FEA-A382-C04864C0ED4A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1141</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1143</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+				<Aux:grouped_with rdf:nodeID="bnode119A274E-0384-4802-ABD1-FCE1E15A347D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode010AAC47-5464-49ED-BF77-901A86B85E5B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1147</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1150</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB0CEFE2-34C1-4281-B670-4804986C45F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA5D2BD47-85D5-4FC5-8798-30608D8CDC03">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1175</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1181</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode711FD5D3-7A59-47A4-8103-45C769F311AF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1B9B8EA3-62CD-4D23-9E2A-6A625F4C3224">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1182</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1189</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+				<Aux:grouped_with rdf:nodeID="bnode119A274E-0384-4802-ABD1-FCE1E15A347D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFB2C6676-82D1-4267-A870-3A04EAB88960">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1182</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1189</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode60B4F865-468A-487E-AC29-66702908AF30"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE3B66B11-D31F-4175-B96C-2488B344CD52">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1182</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1189</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE9B09D12-0F32-4DBD-A11C-068343BFF29D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAC2F8807-7B8A-4498-BFD8-5CA50D3112A7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1208</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1217</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode96D85C40-8F3C-4E76-8C32-4582CC2B8627"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode24A2D5AC-A9EA-4BA1-8054-ECCAC563A76F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1208</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1217</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE9B09D12-0F32-4DBD-A11C-068343BFF29D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5650F91F-C895-4617-96B4-BEF9C9C075D7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1208</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1217</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1CC3D0B9-A7D0-4DC7-AC43-AB76E32FBE55"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF7C4BAF3-CF81-4F34-837F-01B248E8C206">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1208</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1217</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2ED8450B-0AE5-40DB-89CE-0BFE0C979837"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3E243281-5EEB-4B6C-BAE7-D83221BF7D57">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1235</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1239</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+				<Aux:grouped_with rdf:nodeID="bnode119A274E-0384-4802-ABD1-FCE1E15A347D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode843C235D-C724-4E85-A937-F779DB83410B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1235</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1239</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADC80BAC-2E3F-41D4-BAB1-3390DB84F465"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1621251A-D206-4B54-9594-DEC2A3D913FF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1235</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1239</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode96D85C40-8F3C-4E76-8C32-4582CC2B8627"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF696C497-09E9-4FEE-9D30-FE44AE15DBAD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1266</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1273</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode234CAB43-D251-4918-A628-D65D92D3365F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeED200642-B2F5-4720-8084-4601F3A121B9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1266</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1273</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode42E82C08-5F23-4F8B-AFE7-3ADB84BA8AC9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6C6CEF7C-FAFA-4558-BB27-8CBA135C0056">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1266</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1273</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F14956A-162E-4A52-86EE-A4E078A17A96"/>
+				<Aux:grouped_with rdf:nodeID="bnode119A274E-0384-4802-ABD1-FCE1E15A347D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode01E6459B-31F8-4653-A93D-5596F2E2D767">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1266</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1273</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode90097CAD-D707-4AF9-8D86-E04B350C301A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3A375789-3688-4112-85CF-0F1DD06E1B47">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1294</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1302</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8D92BE16-B34B-4181-83FC-6DD83586237B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3AF42813-FFE8-4BC3-A188-435D4C7C9F79">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1294</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1302</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode234CAB43-D251-4918-A628-D65D92D3365F"/>
+				<Aux:grouped_with rdf:nodeID="bnodeF696C497-09E9-4FEE-9D30-FE44AE15DBAD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFBCDF3B1-76B8-40A7-9304-72A555D4B855">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1294</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1302</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode77EEF06D-71A5-47BD-A847-2BE2C168AD29">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1294</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1302</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode90097CAD-D707-4AF9-8D86-E04B350C301A"/>
+				<Aux:grouped_with rdf:nodeID="bnode01E6459B-31F8-4653-A93D-5596F2E2D767"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEB68296F-8F80-45E6-A7DC-AD50030786A9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1352</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1356</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA37326F7-3C76-4AAA-93CF-02C6C40B45E9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode84520ADF-41C7-4BC8-B997-7D61CB95EC7D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1352</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1356</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode34A535FB-FF6A-4D07-ABE9-1DDA9E572446"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA8C77FF7-1E93-4BA5-AB36-91E40A07A2E0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1357</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1366</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4BD790AD-149C-42F9-9DD4-CE93A0649E88"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBFDB7678-79BD-4D72-8272-CBF50FA82111">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1357</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1366</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3AB3C949-BEC1-43C8-9D35-A42404E2EFC4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode141DBEB9-AD73-446B-A6DE-FE2CDD126045">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1368</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1378</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4150950D-09CE-4D3C-A3A8-55BC49F71818"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode71727FB8-960B-42AB-97DA-EA1C44B5818C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1368</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1378</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEDB12A73-F44E-4566-8587-469279F1B600"/>
+				<Aux:grouped_with rdf:nodeID="bnode2E16BF84-8ABA-48BB-9B92-9AEAF4B390F3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF624D360-446B-4072-B02C-C25E38506319">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1451</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1458</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4EB80B8F-BC29-4897-8939-C8D280DD2FD0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7AF0D7E1-2705-4B00-947A-A716F85CC7F7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1451</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1458</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8163E64C-604A-4B85-AEF4-A6E6E0500100"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5CF9E683-5BFF-4A75-9308-3693C57FB35D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1451</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1458</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6D157CFC-75F2-4A56-9CC1-B8E2B4F6A297">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1486</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1489</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8163E64C-604A-4B85-AEF4-A6E6E0500100"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4656C036-0847-473F-88AF-F344536E4D67">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1486</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1489</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4EB80B8F-BC29-4897-8939-C8D280DD2FD0"/>
+				<Aux:grouped_with rdf:nodeID="bnodeF624D360-446B-4072-B02C-C25E38506319"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7A73BDB7-A052-4083-8A9A-B5EE3B2DEF79">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1486</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1489</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFCF6A435-5BEA-42C0-B4C8-D7E0D874F46F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1510</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1516</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8163E64C-604A-4B85-AEF4-A6E6E0500100"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5A748AAD-27F1-47F5-B8B6-2B50B3F9B411">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1510</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1516</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB33B6D0-09C4-4831-9E4E-7D0AD8B89A13"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8FB83375-B378-4C06-A2CF-4E4B5AEDB5C7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1510</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1516</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5F4DEB1D-628A-44AD-83CB-872D9E28EE86"/>
+				<Aux:grouped_with rdf:nodeID="bnode4D8C40E0-8E56-401B-9A1D-DD378B005BB3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2E8896FB-AA76-4A86-B40A-3A567F59A26E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1528</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1530</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode883AAB63-43BE-4366-9DDF-91EDA6076E41">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1528</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1530</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB33B6D0-09C4-4831-9E4E-7D0AD8B89A13"/>
+				<Aux:grouped_with rdf:nodeID="bnode5A748AAD-27F1-47F5-B8B6-2B50B3F9B411"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCC04E3D6-938C-4FE1-BC0E-55600904B1D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1528</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1530</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4EB80B8F-BC29-4897-8939-C8D280DD2FD0"/>
+				<Aux:grouped_with rdf:nodeID="bnodeF624D360-446B-4072-B02C-C25E38506319"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD2D60D0C-5822-4965-A841-B16B1240BD86">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1677</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1692</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5C040184-8792-4B50-A678-4DCECE870B2F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBB30EF3E-DB01-45AD-AAE0-1D22365438B1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1787</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1794</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE2123E06-F33B-4C54-BF78-32B2F1090A76"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode54563684-6C5E-4B56-8BDB-1B0032E3BA55">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1787</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1794</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode74382266-B7DF-4E47-8933-4F9E49C7C978"/>
+				<Aux:grouped_with rdf:nodeID="bnode599EE04A-3C0B-44FA-827F-B97232C3F787"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF9733B24-6499-41C0-8578-C7FB5CD6EF31">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2127</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2134</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode22B84196-13D3-4B7A-8A79-643CE2E4A2E7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD5A7D27A-F93E-408F-A8DD-0D28EC54716C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2209</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2211</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode69A62ED2-9C47-4439-9A85-C2E88AD13BC3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode34D71DD0-B02C-4194-98E0-E999E53A9CE7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2222</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2229</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode22B84196-13D3-4B7A-8A79-643CE2E4A2E7"/>
+				<Aux:grouped_with rdf:nodeID="bnodeF9733B24-6499-41C0-8578-C7FB5CD6EF31"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC68203C0-D813-4F3F-BC75-C72B58CB1F33">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2534</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2541</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode87C7ED3E-CE85-46D5-AE60-9F93BF46C3D5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9AB21775-419F-42E9-8C10-120985819F1C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2534</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2541</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode914FF108-C8C6-45E9-945C-BDA435B7E055"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFEF14ECA-C5E7-4321-A1A3-6292A2779749">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3112</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3114</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E4DE773-B14B-449B-B78D-1C109BD7C0FB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode132537D8-A384-46D4-AF99-5038C5783F80">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3115</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3122</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBF7D55BD-2720-4D06-9B94-433163C055E8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode20D8BF4E-CDB3-4A69-99D5-7A16B003BBC9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3225</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3227</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E4DE773-B14B-449B-B78D-1C109BD7C0FB"/>
+				<Aux:grouped_with rdf:nodeID="bnodeFEF14ECA-C5E7-4321-A1A3-6292A2779749"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6DE97077-65E8-48D0-9546-74AFF6FE618E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4407</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4421</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4813230-ECBD-4E18-8B61-50323FB80CF9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>
